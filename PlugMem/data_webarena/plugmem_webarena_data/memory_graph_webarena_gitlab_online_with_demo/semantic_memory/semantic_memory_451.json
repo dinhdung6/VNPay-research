@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request includes 4 commits and has failed pipelines as of March 27, 2023, at 5:00 PM CDT.",
+    "tags": [
+        "Commit",
+        "PipelineStatus",
+        "Failure",
+        "MergeRequests",
+        "TimeStamp"
+    ],
+    "time": "",
+    "episodic_ids": [
+        112
+    ],
+    "bro_semantic_ids": [
+        448,
+        449,
+        450
+    ]
+}

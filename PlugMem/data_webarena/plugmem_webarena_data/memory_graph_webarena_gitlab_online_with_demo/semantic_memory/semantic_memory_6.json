@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Created date\" button to sort the issues by their creation date.",
+    "tags": [
+        "Button",
+        "Created",
+        "Date",
+        "Sort",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        1
+    ],
+    "bro_semantic_ids": [
+        4,
+        5,
+        7
+    ]
+}

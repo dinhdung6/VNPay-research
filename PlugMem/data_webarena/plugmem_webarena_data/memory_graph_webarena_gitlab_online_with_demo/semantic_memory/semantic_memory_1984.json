@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for \"metaseq\" in the 'Search GitLab' textbox and initiated the query.",
+    "tags": [
+        "Search",
+        "metaseq",
+        "GitLab",
+        "user]",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        496
+    ],
+    "bro_semantic_ids": [
+        1985,
+        1986,
+        1987
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's location is listed as Boston, MA.",
+    "tags": [
+        "Location",
+        "User",
+        "profile",
+        "GitLab",
+        "address"
+    ],
+    "time": "",
+    "episodic_ids": [
+        146
+    ],
+    "bro_semantic_ids": [
+        584,
+        585,
+        586
+    ]
+}

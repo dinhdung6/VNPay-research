@@ -1,0 +1,9 @@
+{
+  "task_id": 683,
+  "objective": "Find a GitLab repository related to metaseq and make a Reddit post linking to it in a relevant subreddit",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 25,
+  "done": true,
+  "status": "FAIL"
+}

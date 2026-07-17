@@ -1,0 +1,9 @@
+{
+  "task_id": 743,
+  "objective": "Create a new public project \"web_arena\" and add Abishek, Vinta as members",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 21,
+  "done": true,
+  "status": "FAIL"
+}

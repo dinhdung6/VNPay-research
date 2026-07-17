@@ -1,0 +1,9 @@
+{
+  "task_id": 336,
+  "objective": "Tell me when I last ordered my conditioner?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 25,
+  "done": true,
+  "status": "FAIL"
+}

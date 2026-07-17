@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the \"Label\" menu item with ID 5422.",
+    "tags": [
+        "Click",
+        "Label",
+        "Menu",
+        "Item",
+        "Interaction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        395
+    ],
+    "bro_semantic_ids": [
+        1580,
+        1581,
+        1583
+    ]
+}

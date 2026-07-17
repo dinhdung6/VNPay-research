@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the \"Merge requests\" link (ID: 2115) in the project navigation to view the list of 16 merge requests.",
+    "tags": [
+        "[GitLab",
+        "MergeRequests",
+        "UserAction",
+        "navigation]",
+        "link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        61
+    ],
+    "bro_semantic_ids": [
+        245,
+        246,
+        247
+    ]
+}

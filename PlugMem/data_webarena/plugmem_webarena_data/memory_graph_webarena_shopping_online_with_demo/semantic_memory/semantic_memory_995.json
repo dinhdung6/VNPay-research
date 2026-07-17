@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed on the One Stop Market product showcase is a Pre-baked Gingerbread House Kit with a price of $19.99.",
+    "tags": [
+        "Product",
+        "Gingerbread",
+        "Price",
+        "Kit",
+        "OneStopMarket"
+    ],
+    "time": "",
+    "episodic_ids": [
+        248
+    ],
+    "bro_semantic_ids": [
+        992,
+        993,
+        994
+    ]
+}

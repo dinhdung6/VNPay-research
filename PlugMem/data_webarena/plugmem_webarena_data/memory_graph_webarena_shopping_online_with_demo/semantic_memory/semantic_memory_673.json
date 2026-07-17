@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"chair\" into the \"Product Name\" textbox (ID: 20342) and initiated a search.",
+    "tags": [
+        "[agent",
+        "Chair",
+        "Product",
+        "TextBox",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        168
+    ],
+    "bro_semantic_ids": [
+        672,
+        674,
+        675
+    ]
+}

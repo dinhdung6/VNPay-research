@@ -1,0 +1,9 @@
+{
+  "task_id": 808,
+  "objective": "Create an issue in cloud-to-butt repo with title \"Let's keep the project alive\". Assign the issue to myself. Set due date to be the end of Q1 2033",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "SUCCESS"
+}

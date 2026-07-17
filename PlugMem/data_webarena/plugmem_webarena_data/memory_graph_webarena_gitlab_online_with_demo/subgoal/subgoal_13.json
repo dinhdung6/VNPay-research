@@ -1,0 +1,7 @@
+{
+    "subgoal": "The agent's goal is to identify and list all open issues related to the OPT model within the \"metaseq\" GitLab project, with a specific focus on filtering those labeled as \"question.\"",
+    "procedural_ids": [
+        15,
+        105
+    ]
+}

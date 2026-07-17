@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The page includes a combobox labeled 'Search' which is not required.",
+    "tags": [
+        "[ComboBox",
+        "Search",
+        "label",
+        "Required",
+        "page]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        155
+    ],
+    "bro_semantic_ids": [
+        620,
+        621,
+        622
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Cabinets, Racks & Shelves' menu item under the 'Office Furniture & Lighting' category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Menu",
+        "Cabinets",
+        "Furniture"
+    ],
+    "time": "",
+    "episodic_ids": [
+        271
+    ],
+    "bro_semantic_ids": [
+        1084,
+        1085,
+        1087
+    ]
+}

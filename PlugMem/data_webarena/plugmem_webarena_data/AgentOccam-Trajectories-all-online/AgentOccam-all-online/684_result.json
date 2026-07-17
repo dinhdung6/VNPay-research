@@ -1,0 +1,9 @@
+{
+  "task_id": 684,
+  "objective": "Promote byteblaze/cloud-to-butt to subreddit LifeProTips with the description from the repo itself.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

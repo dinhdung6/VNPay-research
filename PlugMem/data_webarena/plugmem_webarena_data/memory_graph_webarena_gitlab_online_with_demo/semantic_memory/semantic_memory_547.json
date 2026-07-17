@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The issue has no tasks assigned and suggests breaking down the issue into smaller parts using tasks.",
+    "tags": [
+        "Tasks",
+        "Breakdown",
+        "Issues",
+        "Suggestion",
+        "Management"
+    ],
+    "time": "",
+    "episodic_ids": [
+        136
+    ],
+    "bro_semantic_ids": [
+        544,
+        545,
+        546
+    ]
+}

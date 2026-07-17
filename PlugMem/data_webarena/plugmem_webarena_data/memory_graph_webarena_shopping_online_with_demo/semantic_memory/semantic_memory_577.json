@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Page Next\" link (ID: 41615) to navigate to the next page of the \"Clothing, Shoes & Jewelry\" category.",
+    "tags": [
+        "[agent",
+        "Click",
+        "Navigation",
+        "Link",
+        "next"
+    ],
+    "time": "",
+    "episodic_ids": [
+        144
+    ],
+    "bro_semantic_ids": [
+        576,
+        578,
+        579
+    ]
+}

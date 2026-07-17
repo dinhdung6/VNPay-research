@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product 'Ulian Over Ear Headphones' is priced at $19.99 and has a rating of 100.",
+    "tags": [
+        "Product",
+        "Price",
+        "Rating",
+        "Headphones",
+        "Electronics"
+    ],
+    "time": "",
+    "episodic_ids": [
+        67
+    ],
+    "bro_semantic_ids": [
+        268,
+        269,
+        271
+    ]
+}

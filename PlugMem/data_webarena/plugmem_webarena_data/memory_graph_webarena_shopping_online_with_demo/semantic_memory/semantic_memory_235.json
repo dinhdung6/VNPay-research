@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link labeled \"Over-Ear Headphones( 148 item )\" with ID [8015] to filter the category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Filter",
+        "Categories",
+        "Headphones"
+    ],
+    "time": "",
+    "episodic_ids": [
+        58
+    ],
+    "bro_semantic_ids": [
+        232,
+        233,
+        234
+    ]
+}

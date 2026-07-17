@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"gimmiethat.space\" has features like Issues, Repository, Merge Requests, and Forks enabled.",
+    "tags": [
+        "Feature",
+        "Issues",
+        "repository",
+        "MergeRequests",
+        "Forks"
+    ],
+    "time": "",
+    "episodic_ids": [
+        53
+    ],
+    "bro_semantic_ids": [
+        212,
+        213,
+        215
+    ]
+}

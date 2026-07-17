@@ -1,0 +1,9 @@
+{
+  "task_id": 658,
+  "objective": "Create an issue in a11yproject repo with title \"401 bad gateway\". Assign the issue to Roshanjossey. Set due date to be the end of 2030",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "FAIL"
+}

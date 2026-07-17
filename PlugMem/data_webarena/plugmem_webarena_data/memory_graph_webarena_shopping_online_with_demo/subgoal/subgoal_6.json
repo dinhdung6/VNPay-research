@@ -1,0 +1,7 @@
+{
+    "subgoal": "Merged goal: The agent needs to retrieve the size configuration of a picture frame by locating the detailed information of a specific order in the \"My Orders\" section of the website.",
+    "procedural_ids": [
+        6,
+        63
+    ]
+}

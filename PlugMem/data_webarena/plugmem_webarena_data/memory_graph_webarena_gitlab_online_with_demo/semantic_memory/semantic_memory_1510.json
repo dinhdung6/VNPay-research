@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Issues Dashboard GitLab' page includes links to 'Create new...', 'Issues', 'Merge requests', 'To-Do List', and 'Help'.",
+    "tags": [
+        "link",
+        "Dashboard",
+        "GitLab",
+        "Issues",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        377
+    ],
+    "bro_semantic_ids": [
+        1508,
+        1509,
+        1511
+    ]
+}

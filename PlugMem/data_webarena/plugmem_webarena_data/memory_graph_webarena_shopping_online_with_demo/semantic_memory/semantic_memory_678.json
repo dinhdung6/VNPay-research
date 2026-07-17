@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Add to Wish List\" button for the item \"24 inches Metal Bar Stools Set of 4 High Backless Barstool Stackable Bar/Counter Height Stools Chairs, Black\".",
+    "tags": [
+        "Agent",
+        "Click",
+        "WishList",
+        "BarStools",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        169
+    ],
+    "bro_semantic_ids": [
+        676,
+        677,
+        679
+    ]
+}

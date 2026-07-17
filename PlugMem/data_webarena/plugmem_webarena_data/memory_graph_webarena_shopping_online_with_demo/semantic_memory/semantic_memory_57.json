@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The order was completed on September 29, 2022.",
+    "tags": [
+        "Date",
+        "Completion",
+        "Time",
+        "Orders",
+        "Event"
+    ],
+    "time": "",
+    "episodic_ids": [
+        14
+    ],
+    "bro_semantic_ids": [
+        56,
+        58,
+        59
+    ]
+}

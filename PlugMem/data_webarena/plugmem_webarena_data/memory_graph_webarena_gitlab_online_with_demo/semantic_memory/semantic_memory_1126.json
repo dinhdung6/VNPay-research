@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to enter \"add support for oh-my-zsh\" as the title for a new issue.",
+    "tags": [
+        "Agent",
+        "title",
+        "oh-my-zsh",
+        "Issues",
+        "Created"
+    ],
+    "time": "",
+    "episodic_ids": [
+        281
+    ],
+    "bro_semantic_ids": [
+        1124,
+        1125,
+        1127
+    ]
+}

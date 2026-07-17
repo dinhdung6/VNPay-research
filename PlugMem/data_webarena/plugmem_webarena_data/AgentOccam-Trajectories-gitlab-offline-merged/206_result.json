@@ -1,0 +1,9 @@
+{
+  "task_id": 206,
+  "objective": "How many commits did Eric make on 3/2?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "SUCCESS"
+}

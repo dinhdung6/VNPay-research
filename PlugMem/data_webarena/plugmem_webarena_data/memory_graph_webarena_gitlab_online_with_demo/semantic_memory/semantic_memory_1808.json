@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user navigated back to the previous page from the \"Erik Linder-Nor\u00e9n / PyTorch-GAN\" GitLab project page.",
+    "tags": [
+        "[GitLab",
+        "User",
+        "navigation]",
+        "project",
+        "page]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        452
+    ],
+    "bro_semantic_ids": [
+        1809,
+        1810,
+        1811
+    ]
+}

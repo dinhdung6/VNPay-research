@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link \"Koushik Dutta / AndroidAsync\" which is an asynchronous socket and HTTP library for Android.",
+    "tags": [
+        "Click",
+        "link",
+        "AndroidAsync",
+        "Library",
+        "Socket"
+    ],
+    "time": "",
+    "episodic_ids": [
+        447
+    ],
+    "bro_semantic_ids": [
+        1788,
+        1789,
+        1791
+    ]
+}

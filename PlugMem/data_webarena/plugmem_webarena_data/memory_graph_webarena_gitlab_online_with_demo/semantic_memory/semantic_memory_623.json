@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Users can request access to the 'dotfiles' project, which is enabled in the Additional options section.",
+    "tags": [
+        "Access]",
+        "Requests",
+        "User",
+        "Permissions",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        155
+    ],
+    "bro_semantic_ids": [
+        620,
+        621,
+        622
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 577,
+  "objective": "Add the following users to my GitHub timeline item management extension as maintainer: ['abisubramanya27', 'lahwaacz']",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 21,
+  "done": true,
+  "status": "FAIL"
+}

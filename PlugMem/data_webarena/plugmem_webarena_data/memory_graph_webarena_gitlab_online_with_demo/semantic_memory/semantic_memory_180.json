@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user accessed the \"2019-nCov\" repository on GitLab at the URL http://localhost:8023/yjlou/2019-nCov/-/tree/master.",
+    "tags": [
+        "[GitLab",
+        "repository",
+        "URL",
+        "Access]",
+        "User]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        45
+    ],
+    "bro_semantic_ids": [
+        181,
+        182,
+        183
+    ]
+}

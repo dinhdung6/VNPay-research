@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has requested a coupon due to being a loyal customer in the \"What\u2019s on your mind?\" section.",
+    "tags": [
+        "Coupon",
+        "Request",
+        "LoyalCustomer",
+        "Inquiry",
+        "Feedback"
+    ],
+    "time": "",
+    "episodic_ids": [
+        358
+    ],
+    "bro_semantic_ids": [
+        1432,
+        1433,
+        1434
+    ]
+}

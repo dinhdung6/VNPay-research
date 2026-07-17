@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Proceed to Checkout\" button to start the checkout process.",
+    "tags": [
+        "CheckoutButton",
+        "ProceedToCheckout",
+        "UserAction",
+        "ShoppingProcess",
+        "ButtonClick"
+    ],
+    "time": "",
+    "episodic_ids": [
+        128
+    ],
+    "bro_semantic_ids": [
+        512,
+        513,
+        514
+    ]
+}

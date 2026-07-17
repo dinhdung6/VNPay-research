@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 3 starred projects listed on the dashboard.",
+    "tags": [
+        "Stars",
+        "project",
+        "Dashboard",
+        "count",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        14
+    ],
+    "bro_semantic_ids": [
+        56,
+        58,
+        59
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to type \"abisubramanya27\" into the \"Username or email address\" textbox in the \"Invite members\" dialog.",
+    "tags": [
+        "Username",
+        "TextBox",
+        "Invite",
+        "Dialog]",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        471
+    ],
+    "bro_semantic_ids": [
+        1884,
+        1886,
+        1887
+    ]
+}

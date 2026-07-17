@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is \"http://localhost:8023/byteblaze/gimmiethat.space/-/settings/access_tokens\".",
+    "tags": [
+        "URL",
+        "IP",
+        "port",
+        "GitLab",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        57
+    ],
+    "bro_semantic_ids": [
+        228,
+        230,
+        231
+    ]
+}

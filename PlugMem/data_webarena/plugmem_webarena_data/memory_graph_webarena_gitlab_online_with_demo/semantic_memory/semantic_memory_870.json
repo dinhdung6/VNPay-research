@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'General' link with ID [7123] to navigate to the General settings page.",
+    "tags": [
+        "Agent",
+        "Click",
+        "navigation]",
+        "General",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        217
+    ],
+    "bro_semantic_ids": [
+        868,
+        869,
+        871
+    ]
+}

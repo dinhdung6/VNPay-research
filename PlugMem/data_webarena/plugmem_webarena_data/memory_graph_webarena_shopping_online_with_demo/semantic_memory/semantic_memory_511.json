@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has placed multiple recent orders with statuses including Canceled and Pending.",
+    "tags": [
+        "Orders",
+        "Recent",
+        "Canceled",
+        "Pending",
+        "status]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        127
+    ],
+    "bro_semantic_ids": [
+        508,
+        509,
+        510
+    ]
+}

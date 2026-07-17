@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is requesting a refund for a Bluetooth speaker purchased in February 2023.",
+    "tags": [
+        "Refund",
+        "Request",
+        "Speakers",
+        "Purchase",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        183
+    ],
+    "bro_semantic_ids": [
+        732,
+        733,
+        734
+    ]
+}

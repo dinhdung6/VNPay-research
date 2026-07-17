@@ -1,0 +1,9 @@
+{
+  "task_id": 312,
+  "objective": "Tell me who has made the most contributions, in terms of number of commits, to the csvkit project",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,12 @@
+{
+    "subgoal": "The agent's goal was to retrieve detailed information about the most recent canceled order from the \"One Stop Market\" website.",
+    "procedural_memory": "When tasked with retrieving specific information from a structured website, begin by identifying and interacting with high-level navigation elements that are likely to lead to the relevant section (e.g., clicking \"My Account\" to access order history). Once in the appropriate section, refine the focus by selecting specific links or buttons associated with the desired data (e.g., \"View Order\" for detailed order information). This approach minimizes unnecessary steps and ensures efficient access to the target information.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "2",
+    "subgoal_id": 21,
+    "episodic_ids": [
+        90,
+        91
+    ]
+}

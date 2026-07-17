@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is \"http://localhost:8023/byteblaze/dotfiles/-/milestones/new\".",
+    "tags": [
+        "URL",
+        "IP",
+        "port",
+        "GitLab",
+        "Milestones"
+    ],
+    "time": "",
+    "episodic_ids": [
+        258
+    ],
+    "bro_semantic_ids": [
+        1032,
+        1034,
+        1035
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Home & Kitchen' category was selected by the agent.",
+    "tags": [
+        "Categories",
+        "Home",
+        "Kitchen",
+        "Agent",
+        "Selection"
+    ],
+    "time": "",
+    "episodic_ids": [
+        326
+    ],
+    "bro_semantic_ids": [
+        1304,
+        1305,
+        1306
+    ]
+}

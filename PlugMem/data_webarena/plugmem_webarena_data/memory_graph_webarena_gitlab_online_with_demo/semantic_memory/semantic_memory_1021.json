@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has entered \"Merging all branches to main\" into the \"Title\" textbox for creating a new milestone.",
+    "tags": [
+        "User",
+        "TextBox",
+        "title",
+        "Merge",
+        "Branch"
+    ],
+    "time": "",
+    "episodic_ids": [
+        255
+    ],
+    "bro_semantic_ids": [
+        1020,
+        1022,
+        1023
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The description of the new issue is \"what is the plan for supporting llama and other llama family models?\".",
+    "tags": [
+        "Description",
+        "Plans",
+        "Support",
+        "Llama",
+        "Models"
+    ],
+    "time": "",
+    "episodic_ids": [
+        502
+    ],
+    "bro_semantic_ids": [
+        2008,
+        2009,
+        2010
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Page Next\" link to navigate to the next page of the \"My Orders\" list.",
+    "tags": [
+        "[click",
+        "Navigation",
+        "next",
+        "Page",
+        "Orders"
+    ],
+    "time": "",
+    "episodic_ids": [
+        5
+    ],
+    "bro_semantic_ids": [
+        20,
+        21,
+        22
+    ]
+}

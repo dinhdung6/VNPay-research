@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link to navigate to page 7 of the Electronics category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Navigation",
+        "Page",
+        "Categories"
+    ],
+    "time": "",
+    "episodic_ids": [
+        64
+    ],
+    "bro_semantic_ids": [
+        256,
+        258,
+        259
+    ]
+}

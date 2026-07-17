@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on a page that displays product showcases with items like a pre-baked gingerbread house kit and V8 energy drink.",
+    "tags": [
+        "Product",
+        "Showcase",
+        "Gingerbread",
+        "Beverage",
+        "Energy"
+    ],
+    "time": "",
+    "episodic_ids": [
+        342
+    ],
+    "bro_semantic_ids": [
+        1368,
+        1370,
+        1371
+    ]
+}

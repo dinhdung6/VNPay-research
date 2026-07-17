@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently on the GitLab Projects Dashboard page.",
+    "tags": [
+        "GitLab",
+        "Dashboard",
+        "User",
+        "Page",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        116
+    ],
+    "bro_semantic_ids": [
+        465,
+        466,
+        467
+    ]
+}

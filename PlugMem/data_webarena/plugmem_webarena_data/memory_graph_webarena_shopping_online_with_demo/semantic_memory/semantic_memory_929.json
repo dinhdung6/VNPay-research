@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has a default billing address at <ADDRESS>, House 3, <LOCATION>, St. Barth\u00e9lemy.",
+    "tags": [
+        "Address",
+        "Billing",
+        "Location",
+        "City",
+        "State"
+    ],
+    "time": "",
+    "episodic_ids": [
+        232
+    ],
+    "bro_semantic_ids": [
+        928,
+        930,
+        931
+    ]
+}

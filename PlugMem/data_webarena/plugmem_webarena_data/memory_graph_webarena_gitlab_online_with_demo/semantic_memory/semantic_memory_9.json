@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Issues\" tab is selected and displays issues that are currently opened.",
+    "tags": [
+        "Tab",
+        "Selected",
+        "Issues",
+        "Open",
+        "Display"
+    ],
+    "time": "",
+    "episodic_ids": [
+        2
+    ],
+    "bro_semantic_ids": [
+        8,
+        10,
+        11
+    ]
+}

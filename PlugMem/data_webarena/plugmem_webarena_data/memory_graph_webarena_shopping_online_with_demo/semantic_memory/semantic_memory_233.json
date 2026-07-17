@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has access to links such as 'My Account', 'My Wish List', and 'Sign Out' on the Electronics page.",
+    "tags": [
+        "User",
+        "Links",
+        "Account",
+        "WishList",
+        "SignOut"
+    ],
+    "time": "",
+    "episodic_ids": [
+        58
+    ],
+    "bro_semantic_ids": [
+        232,
+        234,
+        235
+    ]
+}

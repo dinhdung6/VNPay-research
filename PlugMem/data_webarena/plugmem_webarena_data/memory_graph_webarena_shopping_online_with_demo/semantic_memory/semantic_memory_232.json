@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current web page is titled 'Electronics' and is part of the 'One Stop Market'.",
+    "tags": [
+        "Electronics",
+        "Market",
+        "Webpage",
+        "Title",
+        "Store"
+    ],
+    "time": "",
+    "episodic_ids": [
+        58
+    ],
+    "bro_semantic_ids": [
+        233,
+        234,
+        235
+    ]
+}

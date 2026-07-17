@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has options to navigate to 'My Account', 'My Wish List', and 'Sign Out'.",
+    "tags": [
+        "Navigation",
+        "User",
+        "Account",
+        "WishList",
+        "Logout"
+    ],
+    "time": "",
+    "episodic_ids": [
+        299
+    ],
+    "bro_semantic_ids": [
+        1196,
+        1198,
+        1199
+    ]
+}

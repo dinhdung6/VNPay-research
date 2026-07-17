@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate through pages using links provided at the bottom of the order list, including direct access to Page 2, Page 3, and Page 4.",
+    "tags": [
+        "Navigation",
+        "Links",
+        "Pages",
+        "Bottom",
+        "Access"
+    ],
+    "time": "",
+    "episodic_ids": [
+        311
+    ],
+    "bro_semantic_ids": [
+        1244,
+        1245,
+        1246
+    ]
+}

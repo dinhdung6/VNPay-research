@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"None\" button to clear the assignee filter.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Button",
+        "None",
+        "Filtering"
+    ],
+    "time": "",
+    "episodic_ids": [
+        126
+    ],
+    "bro_semantic_ids": [
+        504,
+        505,
+        506
+    ]
+}

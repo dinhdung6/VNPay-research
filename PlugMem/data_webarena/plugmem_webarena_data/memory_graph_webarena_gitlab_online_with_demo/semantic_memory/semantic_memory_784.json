@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Settings\" link (ID: 2359) in the project navigation menu.",
+    "tags": [
+        "[GitLab",
+        "Settings",
+        "User",
+        "Click",
+        "link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        196
+    ],
+    "bro_semantic_ids": [
+        785,
+        786,
+        787
+    ]
+}

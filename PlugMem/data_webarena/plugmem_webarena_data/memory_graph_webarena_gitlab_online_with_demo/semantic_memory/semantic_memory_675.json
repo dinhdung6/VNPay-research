@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate to different sections such as \"Project information,\" \"Repository,\" \"Issues,\" and \"Merge requests\" from the project navigation sidebar.",
+    "tags": [
+        "navigation]",
+        "Sidebar",
+        "Section",
+        "project",
+        "Information"
+    ],
+    "time": "",
+    "episodic_ids": [
+        168
+    ],
+    "bro_semantic_ids": [
+        672,
+        673,
+        674
+    ]
+}

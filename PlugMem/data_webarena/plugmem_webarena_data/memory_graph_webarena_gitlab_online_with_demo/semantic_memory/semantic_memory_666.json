@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The Issues page shows that there are 5 todos in the To-Do List section.",
+    "tags": [
+        "Todos",
+        "list]",
+        "count",
+        "Section",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        166
+    ],
+    "bro_semantic_ids": [
+        664,
+        665,
+        667
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to click the \"Star\" button to mark the ffmpeg-python project as a favorite.",
+    "tags": [
+        "User",
+        "Stars",
+        "Button",
+        "project",
+        "Favorite]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        442
+    ],
+    "bro_semantic_ids": [
+        1769,
+        1770,
+        1771
+    ]
+}

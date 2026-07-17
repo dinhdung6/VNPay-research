@@ -1,0 +1,9 @@
+{
+  "task_id": 415,
+  "objective": "Go to the merge request on verification functions I have to review, find if the author of the merge request responded at the end, and reply \"Thank you\" if he did. Otherwise remind him with a simple @.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 10,
+  "done": true,
+  "status": "FAIL"
+}

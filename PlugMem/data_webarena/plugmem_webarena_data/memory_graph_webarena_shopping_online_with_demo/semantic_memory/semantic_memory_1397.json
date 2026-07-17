@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's name displayed on the shipping address is <NAME>.",
+    "tags": [
+        "User",
+        "Name",
+        "<NAME>",
+        "<NAME>",
+        "Address"
+    ],
+    "time": "",
+    "episodic_ids": [
+        349
+    ],
+    "bro_semantic_ids": [
+        1396,
+        1398,
+        1399
+    ]
+}

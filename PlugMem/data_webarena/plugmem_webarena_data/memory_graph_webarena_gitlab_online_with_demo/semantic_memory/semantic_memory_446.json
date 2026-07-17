@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the link labeled \"Add verification functions\" which corresponds to a pull request created on January 22, 2023.",
+    "tags": [
+        "Click",
+        "link",
+        "PullRequest",
+        "Created",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        111
+    ],
+    "bro_semantic_ids": [
+        444,
+        445,
+        447
+    ]
+}

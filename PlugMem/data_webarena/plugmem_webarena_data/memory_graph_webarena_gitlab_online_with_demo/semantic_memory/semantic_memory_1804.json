@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Star\" button on the \"Erik Linder-Nor\u00e9n / PyTorch-GAN\" GitLab project page.",
+    "tags": [
+        "[GitLab",
+        "project",
+        "Stars",
+        "Button",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        451
+    ],
+    "bro_semantic_ids": [
+        1805,
+        1806,
+        1807
+    ]
+}

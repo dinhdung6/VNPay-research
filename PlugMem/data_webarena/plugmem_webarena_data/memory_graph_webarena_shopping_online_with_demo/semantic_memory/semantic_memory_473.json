@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has initiated a search for 'EYZUTAK phone cases'.",
+    "tags": [
+        "Search",
+        "PhoneCases",
+        "EYZUTAK",
+        "UserAction",
+        "query"
+    ],
+    "time": "",
+    "episodic_ids": [
+        118
+    ],
+    "bro_semantic_ids": [
+        472,
+        474,
+        475
+    ]
+}

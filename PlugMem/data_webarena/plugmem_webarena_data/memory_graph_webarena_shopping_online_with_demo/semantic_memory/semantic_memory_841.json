@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has multiple orders with different statuses including Pending, Canceled, and Complete.",
+    "tags": [
+        "User",
+        "Orders",
+        "status]",
+        "Pending",
+        "Canceled"
+    ],
+    "time": "",
+    "episodic_ids": [
+        210
+    ],
+    "bro_semantic_ids": [
+        840,
+        842,
+        843
+    ]
+}

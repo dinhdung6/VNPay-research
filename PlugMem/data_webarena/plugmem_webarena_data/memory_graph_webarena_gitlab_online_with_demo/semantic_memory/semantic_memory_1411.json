@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Users can create project access tokens and group access tokens in the \"coding_friends\" group.",
+    "tags": [
+        "AccessTokens",
+        "Users",
+        "Group",
+        "CodingFriends",
+        "Permissions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        352
+    ],
+    "bro_semantic_ids": [
+        1408,
+        1409,
+        1410
+    ]
+}

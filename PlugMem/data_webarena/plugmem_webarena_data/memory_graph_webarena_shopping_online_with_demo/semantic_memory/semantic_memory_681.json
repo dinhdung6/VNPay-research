@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent added the product \"Sceptre E195BD-SRR 19-Inch 720P LED TV, True Black (2017)\" to their wish list.",
+    "tags": [
+        "Agent",
+        "WishList",
+        "Add",
+        "Sceptre",
+        "TV"
+    ],
+    "time": "",
+    "episodic_ids": [
+        170
+    ],
+    "bro_semantic_ids": [
+        680,
+        682,
+        683
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 674,
+  "objective": "Gather the titles of Doc and Pies Arcade Factory Cocktail Arcade Machine reviews with 3 stars and less rating from OneStopShop, and post them in the games subreddit under the title \"real user feedback on Doc and Pies Arcade Factory Cocktail Arcade Machine\"",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "FAIL"
+}

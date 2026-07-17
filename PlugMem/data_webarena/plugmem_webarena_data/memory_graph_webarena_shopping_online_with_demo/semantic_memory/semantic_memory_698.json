@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> is requesting a refund for a Bluetooth speaker purchased in February 2023 due to it breaking after three days of use.",
+    "tags": [
+        "Refund",
+        "BluetoothSpeaker",
+        "Purchase",
+        "February2023",
+        "Breakage"
+    ],
+    "time": "",
+    "episodic_ids": [
+        174
+    ],
+    "bro_semantic_ids": [
+        696,
+        697,
+        699
+    ]
+}

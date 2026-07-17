@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The alert message indicates that SSH keys are required to push or pull repositories.",
+    "tags": [
+        "[Alert",
+        "SSHKey",
+        "repository",
+        "PushPull",
+        "profile"
+    ],
+    "time": "",
+    "episodic_ids": [
+        422
+    ],
+    "bro_semantic_ids": [
+        1688,
+        1689,
+        1690
+    ]
+}

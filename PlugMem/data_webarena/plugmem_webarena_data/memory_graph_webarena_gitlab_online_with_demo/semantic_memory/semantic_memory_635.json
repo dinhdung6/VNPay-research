@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The default branch for the project is set to 'main', and auto-closing of referenced issues on the default branch is enabled.",
+    "tags": [
+        "DefaultBranch",
+        "main",
+        "AutoClose",
+        "Issues",
+        "Enabled"
+    ],
+    "time": "",
+    "episodic_ids": [
+        158
+    ],
+    "bro_semantic_ids": [
+        632,
+        633,
+        634
+    ]
+}

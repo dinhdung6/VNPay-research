@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product has a rating of 75 out of 100 and there are 12 reviews available.",
+    "tags": [
+        "Rating",
+        "Reviews",
+        "Score",
+        "Feedback",
+        "Assessment"
+    ],
+    "time": "",
+    "episodic_ids": [
+        120
+    ],
+    "bro_semantic_ids": [
+        480,
+        481,
+        482
+    ]
+}

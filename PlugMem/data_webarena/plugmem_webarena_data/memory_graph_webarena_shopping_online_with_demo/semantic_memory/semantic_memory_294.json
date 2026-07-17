@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Storage & Organization' link which has 777 items.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Storage",
+        "Organization",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        73
+    ],
+    "bro_semantic_ids": [
+        292,
+        293,
+        295
+    ]
+}

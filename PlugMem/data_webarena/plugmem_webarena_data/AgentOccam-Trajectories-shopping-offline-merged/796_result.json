@@ -1,0 +1,9 @@
+{
+  "task_id": 796,
+  "objective": "Change the delivery address for my most recent order to <ADDRESS>, San Francisco, CA.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 10,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request includes 4 commits and has failed pipelines.",
+    "tags": [
+        "Commit",
+        "Pipeline",
+        "Failure",
+        "MergeRequests",
+        "Status"
+    ],
+    "time": "",
+    "episodic_ids": [
+        419
+    ],
+    "bro_semantic_ids": [
+        1676,
+        1677,
+        1678
+    ]
+}

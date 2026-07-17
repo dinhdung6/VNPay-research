@@ -1,0 +1,9 @@
+{
+  "task_id": 182,
+  "objective": "Open my latest created issue that has homepage content in its title to check if it is closed",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "FAIL"
+}

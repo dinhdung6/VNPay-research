@@ -1,0 +1,9 @@
+{
+  "task_id": 752,
+  "objective": "Create a private blank repository called \"web_agent\" using the right template to speed up development.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

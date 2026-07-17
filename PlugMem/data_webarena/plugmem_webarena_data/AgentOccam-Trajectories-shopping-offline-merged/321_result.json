@@ -1,0 +1,9 @@
+{
+  "task_id": 321,
+  "objective": "How much refund I should expect from my order canlled in 2022, including shipping fee",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 7,
+  "done": true,
+  "status": "FAIL"
+}

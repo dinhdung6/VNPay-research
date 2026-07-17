@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link labeled \"R1kk3r @R1kk3r\" to view the user's profile.",
+    "tags": [
+        "Click",
+        "link",
+        "profile",
+        "User",
+        "R1kk3r"
+    ],
+    "time": "",
+    "episodic_ids": [
+        189
+    ],
+    "bro_semantic_ids": [
+        756,
+        757,
+        758
+    ]
+}

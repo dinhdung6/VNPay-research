@@ -1,0 +1,9 @@
+{
+  "task_id": 561,
+  "objective": "Create a repo named bafta_awards_nolan with movies that are nominated BAFTA Awards by Christopher Nolan in a README file",
+  "success": true,
+  "reward": 0.5714285714285714,
+  "num_actions": 11,
+  "done": true,
+  "status": "SUCCESS"
+}

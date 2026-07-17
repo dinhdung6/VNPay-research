@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has viewed their order history on the \"My Orders\" page of the One Stop Market website.",
+    "tags": [
+        "user",
+        "order",
+        "History",
+        "Page",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        199
+    ],
+    "bro_semantic_ids": [
+        796,
+        798,
+        799
+    ]
+}

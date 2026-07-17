@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has 5 todos in their To-Do List.",
+    "tags": [
+        "Todos",
+        "User",
+        "To_Do_List",
+        "ByteBlaze",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        315
+    ],
+    "bro_semantic_ids": [
+        1260,
+        1261,
+        1263
+    ]
+}

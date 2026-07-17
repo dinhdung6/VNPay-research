@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The description of the merge request mentions two verification functions: 'verify.mjs' and 'verifyDNS.mjs', which are used to verify members of the webring.",
+    "tags": [
+        "verification",
+        "functions",
+        "Webring",
+        "Code",
+        "Description"
+    ],
+    "time": "",
+    "episodic_ids": [
+        419
+    ],
+    "bro_semantic_ids": [
+        1676,
+        1677,
+        1679
+    ]
+}

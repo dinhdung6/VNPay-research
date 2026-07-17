@@ -1,0 +1,9 @@
+{
+  "task_id": 510,
+  "objective": "Buy the best rating product from \"Home Audio Speaker\" category with at least 5 reviews and the product is least expensive",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

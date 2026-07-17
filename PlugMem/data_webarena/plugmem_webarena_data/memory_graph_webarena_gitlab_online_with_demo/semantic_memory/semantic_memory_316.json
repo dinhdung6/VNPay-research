@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for \"2019-nCov\" in the \"Search GitLab\" textbox.",
+    "tags": [
+        "Search",
+        "GitLab",
+        "User",
+        "Query",
+        "Virus"
+    ],
+    "time": "",
+    "episodic_ids": [
+        79
+    ],
+    "bro_semantic_ids": [
+        317,
+        318,
+        319
+    ]
+}

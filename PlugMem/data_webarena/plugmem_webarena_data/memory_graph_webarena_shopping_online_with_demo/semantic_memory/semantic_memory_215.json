@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL includes search parameters such as 'description', 'name=children+dental+care', 'price[from]=78', and 'price[currency]=USD'.",
+    "tags": [
+        "[URL",
+        "SearchParameters",
+        "QueryString",
+        "PriceRange",
+        "Currency"
+    ],
+    "time": "",
+    "episodic_ids": [
+        53
+    ],
+    "bro_semantic_ids": [
+        212,
+        213,
+        214
+    ]
+}

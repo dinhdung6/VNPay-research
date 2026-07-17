@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent input the price \"78\" into the \"Price\" textbox without submitting.",
+    "tags": [
+        "[agent",
+        "Price",
+        "Input",
+        "TextBox",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        38
+    ],
+    "bro_semantic_ids": [
+        152,
+        154,
+        155
+    ]
+}

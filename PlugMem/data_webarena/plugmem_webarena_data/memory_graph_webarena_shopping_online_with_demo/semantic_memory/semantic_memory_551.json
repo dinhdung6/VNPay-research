@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search combobox is not required and the search button is disabled.",
+    "tags": [
+        "[search",
+        "ComboBox",
+        "Disabled",
+        "Button",
+        "Required"
+    ],
+    "time": "",
+    "episodic_ids": [
+        137
+    ],
+    "bro_semantic_ids": [
+        548,
+        549,
+        550
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "subgoal": "To create a new issue in the GitLab project for discussing and implementing a dark mode feature.",
+    "procedural_memory": "When creating a new issue in a GitLab project, success depends on following a structured sequence of actions and providing clear, relevant inputs. Begin by navigating to the \"Create new...\" menu to access the \"New issue\" option. Once on the \"New Issue\" page, ensure the issue title is concise and descriptive, as this is critical for immediate clarity. Provide a detailed and well-structured description that outlines the purpose, goals, and key considerations of the issue, such as accessibility and compatibility in this case. Finally, review the inputs and finalize the process by clicking the \"Create issue\" button. This approach ensures effective communication, facilitates collaboration, and aligns with the platform's workflow for issue creation.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "2\n---",
+    "subgoal_id": 64,
+    "episodic_ids": [
+        301,
+        302,
+        303,
+        304,
+        305
+    ]
+}

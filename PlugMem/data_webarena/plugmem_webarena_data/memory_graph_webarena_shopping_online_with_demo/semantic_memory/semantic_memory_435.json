@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to change the sorting method from \"Position\" to \"Price\" by selecting the corresponding combobox option.",
+    "tags": [
+        "Agent",
+        "sorting",
+        "Price",
+        "ComboBox",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        108
+    ],
+    "bro_semantic_ids": [
+        432,
+        433,
+        434
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "total_tasks": 4,
+  "successful_tasks": 1,
+  "failed_tasks": 3,
+  "success_rate": 25.0,
+  "results": [
+    {
+      "task_id": 683,
+      "objective": "Find a GitLab repository related to metaseq and make a Reddit post linking to it in a relevant subreddit",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 25,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 684,
+      "objective": "Promote byteblaze/cloud-to-butt to subreddit LifeProTips with the description from the repo itself.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 741,
+      "objective": "Show me the way from Carnegie Mellon University to the home stadium of Boston home NBA team ",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 5,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 759,
+      "objective": "Show me the route and driving time from the city where my E-commerce customer Sophia Young lives to New York City",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 25,
+      "done": true,
+      "status": "FAIL"
+    }
+  ]
+}

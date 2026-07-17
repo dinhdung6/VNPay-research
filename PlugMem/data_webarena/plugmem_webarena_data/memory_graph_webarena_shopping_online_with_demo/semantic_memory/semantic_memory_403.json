@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the combobox option with ID [7212] to change the number of items displayed per page to 50.",
+    "tags": [
+        "Agent",
+        "Click",
+        "ComboBox",
+        "Items",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        100
+    ],
+    "bro_semantic_ids": [
+        400,
+        401,
+        402
+    ]
+}

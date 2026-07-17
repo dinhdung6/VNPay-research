@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can sort the speaker items by price using the combobox labeled \"Sort By\".",
+    "tags": [
+        "User",
+        "SortBy",
+        "Price",
+        "ComboBox",
+        "Speakers"
+    ],
+    "time": "",
+    "episodic_ids": [
+        344
+    ],
+    "bro_semantic_ids": [
+        1376,
+        1378,
+        1379
+    ]
+}

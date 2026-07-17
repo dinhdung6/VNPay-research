@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The billing address for order 000000172 is the same as the shipping address: <NAME> at <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "Billing",
+        "Address",
+        "Same",
+        "<NAME>",
+        "<NAME>"
+    ],
+    "time": "",
+    "episodic_ids": [
+        313
+    ],
+    "bro_semantic_ids": [
+        1252,
+        1253,
+        1255
+    ]
+}

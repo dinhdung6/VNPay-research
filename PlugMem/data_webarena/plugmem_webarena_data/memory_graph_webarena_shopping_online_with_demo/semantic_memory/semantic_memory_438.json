@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Set Descending Direction\" link to change the sorting order of items to price in descending order.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Descending",
+        "order",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        109
+    ],
+    "bro_semantic_ids": [
+        436,
+        437,
+        439
+    ]
+}

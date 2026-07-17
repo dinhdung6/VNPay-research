@@ -1,0 +1,9 @@
+{
+  "task_id": 568,
+  "objective": "Invite Abishek and Vinta as collaborator to a11yproject.com repo",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 23,
+  "done": true,
+  "status": "FAIL"
+}

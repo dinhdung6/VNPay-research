@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Recent searches' button is present on the 'Issues Dashboard GitLab' page.",
+    "tags": [
+        "Button",
+        "Search",
+        "Recent",
+        "Dashboard",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        377
+    ],
+    "bro_semantic_ids": [
+        1508,
+        1509,
+        1510
+    ]
+}

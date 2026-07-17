@@ -1,0 +1,9 @@
+{
+  "task_id": 386,
+  "objective": "What is the rating of Ugreen lightning to 3.5mm cable. Please round to the nearest whole number",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "SUCCESS"
+}

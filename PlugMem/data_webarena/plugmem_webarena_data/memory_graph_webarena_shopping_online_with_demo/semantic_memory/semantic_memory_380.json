@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to type \"iphone 12 phone case\" into the search field without submitting the query.",
+    "tags": [
+        "Search",
+        "iphone",
+        "case",
+        "query",
+        "Attempt"
+    ],
+    "time": "",
+    "episodic_ids": [
+        95
+    ],
+    "bro_semantic_ids": [
+        381,
+        382,
+        383
+    ]
+}

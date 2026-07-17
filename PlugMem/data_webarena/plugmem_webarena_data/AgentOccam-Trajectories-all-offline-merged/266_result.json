@@ -1,0 +1,9 @@
+{
+  "task_id": 266,
+  "objective": "What's the closest national park to the largest city in Maine?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

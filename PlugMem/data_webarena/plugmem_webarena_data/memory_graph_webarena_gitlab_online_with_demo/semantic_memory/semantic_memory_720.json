@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to click the \"Star\" button (ID: 30578) to mark the \"AndroidSlidingUpPanel\" project as a favorite.",
+    "tags": [
+        "[GitLab",
+        "Stars",
+        "Button",
+        "project",
+        "Favorite]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        180
+    ],
+    "bro_semantic_ids": [
+        721,
+        722,
+        723
+    ]
+}

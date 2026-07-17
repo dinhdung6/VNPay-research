@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Living Room Furniture (3138 items)' link.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Furniture",
+        "LivingRoom",
+        "Link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        164
+    ],
+    "bro_semantic_ids": [
+        656,
+        657,
+        659
+    ]
+}

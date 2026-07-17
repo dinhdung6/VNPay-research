@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project named \"design\" has a public access level, allowing it to be accessed without any authentication.",
+    "tags": [
+        "[Project",
+        "AccessLevel",
+        "Public",
+        "authentication",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        61
+    ],
+    "bro_semantic_ids": [
+        244,
+        246,
+        247
+    ]
+}

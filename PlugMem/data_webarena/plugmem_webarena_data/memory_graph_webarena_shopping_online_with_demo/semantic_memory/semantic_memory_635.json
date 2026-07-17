@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is the Navitech Black Hard Carry Bag priced at $24.99.",
+    "tags": [
+        "Product",
+        "Navitech",
+        "CarryBag",
+        "Priced",
+        "Electronics"
+    ],
+    "time": "",
+    "episodic_ids": [
+        158
+    ],
+    "bro_semantic_ids": [
+        632,
+        633,
+        634
+    ]
+}

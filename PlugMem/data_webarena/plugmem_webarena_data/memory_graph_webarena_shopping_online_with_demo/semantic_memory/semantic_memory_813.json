@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has multiple orders listed, including order \"000000190\" placed on 1/15/26 with a total of $398.27 and status pending.",
+    "tags": [
+        "order",
+        "Date",
+        "Total",
+        "status]",
+        "Pending"
+    ],
+    "time": "",
+    "episodic_ids": [
+        203
+    ],
+    "bro_semantic_ids": [
+        812,
+        814,
+        815
+    ]
+}

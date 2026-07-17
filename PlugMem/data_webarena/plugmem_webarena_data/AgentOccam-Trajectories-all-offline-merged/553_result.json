@@ -1,0 +1,9 @@
+{
+  "task_id": 553,
+  "objective": "Create a folder named news in gimmiethat.space repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the news related subreddits?",
+  "success": false,
+  "reward": 0,
+  "num_actions": 15,
+  "done": true,
+  "status": "FAIL"
+}

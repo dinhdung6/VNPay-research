@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The total cost of order 000000172, including shipping, is $77.66.",
+    "tags": [
+        "Cost",
+        "Total",
+        "Shipping",
+        "order",
+        "Dollars"
+    ],
+    "time": "",
+    "episodic_ids": [
+        313
+    ],
+    "bro_semantic_ids": [
+        1252,
+        1253,
+        1254
+    ]
+}

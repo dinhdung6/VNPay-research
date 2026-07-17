@@ -1,0 +1,11 @@
+{
+    "subgoal": "To explore and interact with the webpage to gather product information or make progress toward a purchasing decision.",
+    "procedural_memory": "In environments with multiple actionable elements, inaction leads to missed opportunities for progress. To achieve goals such as gathering information or making decisions, it is essential to engage with the environment by exploring available options. For example, clicking on product details, navigating to other pages, or interacting with cart options could provide valuable feedback and move the agent closer to its objective. Proactive exploration is a critical strategy in such contexts.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "1",
+    "subgoal_id": 66,
+    "episodic_ids": [
+        289
+    ]
+}

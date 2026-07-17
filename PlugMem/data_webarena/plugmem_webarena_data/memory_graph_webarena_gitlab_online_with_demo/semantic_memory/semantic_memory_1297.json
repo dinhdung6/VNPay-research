@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to invite a new member named \"vinta\" to the project \"project_site\".",
+    "tags": [
+        "Invite",
+        "members",
+        "Vinta",
+        "Project_site",
+        "UserAction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        324
+    ],
+    "bro_semantic_ids": [
+        1296,
+        1298,
+        1299
+    ]
+}

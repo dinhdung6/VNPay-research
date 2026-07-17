@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on the URL \"http://localhost:8023/byteblaze/dotfiles/-/milestones/new\".",
+    "tags": [
+        "URL",
+        "IP",
+        "port",
+        "ByteBlaze",
+        "Dotfiles]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        260
+    ],
+    "bro_semantic_ids": [
+        1040,
+        1042,
+        1043
+    ]
+}

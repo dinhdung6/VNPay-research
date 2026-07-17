@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Comment\" button (ID: 9603) is currently disabled.",
+    "tags": [
+        "CommentButton",
+        "disabled",
+        "Button",
+        "Interaction",
+        "UI"
+    ],
+    "time": "",
+    "episodic_ids": [
+        68
+    ],
+    "bro_semantic_ids": [
+        272,
+        273,
+        274
+    ]
+}

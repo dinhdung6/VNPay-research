@@ -1,0 +1,9 @@
+{
+  "task_id": 142,
+  "objective": "How much I spent on hair care and hair style shopping during Jan 2023",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

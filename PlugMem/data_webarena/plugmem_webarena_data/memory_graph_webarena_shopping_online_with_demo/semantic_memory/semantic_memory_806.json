@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "An order (ID: 000000170) placed on 5/17/23 with a total of $365.42 has been canceled.",
+    "tags": [
+        "order",
+        "Canceled",
+        "Date",
+        "Total",
+        "amount]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        201
+    ],
+    "bro_semantic_ids": [
+        804,
+        805,
+        807
+    ]
+}

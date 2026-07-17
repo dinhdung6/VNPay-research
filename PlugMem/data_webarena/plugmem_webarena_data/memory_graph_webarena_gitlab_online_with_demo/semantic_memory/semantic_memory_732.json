@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for the term \"ghost\" in the 'Search GitLab' textbox and executed the search.",
+    "tags": [
+        "GitLab",
+        "Search",
+        "User",
+        "term",
+        "Execution"
+    ],
+    "time": "",
+    "episodic_ids": [
+        183
+    ],
+    "bro_semantic_ids": [
+        733,
+        734,
+        735
+    ]
+}

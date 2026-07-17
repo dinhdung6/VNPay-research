@@ -1,0 +1,15 @@
+{
+    "subgoal": "To identify and evaluate a suitable storage solution for Nintendo Switch game cards.",
+    "procedural_memory": "To efficiently identify and evaluate a suitable product, begin by using a targeted search query to narrow down options to relevant results. Once a list of options is available, prioritize items based on key attributes such as user reviews, ratings, or price to focus on the most promising candidates. After identifying a potential option, access its detailed product page to gather comprehensive information about its features, specifications, and user feedback. Finally, preserve critical details (e.g., storage capacity or unique features) by recording notes for future reference or comparison. This systematic approach ensures that the decision-making process is both efficient and well-informed.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "8",
+    "subgoal_id": 7,
+    "episodic_ids": [
+        248,
+        249,
+        250,
+        251,
+        252
+    ]
+}

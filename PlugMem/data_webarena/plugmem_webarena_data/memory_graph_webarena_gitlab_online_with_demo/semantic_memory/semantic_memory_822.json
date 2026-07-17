@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Settings\" link (ID: 16146) in the project navigation menu.",
+    "tags": [
+        "Click",
+        "Settings",
+        "link",
+        "navigation]",
+        "Menu"
+    ],
+    "time": "",
+    "episodic_ids": [
+        205
+    ],
+    "bro_semantic_ids": [
+        820,
+        821,
+        823
+    ]
+}

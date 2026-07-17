@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current dashboard view shows projects under the Byte Blaze organization, including public and private projects.",
+    "tags": [
+        "Dashboard",
+        "project",
+        "Organization",
+        "Public",
+        "Private"
+    ],
+    "time": "",
+    "episodic_ids": [
+        504
+    ],
+    "bro_semantic_ids": [
+        2016,
+        2017,
+        2018
+    ]
+}

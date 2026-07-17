@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request includes 5 changes and 5 commits as of Mar 23, 2023.",
+    "tags": [
+        "Changes",
+        "Commit",
+        "MergeRequests",
+        "Primer",
+        "Design"
+    ],
+    "time": "",
+    "episodic_ids": [
+        69
+    ],
+    "bro_semantic_ids": [
+        276,
+        278,
+        279
+    ]
+}

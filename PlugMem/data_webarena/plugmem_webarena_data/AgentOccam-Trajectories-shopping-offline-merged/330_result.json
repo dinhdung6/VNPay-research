@@ -1,0 +1,9 @@
+{
+  "task_id": 330,
+  "objective": "How much I spend in March 2023 on shopping at One Stop Market?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

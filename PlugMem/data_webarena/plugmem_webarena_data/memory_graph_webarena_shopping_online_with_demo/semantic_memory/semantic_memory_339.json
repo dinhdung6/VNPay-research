@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product can be added to the cart with a quantity of 1.",
+    "tags": [
+        "Cart",
+        "Quantity",
+        "AddToCart",
+        "Purchase",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        84
+    ],
+    "bro_semantic_ids": [
+        336,
+        337,
+        338
+    ]
+}

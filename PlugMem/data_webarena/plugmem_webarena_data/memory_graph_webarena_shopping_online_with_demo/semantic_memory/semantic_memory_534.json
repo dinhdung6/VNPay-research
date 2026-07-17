@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Clothing, Shoes & Jewelry' category tab (ID: 4622).",
+    "tags": [
+        "Agent",
+        "Click",
+        "Categories",
+        "Clothing",
+        "Tab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        133
+    ],
+    "bro_semantic_ids": [
+        532,
+        533,
+        535
+    ]
+}

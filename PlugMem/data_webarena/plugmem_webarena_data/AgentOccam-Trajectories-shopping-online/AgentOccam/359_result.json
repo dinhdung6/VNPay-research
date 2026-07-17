@@ -1,0 +1,9 @@
+{
+  "task_id": 359,
+  "objective": "Show me the order date for order number 148.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

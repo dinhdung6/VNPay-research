@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"web_agent\" into the \"Project name\" textbox and pressed Enter.",
+    "tags": [
+        "Agent",
+        "TextBox",
+        "ProjectName",
+        "WebAgent",
+        "Input"
+    ],
+    "time": "",
+    "episodic_ids": [
+        328
+    ],
+    "bro_semantic_ids": [
+        1312,
+        1314,
+        1315
+    ]
+}

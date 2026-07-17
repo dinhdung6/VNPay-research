@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Fork\" link (ID: 2592) to create a copy of the \"2019-nCov\" project in their GitLab account.",
+    "tags": [
+        "[user",
+        "fork",
+        "project",
+        "GitLab",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        81
+    ],
+    "bro_semantic_ids": [
+        325,
+        326,
+        327
+    ]
+}

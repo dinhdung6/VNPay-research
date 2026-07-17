@@ -1,0 +1,11 @@
+{
+    "subgoal": "The agent's goal is to organize and save a product for future reference or decision-making.",
+    "procedural_memory": "When interacting with e-commerce platforms to organize potential purchases, using features like \"Add to Wish List\" is an effective strategy for saving products for later consideration. In this trajectory, the agent successfully saved the product \"Sceptre E195BD-SRR 19-Inch 720P LED TV, True Black (2017)\" by clicking the \"Add to Wish List\" link, ensuring the product's details are easily accessible in the future. This action was efficient because it directly advanced the goal without requiring additional steps, such as manually recording product information or bookmarking the page. For similar tasks, leveraging built-in organizational tools like wish lists or favorites can streamline the process of product evaluation and decision-making.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "10",
+    "subgoal_id": 41,
+    "episodic_ids": [
+        170
+    ]
+}

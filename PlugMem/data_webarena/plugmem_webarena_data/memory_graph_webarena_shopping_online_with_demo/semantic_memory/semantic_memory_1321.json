@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "User <NAME> is logged into her account on the website.",
+    "tags": [
+        "User",
+        "EmmaLopez",
+        "Login",
+        "Account",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        330
+    ],
+    "bro_semantic_ids": [
+        1320,
+        1322,
+        1323
+    ]
+}

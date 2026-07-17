@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to click the link labeled \"Link to 'Women Hack for Non Profits' gives 404\" (ID: 7987).",
+    "tags": [
+        "Agent",
+        "Click",
+        "link",
+        "WomenHack",
+        "NonProfits]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        128
+    ],
+    "bro_semantic_ids": [
+        512,
+        514,
+        515
+    ]
+}

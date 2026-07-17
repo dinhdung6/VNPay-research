@@ -1,0 +1,9 @@
+{
+  "task_id": 536,
+  "objective": "Follow ['ghost', 'R1kk3r', 'Abishek'] on Gitlab",
+  "success": true,
+  "reward": 0.6666666666666666,
+  "num_actions": 13,
+  "done": true,
+  "status": "SUCCESS"
+}

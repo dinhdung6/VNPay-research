@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent hovered over the \"Home Audio\" menu item under the \"Electronics\" category.",
+    "tags": [
+        "Agent",
+        "Hover",
+        "Menu",
+        "HomeAudio",
+        "Electronics"
+    ],
+    "time": "",
+    "episodic_ids": [
+        342
+    ],
+    "bro_semantic_ids": [
+        1368,
+        1369,
+        1371
+    ]
+}

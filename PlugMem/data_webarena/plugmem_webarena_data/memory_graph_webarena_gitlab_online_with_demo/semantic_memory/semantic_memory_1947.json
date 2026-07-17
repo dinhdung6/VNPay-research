@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The due date for the new issue is set to July 18, 2033.",
+    "tags": [
+        "DueDate",
+        "July2033",
+        "DatePicker",
+        "FutureDate",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        486
+    ],
+    "bro_semantic_ids": [
+        1944,
+        1945,
+        1946
+    ]
+}

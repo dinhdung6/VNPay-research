@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 5 links under the 'Merge requests' section indicating activity such as Overview, Commits, Pipelines, and Changes.",
+    "tags": [
+        "link",
+        "MergeRequests",
+        "Overview",
+        "Commit",
+        "Changes"
+    ],
+    "time": "",
+    "episodic_ids": [
+        64
+    ],
+    "bro_semantic_ids": [
+        256,
+        257,
+        259
+    ]
+}

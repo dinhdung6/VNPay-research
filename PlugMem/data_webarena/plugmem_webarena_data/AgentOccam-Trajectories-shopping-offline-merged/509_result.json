@@ -1,0 +1,9 @@
+{
+  "task_id": 509,
+  "objective": "Buy the best rating product from \"Men's shoe\" category with at least 5 reviews and the product is least expensive",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 15,
+  "done": true,
+  "status": "SUCCESS"
+}

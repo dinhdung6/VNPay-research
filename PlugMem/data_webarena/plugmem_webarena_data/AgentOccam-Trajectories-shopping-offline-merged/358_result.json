@@ -1,0 +1,9 @@
+{
+  "task_id": 358,
+  "objective": "Show me the shipping method for order number 187.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

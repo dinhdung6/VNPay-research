@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is 'Magic Home Nightstands Bedroom with Drawers', priced at $169.99.",
+    "tags": [
+        "Product",
+        "Nightstand",
+        "Price",
+        "Bedroom",
+        "Drawers"
+    ],
+    "time": "",
+    "episodic_ids": [
+        73
+    ],
+    "bro_semantic_ids": [
+        292,
+        293,
+        294
+    ]
+}

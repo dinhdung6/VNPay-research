@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Each product has a rating and review count, such as 'Pre-baked Gingerbread House Kit' with a rating of 20 and 1 review.",
+    "tags": [
+        "Rating",
+        "Reviews",
+        "Product",
+        "Details",
+        "Information"
+    ],
+    "time": "",
+    "episodic_ids": [
+        24
+    ],
+    "bro_semantic_ids": [
+        96,
+        97,
+        98
+    ]
+}

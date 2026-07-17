@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is searching for \"Abishek\" within the GitLab platform.",
+    "tags": [
+        "Search",
+        "User",
+        "GitLab",
+        "Platform",
+        "Query"
+    ],
+    "time": "",
+    "episodic_ids": [
+        193
+    ],
+    "bro_semantic_ids": [
+        773,
+        774,
+        775
+    ]
+}

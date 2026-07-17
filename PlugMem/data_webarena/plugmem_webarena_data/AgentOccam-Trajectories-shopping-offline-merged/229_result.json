@@ -1,0 +1,9 @@
+{
+  "task_id": 229,
+  "objective": "What is the price range for products from ugreen?",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 6,
+  "done": true,
+  "status": "SUCCESS"
+}

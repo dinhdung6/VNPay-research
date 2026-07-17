@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current web page is titled 'Home & Kitchen' and is part of the 'One Stop Market' store.",
+    "tags": [
+        "Home",
+        "Kitchen",
+        "Store",
+        "Webpage",
+        "Title"
+    ],
+    "time": "",
+    "episodic_ids": [
+        165
+    ],
+    "bro_semantic_ids": [
+        661,
+        662,
+        663
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"Thanks, working on reviews\" into the \"Comment\" textbox (ID: 7943).",
+    "tags": [
+        "Agent",
+        "Comment",
+        "TextBox",
+        "Typing",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        63
+    ],
+    "bro_semantic_ids": [
+        252,
+        253,
+        254
+    ]
+}

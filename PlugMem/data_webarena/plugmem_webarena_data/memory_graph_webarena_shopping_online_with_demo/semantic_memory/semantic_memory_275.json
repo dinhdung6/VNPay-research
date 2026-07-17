@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product \"Spider Man Kid Safe Headphones for Toddlers\" has a rating of 48 and costs $13.49.",
+    "tags": [
+        "Product",
+        "Rating",
+        "Cost",
+        "Headphones",
+        "SpiderMan"
+    ],
+    "time": "",
+    "episodic_ids": [
+        68
+    ],
+    "bro_semantic_ids": [
+        272,
+        273,
+        274
+    ]
+}

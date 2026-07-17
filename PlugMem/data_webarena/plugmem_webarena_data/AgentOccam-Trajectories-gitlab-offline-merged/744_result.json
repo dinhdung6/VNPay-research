@@ -1,0 +1,9 @@
+{
+  "task_id": 744,
+  "objective": "Create a new public project \"AutoAGI\" and add primer as members",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 12,
+  "done": true,
+  "status": "SUCCESS"
+}

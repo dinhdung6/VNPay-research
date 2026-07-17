@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has input 'dental care' into the Product Name field and '78' into the Price field.",
+    "tags": [
+        "Input",
+        "Product",
+        "Price",
+        "Dental",
+        "Care"
+    ],
+    "time": "",
+    "episodic_ids": [
+        48
+    ],
+    "bro_semantic_ids": [
+        192,
+        193,
+        195
+    ]
+}

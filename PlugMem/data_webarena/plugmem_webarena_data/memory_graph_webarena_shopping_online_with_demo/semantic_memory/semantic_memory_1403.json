@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The total order amount including shipping is $15.27, with a cart subtotal of $10.27 and a fixed shipping rate of $5.00.",
+    "tags": [
+        "order",
+        "Total",
+        "Subtotal",
+        "Shipping",
+        "amount]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        350
+    ],
+    "bro_semantic_ids": [
+        1400,
+        1401,
+        1402
+    ]
+}

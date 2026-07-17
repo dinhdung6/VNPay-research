@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Each order listed includes options to 'View Order' and 'Reorder'.",
+    "tags": [
+        "Orders",
+        "Options",
+        "ViewOrder",
+        "Reorder",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        4
+    ],
+    "bro_semantic_ids": [
+        16,
+        17,
+        19
+    ]
+}

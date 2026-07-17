@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link labeled 'Page 3' with ID [15427] to navigate to the next page.",
+    "tags": [
+        "[agent",
+        "Click",
+        "Link",
+        "Navigation",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        60
+    ],
+    "bro_semantic_ids": [
+        240,
+        241,
+        242
+    ]
+}

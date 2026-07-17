@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Clothing, Shoes & Jewelry' menu item.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Menu",
+        "Clothing",
+        "Categories"
+    ],
+    "time": "",
+    "episodic_ids": [
+        71
+    ],
+    "bro_semantic_ids": [
+        284,
+        285,
+        286
+    ]
+}

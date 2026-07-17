@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to type \"Justin\" into the 'Search users' textbox without pressing Enter.",
+    "tags": [
+        "Search",
+        "Users",
+        "Justin",
+        "TextBox",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        514
+    ],
+    "bro_semantic_ids": [
+        2056,
+        2057,
+        2059
+    ]
+}

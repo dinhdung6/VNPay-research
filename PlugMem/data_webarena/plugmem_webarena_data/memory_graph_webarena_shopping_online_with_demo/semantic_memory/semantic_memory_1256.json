@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has an order with ID \"000000182\" that was placed on June 30, 2022, and it is in a canceled status.",
+    "tags": [
+        "order",
+        "User",
+        "Date",
+        "Canceled",
+        "ID"
+    ],
+    "time": "",
+    "episodic_ids": [
+        314
+    ],
+    "bro_semantic_ids": [
+        1257,
+        1258,
+        1259
+    ]
+}

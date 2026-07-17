@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Repository\" link (ID: 2111) to navigate to the repository section of the \"Primer / design\" project in GitLab.",
+    "tags": [
+        "[GitLab",
+        "repository",
+        "navigation]",
+        "UserAction",
+        "link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        39
+    ],
+    "bro_semantic_ids": [
+        157,
+        158,
+        159
+    ]
+}

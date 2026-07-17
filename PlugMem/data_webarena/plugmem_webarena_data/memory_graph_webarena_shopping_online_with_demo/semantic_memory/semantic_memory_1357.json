@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's billing and shipping address are the same, located at <ADDRESS>, Suite 300, <LOCATION>, St. Barth\u00e9lemy.",
+    "tags": [
+        "Address",
+        "Billing",
+        "Shipping",
+        "Cambridge",
+        "Massachusetts"
+    ],
+    "time": "",
+    "episodic_ids": [
+        339
+    ],
+    "bro_semantic_ids": [
+        1356,
+        1358,
+        1359
+    ]
+}

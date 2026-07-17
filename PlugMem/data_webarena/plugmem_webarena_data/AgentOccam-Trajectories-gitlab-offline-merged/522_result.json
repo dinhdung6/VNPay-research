@@ -1,0 +1,9 @@
+{
+  "task_id": 522,
+  "objective": "Fork all repos from facebook.",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 25,
+  "done": true,
+  "status": "SUCCESS"
+}

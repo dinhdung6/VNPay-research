@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has clicked on the \"12 Reviews\" link associated with the product \"EYZUTAK Electroplated Magnetic Ring Holder Case\".",
+    "tags": [
+        "Reviews",
+        "EYZUTAK",
+        "ProductReview",
+        "ClickedLink",
+        "UserInteraction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        119
+    ],
+    "bro_semantic_ids": [
+        476,
+        478,
+        479
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 226,
+  "objective": "What is the price range for products from Amazon basic?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "FAIL"
+}

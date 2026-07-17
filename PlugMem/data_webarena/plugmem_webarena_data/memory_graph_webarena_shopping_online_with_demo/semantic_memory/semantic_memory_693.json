@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME>'s email address is <EMAIL>.",
+    "tags": [
+        "Email",
+        "Contact",
+        "User",
+        "Customer",
+        "Address"
+    ],
+    "time": "",
+    "episodic_ids": [
+        173
+    ],
+    "bro_semantic_ids": [
+        692,
+        694,
+        695
+    ]
+}

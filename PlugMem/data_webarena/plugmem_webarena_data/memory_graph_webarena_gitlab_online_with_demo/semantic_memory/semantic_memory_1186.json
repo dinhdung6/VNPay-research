@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to assign \"Justin Armstrong\" by typing his name into the 'Search users' field.",
+    "tags": [
+        "Assigned",
+        "JustinArmstrong",
+        "SearchField",
+        "UserSearch",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        296
+    ],
+    "bro_semantic_ids": [
+        1184,
+        1185,
+        1187
+    ]
+}

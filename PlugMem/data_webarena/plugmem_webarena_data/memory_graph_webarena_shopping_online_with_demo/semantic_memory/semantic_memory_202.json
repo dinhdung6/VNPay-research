@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent hovered over the 'Health Care' menu item on the 'Advanced Search' page.",
+    "tags": [
+        "Agent",
+        "Hover",
+        "Menu",
+        "Health",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        50
+    ],
+    "bro_semantic_ids": [
+        200,
+        201,
+        203
+    ]
+}

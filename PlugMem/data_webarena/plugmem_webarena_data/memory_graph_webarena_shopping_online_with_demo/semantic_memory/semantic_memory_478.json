@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple categories listed under \"Shopping Options\", including Beauty & Personal Care, Sports & Outdoors, and Electronics.",
+    "tags": [
+        "Categories",
+        "ShoppingOptions",
+        "Electronics",
+        "Beauty",
+        "Sports"
+    ],
+    "time": "",
+    "episodic_ids": [
+        119
+    ],
+    "bro_semantic_ids": [
+        476,
+        477,
+        479
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link with ID [4567] to filter items in the 'Bedding' category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Bedding",
+        "Categories",
+        "Filter"
+    ],
+    "time": "",
+    "episodic_ids": [
+        106
+    ],
+    "bro_semantic_ids": [
+        424,
+        425,
+        426
+    ]
+}

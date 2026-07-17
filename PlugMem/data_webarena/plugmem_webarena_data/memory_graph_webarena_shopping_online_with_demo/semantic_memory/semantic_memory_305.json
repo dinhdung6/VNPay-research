@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The products listed are sorted by price, with the first item being a 2-Pack NSF Green Epoxy Wire Shelf priced at $2.38.",
+    "tags": [
+        "Price",
+        "Product",
+        "Shelves",
+        "sorting",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        76
+    ],
+    "bro_semantic_ids": [
+        304,
+        306,
+        307
+    ]
+}

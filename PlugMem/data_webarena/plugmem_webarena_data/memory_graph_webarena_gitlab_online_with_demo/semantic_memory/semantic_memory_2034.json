@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"New merge request\" link to initiate the creation of a new merge request.",
+    "tags": [
+        "Action",
+        "Click",
+        "NewMergeRequest",
+        "Agent",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        508
+    ],
+    "bro_semantic_ids": [
+        2032,
+        2033,
+        2035
+    ]
+}

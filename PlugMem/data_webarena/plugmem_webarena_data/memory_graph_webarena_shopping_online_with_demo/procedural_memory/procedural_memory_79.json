@@ -1,0 +1,12 @@
+{
+    "subgoal": "To locate shopping expenses for November 2022 by navigating and optimizing the exploration of past orders.",
+    "procedural_memory": "When tasked with locating specific information within a large dataset, begin by identifying and navigating to a section that provides a comprehensive view of the data, as the agent did by clicking the \"My Orders\" link to access detailed order history. Once in the relevant section, optimize the data display to streamline the search process, as demonstrated by the agent's action of increasing the number of orders displayed per page to 50. This approach minimizes unnecessary navigation and increases efficiency. Sequential, logical exploration and optimization of the interface are key strategies for effectively achieving the goal.",
+    "trajectory_num": 2,
+    "time": "",
+    "return": "[8]",
+    "subgoal_id": 67,
+    "episodic_ids": [
+        291,
+        292
+    ]
+}

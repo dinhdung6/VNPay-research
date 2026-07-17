@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/primer/design/-/merge_requests.",
+    "tags": [
+        "URL",
+        "CurrentPage",
+        "MergeRequests",
+        "PrimerDesign",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        62
+    ],
+    "bro_semantic_ids": [
+        248,
+        249,
+        251
+    ]
+}

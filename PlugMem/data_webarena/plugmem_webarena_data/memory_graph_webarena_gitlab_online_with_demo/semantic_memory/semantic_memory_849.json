@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is \"http://localhost:8023/byteblaze/accessible-html-content-patterns/-/project_members\".",
+    "tags": [
+        "URL",
+        "ProjectMembers",
+        "ByteBlaze",
+        "accessible-html-content-patterns",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        212
+    ],
+    "bro_semantic_ids": [
+        848,
+        850,
+        851
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are pending orders such as IDs 000000189 and 000000188, both placed on 5/2/23.",
+    "tags": [
+        "Pending",
+        "Orders",
+        "Date",
+        "ID",
+        "Total"
+    ],
+    "time": "",
+    "episodic_ids": [
+        297
+    ],
+    "bro_semantic_ids": [
+        1188,
+        1189,
+        1191
+    ]
+}

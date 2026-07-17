@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Assignee Byte Blaze\" button to potentially modify the assignee filter.",
+    "tags": [
+        "Button",
+        "Assignee",
+        "Filtering",
+        "Interaction",
+        "Agent"
+    ],
+    "time": "",
+    "episodic_ids": [
+        125
+    ],
+    "bro_semantic_ids": [
+        500,
+        501,
+        502
+    ]
+}

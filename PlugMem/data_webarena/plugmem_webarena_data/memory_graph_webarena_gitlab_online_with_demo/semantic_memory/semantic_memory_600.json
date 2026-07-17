@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The GitLab dashboard includes a link to create a new project.",
+    "tags": [
+        "GitLab",
+        "Dashboard",
+        "Created",
+        "project",
+        "link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        150
+    ],
+    "bro_semantic_ids": [
+        601,
+        602,
+        603
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project access token creation form requires a token name and allows setting an expiration date.",
+    "tags": [
+        "Form",
+        "Token]",
+        "ExpirationDate",
+        "Creation",
+        "requirement"
+    ],
+    "time": "",
+    "episodic_ids": [
+        217
+    ],
+    "bro_semantic_ids": [
+        868,
+        869,
+        870
+    ]
+}

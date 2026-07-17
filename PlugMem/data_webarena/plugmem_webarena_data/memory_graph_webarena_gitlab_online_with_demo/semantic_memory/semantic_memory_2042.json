@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"redesign\" branch link (ID: 10703) to select it as the source branch for the new merge request.",
+    "tags": [
+        "Branch",
+        "Redesign",
+        "Click",
+        "SourceBranch",
+        "MergeRequests"
+    ],
+    "time": "",
+    "episodic_ids": [
+        510
+    ],
+    "bro_semantic_ids": [
+        2040,
+        2041,
+        2043
+    ]
+}

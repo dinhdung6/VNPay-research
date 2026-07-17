@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are a total of 37 orders listed across multiple pages, with 10 orders displayed per page by default.",
+    "tags": [
+        "Orders",
+        "Pages",
+        "Total",
+        "Default",
+        "Display"
+    ],
+    "time": "",
+    "episodic_ids": [
+        3
+    ],
+    "bro_semantic_ids": [
+        12,
+        13,
+        15
+    ]
+}

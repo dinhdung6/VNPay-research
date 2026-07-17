@@ -1,0 +1,8 @@
+{
+    "subgoal": "The agent's goal is to access and locate the list of usernames for individuals with access to the private repository `gimmiethat.space`.",
+    "procedural_ids": [
+        17,
+        18,
+        107
+    ]
+}

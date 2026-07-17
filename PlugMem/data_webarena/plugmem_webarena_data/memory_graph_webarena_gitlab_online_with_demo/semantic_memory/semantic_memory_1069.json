@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Create new...\" link to initiate creating a new issue.",
+    "tags": [
+        "Created",
+        "New",
+        "Issues",
+        "User",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        267
+    ],
+    "bro_semantic_ids": [
+        1068,
+        1070,
+        1071
+    ]
+}

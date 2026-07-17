@@ -1,0 +1,9 @@
+{
+  "task_id": 284,
+  "objective": "Show the least expensive shoe storage with a minimum storage capacity of 12 pairs.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on page 2 of the Electronics category.",
+    "tags": [
+        "[User",
+        "Page",
+        "Electronics",
+        "Categories",
+        "Navigation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        60
+    ],
+    "bro_semantic_ids": [
+        240,
+        242,
+        243
+    ]
+}

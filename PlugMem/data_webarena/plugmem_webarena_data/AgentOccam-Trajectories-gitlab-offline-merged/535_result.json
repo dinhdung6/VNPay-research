@@ -1,0 +1,9 @@
+{
+  "task_id": 535,
+  "objective": "Follow ['Jakub K', 'ghost', 'Beno\u00eet Blanchon'] on Gitlab",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 13,
+  "done": true,
+  "status": "SUCCESS"
+}

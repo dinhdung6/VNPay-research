@@ -1,0 +1,9 @@
+{
+  "task_id": 749,
+  "objective": "Start a private project project_site with NodeJS template and add primer, convexegg, vinta as members",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 21,
+  "done": true,
+  "status": "FAIL"
+}

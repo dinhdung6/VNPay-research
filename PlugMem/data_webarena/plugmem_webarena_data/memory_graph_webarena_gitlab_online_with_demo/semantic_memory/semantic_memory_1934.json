@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"New issue\" link to start creating a new issue.",
+    "tags": [
+        "Action",
+        "NewIssue",
+        "Click",
+        "Issues",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        483
+    ],
+    "bro_semantic_ids": [
+        1932,
+        1933,
+        1935
+    ]
+}

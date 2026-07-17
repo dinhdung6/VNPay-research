@@ -1,0 +1,9 @@
+{
+  "task_id": 524,
+  "objective": "Star the top eight most stared repos in Gitlab",
+  "success": true,
+  "reward": 0.125,
+  "num_actions": 21,
+  "done": true,
+  "status": "SUCCESS"
+}

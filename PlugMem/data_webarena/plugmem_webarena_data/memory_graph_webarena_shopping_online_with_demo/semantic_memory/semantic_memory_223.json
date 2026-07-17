@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user interface includes links for 'My Account', 'My Wish List', and 'Sign Out'.",
+    "tags": [
+        "Link",
+        "Account",
+        "WishList",
+        "SignOut",
+        "interface"
+    ],
+    "time": "",
+    "episodic_ids": [
+        55
+    ],
+    "bro_semantic_ids": [
+        220,
+        221,
+        222
+    ]
+}

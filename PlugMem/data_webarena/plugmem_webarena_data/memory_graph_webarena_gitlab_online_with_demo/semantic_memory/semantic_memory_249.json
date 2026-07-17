@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the link labeled \"Octovisuals Page\" (ID: 4593).",
+    "tags": [
+        "Click",
+        "link",
+        "OctovisualsPage",
+        "UserAction",
+        "navigation]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        62
+    ],
+    "bro_semantic_ids": [
+        248,
+        250,
+        251
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is \"http://localhost:8023/explore/projects/starred\".",
+    "tags": [
+        "[URL",
+        "Explore",
+        "project",
+        "Stars",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        179
+    ],
+    "bro_semantic_ids": [
+        716,
+        718,
+        719
+    ]
+}

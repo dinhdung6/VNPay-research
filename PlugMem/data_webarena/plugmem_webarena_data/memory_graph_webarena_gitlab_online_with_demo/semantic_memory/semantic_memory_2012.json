@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 13 assigned issues on the GitLab dashboard.",
+    "tags": [
+        "Issues",
+        "GitLab",
+        "Dashboard",
+        "count",
+        "Assigned"
+    ],
+    "time": "",
+    "episodic_ids": [
+        503
+    ],
+    "bro_semantic_ids": [
+        2013,
+        2014,
+        2015
+    ]
+}

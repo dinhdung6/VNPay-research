@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project '2019-nCov' is described as using Google Maps Timeline data to compare with COVID-19 patient history locations.",
+    "tags": [
+        "Description",
+        "GoogleMaps",
+        "COVID19",
+        "Data",
+        "Comparison"
+    ],
+    "time": "",
+    "episodic_ids": [
+        84
+    ],
+    "bro_semantic_ids": [
+        336,
+        338,
+        339
+    ]
+}

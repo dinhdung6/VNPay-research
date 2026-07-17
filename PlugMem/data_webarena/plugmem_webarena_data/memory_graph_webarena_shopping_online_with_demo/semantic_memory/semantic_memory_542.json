@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is \"Gillberry Men's Joggers Sweatpants with Pockets Mens Comfort Trousers Straight Leg Solid Color Business Golf Pants\" priced at $13.59.",
+    "tags": [
+        "Product",
+        "Price",
+        "Clothing",
+        "Sweatpants",
+        "Gillberry"
+    ],
+    "time": "",
+    "episodic_ids": [
+        135
+    ],
+    "bro_semantic_ids": [
+        540,
+        541,
+        543
+    ]
+}

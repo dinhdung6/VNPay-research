@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"remove-board-movement-events-from-the-github-issue-timeline\" includes functionalities such as CI/CD, Analytics, Security, and Compliance.",
+    "tags": [
+        "Functionality",
+        "CI/CD",
+        "Analytics",
+        "Security",
+        "Compliance"
+    ],
+    "time": "",
+    "episodic_ids": [
+        238
+    ],
+    "bro_semantic_ids": [
+        952,
+        953,
+        954
+    ]
+}

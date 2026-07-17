@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Create milestone\" button is currently disabled.",
+    "tags": [
+        "Button",
+        "disabled",
+        "Created",
+        "Milestones",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        255
+    ],
+    "bro_semantic_ids": [
+        1020,
+        1021,
+        1022
+    ]
+}

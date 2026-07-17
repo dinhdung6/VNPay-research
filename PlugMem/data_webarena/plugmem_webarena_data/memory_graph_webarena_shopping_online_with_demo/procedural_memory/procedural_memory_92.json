@@ -1,0 +1,11 @@
+{
+    "subgoal": "To add a specific product to the wish list.",
+    "procedural_memory": "When attempting to add a product to a wish list, it is crucial to first confirm the presence of the target product on the interface and then identify the correct interactive element (e.g., the \"Add to Wish List\" button). In this case, the agent successfully located the product on the search results page and executed the action of clicking the \"Add to Wish List\" button, which directly led to achieving the goal. This demonstrates the importance of precise interaction with the user interface elements that are contextually relevant to the task.",
+    "trajectory_num": 1,
+    "time": "",
+    "return": "10",
+    "subgoal_id": 76,
+    "episodic_ids": [
+        324
+    ]
+}

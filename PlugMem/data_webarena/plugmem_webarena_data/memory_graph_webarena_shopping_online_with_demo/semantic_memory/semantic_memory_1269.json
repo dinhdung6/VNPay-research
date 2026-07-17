@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has added \"The Body Shop Camomile Makeup Removing Kit\" to their shopping cart.",
+    "tags": [
+        "User",
+        "ShoppingCart",
+        "Product",
+        "Add",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        317
+    ],
+    "bro_semantic_ids": [
+        1268,
+        1270,
+        1271
+    ]
+}

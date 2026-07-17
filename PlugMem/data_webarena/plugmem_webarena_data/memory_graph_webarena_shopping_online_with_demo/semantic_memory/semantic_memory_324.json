@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current product is a 2-Pack NSF Green Epoxy Wire Shelf measuring 24 inches by 24 inches.",
+    "tags": [
+        "Shelves",
+        "Product",
+        "Dimensions",
+        "NSF",
+        "Epoxy"
+    ],
+    "time": "",
+    "episodic_ids": [
+        81
+    ],
+    "bro_semantic_ids": [
+        325,
+        326,
+        327
+    ]
+}

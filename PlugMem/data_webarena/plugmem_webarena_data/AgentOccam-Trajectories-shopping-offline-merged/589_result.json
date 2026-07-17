@@ -1,0 +1,9 @@
+{
+  "task_id": 589,
+  "objective": "Rate my recent purchase of Mini Wireless Bluetooth Speaker with 2 stars, using my nickname SimpleEmma?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 25,
+  "done": true,
+  "status": "FAIL"
+}

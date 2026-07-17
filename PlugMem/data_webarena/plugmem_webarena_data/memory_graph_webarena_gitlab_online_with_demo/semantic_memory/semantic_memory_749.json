@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for \"R1kk3r\" using the \"Search GitLab\" textbox.",
+    "tags": [
+        "Search",
+        "TextBox",
+        "R1kk3r",
+        "GitLab",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        187
+    ],
+    "bro_semantic_ids": [
+        748,
+        750,
+        751
+    ]
+}

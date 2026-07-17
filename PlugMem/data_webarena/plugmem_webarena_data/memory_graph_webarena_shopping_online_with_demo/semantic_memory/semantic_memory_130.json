@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is the Skinit Decal Gaming Skin for PS4 Console with a price of $23.95.",
+    "tags": [
+        "Product",
+        "Price",
+        "SkinitDecal",
+        "PlayStation",
+        "GamingSkin"
+    ],
+    "time": "",
+    "episodic_ids": [
+        32
+    ],
+    "bro_semantic_ids": [
+        128,
+        129,
+        131
+    ]
+}

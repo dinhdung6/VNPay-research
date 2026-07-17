@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's name entered in the form is <NAME>.",
+    "tags": [
+        "User",
+        "Name",
+        "<NAME>",
+        "<NAME>",
+        "Form"
+    ],
+    "time": "",
+    "episodic_ids": [
+        224
+    ],
+    "bro_semantic_ids": [
+        896,
+        898,
+        899
+    ]
+}

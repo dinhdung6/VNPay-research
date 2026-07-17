@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has hovered over the menu item \"Household Supplies\" with ID 11188.",
+    "tags": [
+        "User",
+        "Hover",
+        "Menu",
+        "Items",
+        "Supplies"
+    ],
+    "time": "",
+    "episodic_ids": [
+        43
+    ],
+    "bro_semantic_ids": [
+        172,
+        174,
+        175
+    ]
+}

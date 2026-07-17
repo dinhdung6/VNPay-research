@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The GitLab dashboard includes a search box labeled \"Search GitLab\".",
+    "tags": [
+        "GitLab",
+        "Search",
+        "Dashboard",
+        "TextBox",
+        "Interface"
+    ],
+    "time": "",
+    "episodic_ids": [
+        86
+    ],
+    "bro_semantic_ids": [
+        345,
+        346,
+        347
+    ]
+}

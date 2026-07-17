@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The order number is 000000182 and it was canceled on June 30, 2022.",
+    "tags": [
+        "order",
+        "Canceled",
+        "Date",
+        "June",
+        "2022"
+    ],
+    "time": "",
+    "episodic_ids": [
+        315
+    ],
+    "bro_semantic_ids": [
+        1261,
+        1262,
+        1263
+    ]
+}

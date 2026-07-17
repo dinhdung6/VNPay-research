@@ -1,0 +1,9 @@
+{
+  "task_id": 280,
+  "objective": "Provide me with the full names of chargers from Anker, and also share the price range for the available models",
+  "success": true,
+  "reward": 0.5714285714285714,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

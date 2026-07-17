@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has an order with the ID 000000179.",
+    "tags": [
+        "order",
+        "ID",
+        "<NAME>",
+        "<NAME>",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        245
+    ],
+    "bro_semantic_ids": [
+        980,
+        982,
+        983
+    ]
+}

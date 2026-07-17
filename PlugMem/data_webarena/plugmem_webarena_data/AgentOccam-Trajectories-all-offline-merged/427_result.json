@@ -1,0 +1,9 @@
+{
+  "task_id": 427,
+  "objective": "Find the page of the university that has most Turning Award winners on the map.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

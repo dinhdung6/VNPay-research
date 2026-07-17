@@ -1,0 +1,9 @@
+{
+  "task_id": 587,
+  "objective": "Rate my recent purchase of PS3 Remote Controllers with 3 stars, using my nickname GamingEmma?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"dotfiles\" project's general settings page includes options to customize visibility, project features, and permissions.",
+    "tags": [
+        "Settings",
+        "Visibility",
+        "Permissions",
+        "Feature",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        153
+    ],
+    "bro_semantic_ids": [
+        612,
+        613,
+        615
+    ]
+}

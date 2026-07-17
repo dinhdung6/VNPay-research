@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current web page is titled 'Electronics' and displays items 97-108 out of 148 electronics products.",
+    "tags": [
+        "Electronics",
+        "Webpage",
+        "Product",
+        "Display",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        67
+    ],
+    "bro_semantic_ids": [
+        269,
+        270,
+        271
+    ]
+}

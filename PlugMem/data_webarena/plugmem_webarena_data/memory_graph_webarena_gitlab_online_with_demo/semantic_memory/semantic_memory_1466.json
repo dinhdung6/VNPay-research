@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Label\" menu item to filter or manage issues by their labels.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Label",
+        "Filtering",
+        "Management"
+    ],
+    "time": "",
+    "episodic_ids": [
+        366
+    ],
+    "bro_semantic_ids": [
+        1464,
+        1465,
+        1467
+    ]
+}

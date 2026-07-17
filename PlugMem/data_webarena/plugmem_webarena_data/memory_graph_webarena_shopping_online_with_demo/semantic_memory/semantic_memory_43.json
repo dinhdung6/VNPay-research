@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has made recent orders on dates including May 17, 2023, May 2, 2023, and March 11, 2023.",
+    "tags": [
+        "Orders",
+        "Date",
+        "Recent",
+        "History",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        10
+    ],
+    "bro_semantic_ids": [
+        40,
+        41,
+        42
+    ]
+}

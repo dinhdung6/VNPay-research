@@ -1,0 +1,11 @@
+{
+    "subgoal": "To confirm whether a specific past order contains a picture frame and its size configuration.",
+    "procedural_memory": "When tasked with confirming specific details about an item in a past order, prioritize actions that directly address the target order. In this case, the agent's action to note that Order ID 000000179 does not include a picture frame provided minor organizational clarity but did not directly contribute to the goal of confirming the contents of Order ID 000000175. For future similar tasks, focus on examining the relevant order details immediately to avoid unnecessary detours or delays.",
+    "trajectory_num": 2,
+    "time": "",
+    "return": "1",
+    "subgoal_id": 60,
+    "episodic_ids": [
+        246
+    ]
+}

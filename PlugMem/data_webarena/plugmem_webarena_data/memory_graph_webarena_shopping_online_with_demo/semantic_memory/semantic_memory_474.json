@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search results include items like 'Pre-baked Gingerbread House Kit', 'V8 Energy Drink', and 'Elmwood Inn Fine Teas'.",
+    "tags": [
+        "Product",
+        "SearchPage",
+        "food",
+        "Beverage",
+        "tea"
+    ],
+    "time": "",
+    "episodic_ids": [
+        118
+    ],
+    "bro_semantic_ids": [
+        472,
+        473,
+        475
+    ]
+}

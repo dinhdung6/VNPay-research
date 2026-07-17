@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/byteblaze/dotfiles.",
+    "tags": [
+        "[URL",
+        "IP",
+        "port",
+        "ByteBlaze",
+        "Dotfiles]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        151
+    ],
+    "bro_semantic_ids": [
+        605,
+        606,
+        607
+    ]
+}

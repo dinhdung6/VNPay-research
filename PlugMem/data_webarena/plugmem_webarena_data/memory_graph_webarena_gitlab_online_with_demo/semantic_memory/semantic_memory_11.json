@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Sort direction: Ascending\" button to change the sorting order of the issues list.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Button",
+        "Sort",
+        "Direction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        2
+    ],
+    "bro_semantic_ids": [
+        8,
+        9,
+        10
+    ]
+}

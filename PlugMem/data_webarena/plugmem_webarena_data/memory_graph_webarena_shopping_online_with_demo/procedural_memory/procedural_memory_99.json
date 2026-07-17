@@ -1,0 +1,12 @@
+{
+    "subgoal": "To purchase a product that meets specific criteria (highly rated, sufficient reviews, and low cost).",
+    "procedural_memory": "When pursuing a goal of purchasing a product that meets specific criteria, it is essential to first confirm that the product aligns with the predefined requirements (e.g., high rating, sufficient reviews, and affordability). Once confirmed, taking decisive actions such as adding the product to the cart ensures progress toward the goal. After adding the product, transitioning to the cart review page allows for verification of the action's success and provides an opportunity to confirm the product details before completing the purchase. This methodical and sequential approach minimizes errors and ensures alignment with the goal at each step.",
+    "trajectory_num": 3,
+    "time": "",
+    "return": "8",
+    "subgoal_id": 81,
+    "episodic_ids": [
+        346,
+        347
+    ]
+}

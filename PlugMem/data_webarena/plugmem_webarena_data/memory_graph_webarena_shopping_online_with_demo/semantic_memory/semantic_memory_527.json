@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is 'Pre-baked Gingerbread House Kit Value Pack, 17 oz., Pack of 2, Total 34 oz.' with a price of $19.99.",
+    "tags": [
+        "Product",
+        "Price",
+        "Gingerbread",
+        "Kit",
+        "Bakery"
+    ],
+    "time": "",
+    "episodic_ids": [
+        131
+    ],
+    "bro_semantic_ids": [
+        524,
+        525,
+        526
+    ]
+}

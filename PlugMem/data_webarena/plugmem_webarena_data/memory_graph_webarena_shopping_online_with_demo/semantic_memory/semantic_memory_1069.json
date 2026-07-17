@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can sort products by Position, Product Name, or Price, with Position currently selected.",
+    "tags": [
+        "SortBy",
+        "Position",
+        "ProductName",
+        "Price",
+        "selected]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        267
+    ],
+    "bro_semantic_ids": [
+        1068,
+        1070,
+        1071
+    ]
+}

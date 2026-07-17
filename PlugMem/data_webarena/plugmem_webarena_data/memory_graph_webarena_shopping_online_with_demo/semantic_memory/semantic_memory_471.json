@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently on Tab 0 named \"One Stop Market\".",
+    "tags": [
+        "[tab",
+        "user",
+        "Navigation",
+        "Market",
+        "browser]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        117
+    ],
+    "bro_semantic_ids": [
+        468,
+        469,
+        470
+    ]
+}

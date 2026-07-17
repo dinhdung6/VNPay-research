@@ -1,0 +1,9 @@
+{
+  "task_id": 669,
+  "objective": "Open a new issue to discuss the implementation of dark mode",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "SUCCESS"
+}

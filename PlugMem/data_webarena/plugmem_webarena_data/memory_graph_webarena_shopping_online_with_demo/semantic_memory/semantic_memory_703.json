@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has placed an order (Order #000000170) on 5/17/23 which was canceled.",
+    "tags": [
+        "order",
+        "History",
+        "Transactions",
+        "Canceled",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        175
+    ],
+    "bro_semantic_ids": [
+        700,
+        701,
+        702
+    ]
+}

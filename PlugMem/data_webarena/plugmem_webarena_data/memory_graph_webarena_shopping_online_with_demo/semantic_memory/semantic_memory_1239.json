@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple categories available including 'Beauty & Personal Care', 'Sports & Outdoors', and 'Clothing, Shoes & Jewelry'.",
+    "tags": [
+        "Categories",
+        "Beauty",
+        "Sports",
+        "Clothing",
+        "Jewelry"
+    ],
+    "time": "",
+    "episodic_ids": [
+        309
+    ],
+    "bro_semantic_ids": [
+        1236,
+        1237,
+        1238
+    ]
+}

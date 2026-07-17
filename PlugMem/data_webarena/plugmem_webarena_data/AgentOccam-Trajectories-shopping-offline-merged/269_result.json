@@ -1,0 +1,9 @@
+{
+  "task_id": 269,
+  "objective": "Show me products under $25 in \"women shoes\" category",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

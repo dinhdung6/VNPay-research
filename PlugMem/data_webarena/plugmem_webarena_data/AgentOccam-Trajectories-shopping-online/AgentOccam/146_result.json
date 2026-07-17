@@ -1,0 +1,9 @@
+{
+  "task_id": 146,
+  "objective": "What is the size configuration of the picture frame I bought Sep 2022",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "FAIL"
+}

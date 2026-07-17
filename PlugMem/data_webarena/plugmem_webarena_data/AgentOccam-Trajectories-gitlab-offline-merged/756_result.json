@@ -1,0 +1,9 @@
+{
+  "task_id": 756,
+  "objective": "Create a private JEKYLL repository called \"11711_gitlab\" using the right template to speed up development.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 7,
+  "done": true,
+  "status": "FAIL"
+}

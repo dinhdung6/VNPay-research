@@ -1,0 +1,9 @@
+{
+  "task_id": 307,
+  "objective": "How many commits did Nic make in April 2021?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

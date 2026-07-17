@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Create new...\" link with ID 9417.",
+    "tags": [
+        "Click",
+        "Created",
+        "link",
+        "Issues",
+        "Dashboard"
+    ],
+    "time": "",
+    "episodic_ids": [
+        273
+    ],
+    "bro_semantic_ids": [
+        1092,
+        1094,
+        1095
+    ]
+}

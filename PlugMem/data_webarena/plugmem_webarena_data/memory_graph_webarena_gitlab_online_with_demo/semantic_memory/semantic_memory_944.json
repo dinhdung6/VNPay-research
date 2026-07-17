@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is viewing the 'Projects Dashboard GitLab' page which includes links such as 'Dashboard', 'Create new...', 'Issues', 'Merge requests', and 'To-Do List'.",
+    "tags": [
+        "GitLab",
+        "Dashboard",
+        "Issues",
+        "MergeRequests",
+        "To_Do_List"
+    ],
+    "time": "",
+    "episodic_ids": [
+        236
+    ],
+    "bro_semantic_ids": [
+        945,
+        946,
+        947
+    ]
+}

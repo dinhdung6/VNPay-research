@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The selected shipping method is 'Fixed Flat Rate' with a cost of $5.00.",
+    "tags": [
+        "Shipping",
+        "Method",
+        "Fixed",
+        "Rating",
+        "Cost"
+    ],
+    "time": "",
+    "episodic_ids": [
+        320
+    ],
+    "bro_semantic_ids": [
+        1280,
+        1281,
+        1283
+    ]
+}

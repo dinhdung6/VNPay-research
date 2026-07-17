@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page displays commits for the 'main' branch of the 'design' project in the 'Primer' repository.",
+    "tags": [
+        "GitLab",
+        "Commit",
+        "Branch",
+        "repository",
+        "Design"
+    ],
+    "time": "",
+    "episodic_ids": [
+        390
+    ],
+    "bro_semantic_ids": [
+        1561,
+        1562,
+        1563
+    ]
+}

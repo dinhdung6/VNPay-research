@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search criteria used were 'ceiling light' for Product Name and '1,000.00 and greater' for Price.",
+    "tags": [
+        "SearchCriteria]",
+        "ProductName",
+        "Price",
+        "CeilingLight",
+        "Greater"
+    ],
+    "time": "",
+    "episodic_ids": [
+        156
+    ],
+    "bro_semantic_ids": [
+        624,
+        626,
+        627
+    ]
+}

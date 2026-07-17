@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to select the user \"Beno\u00eet Blanchon bblanchon\" from the invite members menu.",
+    "tags": [
+        "Agent",
+        "Invite",
+        "Menu",
+        "User",
+        "Selected"
+    ],
+    "time": "",
+    "episodic_ids": [
+        460
+    ],
+    "bro_semantic_ids": [
+        1840,
+        1841,
+        1842
+    ]
+}

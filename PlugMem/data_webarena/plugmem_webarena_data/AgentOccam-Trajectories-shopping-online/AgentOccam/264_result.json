@@ -1,0 +1,9 @@
+{
+  "task_id": 264,
+  "objective": "I want to browse the products in the Cabinets, Racks & Shelves category",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

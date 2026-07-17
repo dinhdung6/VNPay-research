@@ -1,0 +1,9 @@
+{
+  "task_id": 391,
+  "objective": "Post \"close because non reproducible\" for the merge request related to focus edge cases in a11yproject/a11yproject.com project",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

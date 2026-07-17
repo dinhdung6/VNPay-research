@@ -1,0 +1,9 @@
+{
+  "task_id": 150,
+  "objective": "What is the price configuration of the fake tree I bought Jan 2023",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

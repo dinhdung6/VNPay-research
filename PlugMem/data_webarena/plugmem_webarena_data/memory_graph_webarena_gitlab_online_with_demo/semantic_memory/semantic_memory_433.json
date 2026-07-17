@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 5 review requests pending for the user.",
+    "tags": [
+        "[Review",
+        "Requests",
+        "Pending",
+        "User",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        108
+    ],
+    "bro_semantic_ids": [
+        432,
+        434,
+        435
+    ]
+}

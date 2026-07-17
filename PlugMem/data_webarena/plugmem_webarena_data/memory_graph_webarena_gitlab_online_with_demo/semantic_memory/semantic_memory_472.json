@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Set status\" button (ID: 5625) in the \"Set a status\" dialog.",
+    "tags": [
+        "[GitLab",
+        "User",
+        "Button",
+        "Status",
+        "Dialog]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        118
+    ],
+    "bro_semantic_ids": [
+        473,
+        474,
+        475
+    ]
+}

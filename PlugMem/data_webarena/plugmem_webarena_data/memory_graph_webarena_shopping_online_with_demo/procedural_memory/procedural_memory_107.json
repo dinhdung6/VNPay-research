@@ -1,0 +1,13 @@
+{
+    "subgoal": "To modify the delivery address for a recent order on an e-commerce website.",
+    "procedural_memory": "To efficiently modify a delivery address on an e-commerce website, begin by identifying and utilizing navigation elements that lead to account management or order details. In this trajectory, the agent initially failed to make progress due to inaction on the homepage, missing an opportunity to explore navigation options. However, success was achieved by clicking the \"My Account\" link, which provided access to critical account management features, and subsequently selecting the \"View Order\" link to access detailed order information. These actions demonstrate the importance of systematically exploring relevant links and leveraging available navigation options to locate the necessary tools for completing the task. Avoiding inaction and taking deliberate steps to explore the interface is key to achieving similar goals in the future.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "8",
+    "subgoal_id": 55,
+    "episodic_ids": [
+        360,
+        361,
+        362
+    ]
+}

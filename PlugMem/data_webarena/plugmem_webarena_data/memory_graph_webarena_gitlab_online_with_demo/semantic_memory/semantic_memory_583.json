@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's website URL is byteblaze.github.io.",
+    "tags": [
+        "Website",
+        "URL",
+        "User",
+        "Domain",
+        "profile"
+    ],
+    "time": "",
+    "episodic_ids": [
+        145
+    ],
+    "bro_semantic_ids": [
+        580,
+        581,
+        582
+    ]
+}

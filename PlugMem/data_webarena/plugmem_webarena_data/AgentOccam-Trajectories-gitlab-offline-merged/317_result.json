@@ -1,0 +1,9 @@
+{
+  "task_id": 317,
+  "objective": "List the name and number of commits of the top 3 contributors to metaseq repo, ranked by the number of commits?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

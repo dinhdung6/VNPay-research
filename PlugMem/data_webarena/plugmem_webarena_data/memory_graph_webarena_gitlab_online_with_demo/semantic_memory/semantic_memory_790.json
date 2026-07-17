@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Access Tokens\" link in the project settings sidebar.",
+    "tags": [
+        "AccessTokens",
+        "Sidebar",
+        "Click",
+        "Agent",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        197
+    ],
+    "bro_semantic_ids": [
+        788,
+        789,
+        791
+    ]
+}

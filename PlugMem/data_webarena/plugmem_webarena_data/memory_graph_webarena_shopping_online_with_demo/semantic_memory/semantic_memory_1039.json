@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The highest priced item in the search results is $375.19 for Amazon Basics Cooling Gel Infused Firm Support Latex-Feel Mattress, CertiPUR-US Certified - Queen Size, 12 inch.",
+    "tags": [
+        "Price",
+        "Items",
+        "Mattress",
+        "Highest",
+        "Product"
+    ],
+    "time": "",
+    "episodic_ids": [
+        259
+    ],
+    "bro_semantic_ids": [
+        1036,
+        1037,
+        1038
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"All 5\" link to view all issues, including both open and closed ones.",
+    "tags": [
+        "Agent",
+        "Click",
+        "AllIssues",
+        "link",
+        "view]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        127
+    ],
+    "bro_semantic_ids": [
+        508,
+        509,
+        510
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 393,
+  "objective": "Post \"lgtm\" for the merge request related to fixing the broken links in byteblaze/empathy-prompts project",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 15,
+  "done": true,
+  "status": "SUCCESS"
+}

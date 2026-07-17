@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to type \"Justin Armstrong\" into the \"Username or email address\" textbox in the \"Invite members\" dialog.",
+    "tags": [
+        "Agent",
+        "InviteMembers",
+        "Dialog]",
+        "Username",
+        "email"
+    ],
+    "time": "",
+    "episodic_ids": [
+        518
+    ],
+    "bro_semantic_ids": [
+        2072,
+        2074,
+        2075
+    ]
+}

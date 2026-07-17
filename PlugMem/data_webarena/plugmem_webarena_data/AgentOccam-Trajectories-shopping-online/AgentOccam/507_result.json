@@ -1,0 +1,9 @@
+{
+  "task_id": 507,
+  "objective": "Buy the highest rated product from the Ceiling light category within a budget above 1000.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "FAIL"
+}

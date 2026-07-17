@@ -1,0 +1,9 @@
+{
+  "task_id": 418,
+  "objective": "Set my gitlab status as Busy.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "FAIL"
+}

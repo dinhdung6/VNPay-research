@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has 5 items in their To-Do List.",
+    "tags": [
+        "Todo",
+        "list]",
+        "User",
+        "Item",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        145
+    ],
+    "bro_semantic_ids": [
+        581,
+        582,
+        583
+    ]
+}

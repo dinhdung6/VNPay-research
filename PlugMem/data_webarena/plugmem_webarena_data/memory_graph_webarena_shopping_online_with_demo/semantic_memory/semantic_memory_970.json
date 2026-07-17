@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has placed multiple orders on January 3, 2026, including orders with totals of $1,168.06, $113.27, $2,203.98, $365.42, $278.44, $21.99, and $39.38.",
+    "tags": [
+        "Orders",
+        "Date",
+        "Total",
+        "<NAME>",
+        "<NAME>"
+    ],
+    "time": "",
+    "episodic_ids": [
+        242
+    ],
+    "bro_semantic_ids": [
+        968,
+        969,
+        971
+    ]
+}

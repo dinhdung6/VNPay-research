@@ -1,0 +1,9 @@
+{
+  "task_id": 529,
+  "objective": "Draft a refund message via their \"contact us\" form for the bluetooth speaker I bought Feb 2023. It broke after three days of use. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+  "success": true,
+  "reward": 0.25,
+  "num_actions": 14,
+  "done": true,
+  "status": "SUCCESS"
+}

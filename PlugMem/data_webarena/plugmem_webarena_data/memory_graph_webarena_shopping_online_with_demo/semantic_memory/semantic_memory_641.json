@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Price' option in the 'Sort By' combobox.",
+    "tags": [
+        "[agent",
+        "Click",
+        "SortBy",
+        "Price",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        160
+    ],
+    "bro_semantic_ids": [
+        640,
+        642,
+        643
+    ]
+}

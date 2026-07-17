@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Unassigned\" button to assign a reviewer to the merge request.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Reviews",
+        "Button",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        299
+    ],
+    "bro_semantic_ids": [
+        1196,
+        1197,
+        1198
+    ]
+}

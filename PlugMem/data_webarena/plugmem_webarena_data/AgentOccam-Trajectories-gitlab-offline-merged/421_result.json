@@ -1,0 +1,9 @@
+{
+  "task_id": 421,
+  "objective": "Set my gitlab status as Resting due to leg injury.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "SUCCESS"
+}

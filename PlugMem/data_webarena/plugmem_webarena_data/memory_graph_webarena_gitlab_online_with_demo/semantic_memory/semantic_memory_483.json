@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project description is \"I need some space.\".",
+    "tags": [
+        "GitLab",
+        "project",
+        "Description",
+        "Text",
+        "Statement"
+    ],
+    "time": "",
+    "episodic_ids": [
+        120
+    ],
+    "bro_semantic_ids": [
+        480,
+        481,
+        482
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on page 7 of the Electronics category and attempted to navigate to page 8.",
+    "tags": [
+        "User",
+        "Navigation",
+        "Page",
+        "Electronics",
+        "Attempt"
+    ],
+    "time": "",
+    "episodic_ids": [
+        65
+    ],
+    "bro_semantic_ids": [
+        260,
+        262,
+        263
+    ]
+}

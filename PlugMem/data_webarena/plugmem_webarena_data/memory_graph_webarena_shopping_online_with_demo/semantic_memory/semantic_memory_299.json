@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Racks, Shelves & Drawers' category link which has 117 items associated with it.",
+    "tags": [
+        "Racks",
+        "Shelves",
+        "Drawers",
+        "Click",
+        "Link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        74
+    ],
+    "bro_semantic_ids": [
+        296,
+        297,
+        298
+    ]
+}

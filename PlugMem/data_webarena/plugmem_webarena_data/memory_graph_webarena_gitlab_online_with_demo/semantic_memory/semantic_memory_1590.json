@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has filtered the issues using the label 'question'.",
+    "tags": [
+        "Filtering",
+        "Label",
+        "Query",
+        "Issues",
+        "UserAction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        397
+    ],
+    "bro_semantic_ids": [
+        1588,
+        1589,
+        1591
+    ]
+}

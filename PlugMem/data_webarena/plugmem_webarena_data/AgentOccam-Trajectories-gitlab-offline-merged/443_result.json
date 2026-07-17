@@ -1,0 +1,9 @@
+{
+  "task_id": 443,
+  "objective": "Update the project site's title to \"Not an interesting site\"",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

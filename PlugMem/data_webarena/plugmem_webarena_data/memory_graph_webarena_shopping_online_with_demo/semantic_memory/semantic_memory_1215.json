@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The price of the ruffle socks is $14.99.",
+    "tags": [
+        "Price",
+        "Cost",
+        "Socks",
+        "Product",
+        "Currency"
+    ],
+    "time": "",
+    "episodic_ids": [
+        303
+    ],
+    "bro_semantic_ids": [
+        1212,
+        1213,
+        1214
+    ]
+}

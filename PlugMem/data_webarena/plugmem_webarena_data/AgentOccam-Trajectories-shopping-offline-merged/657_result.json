@@ -1,0 +1,9 @@
+{
+  "task_id": 657,
+  "objective": "Fill the \"contact us\" form in the site for a refund on the speaker I bought, stating that it broke after just three days of use. Also, ensure to include the order number #148 and the product SKU. Don't submit yet, I will check.",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

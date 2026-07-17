@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There is an option to view or reorder any of the listed orders, such as order \"000000189\" placed on 5/2/23 with a total of $754.99.",
+    "tags": [
+        "View",
+        "Reorder",
+        "order",
+        "Total",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        203
+    ],
+    "bro_semantic_ids": [
+        812,
+        813,
+        815
+    ]
+}

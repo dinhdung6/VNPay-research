@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL of the website is http://localhost:7770/.",
+    "tags": [
+        "[URL",
+        "Address",
+        "internet",
+        "IP",
+        "port]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        6
+    ],
+    "bro_semantic_ids": [
+        24,
+        25,
+        27
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "subgoal": "To manage project members by inviting specific users and modifying project visibility settings.",
+    "procedural_memory": "When managing project members, begin by navigating to the appropriate section of the interface and identifying the relevant tools or options, such as the \"Invite members\" button. Initiating the process by clicking this button effectively opens the necessary dialog for adding members. Once the dialog is open, input the required information (e.g., usernames or email addresses) into the designated fields, ensuring accuracy and confirming selections as needed. This step-by-step approach ensures progress toward the goal of inviting members. However, it is crucial to maintain awareness of any additional tasks, such as modifying project visibility settings, and address them after completing the current subtask. By systematically completing each subtask and keeping track of pending actions, the overall goal can be achieved efficiently.",
+    "trajectory_num": 5,
+    "time": "",
+    "return": "7",
+    "subgoal_id": 70,
+    "episodic_ids": [
+        315,
+        316
+    ]
+}

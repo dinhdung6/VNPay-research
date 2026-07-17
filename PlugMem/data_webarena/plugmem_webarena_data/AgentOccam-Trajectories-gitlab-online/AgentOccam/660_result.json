@@ -1,0 +1,9 @@
+{
+  "task_id": 660,
+  "objective": "Create an issue in dotfiles repo with title \"add support for oh-my-zsh\". Assign the issue to Abishek. Set due date to be July 18 2033",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

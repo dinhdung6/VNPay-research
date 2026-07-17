@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Integrations' link with ID [10363] to navigate to the Integrations section.",
+    "tags": [
+        "Integrations",
+        "Click",
+        "link",
+        "accessible-html-content-patterns",
+        "navigation]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        200
+    ],
+    "bro_semantic_ids": [
+        800,
+        801,
+        802
+    ]
+}

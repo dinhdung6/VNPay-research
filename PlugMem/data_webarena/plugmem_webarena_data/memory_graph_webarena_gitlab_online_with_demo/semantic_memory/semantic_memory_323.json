@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project 'yjlou / 2019-nCov' uses Google Maps Timeline data to compare with COVID-19 patient history locations.",
+    "tags": [
+        "GoogleMaps",
+        "Timeline",
+        "Comparison",
+        "PatientHistory",
+        "Location"
+    ],
+    "time": "",
+    "episodic_ids": [
+        80
+    ],
+    "bro_semantic_ids": [
+        320,
+        321,
+        322
+    ]
+}

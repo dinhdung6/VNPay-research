@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to invite a new member named \"Agnes-U\" to the \"coding_friends\" group via the \"Username or email address\" textbox.",
+    "tags": [
+        "GitLab",
+        "Invite",
+        "members",
+        "Username",
+        "CodingFriends"
+    ],
+    "time": "",
+    "episodic_ids": [
+        358
+    ],
+    "bro_semantic_ids": [
+        1433,
+        1434,
+        1435
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is creating a new merge request titled \"Update LICENSE.txt\" for the \"cloud-to-butt\" project on GitLab.",
+    "tags": [
+        "GitLab",
+        "MergeRequests",
+        "Update",
+        "LICENSE.txt",
+        "cloud-to-butt"
+    ],
+    "time": "",
+    "episodic_ids": [
+        98
+    ],
+    "bro_semantic_ids": [
+        393,
+        394,
+        395
+    ]
+}

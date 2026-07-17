@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's order number is 000000180 and it was completed on March 11, 2023.",
+    "tags": [
+        "order",
+        "Completion",
+        "Date",
+        "User",
+        "March"
+    ],
+    "time": "",
+    "episodic_ids": [
+        219
+    ],
+    "bro_semantic_ids": [
+        877,
+        878,
+        879
+    ]
+}

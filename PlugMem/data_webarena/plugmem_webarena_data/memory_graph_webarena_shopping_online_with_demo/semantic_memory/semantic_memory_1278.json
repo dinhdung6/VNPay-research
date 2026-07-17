@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The subtotal for the shopping cart is $35.00, with shipping costing $5.00, making the total order cost $40.00.",
+    "tags": [
+        "[subtotal",
+        "Shipping",
+        "Total",
+        "Cost",
+        "order"
+    ],
+    "time": "",
+    "episodic_ids": [
+        319
+    ],
+    "bro_semantic_ids": [
+        1276,
+        1277,
+        1279
+    ]
+}

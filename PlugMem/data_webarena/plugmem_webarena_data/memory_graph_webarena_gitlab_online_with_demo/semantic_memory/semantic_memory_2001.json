@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"supporting llama\" into the required \"Title\" textbox on the \"New Issue\" page.",
+    "tags": [
+        "Agent",
+        "TextBox",
+        "title",
+        "Issues",
+        "Typing"
+    ],
+    "time": "",
+    "episodic_ids": [
+        500
+    ],
+    "bro_semantic_ids": [
+        2000,
+        2002,
+        2003
+    ]
+}

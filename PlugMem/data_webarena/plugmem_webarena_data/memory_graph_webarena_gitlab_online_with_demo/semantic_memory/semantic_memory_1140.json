@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is the Issues section of the 'metaseq' project on GitLab, located at URL http://localhost:8023/root/metaseq/-/issues.",
+    "tags": [
+        "GitLab",
+        "Issues",
+        "metaseq",
+        "URL",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        285
+    ],
+    "bro_semantic_ids": [
+        1141,
+        1142,
+        1143
+    ]
+}

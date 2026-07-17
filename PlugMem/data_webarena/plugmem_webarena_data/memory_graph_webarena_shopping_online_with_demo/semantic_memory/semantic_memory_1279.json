@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Proceed to Checkout\" button (ID: 25936) to start the checkout process.",
+    "tags": [
+        "[agent",
+        "Button",
+        "Checkout",
+        "proceed",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        319
+    ],
+    "bro_semantic_ids": [
+        1276,
+        1277,
+        1278
+    ]
+}

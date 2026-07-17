@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user named <NAME> has filled out the 'Name' field with her name and the 'Email' field with <EMAIL>.",
+    "tags": [
+        "User",
+        "Name",
+        "Email",
+        "<NAME>",
+        "<NAME>"
+    ],
+    "time": "",
+    "episodic_ids": [
+        359
+    ],
+    "bro_semantic_ids": [
+        1436,
+        1438,
+        1439
+    ]
+}

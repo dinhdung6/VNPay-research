@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 537 health and household items available on the website.",
+    "tags": [
+        "Inventory",
+        "Items",
+        "Website",
+        "Health",
+        "Household"
+    ],
+    "time": "",
+    "episodic_ids": [
+        54
+    ],
+    "bro_semantic_ids": [
+        216,
+        218,
+        219
+    ]
+}

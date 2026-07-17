@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Add to Cart\" button [1709] to attempt adding the VIVIKI Women Glitter Socks to the shopping cart.",
+    "tags": [
+        "Action",
+        "AddToCart",
+        "Button",
+        "Agent",
+        "Socks"
+    ],
+    "time": "",
+    "episodic_ids": [
+        122
+    ],
+    "bro_semantic_ids": [
+        488,
+        489,
+        490
+    ]
+}

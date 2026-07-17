@@ -1,0 +1,9 @@
+{
+  "task_id": 342,
+  "objective": "List all opened issues that ask about OPT model related questions",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

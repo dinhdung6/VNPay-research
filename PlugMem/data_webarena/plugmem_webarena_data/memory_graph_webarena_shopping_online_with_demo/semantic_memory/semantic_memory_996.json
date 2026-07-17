@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is logged in as <NAME> on the One Stop Market website.",
+    "tags": [
+        "User",
+        "Login",
+        "Website",
+        "<NAME>",
+        "<NAME>"
+    ],
+    "time": "",
+    "episodic_ids": [
+        249
+    ],
+    "bro_semantic_ids": [
+        997,
+        998,
+        999
+    ]
+}

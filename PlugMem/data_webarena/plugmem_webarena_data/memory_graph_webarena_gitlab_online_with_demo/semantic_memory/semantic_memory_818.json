@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL textbox on the webhooks settings page is not required.",
+    "tags": [
+        "URL",
+        "TextBox",
+        "Webhooks",
+        "Settings",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        204
+    ],
+    "bro_semantic_ids": [
+        816,
+        817,
+        819
+    ]
+}

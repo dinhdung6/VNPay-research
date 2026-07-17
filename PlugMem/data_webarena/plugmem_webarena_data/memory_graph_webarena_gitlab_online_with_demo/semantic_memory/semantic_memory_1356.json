@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Expand\" button (ID: 9303) under the \"Visibility, project features, permissions\" section to reveal additional settings and options.",
+    "tags": [
+        "[agent",
+        "Button",
+        "Settings",
+        "Permissions",
+        "expand]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        339
+    ],
+    "bro_semantic_ids": [
+        1357,
+        1358,
+        1359
+    ]
+}

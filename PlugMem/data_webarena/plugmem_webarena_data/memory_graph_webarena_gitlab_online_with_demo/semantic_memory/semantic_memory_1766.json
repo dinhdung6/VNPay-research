@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project 'ffmpeg-python' by Karl Kroening provides Python bindings for FFmpeg with complex filtering support and was last updated on Mar 20, 2023, at 6:21pm CDT.",
+    "tags": [
+        "project",
+        "FfmpegPython",
+        "Python",
+        "Binding",
+        "FFmpeg"
+    ],
+    "time": "",
+    "episodic_ids": [
+        441
+    ],
+    "bro_semantic_ids": [
+        1764,
+        1765,
+        1767
+    ]
+}

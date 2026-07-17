@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is the main Amazon homepage displaying various categories and best-selling items.",
+    "tags": [
+        "Amazon",
+        "Homepage",
+        "Categories",
+        "BestSellers",
+        "Navigation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        26
+    ],
+    "bro_semantic_ids": [
+        105,
+        106,
+        107
+    ]
+}

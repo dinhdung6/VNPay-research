@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request is from the branch \"redesign\" into \"main\".",
+    "tags": [
+        "Branch",
+        "Redesign",
+        "main",
+        "MergeRequests",
+        "Source"
+    ],
+    "time": "",
+    "episodic_ids": [
+        295
+    ],
+    "bro_semantic_ids": [
+        1180,
+        1181,
+        1182
+    ]
+}

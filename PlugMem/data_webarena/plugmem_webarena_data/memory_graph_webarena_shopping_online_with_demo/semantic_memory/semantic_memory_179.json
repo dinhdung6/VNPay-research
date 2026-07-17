@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Advanced Search' page contains a group labeled 'Search Settings' with textboxes for product name, SKU, description, short description, and price.",
+    "tags": [
+        "Group",
+        "Settings",
+        "TextBox",
+        "Product",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        44
+    ],
+    "bro_semantic_ids": [
+        176,
+        177,
+        178
+    ]
+}

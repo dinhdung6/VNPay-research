@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project navigation sidebar includes links to various sections such as Project Information, Repository, Issues, Merge Requests, CI/CD, and Settings.",
+    "tags": [
+        "Sidebar",
+        "navigation]",
+        "repository",
+        "Issues",
+        "MergeRequests"
+    ],
+    "time": "",
+    "episodic_ids": [
+        341
+    ],
+    "bro_semantic_ids": [
+        1364,
+        1365,
+        1367
+    ]
+}

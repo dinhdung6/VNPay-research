@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The webpage displays 12 out of 182 children's dental care items.",
+    "tags": [
+        "ItemCount",
+        "TotalItems",
+        "Children",
+        "Dental",
+        "Display"
+    ],
+    "time": "",
+    "episodic_ids": [
+        276
+    ],
+    "bro_semantic_ids": [
+        1104,
+        1106,
+        1107
+    ]
+}

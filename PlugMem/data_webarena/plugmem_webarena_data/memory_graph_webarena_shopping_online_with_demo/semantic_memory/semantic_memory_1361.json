@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can sign out from their account on the webpage.",
+    "tags": [
+        "User",
+        "Account",
+        "SignOut",
+        "Action",
+        "Webpage"
+    ],
+    "time": "",
+    "episodic_ids": [
+        340
+    ],
+    "bro_semantic_ids": [
+        1360,
+        1362,
+        1363
+    ]
+}

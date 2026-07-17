@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is 'Dayton Audio T652 Dual 6-1/2\" 2-Way Tower Speaker Pair' priced at $128.98.",
+    "tags": [
+        "[products",
+        "DaytonAudio",
+        "Price",
+        "SpeakerPair",
+        "Electronics"
+    ],
+    "time": "",
+    "episodic_ids": [
+        160
+    ],
+    "bro_semantic_ids": [
+        640,
+        641,
+        643
+    ]
+}

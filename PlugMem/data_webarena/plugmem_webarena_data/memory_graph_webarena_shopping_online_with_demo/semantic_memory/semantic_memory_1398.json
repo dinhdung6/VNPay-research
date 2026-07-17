@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shipping address listed is <ADDRESS>, California, 94010, United States.",
+    "tags": [
+        "Address",
+        "Street",
+        "California",
+        "ZipCode",
+        "Country"
+    ],
+    "time": "",
+    "episodic_ids": [
+        349
+    ],
+    "bro_semantic_ids": [
+        1396,
+        1397,
+        1399
+    ]
+}

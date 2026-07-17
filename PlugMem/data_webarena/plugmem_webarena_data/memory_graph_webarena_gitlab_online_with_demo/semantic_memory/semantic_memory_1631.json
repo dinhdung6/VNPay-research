@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The file size of LICENSE.txt is 483 bytes.",
+    "tags": [
+        "FileSize",
+        "Byte",
+        "LICENSE",
+        "TextFile",
+        "Metadata"
+    ],
+    "time": "",
+    "episodic_ids": [
+        407
+    ],
+    "bro_semantic_ids": [
+        1628,
+        1629,
+        1630
+    ]
+}

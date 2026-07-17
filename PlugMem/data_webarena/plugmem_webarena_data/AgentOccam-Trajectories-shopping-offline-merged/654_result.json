@@ -1,0 +1,9 @@
+{
+  "task_id": 654,
+  "objective": "Fill the \"contact us\" form in the site for a refund on the bluetooth speaker I bought, stating that it broke after just three days of use. Also, ensure to include the order number #161 and the product SKU. Don't submit yet, I will check.",
+  "success": true,
+  "reward": 0.75,
+  "num_actions": 12,
+  "done": true,
+  "status": "SUCCESS"
+}

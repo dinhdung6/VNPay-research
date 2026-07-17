@@ -1,0 +1,9 @@
+{
+  "task_id": 414,
+  "objective": "Make the LICENSE of byteblaze/dotfiles to MIT license.",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

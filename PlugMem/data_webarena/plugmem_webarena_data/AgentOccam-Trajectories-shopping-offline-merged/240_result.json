@@ -1,0 +1,9 @@
+{
+  "task_id": 240,
+  "objective": "I am doing a market survey for one stop market, show me the most expensive product from competitive swimwear category",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "FAIL"
+}

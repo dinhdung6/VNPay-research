@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is viewing the 'Projects Dashboard GitLab' page which includes a search box labeled 'Search GitLab'.",
+    "tags": [
+        "GitLab",
+        "Search",
+        "Dashboard",
+        "project",
+        "Interface"
+    ],
+    "time": "",
+    "episodic_ids": [
+        363
+    ],
+    "bro_semantic_ids": [
+        1453,
+        1454,
+        1455
+    ]
+}

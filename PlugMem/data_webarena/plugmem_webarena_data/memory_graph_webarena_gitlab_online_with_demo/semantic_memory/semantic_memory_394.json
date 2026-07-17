@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has selected the option to delete the source branch after the merge request is accepted.",
+    "tags": [
+        "Delete",
+        "SourceBranch",
+        "MergeRequests",
+        "Accepted",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        98
+    ],
+    "bro_semantic_ids": [
+        392,
+        393,
+        395
+    ]
+}

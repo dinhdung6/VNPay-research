@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project's general settings include options to customize visibility, project features, and permissions.",
+    "tags": [
+        "Visibility",
+        "Permissions",
+        "ProjectFeatures",
+        "Settings",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        206
+    ],
+    "bro_semantic_ids": [
+        824,
+        825,
+        827
+    ]
+}

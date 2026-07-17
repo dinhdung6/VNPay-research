@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The Issues Dashboard shows 8 merge requests.",
+    "tags": [
+        "GitLab",
+        "MergeRequests",
+        "Dashboard",
+        "ByteBlaze",
+        "Issues"
+    ],
+    "time": "",
+    "episodic_ids": [
+        272
+    ],
+    "bro_semantic_ids": [
+        1088,
+        1090,
+        1091
+    ]
+}

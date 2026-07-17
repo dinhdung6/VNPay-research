@@ -1,0 +1,9 @@
+{
+  "task_id": 232,
+  "objective": "Get the order number of my most recent pending order ",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "FAIL"
+}

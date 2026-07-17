@@ -1,0 +1,9 @@
+{
+  "task_id": 413,
+  "objective": "Make the LICENSE of byteblaze/a11y-syntax-highlighting to one that mandates all copies and derivative works to be under the same license",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 15,
+  "done": true,
+  "status": "FAIL"
+}

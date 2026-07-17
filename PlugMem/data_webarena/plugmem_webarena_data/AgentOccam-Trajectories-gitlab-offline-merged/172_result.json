@@ -1,0 +1,9 @@
+{
+  "task_id": 172,
+  "objective": "Tell me the full names of the repositories where I made contributions and they got no stars?",
+  "success": true,
+  "reward": 0.8333333333333334,
+  "num_actions": 1,
+  "done": true,
+  "status": "SUCCESS"
+}

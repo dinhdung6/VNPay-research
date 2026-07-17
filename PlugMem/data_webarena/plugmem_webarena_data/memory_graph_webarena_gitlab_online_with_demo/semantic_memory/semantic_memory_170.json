@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has no personal projects.",
+    "tags": [
+        "User",
+        "project",
+        "Personal",
+        "None",
+        "Status"
+    ],
+    "time": "",
+    "episodic_ids": [
+        42
+    ],
+    "bro_semantic_ids": [
+        168,
+        169,
+        171
+    ]
+}

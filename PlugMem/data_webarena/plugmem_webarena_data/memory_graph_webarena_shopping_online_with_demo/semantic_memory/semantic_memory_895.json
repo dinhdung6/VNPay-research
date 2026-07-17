@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> requested a coupon as a token of appreciation for her loyalty to the store.",
+    "tags": [
+        "Request",
+        "Coupon",
+        "Loyalty",
+        "Appreciation",
+        "Store"
+    ],
+    "time": "",
+    "episodic_ids": [
+        223
+    ],
+    "bro_semantic_ids": [
+        892,
+        893,
+        894
+    ]
+}

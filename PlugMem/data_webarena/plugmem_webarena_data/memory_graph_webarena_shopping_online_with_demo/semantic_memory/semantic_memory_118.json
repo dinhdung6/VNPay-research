@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Video Games' category link was clicked by the agent.",
+    "tags": [
+        "Agent",
+        "Click",
+        "VideoGames",
+        "Categories",
+        "Link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        29
+    ],
+    "bro_semantic_ids": [
+        116,
+        117,
+        119
+    ]
+}

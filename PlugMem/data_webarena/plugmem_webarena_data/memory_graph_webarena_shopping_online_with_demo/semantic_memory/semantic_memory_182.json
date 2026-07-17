@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search parameters include 'children dental care' in the Product Name field and a price of 78 USD.",
+    "tags": [
+        "[search",
+        "Parameters",
+        "ProductName",
+        "Price",
+        "USD"
+    ],
+    "time": "",
+    "episodic_ids": [
+        45
+    ],
+    "bro_semantic_ids": [
+        180,
+        181,
+        183
+    ]
+}

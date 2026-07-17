@@ -1,0 +1,9 @@
+{
+  "task_id": 331,
+  "objective": "How much I spend in July 2022 on shopping at One Stop Market?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "SUCCESS"
+}

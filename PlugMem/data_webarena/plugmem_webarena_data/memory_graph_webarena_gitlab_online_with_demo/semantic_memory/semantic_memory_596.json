@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to create a new GitLab project named \"awesome_webagent\".",
+    "tags": [
+        "GitLab",
+        "project",
+        "User",
+        "Creation",
+        "Name"
+    ],
+    "time": "",
+    "episodic_ids": [
+        149
+    ],
+    "bro_semantic_ids": [
+        597,
+        598,
+        599
+    ]
+}

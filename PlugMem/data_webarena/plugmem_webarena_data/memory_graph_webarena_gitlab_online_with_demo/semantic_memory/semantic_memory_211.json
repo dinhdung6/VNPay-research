@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"project members\" link to learn more about access restrictions and membership requirements.",
+    "tags": [
+        "link",
+        "Click",
+        "AccessRestrictions",
+        "MembershipRequirements",
+        "ProjectMembers"
+    ],
+    "time": "",
+    "episodic_ids": [
+        52
+    ],
+    "bro_semantic_ids": [
+        208,
+        209,
+        210
+    ]
+}

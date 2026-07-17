@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has typed \"add support for oh-my-zsh\" into the required Title textbox.",
+    "tags": [
+        "title",
+        "TextBox",
+        "oh-my-zsh",
+        "Support",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        484
+    ],
+    "bro_semantic_ids": [
+        1936,
+        1937,
+        1939
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search bar on the One Stop Market website was used to input the query \"Nintendo Switch game card storage\".",
+    "tags": [
+        "SearchField",
+        "query",
+        "Nintendo",
+        "Switch",
+        "Storage"
+    ],
+    "time": "",
+    "episodic_ids": [
+        249
+    ],
+    "bro_semantic_ids": [
+        996,
+        997,
+        999
+    ]
+}

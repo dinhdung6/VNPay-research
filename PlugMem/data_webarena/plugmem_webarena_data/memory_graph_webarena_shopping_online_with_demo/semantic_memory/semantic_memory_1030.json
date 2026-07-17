@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The lowest priced item listed is $5.49 for \"Amazon Basics 4 Pack CR2032 3 Volt Lithium Coin Cell Battery\".",
+    "tags": [
+        "Price",
+        "Items",
+        "Lowest",
+        "Battery",
+        "Product"
+    ],
+    "time": "",
+    "episodic_ids": [
+        257
+    ],
+    "bro_semantic_ids": [
+        1028,
+        1029,
+        1031
+    ]
+}

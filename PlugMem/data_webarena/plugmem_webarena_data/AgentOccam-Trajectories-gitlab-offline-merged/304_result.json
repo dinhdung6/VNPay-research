@@ -1,0 +1,9 @@
+{
+  "task_id": 304,
+  "objective": "How many commits did Eric make between Feb 2023 and May 2023?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "FAIL"
+}

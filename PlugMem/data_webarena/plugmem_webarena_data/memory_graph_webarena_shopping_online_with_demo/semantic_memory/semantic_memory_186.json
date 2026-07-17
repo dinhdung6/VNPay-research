@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search settings include a product name 'children dental care', price '78 USD', and other fields like SKU, Description, and Short Description.",
+    "tags": [
+        "ProductName",
+        "Price",
+        "SearchSettings",
+        "Children",
+        "Dental"
+    ],
+    "time": "",
+    "episodic_ids": [
+        46
+    ],
+    "bro_semantic_ids": [
+        184,
+        185,
+        187
+    ]
+}

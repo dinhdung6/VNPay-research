@@ -1,0 +1,9 @@
+{
+  "task_id": 442,
+  "objective": "Update the project site's title to \"Welcome to my site\"",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

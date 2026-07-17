@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can sign out from the account on the 'One Stop Market' website.",
+    "tags": [
+        "User",
+        "SignOut",
+        "Account",
+        "Action",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        23
+    ],
+    "bro_semantic_ids": [
+        92,
+        94,
+        95
+    ]
+}

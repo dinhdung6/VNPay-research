@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on the 'New Milestone' page within the 'Byte Blaze / dotfiles' project on GitLab.",
+    "tags": [
+        "GitLab",
+        "Milestones",
+        "ByteBlaze",
+        "Dotfiles]",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        262
+    ],
+    "bro_semantic_ids": [
+        1049,
+        1050,
+        1051
+    ]
+}

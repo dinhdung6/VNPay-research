@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product 'Pre-baked Gingerbread House Kit Value Pack' is priced at $19.99.",
+    "tags": [
+        "Product",
+        "Price",
+        "Gingerbread",
+        "Kit",
+        "Market"
+    ],
+    "time": "",
+    "episodic_ids": [
+        157
+    ],
+    "bro_semantic_ids": [
+        628,
+        629,
+        630
+    ]
+}

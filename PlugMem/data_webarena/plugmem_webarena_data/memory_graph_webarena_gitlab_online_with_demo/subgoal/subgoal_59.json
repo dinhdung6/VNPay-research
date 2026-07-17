@@ -1,0 +1,8 @@
+{
+    "subgoal": "The agent's goal is to create a new issue in the \"Byte Blaze / dotfiles\" repository on GitLab, making sure to include all required details such as the title, assignee, and due date.",
+    "procedural_ids": [
+        76,
+        136,
+        138
+    ]
+}

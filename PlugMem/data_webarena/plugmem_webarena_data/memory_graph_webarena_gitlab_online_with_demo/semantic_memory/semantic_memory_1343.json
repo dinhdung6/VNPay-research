@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'web_agent' project has enabled Git Large File Storage (LFS).",
+    "tags": [
+        "LFS",
+        "Storage",
+        "Enabled",
+        "project",
+        "Feature"
+    ],
+    "time": "",
+    "episodic_ids": [
+        335
+    ],
+    "bro_semantic_ids": [
+        1340,
+        1341,
+        1342
+    ]
+}

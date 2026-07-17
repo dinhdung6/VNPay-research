@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The page displays a welcome message 'Welcome to One Stop Market'.",
+    "tags": [
+        "[Message",
+        "Welcome",
+        "Market",
+        "Store",
+        "Greeting]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        154
+    ],
+    "bro_semantic_ids": [
+        616,
+        617,
+        618
+    ]
+}

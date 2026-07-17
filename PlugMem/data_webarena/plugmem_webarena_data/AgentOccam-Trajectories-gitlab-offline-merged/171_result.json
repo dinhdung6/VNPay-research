@@ -1,0 +1,9 @@
+{
+  "task_id": 171,
+  "objective": "Tell me the full names of the repositories where I made contributions and they got less than 5 stars?",
+  "success": true,
+  "reward": 0.9,
+  "num_actions": 1,
+  "done": true,
+  "status": "SUCCESS"
+}

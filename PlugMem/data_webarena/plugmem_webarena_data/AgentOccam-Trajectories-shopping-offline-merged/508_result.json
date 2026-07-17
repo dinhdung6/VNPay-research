@@ -1,0 +1,9 @@
+{
+  "task_id": 508,
+  "objective": "Buy the highest rated product from the NS switch pouch category within a budget under 60.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has 14 projects under the 'Yours' section on the GitLab dashboard.",
+    "tags": [
+        "project",
+        "GitLab",
+        "Dashboard",
+        "User",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        370
+    ],
+    "bro_semantic_ids": [
+        1481,
+        1482,
+        1483
+    ]
+}

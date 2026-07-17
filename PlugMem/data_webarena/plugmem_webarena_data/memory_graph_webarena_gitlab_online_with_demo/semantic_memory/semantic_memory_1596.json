@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current view is on the \"Issues\" page of the metaseq GitLab project, specifically filtering for open issues labeled \"question\" containing the keyword \"OPT.\"",
+    "tags": [
+        "GitLab",
+        "Issues",
+        "metaseq",
+        "question",
+        "OPT"
+    ],
+    "time": "",
+    "episodic_ids": [
+        399
+    ],
+    "bro_semantic_ids": [
+        1597,
+        1598,
+        1599
+    ]
+}

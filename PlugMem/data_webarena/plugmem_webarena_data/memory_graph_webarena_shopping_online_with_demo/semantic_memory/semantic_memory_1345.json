@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user named <NAME> has added a chandelier to her shopping cart.",
+    "tags": [
+        "<NAME>",
+        "<NAME>",
+        "Chandelier",
+        "Shopping",
+        "Cart"
+    ],
+    "time": "",
+    "episodic_ids": [
+        336
+    ],
+    "bro_semantic_ids": [
+        1344,
+        1346,
+        1347
+    ]
+}

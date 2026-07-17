@@ -1,0 +1,7 @@
+{
+    "subgoal": "The agent's goal is to review and facilitate progress on a specific merge request related to \"verification functions.\" This involves locating the request, assessing its status, checking for a response from the author, and sending a reminder if necessary.",
+    "procedural_ids": [
+        32,
+        110
+    ]
+}

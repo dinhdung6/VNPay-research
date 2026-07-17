@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user searched for projects containing the term \"2019-nCov\".",
+    "tags": [
+        "Search",
+        "term",
+        "project",
+        "GitLab",
+        "Dashboard"
+    ],
+    "time": "",
+    "episodic_ids": [
+        41
+    ],
+    "bro_semantic_ids": [
+        165,
+        166,
+        167
+    ]
+}

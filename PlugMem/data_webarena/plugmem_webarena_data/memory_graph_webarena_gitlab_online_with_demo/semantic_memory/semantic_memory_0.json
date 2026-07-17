@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Issues\" link (ID: 498) in the project navigation to view the list of 40 issues associated with the \"a11yproject.com\" repository.",
+    "tags": [
+        "[click",
+        "Issues",
+        "link",
+        "repository",
+        "navigation]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        0
+    ],
+    "bro_semantic_ids": [
+        1,
+        2,
+        3
+    ]
+}

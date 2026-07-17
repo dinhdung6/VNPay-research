@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has the option to display 10, 20, or 50 orders per page, with 10 currently selected.",
+    "tags": [
+        "Display",
+        "Options",
+        "Orders",
+        "selected]",
+        "perpage]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        285
+    ],
+    "bro_semantic_ids": [
+        1140,
+        1141,
+        1142
+    ]
+}

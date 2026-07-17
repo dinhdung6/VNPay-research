@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The payment method used for Order #000000170 is Check / Money order.",
+    "tags": [
+        "Payment",
+        "Method",
+        "order",
+        "User",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        202
+    ],
+    "bro_semantic_ids": [
+        808,
+        809,
+        810
+    ]
+}

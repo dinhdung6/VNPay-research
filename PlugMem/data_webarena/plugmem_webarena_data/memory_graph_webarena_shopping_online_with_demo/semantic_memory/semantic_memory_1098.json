@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent hovered over the \"Oral Care\" menu item under the \"Beauty & Personal Care\" category.",
+    "tags": [
+        "Agent",
+        "Hover",
+        "OralCare",
+        "Menu",
+        "Categories"
+    ],
+    "time": "",
+    "episodic_ids": [
+        274
+    ],
+    "bro_semantic_ids": [
+        1096,
+        1097,
+        1099
+    ]
+}

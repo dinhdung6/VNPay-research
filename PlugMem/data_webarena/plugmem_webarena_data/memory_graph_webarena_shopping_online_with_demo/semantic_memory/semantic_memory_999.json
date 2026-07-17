@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The One Stop Market website displays product showcases including items like a pre-baked gingerbread house kit and V8 energy drink.",
+    "tags": [
+        "ProductShowcase",
+        "Gingerbread",
+        "V8EnergyDrink",
+        "Website",
+        "OneStopMarket"
+    ],
+    "time": "",
+    "episodic_ids": [
+        249
+    ],
+    "bro_semantic_ids": [
+        996,
+        997,
+        998
+    ]
+}

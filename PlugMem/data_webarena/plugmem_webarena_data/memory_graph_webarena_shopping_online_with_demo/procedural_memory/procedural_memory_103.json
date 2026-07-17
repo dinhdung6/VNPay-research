@@ -1,0 +1,13 @@
+{
+    "subgoal": "To locate the purchase of the PS3 Remote Controllers and proceed to rate the product.",
+    "procedural_memory": "When tasked with locating a specific product purchase and submitting a rating, a methodical approach ensures efficiency and success. Begin by navigating to the \"My Orders\" section to access the order history, as this provides a comprehensive view of past purchases. Identify the relevant order by selecting the \"View Order\" link associated with the correct order ID, which will lead to detailed information about the purchase. Once the product is located, transition to the \"My Product Reviews\" section to prepare for submitting the rating. Each of these steps contributes directly to the goal, and avoiding unnecessary detours ensures a streamlined process.",
+    "trajectory_num": 2,
+    "time": "",
+    "return": "8",
+    "subgoal_id": 83,
+    "episodic_ids": [
+        353,
+        354,
+        355
+    ]
+}

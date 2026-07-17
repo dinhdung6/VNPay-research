@@ -1,0 +1,9 @@
+{
+  "task_id": 411,
+  "objective": "Make the LICENSE of byteblaze/cloud-to-butt to MIT license.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

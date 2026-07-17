@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Issues\" link (ID: 420) on the \"Projects Dashboard GitLab\" page.",
+    "tags": [
+        "GitLab",
+        "Issues",
+        "Click",
+        "User",
+        "link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        371
+    ],
+    "bro_semantic_ids": [
+        1485,
+        1486,
+        1487
+    ]
+}

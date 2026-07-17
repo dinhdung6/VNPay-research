@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on the 'Home & Kitchen' tab which is the only opened tab.",
+    "tags": [
+        "Tab",
+        "Home",
+        "Kitchen",
+        "User",
+        "Environment"
+    ],
+    "time": "",
+    "episodic_ids": [
+        151
+    ],
+    "bro_semantic_ids": [
+        604,
+        606,
+        607
+    ]
+}

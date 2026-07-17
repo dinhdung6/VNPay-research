@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The highest priced item listed is $216.32 for \"Amazon Basics Rectangular Faux Leather Storage Ottoman Bench, Large - Russet Brown\".",
+    "tags": [
+        "Price",
+        "Items",
+        "Highest",
+        "Bench",
+        "Furniture"
+    ],
+    "time": "",
+    "episodic_ids": [
+        257
+    ],
+    "bro_semantic_ids": [
+        1028,
+        1029,
+        1030
+    ]
+}

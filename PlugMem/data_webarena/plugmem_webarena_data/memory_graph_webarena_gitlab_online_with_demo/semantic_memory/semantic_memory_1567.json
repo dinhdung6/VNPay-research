@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'metaseq' project's primary language is Python, accounting for 98% of the codebase, followed by Cython at 1%, HTML at 0.7%, Shell at 0.1%, and Dockerfile at 0.1%.",
+    "tags": [
+        "Languages",
+        "Python",
+        "Cython",
+        "HTML",
+        "Shell"
+    ],
+    "time": "",
+    "episodic_ids": [
+        391
+    ],
+    "bro_semantic_ids": [
+        1564,
+        1565,
+        1566
+    ]
+}

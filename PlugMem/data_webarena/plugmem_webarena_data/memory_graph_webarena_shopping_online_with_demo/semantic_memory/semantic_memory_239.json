@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Each item has options to add to cart, wish list, or compare.",
+    "tags": [
+        "AddToCart",
+        "WishList",
+        "Compare",
+        "Options",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        59
+    ],
+    "bro_semantic_ids": [
+        236,
+        237,
+        238
+    ]
+}

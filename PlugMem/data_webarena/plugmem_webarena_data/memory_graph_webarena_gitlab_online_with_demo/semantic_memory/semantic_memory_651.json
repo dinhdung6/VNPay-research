@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"dotfiles\" project's members page allows inviting new members via usernames or email addresses.",
+    "tags": [
+        "InviteMembers",
+        "project",
+        "MembersSection",
+        "Username",
+        "email"
+    ],
+    "time": "",
+    "episodic_ids": [
+        162
+    ],
+    "bro_semantic_ids": [
+        648,
+        649,
+        650
+    ]
+}

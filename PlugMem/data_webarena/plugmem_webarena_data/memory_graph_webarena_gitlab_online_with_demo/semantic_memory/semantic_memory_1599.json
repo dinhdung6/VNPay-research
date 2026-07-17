@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The last issue listed is titled \"Figure out potential duplication in ConfigStore,\" which was created on March 13, 2022.",
+    "tags": [
+        "duplication",
+        "ConfigStore",
+        "Issues",
+        "metaseq",
+        "Creation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        399
+    ],
+    "bro_semantic_ids": [
+        1596,
+        1597,
+        1598
+    ]
+}

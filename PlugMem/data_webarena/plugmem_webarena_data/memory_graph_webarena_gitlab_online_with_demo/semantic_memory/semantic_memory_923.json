@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent selected the \"Developer\" role from the role selection combobox in the \"Invite members\" dialog.",
+    "tags": [
+        "Agent",
+        "Role",
+        "Developer",
+        "Invite",
+        "Dialog]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        230
+    ],
+    "bro_semantic_ids": [
+        920,
+        921,
+        922
+    ]
+}

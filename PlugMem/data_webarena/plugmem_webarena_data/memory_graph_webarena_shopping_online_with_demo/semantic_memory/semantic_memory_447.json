@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has placed multiple recent orders with order numbers 000000170, 000000189, 000000188, 000000187, and 000000180.",
+    "tags": [
+        "Orders",
+        "Number",
+        "Recent",
+        "Customer",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        111
+    ],
+    "bro_semantic_ids": [
+        444,
+        445,
+        446
+    ]
+}

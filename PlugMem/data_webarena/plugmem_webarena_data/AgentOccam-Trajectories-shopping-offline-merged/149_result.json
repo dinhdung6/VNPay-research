@@ -1,0 +1,9 @@
+{
+  "task_id": 149,
+  "objective": "What is the color configuration of the artifical plants I bought Feb 2023",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "SUCCESS"
+}

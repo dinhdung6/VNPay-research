@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"New issue\" link (ID: 4769) to initiate the creation of a new issue.",
+    "tags": [
+        "NewIssue",
+        "Click",
+        "link",
+        "Agent",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        285
+    ],
+    "bro_semantic_ids": [
+        1140,
+        1141,
+        1143
+    ]
+}

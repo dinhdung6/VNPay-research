@@ -1,0 +1,9 @@
+{
+  "task_id": 299,
+  "objective": "Show the most recent cancelled order",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has interacted with the \"Office Furniture & Lighting\" menu item (ID: 3860).",
+    "tags": [
+        "User",
+        "Interaction",
+        "Menu",
+        "Office",
+        "Furniture"
+    ],
+    "time": "",
+    "episodic_ids": [
+        270
+    ],
+    "bro_semantic_ids": [
+        1080,
+        1082,
+        1083
+    ]
+}

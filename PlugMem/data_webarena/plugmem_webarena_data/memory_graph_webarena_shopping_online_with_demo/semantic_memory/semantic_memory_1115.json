@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The website offers products such as pre-baked gingerbread house kits, V8 energy drinks, and tea.",
+    "tags": [
+        "Product",
+        "food",
+        "Beverage",
+        "tea",
+        "Kit"
+    ],
+    "time": "",
+    "episodic_ids": [
+        278
+    ],
+    "bro_semantic_ids": [
+        1112,
+        1113,
+        1114
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Select source branch\" button (ID: 6900) to choose a branch for comparison.",
+    "tags": [
+        "Button",
+        "Click",
+        "SourceBranch",
+        "Agent",
+        "MergeRequests"
+    ],
+    "time": "",
+    "episodic_ids": [
+        292
+    ],
+    "bro_semantic_ids": [
+        1168,
+        1169,
+        1171
+    ]
+}

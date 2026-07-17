@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The order includes one Kosher MRE Meat Meal for $12.99.",
+    "tags": [
+        "order",
+        "MRE",
+        "Meal",
+        "$12.99",
+        "food"
+    ],
+    "time": "",
+    "episodic_ids": [
+        238
+    ],
+    "bro_semantic_ids": [
+        952,
+        953,
+        955
+    ]
+}

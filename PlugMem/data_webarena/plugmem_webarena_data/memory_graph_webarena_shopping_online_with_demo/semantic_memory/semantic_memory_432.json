@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current webpage is titled \"Home & Kitchen\" and displays items sorted by position.",
+    "tags": [
+        "Home",
+        "Kitchen",
+        "Webpage",
+        "Position",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        108
+    ],
+    "bro_semantic_ids": [
+        433,
+        434,
+        435
+    ]
+}

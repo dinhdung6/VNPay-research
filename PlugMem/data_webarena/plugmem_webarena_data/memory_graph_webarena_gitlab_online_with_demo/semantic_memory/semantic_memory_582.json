@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's current email is <EMAIL>.",
+    "tags": [
+        "email",
+        "User",
+        "address",
+        "Account",
+        "Current"
+    ],
+    "time": "",
+    "episodic_ids": [
+        145
+    ],
+    "bro_semantic_ids": [
+        580,
+        581,
+        583
+    ]
+}

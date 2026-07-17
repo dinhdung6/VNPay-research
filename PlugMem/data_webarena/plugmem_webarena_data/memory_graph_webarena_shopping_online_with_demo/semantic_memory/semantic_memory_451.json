@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate to the next page of orders by clicking on \"Page 2\" link [7924].",
+    "tags": [
+        "[navigation",
+        "Page",
+        "Orders",
+        "Link",
+        "Click"
+    ],
+    "time": "",
+    "episodic_ids": [
+        112
+    ],
+    "bro_semantic_ids": [
+        448,
+        449,
+        450
+    ]
+}

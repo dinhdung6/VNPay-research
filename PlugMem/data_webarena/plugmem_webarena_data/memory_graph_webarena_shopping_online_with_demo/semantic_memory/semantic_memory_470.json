@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search button on the webpage is disabled.",
+    "tags": [
+        "[Button",
+        "Disabled",
+        "Search",
+        "function",
+        "Interface]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        117
+    ],
+    "bro_semantic_ids": [
+        468,
+        469,
+        471
+    ]
+}

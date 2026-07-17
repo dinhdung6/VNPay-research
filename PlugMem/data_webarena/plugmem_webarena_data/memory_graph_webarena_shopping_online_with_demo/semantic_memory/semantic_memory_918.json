@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's phone number is <PHONE>.",
+    "tags": [
+        "User",
+        "PhoneNumber",
+        "Contact",
+        "Information",
+        "Phone"
+    ],
+    "time": "",
+    "episodic_ids": [
+        229
+    ],
+    "bro_semantic_ids": [
+        916,
+        917,
+        919
+    ]
+}

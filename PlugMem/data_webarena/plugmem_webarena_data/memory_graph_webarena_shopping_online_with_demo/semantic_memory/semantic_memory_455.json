@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Cell Phones & Accessories' category tab.",
+    "tags": [
+        "Action",
+        "Categories",
+        "Cellphones",
+        "accessories",
+        "Tab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        113
+    ],
+    "bro_semantic_ids": [
+        452,
+        453,
+        454
+    ]
+}

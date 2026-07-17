@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The latest order (Order ID: 000000190) was placed on January 15, 2026, with a total of $398.27 and is pending.",
+    "tags": [
+        "[order",
+        "Date",
+        "Total",
+        "status]",
+        "Pending"
+    ],
+    "time": "",
+    "episodic_ids": [
+        196
+    ],
+    "bro_semantic_ids": [
+        784,
+        786,
+        787
+    ]
+}

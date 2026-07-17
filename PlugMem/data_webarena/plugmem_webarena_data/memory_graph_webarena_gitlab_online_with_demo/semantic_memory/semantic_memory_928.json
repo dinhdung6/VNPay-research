@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"Byte Blaze / 2019-nCov\" is public and aims to use Google Maps Timeline data to compare with COVID-19 patient history locations.",
+    "tags": [
+        "GitLab",
+        "project",
+        "Public",
+        "GoogleMaps",
+        "COVID19"
+    ],
+    "time": "",
+    "episodic_ids": [
+        232
+    ],
+    "bro_semantic_ids": [
+        929,
+        930,
+        931
+    ]
+}

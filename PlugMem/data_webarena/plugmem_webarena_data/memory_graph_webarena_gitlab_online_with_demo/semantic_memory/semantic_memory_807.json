@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has navigated to the Integrations settings via the URL `http://localhost:8023/byteblaze/accessible-html-content-patterns/-/settings/integrations`.",
+    "tags": [
+        "navigation]",
+        "URL",
+        "Settings",
+        "Integrations",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        201
+    ],
+    "bro_semantic_ids": [
+        804,
+        805,
+        806
+    ]
+}

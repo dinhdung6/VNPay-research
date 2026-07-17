@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The source branch for the merge request is \"redesign\" from repository \"a11yproject/a11yproject.com\".",
+    "tags": [
+        "SourceBranch",
+        "Redesign",
+        "repository",
+        "MergeRequests",
+        "Branch"
+    ],
+    "time": "",
+    "episodic_ids": [
+        294
+    ],
+    "bro_semantic_ids": [
+        1176,
+        1177,
+        1179
+    ]
+}

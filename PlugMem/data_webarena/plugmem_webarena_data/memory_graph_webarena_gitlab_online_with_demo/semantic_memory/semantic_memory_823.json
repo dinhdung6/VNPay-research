@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL field for webhooks is optional and requires no special encoding unless it contains special characters.",
+    "tags": [
+        "URL",
+        "Webhooks",
+        "Encoding",
+        "SpecialCharacters",
+        "Optional"
+    ],
+    "time": "",
+    "episodic_ids": [
+        205
+    ],
+    "bro_semantic_ids": [
+        820,
+        821,
+        822
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is shopping within the Accessories subcategory of Video Games, specifically looking at items priced between $200.00 and $299.99.",
+    "tags": [
+        "accessories",
+        "Subcategory",
+        "VideoGames",
+        "PriceRange",
+        "Shopping"
+    ],
+    "time": "",
+    "episodic_ids": [
+        267
+    ],
+    "bro_semantic_ids": [
+        1068,
+        1069,
+        1070
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"The product SKU is B087QJN9W1.\" into the \"What\u2019s on your mind?\" field.",
+    "tags": [
+        "Agent",
+        "Input",
+        "Fields",
+        "Product",
+        "SKU"
+    ],
+    "time": "",
+    "episodic_ids": [
+        221
+    ],
+    "bro_semantic_ids": [
+        884,
+        885,
+        886
+    ]
+}

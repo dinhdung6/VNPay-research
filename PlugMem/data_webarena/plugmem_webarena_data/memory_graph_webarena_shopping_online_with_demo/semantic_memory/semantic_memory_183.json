@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL includes query parameters for advanced search with specific values for product name and price.",
+    "tags": [
+        "[URL",
+        "QueryParameters",
+        "AdvancedSearch",
+        "ProductName",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        45
+    ],
+    "bro_semantic_ids": [
+        180,
+        181,
+        182
+    ]
+}

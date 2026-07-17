@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple products listed on the page such as a Pre-baked Gingerbread House Kit, V8 Energy Drink, Elmwood Inn Fine Teas, Belle Of The Ball Princess Sprinkle Mix, So Delicious Dairy Free CocoWhip Light, Cheongeun Sweet Potato Starch Powder, Q Mixers Premium Ginger Ale, Stove Top Turkey Stuffing Mix, Briess DME - Pilsen Light, Tony Chachere's More Spice Creole Seasoning, Lobster Cobbler Pot Pie, Crunchy Rice Rollers.",
+    "tags": [
+        "Product",
+        "Listing",
+        "Market",
+        "Inventory",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        16
+    ],
+    "bro_semantic_ids": [
+        64,
+        65,
+        66
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"dotfiles\" project allows users to request access and has public visibility.",
+    "tags": [
+        "AccessRequest",
+        "VisibilityLevel",
+        "Public",
+        "project",
+        "Dotfiles]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        153
+    ],
+    "bro_semantic_ids": [
+        612,
+        613,
+        614
+    ]
+}

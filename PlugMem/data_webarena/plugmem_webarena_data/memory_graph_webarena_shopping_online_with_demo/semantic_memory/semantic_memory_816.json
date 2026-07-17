@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current order number is 000000189.",
+    "tags": [
+        "order",
+        "Number",
+        "ID",
+        "Sales",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        204
+    ],
+    "bro_semantic_ids": [
+        817,
+        818,
+        819
+    ]
+}

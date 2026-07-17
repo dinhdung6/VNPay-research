@@ -1,0 +1,7 @@
+{
+    "subgoal": "The agent's goal is to identify the least expensive shoe storage solution capable of holding at least 12 pairs of shoes.",
+    "procedural_ids": [
+        19,
+        73
+    ]
+}

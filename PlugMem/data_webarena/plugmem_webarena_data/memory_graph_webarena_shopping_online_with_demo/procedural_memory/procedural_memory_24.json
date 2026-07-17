@@ -1,0 +1,13 @@
+{
+    "subgoal": "To determine the refund amount for a canceled order from February 2023.",
+    "procedural_memory": "When tasked with retrieving specific information from a structured website, begin by identifying the most general navigation option that leads to the relevant category of information (e.g., \"My Account\" for account-related details). From there, progressively narrow the focus by selecting links or options that provide increasingly detailed views of the target information (e.g., \"My Orders\" for order history). Once the relevant data is located, interact with specific elements (e.g., \"View Order\" for a canceled order) to access the final details. This step-by-step approach ensures efficient navigation and minimizes unnecessary actions.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "2",
+    "subgoal_id": 22,
+    "episodic_ids": [
+        92,
+        93,
+        94
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The GitLab dashboard contains a link labeled \"Skip to content\" with ID [15192].",
+    "tags": [
+        "[GitLab",
+        "Dashboard",
+        "link",
+        "Content",
+        "navigation]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        171
+    ],
+    "bro_semantic_ids": [
+        685,
+        686,
+        687
+    ]
+}

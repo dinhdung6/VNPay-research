@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is http://localhost:8023/projects/new.",
+    "tags": [
+        "URL",
+        "project",
+        "New",
+        "GitLab",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        327
+    ],
+    "bro_semantic_ids": [
+        1308,
+        1310,
+        1311
+    ]
+}

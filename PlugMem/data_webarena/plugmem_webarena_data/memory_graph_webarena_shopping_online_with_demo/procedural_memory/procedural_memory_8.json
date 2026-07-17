@@ -1,0 +1,11 @@
+{
+    "subgoal": "To gather detailed customer feedback to evaluate the suitability and quality of a product before making a decision.",
+    "procedural_memory": "When evaluating a product, accessing customer reviews is a highly effective strategy for identifying potential issues and benefits. In this trajectory, the agent clicked on the \"Reviews (3)\" tab to view feedback about the \"Mineralogie All Natural Lip Gloss, Ruby Rose.\" This action provided critical insights into delivery and quality concerns, which are essential for informed decision-making. Future tasks involving product evaluation should prioritize reviewing customer feedback, as it offers valuable experiential data that complements the product description and specifications.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "8",
+    "subgoal_id": 0,
+    "episodic_ids": [
+        21
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:7770/clothing-shoes-jewelry.html?cat=26&p=5.",
+    "tags": [
+        "URL",
+        "Current",
+        "Address",
+        "Clothing",
+        "Shoes"
+    ],
+    "time": "",
+    "episodic_ids": [
+        139
+    ],
+    "bro_semantic_ids": [
+        556,
+        557,
+        558
+    ]
+}

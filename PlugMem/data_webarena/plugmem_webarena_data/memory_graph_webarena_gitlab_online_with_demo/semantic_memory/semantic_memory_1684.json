@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project named \"Hello\" is private and requires explicit user access.",
+    "tags": [
+        "project",
+        "Access]",
+        "User",
+        "Private",
+        "Explicit"
+    ],
+    "time": "",
+    "episodic_ids": [
+        421
+    ],
+    "bro_semantic_ids": [
+        1685,
+        1686,
+        1687
+    ]
+}

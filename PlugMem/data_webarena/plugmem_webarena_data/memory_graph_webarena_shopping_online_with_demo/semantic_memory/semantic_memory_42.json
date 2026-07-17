@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME>'s default billing and shipping addresses are both located at <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "Address",
+        "Location",
+        "Billing",
+        "Shipping",
+        "Default"
+    ],
+    "time": "",
+    "episodic_ids": [
+        10
+    ],
+    "bro_semantic_ids": [
+        40,
+        41,
+        43
+    ]
+}

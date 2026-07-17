@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> is the recipient of the order at <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "Recipient",
+        "Address",
+        "Location",
+        "EmmaLopez",
+        "California"
+    ],
+    "time": "",
+    "episodic_ids": [
+        355
+    ],
+    "bro_semantic_ids": [
+        1420,
+        1421,
+        1423
+    ]
+}

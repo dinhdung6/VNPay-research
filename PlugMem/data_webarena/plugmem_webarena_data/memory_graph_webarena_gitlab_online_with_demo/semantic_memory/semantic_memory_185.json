@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 8 merge requests associated with the \"metaseq\" project.",
+    "tags": [
+        "MergeRequests",
+        "metaseq",
+        "project",
+        "GitLab",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        46
+    ],
+    "bro_semantic_ids": [
+        184,
+        186,
+        187
+    ]
+}

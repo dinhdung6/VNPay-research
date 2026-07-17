@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Issues' tab is selected and displays 40 open issues.",
+    "tags": [
+        "Tab",
+        "Open",
+        "Issues",
+        "Selected",
+        "Display"
+    ],
+    "time": "",
+    "episodic_ids": [
+        5
+    ],
+    "bro_semantic_ids": [
+        20,
+        21,
+        22
+    ]
+}

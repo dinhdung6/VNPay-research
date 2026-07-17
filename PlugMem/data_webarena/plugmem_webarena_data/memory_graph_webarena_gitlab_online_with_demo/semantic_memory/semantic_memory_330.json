@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project description mentions using Google Maps Timeline data to compare with COVID-19 patient history locations.",
+    "tags": [
+        "Description",
+        "GoogleMaps",
+        "Timeline",
+        "Comparison",
+        "Patient"
+    ],
+    "time": "",
+    "episodic_ids": [
+        82
+    ],
+    "bro_semantic_ids": [
+        328,
+        329,
+        331
+    ]
+}

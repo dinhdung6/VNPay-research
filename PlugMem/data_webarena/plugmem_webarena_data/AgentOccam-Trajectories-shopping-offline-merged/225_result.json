@@ -1,0 +1,9 @@
+{
+  "task_id": 225,
+  "objective": "What do customers say about brush from sephora",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "SUCCESS"
+}

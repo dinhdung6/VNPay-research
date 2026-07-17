@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user searched for \"gimmiethat.space\" in the \"Search GitLab\" textbox.",
+    "tags": [
+        "Search",
+        "GitLab",
+        "user]",
+        "Query",
+        "TextBox"
+    ],
+    "time": "",
+    "episodic_ids": [
+        401
+    ],
+    "bro_semantic_ids": [
+        1605,
+        1606,
+        1607
+    ]
+}

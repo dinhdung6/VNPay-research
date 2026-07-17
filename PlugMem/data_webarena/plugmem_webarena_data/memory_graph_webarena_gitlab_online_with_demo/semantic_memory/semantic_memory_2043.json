@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The target branch selected for the merge request is \"main\".",
+    "tags": [
+        "TargetBranch",
+        "main",
+        "MergeRequests",
+        "Selected",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        510
+    ],
+    "bro_semantic_ids": [
+        2040,
+        2041,
+        2042
+    ]
+}

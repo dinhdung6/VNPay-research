@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project 'gimmiethat.space' has a To-Do List with 5 todos.",
+    "tags": [
+        "To_Do_List",
+        "Todos",
+        "project",
+        "gimmiethat.space",
+        "Tasks"
+    ],
+    "time": "",
+    "episodic_ids": [
+        50
+    ],
+    "bro_semantic_ids": [
+        200,
+        201,
+        203
+    ]
+}

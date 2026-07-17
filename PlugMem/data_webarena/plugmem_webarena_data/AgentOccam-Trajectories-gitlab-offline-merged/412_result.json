@@ -1,0 +1,9 @@
+{
+  "task_id": 412,
+  "objective": "Make the LICENSE of byteblaze/accessible-html-content-patterns to Apache License",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 26,
+  "done": true,
+  "status": "FAIL"
+}

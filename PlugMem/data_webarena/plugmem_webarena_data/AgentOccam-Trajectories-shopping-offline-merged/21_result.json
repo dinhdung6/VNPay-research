@@ -1,0 +1,9 @@
+{
+  "task_id": 21,
+  "objective": "List out reviewers, if exist, who mention about ear cups being small",
+  "success": true,
+  "reward": 0.8,
+  "num_actions": 2,
+  "done": true,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 97,
+  "objective": "Tell me the distance to drive from Carnegie Mellon University to the top computer science school in massachusetts",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "FAIL"
+}

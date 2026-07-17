@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has typed \"dental\" into the \"Product Name\" textbox with ID 14887.",
+    "tags": [
+        "[User",
+        "Product",
+        "Name",
+        "TextBox",
+        "Dental"
+    ],
+    "time": "",
+    "episodic_ids": [
+        52
+    ],
+    "bro_semantic_ids": [
+        208,
+        210,
+        211
+    ]
+}

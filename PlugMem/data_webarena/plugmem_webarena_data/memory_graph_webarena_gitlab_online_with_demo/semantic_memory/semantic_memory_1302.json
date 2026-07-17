@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Invite members\" dialog is open and set to invite members to the \"project_site\" project.",
+    "tags": [
+        "Dialog]",
+        "Invite",
+        "members",
+        "Project_site",
+        "Modal"
+    ],
+    "time": "",
+    "episodic_ids": [
+        325
+    ],
+    "bro_semantic_ids": [
+        1300,
+        1301,
+        1303
+    ]
+}

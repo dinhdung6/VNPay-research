@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Users can sort search results by Product Name, Price, or Relevance.",
+    "tags": [
+        "sorting",
+        "Options",
+        "ProductName",
+        "Price",
+        "Relevance"
+    ],
+    "time": "",
+    "episodic_ids": [
+        261
+    ],
+    "bro_semantic_ids": [
+        1044,
+        1045,
+        1046
+    ]
+}

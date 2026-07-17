@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"New issue\" link (ID: 4935) was clicked to initiate the creation of a new issue.",
+    "tags": [
+        "Click",
+        "Issues",
+        "New",
+        "metaseq",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        499
+    ],
+    "bro_semantic_ids": [
+        1996,
+        1997,
+        1999
+    ]
+}

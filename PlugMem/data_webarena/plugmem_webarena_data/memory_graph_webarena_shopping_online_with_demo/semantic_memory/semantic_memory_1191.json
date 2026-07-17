@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate to other sections like 'My Account', 'My Wish List', and 'Sign Out' from the current page.",
+    "tags": [
+        "Navigation",
+        "Links",
+        "Account",
+        "WishList",
+        "SignOut"
+    ],
+    "time": "",
+    "episodic_ids": [
+        297
+    ],
+    "bro_semantic_ids": [
+        1188,
+        1189,
+        1190
+    ]
+}

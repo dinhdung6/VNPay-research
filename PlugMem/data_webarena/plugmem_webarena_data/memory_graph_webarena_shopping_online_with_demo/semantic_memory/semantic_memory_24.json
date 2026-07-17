@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for \"Canon photo printer\" on the website.",
+    "tags": [
+        "[search",
+        "Canon",
+        "printer",
+        "user",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        6
+    ],
+    "bro_semantic_ids": [
+        25,
+        26,
+        27
+    ]
+}

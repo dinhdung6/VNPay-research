@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is http://localhost:8023/a11yproject/a11yproject.com/-/commits/main?search=April+2021+Nic.",
+    "tags": [
+        "URL",
+        "CurrentPage",
+        "SearchParameter",
+        "IP",
+        "port"
+    ],
+    "time": "",
+    "episodic_ids": [
+        22
+    ],
+    "bro_semantic_ids": [
+        88,
+        89,
+        90
+    ]
+}

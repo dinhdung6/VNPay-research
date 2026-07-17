@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Merge requests\" link was clicked by the agent to view more details.",
+    "tags": [
+        "Click",
+        "Agent",
+        "MergeRequests",
+        "link",
+        "Details"
+    ],
+    "time": "",
+    "episodic_ids": [
+        105
+    ],
+    "bro_semantic_ids": [
+        420,
+        422,
+        423
+    ]
+}

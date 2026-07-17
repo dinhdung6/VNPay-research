@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There is an option to search for products on the page, but the search button is currently disabled.",
+    "tags": [
+        "Search",
+        "Button",
+        "Disabled",
+        "Options",
+        "Product"
+    ],
+    "time": "",
+    "episodic_ids": [
+        101
+    ],
+    "bro_semantic_ids": [
+        404,
+        405,
+        407
+    ]
+}

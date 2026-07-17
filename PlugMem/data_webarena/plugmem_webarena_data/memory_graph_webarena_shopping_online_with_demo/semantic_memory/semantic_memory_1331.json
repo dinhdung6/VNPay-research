@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Lighting & Ceiling Fans (2531 items)' link to explore products in that category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Light",
+        "CeilingFans",
+        "Categories"
+    ],
+    "time": "",
+    "episodic_ids": [
+        332
+    ],
+    "bro_semantic_ids": [
+        1328,
+        1329,
+        1330
+    ]
+}

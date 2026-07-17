@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"children\" into the \"Product Name\" textbox (ID: 14455) without submitting the form.",
+    "tags": [
+        "Agent",
+        "ProductName",
+        "TextBox",
+        "Typing",
+        "Form"
+    ],
+    "time": "",
+    "episodic_ids": [
+        51
+    ],
+    "bro_semantic_ids": [
+        204,
+        205,
+        207
+    ]
+}

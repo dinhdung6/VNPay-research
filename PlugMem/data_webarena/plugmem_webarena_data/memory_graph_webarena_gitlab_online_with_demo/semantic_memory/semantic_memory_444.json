@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is searching for \"verification functions\" within the context of GitLab's search function.",
+    "tags": [
+        "Search",
+        "verification",
+        "functions",
+        "GitLab",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        111
+    ],
+    "bro_semantic_ids": [
+        445,
+        446,
+        447
+    ]
+}

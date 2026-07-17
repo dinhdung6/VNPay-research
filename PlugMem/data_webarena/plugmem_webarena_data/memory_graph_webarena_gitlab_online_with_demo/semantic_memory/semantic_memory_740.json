@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled \"ghost \u00b7 Search \u00b7 GitLab\" and is located at URL http://localhost:8023/search?scope=users&search=ghost.",
+    "tags": [
+        "GitLab",
+        "URL",
+        "Search",
+        "Users",
+        "Ghost"
+    ],
+    "time": "",
+    "episodic_ids": [
+        185
+    ],
+    "bro_semantic_ids": [
+        741,
+        742,
+        743
+    ]
+}

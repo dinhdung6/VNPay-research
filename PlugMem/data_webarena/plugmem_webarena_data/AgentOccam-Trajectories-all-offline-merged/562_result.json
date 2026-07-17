@@ -1,0 +1,9 @@
+{
+  "task_id": 562,
+  "objective": "create a repository named Awesome_DIY_ideas that includes a README file with the links to the most active 6 DIY ideas on DIY subreddit?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

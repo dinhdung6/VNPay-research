@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current search query on GitLab is for \"Super_Awesome_Robot\".",
+    "tags": [
+        "GitLab",
+        "Search",
+        "Query",
+        "Robot",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        382
+    ],
+    "bro_semantic_ids": [
+        1529,
+        1530,
+        1531
+    ]
+}

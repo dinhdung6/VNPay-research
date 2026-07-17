@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The Auto DevOps pipeline is enabled but requires a container registry to function properly, which is currently not enabled on this GitLab instance.",
+    "tags": [
+        "AutoDevOps",
+        "Pipeline",
+        "GitLab",
+        "container",
+        "registry"
+    ],
+    "time": "",
+    "episodic_ids": [
+        88
+    ],
+    "bro_semantic_ids": [
+        352,
+        353,
+        354
+    ]
+}

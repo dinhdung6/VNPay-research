@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is the \"Issues\" page of the GitLab project \"Byte Blaze / a11y-syntax-highlighting.\"",
+    "tags": [
+        "GitLab",
+        "Issues",
+        "project",
+        "ByteBlaze",
+        "a11ySyntaxHighlighting"
+    ],
+    "time": "",
+    "episodic_ids": [
+        369
+    ],
+    "bro_semantic_ids": [
+        1477,
+        1478,
+        1479
+    ]
+}

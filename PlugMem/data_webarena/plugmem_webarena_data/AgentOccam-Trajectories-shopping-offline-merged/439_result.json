@@ -1,0 +1,9 @@
+{
+  "task_id": 439,
+  "objective": "I previously ordered some a cat t-shirt during 2022 and later cancelled. Can you reorder it for me?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 19,
+  "done": true,
+  "status": "SUCCESS"
+}

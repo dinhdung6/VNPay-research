@@ -1,0 +1,341 @@
+{
+  "total_tasks": 37,
+  "successful_tasks": 19,
+  "failed_tasks": 18,
+  "success_rate": 51.35135135135135,
+  "results": [
+    {
+      "task_id": 45,
+      "objective": "Check out the most recent open issues",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 102,
+      "objective": "Display the list of issues in the a11yproject/a11yproject.com repository that have labels related to help needed",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 132,
+      "objective": "How many commits did kilian make to a11yproject on 3/5/2023?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 170,
+      "objective": "Tell me the full names of the repositories where I made contributions and they got the least stars?",
+      "success": true,
+      "reward": 0.8333333333333334,
+      "num_actions": 1,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 174,
+      "objective": "Open my latest updated issue that has keyword \"feature\" in its title to check if it is closed",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 179,
+      "objective": "Open my latest created issue that has feature in its title to check if it is closed",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 205,
+      "objective": "How many commits did kilian make on 3/5/2023?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 293,
+      "objective": "Show me the command to clone Super_Awesome_Robot with SSH.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 7,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 307,
+      "objective": "How many commits did Nic make in April 2021?",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 308,
+      "objective": "Tell me who has made the most contributions, in terms of number of commits, to the primer/design project",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 318,
+      "objective": "List the last names of the top 3 contributors to 2019-nCov repo, ranked by the number of commits?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 342,
+      "objective": "List all opened issues that ask about OPT model related questions",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 349,
+      "objective": "Who else have access to my repo gimmiethat.space, show me their usernames",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 13,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 389,
+      "objective": "Post \"Thanks, working on reviews\" for the merge request related to octovisuals page in primer/design project",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 394,
+      "objective": "Fork 2019-nCov.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 8,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 411,
+      "objective": "Make the LICENSE of byteblaze/cloud-to-butt to MIT license.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 415,
+      "objective": "Go to the merge request on verification functions I have to review, find if the author of the merge request responded at the end, and reply \"Thank you\" if he did. Otherwise remind him with a simple @.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 10,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 422,
+      "objective": "Set my gitlab status as Out of Office.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 445,
+      "objective": "Update the project site's title to \"Hello\"",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 446,
+      "objective": "Assign the issue regarding 404 in a11yproject to Roshanjossey.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 452,
+      "objective": "set the homepage URL on my GitLab profile to byteblaze.github.io",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 7,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 479,
+      "objective": "Set up a new, empty repository with the name awesome_webagent?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 484,
+      "objective": "Jakub Klinkovsk\u00fd wants to check my dotfile configurations. Please invite him to the repo as a guest.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 14,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 524,
+      "objective": "Star the top eight most stared repos in Gitlab",
+      "success": true,
+      "reward": 0.125,
+      "num_actions": 21,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 536,
+      "objective": "Follow ['ghost', 'R1kk3r', 'Abishek'] on Gitlab",
+      "success": true,
+      "reward": 0.6666666666666666,
+      "num_actions": 13,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 569,
+      "objective": "Invite Beno\u00eet and Abishek as collaborator to my HTML5 markup extention repo",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 576,
+      "objective": "Add the following users to repo a11y-webring.club as developer: ['abisubramanya27', 'lahwaacz']",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 19,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 577,
+      "objective": "Add the following users to my GitHub timeline item management extension as maintainer: ['abisubramanya27', 'lahwaacz']",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 21,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 593,
+      "objective": "Create a milestone for the upcoming task of merging all branches to main starting on March 15, 2044 and ending on March 30, 2044",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 12,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 660,
+      "objective": "Create an issue in dotfiles repo with title \"add support for oh-my-zsh\". Assign the issue to Abishek. Set due date to be July 18 2033",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 663,
+      "objective": "Open an issue to ask their plan on supporting Llama and other llama family models in metaseq.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 8,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 668,
+      "objective": "Submit a merge request for a11yproject.com/redesign branch to be merged into master branch, assign Justin Armstrong as the reviewer",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 13,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 669,
+      "objective": "Open a new issue to discuss the implementation of dark mode",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 749,
+      "objective": "Start a private project project_site with NodeJS template and add primer, convexegg, vinta as members",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 21,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 752,
+      "objective": "Create a private blank repository called \"web_agent\" using the right template to speed up development.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 784,
+      "objective": "Tell me the email address of the contributor who has the most commits to branch main",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 802,
+      "objective": "create a new group \"coding_friends\" with members qhduan, Agnes-U",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 14,
+      "done": true,
+      "status": "SUCCESS"
+    }
+  ]
+}

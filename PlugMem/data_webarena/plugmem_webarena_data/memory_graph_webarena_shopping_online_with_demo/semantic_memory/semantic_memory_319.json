@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shelf is available for purchase and was first made available on July 20, 2020.",
+    "tags": [
+        "Availability",
+        "Date",
+        "Purchase",
+        "Inventory",
+        "Stock"
+    ],
+    "time": "",
+    "episodic_ids": [
+        79
+    ],
+    "bro_semantic_ids": [
+        316,
+        317,
+        318
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has input 'children dental care' into the 'Product Name' textbox on the 'Advanced Search' page.",
+    "tags": [
+        "[ProductName",
+        "Children",
+        "Dental",
+        "TextBox",
+        "Input"
+    ],
+    "time": "",
+    "episodic_ids": [
+        41
+    ],
+    "bro_semantic_ids": [
+        164,
+        166,
+        167
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to update the \"Project name\" field with the value \"Hello\".",
+    "tags": [
+        "GitLab",
+        "project",
+        "Update",
+        "Name",
+        "Attempt"
+    ],
+    "time": "",
+    "episodic_ids": [
+        120
+    ],
+    "bro_semantic_ids": [
+        481,
+        482,
+        483
+    ]
+}

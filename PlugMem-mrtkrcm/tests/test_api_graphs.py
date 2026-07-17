@@ -1,0 +1,152 @@
+"""Tests for graph CRUD endpoints."""
+
+
+def test_create_graph(client):
+    resp = client.post("/api/v1/graphs", json={})
+    assert resp.status_code == 201
+    data = resp.json()
+    assert "graph_id" in data
+    assert isinstance(data["stats"], dict)
+
+
+def test_create_graph_with_custom_id(client):
+    resp = client.post("/api/v1/graphs", json={"graph_id": "my_graph"})
+    assert resp.status_code == 201
+    assert resp.json()["graph_id"] == "my_graph"
+
+
+def test_create_graph_with_duplicate_id_returns_conflict(client):
+    first = client.post("/api/v1/graphs", json={"graph_id": "dupe"})
+    assert first.status_code == 201
+
+    second = client.post("/api/v1/graphs", json={"graph_id": "dupe"})
+    assert second.status_code == 409
+    assert "already exists" in second.json()["detail"]
+
+
+def test_list_graphs(client):
+    client.post("/api/v1/graphs", json={"graph_id": "g1"})
+    client.post("/api/v1/graphs", json={"graph_id": "g2"})
+    resp = client.get("/api/v1/graphs")
+    assert resp.status_code == 200
+    assert set(resp.json()["graphs"]) >= {"g1", "g2"}
+
+
+def test_get_graph(client):
+    client.post("/api/v1/graphs", json={"graph_id": "test"})
+    resp = client.get("/api/v1/graphs/test")
+    assert resp.status_code == 200
+    assert resp.json()["graph_id"] == "test"
+
+
+def test_get_graph_not_found(client):
+    resp = client.get("/api/v1/graphs/nonexistent")
+    assert resp.status_code == 404
+
+
+def test_browse_procedural_nodes(client):
+    client.post("/api/v1/graphs", json={"graph_id": "graph_proc"})
+    resp = client.post("/api/v1/graphs/graph_proc/memories", json={
+        "mode": "structured",
+        "session_id": "run-1",
+        "procedural": [
+            {
+                "subgoal": "deploy app",
+                "procedural_memory": "Build, verify, and deploy the release.",
+                "return": 1.0,
+            }
+        ],
+    })
+    assert resp.status_code == 200, resp.text
+
+    resp = client.get("/api/v1/graphs/graph_proc/nodes", params={"node_type": "procedural"})
+    assert resp.status_code == 200, resp.text
+    body = resp.json()
+    assert body["count"] == 1
+    row = body["nodes"][0]
+    assert row["subgoals"] == ["deploy app"]
+    assert row["return"] == 1.0
+    assert row["session_id"] == "run-1"
+
+
+def test_browse_semantic_nodes_deserializes_tags_and_includes_session_id(client):
+    client.post("/api/v1/graphs", json={"graph_id": "graph_sem"})
+    resp = client.post("/api/v1/graphs/graph_sem/memories", json={
+        "mode": "structured",
+        "session_id": "run-2",
+        "semantic": [
+            {
+                "semantic_memory": "Use uv for Python deps",
+                "tags": ["python", "tooling"],
+            }
+        ],
+    })
+    assert resp.status_code == 200, resp.text
+
+    resp = client.get("/api/v1/graphs/graph_sem/nodes", params={"node_type": "semantic"})
+    assert resp.status_code == 200, resp.text
+    row = resp.json()["nodes"][0]
+    assert set(row["tags"]) == {"python", "tooling"}
+    assert row["session_id"] == "run-2"
+
+
+def test_browse_nodes_count_respects_filters_across_pages(client):
+    client.post("/api/v1/graphs", json={"graph_id": "graph_page"})
+    resp = client.post("/api/v1/graphs/graph_page/memories", json={
+        "mode": "structured",
+        "semantic": [
+            {"semantic_memory": "python memory one", "tags": ["python"], "source": "explicit", "confidence": 0.9},
+            {"semantic_memory": "python memory two", "tags": ["python"], "source": "explicit", "confidence": 0.8},
+            {"semantic_memory": "swift memory", "tags": ["swift"], "source": "correction", "confidence": 0.4},
+        ],
+    })
+    assert resp.status_code == 200, resp.text
+
+    page = client.get(
+        "/api/v1/graphs/graph_page/nodes",
+        params={
+            "node_type": "semantic",
+            "source_in": "explicit",
+            "min_confidence": 0.5,
+            "limit": 1,
+            "offset": 1,
+        },
+    )
+    assert page.status_code == 200, page.text
+    body = page.json()
+    assert body["count"] == 2
+    assert len(body["nodes"]) == 1
+    assert body["nodes"][0]["source"] == "explicit"
+
+
+def test_delete_graph(client):
+    client.post("/api/v1/graphs", json={"graph_id": "deleteme"})
+    resp = client.delete("/api/v1/graphs/deleteme")
+    assert resp.status_code == 204
+
+    resp = client.get("/api/v1/graphs/deleteme")
+    assert resp.status_code == 404
+
+
+def test_get_stats(client):
+    client.post("/api/v1/graphs", json={"graph_id": "stats_test"})
+    resp = client.get("/api/v1/graphs/stats_test/stats")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert data["graph_id"] == "stats_test"
+    assert "semantic" in data["stats"]
+
+
+def test_browse_nodes_empty(client):
+    client.post("/api/v1/graphs", json={"graph_id": "browse"})
+    resp = client.get("/api/v1/graphs/browse/nodes?node_type=semantic")
+    assert resp.status_code == 200
+    data = resp.json()
+    assert data["count"] == 0
+    assert data["nodes"] == []
+
+
+def test_browse_nodes_invalid_type(client):
+    client.post("/api/v1/graphs", json={"graph_id": "browse2"})
+    resp = client.get("/api/v1/graphs/browse2/nodes?node_type=invalid")
+    assert resp.status_code == 400

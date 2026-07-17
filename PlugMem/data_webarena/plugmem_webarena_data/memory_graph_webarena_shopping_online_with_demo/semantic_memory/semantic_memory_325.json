@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product is available in stock at One Stop Market.",
+    "tags": [
+        "Availability",
+        "Stock",
+        "Market",
+        "Store",
+        "Inventory"
+    ],
+    "time": "",
+    "episodic_ids": [
+        81
+    ],
+    "bro_semantic_ids": [
+        324,
+        326,
+        327
+    ]
+}

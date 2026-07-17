@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has entered \"2044-03-30\" as the due date for the milestone.",
+    "tags": [
+        "DueDate",
+        "Milestones",
+        "UserAction",
+        "DateEntry",
+        "Input"
+    ],
+    "time": "",
+    "episodic_ids": [
+        257
+    ],
+    "bro_semantic_ids": [
+        1028,
+        1030,
+        1031
+    ]
+}

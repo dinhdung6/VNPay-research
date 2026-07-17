@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has entered '78' into the 'Price' textbox on the 'Advanced Search' page.",
+    "tags": [
+        "[Price",
+        "Search",
+        "TextBox",
+        "Number",
+        "Currency"
+    ],
+    "time": "",
+    "episodic_ids": [
+        39
+    ],
+    "bro_semantic_ids": [
+        156,
+        157,
+        159
+    ]
+}

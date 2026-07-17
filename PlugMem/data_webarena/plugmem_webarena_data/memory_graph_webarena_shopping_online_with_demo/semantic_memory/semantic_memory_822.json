@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Order 000000188 was placed on 5/2/23 with a total of $2,004.99 and has a 'Pending' status.",
+    "tags": [
+        "order",
+        "Date",
+        "Total",
+        "Pending",
+        "status]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        205
+    ],
+    "bro_semantic_ids": [
+        820,
+        821,
+        823
+    ]
+}

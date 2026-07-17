@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the link \"thoughtbot, inc. / administrate\" (ID: 39372).",
+    "tags": [
+        "Click",
+        "link",
+        "thoughtbot",
+        "Administrate",
+        "Rails"
+    ],
+    "time": "",
+    "episodic_ids": [
+        453
+    ],
+    "bro_semantic_ids": [
+        1812,
+        1814,
+        1815
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Users can request access to the 'web_agent' project.",
+    "tags": [
+        "[access",
+        "Requests",
+        "project",
+        "permission",
+        "user]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        344
+    ],
+    "bro_semantic_ids": [
+        1376,
+        1378,
+        1379
+    ]
+}

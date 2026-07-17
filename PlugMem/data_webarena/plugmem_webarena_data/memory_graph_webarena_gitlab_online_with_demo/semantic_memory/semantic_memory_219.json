@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project includes features like Issues, Repository, Merge Requests, and CI/CD, all enabled for project members.",
+    "tags": [
+        "Feature",
+        "Issues",
+        "repository",
+        "MergeRequests",
+        "CI/CD"
+    ],
+    "time": "",
+    "episodic_ids": [
+        54
+    ],
+    "bro_semantic_ids": [
+        216,
+        217,
+        218
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The price range specified in the search includes a minimum price of '78 USD'.",
+    "tags": [
+        "[PriceRange",
+        "MinimumPrice",
+        "USD",
+        "Currency",
+        "SearchCriteria]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        41
+    ],
+    "bro_semantic_ids": [
+        164,
+        165,
+        167
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Home & Kitchen' category was selected by clicking on the tab with ID 1522.",
+    "tags": [
+        "Categories",
+        "Home",
+        "Kitchen",
+        "Click",
+        "Tab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        150
+    ],
+    "bro_semantic_ids": [
+        600,
+        601,
+        602
+    ]
+}

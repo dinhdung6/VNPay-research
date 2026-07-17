@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page displays advanced search results for products containing the term \"chair\".",
+    "tags": [
+        "Search",
+        "Chair",
+        "Product",
+        "Results",
+        "Term"
+    ],
+    "time": "",
+    "episodic_ids": [
+        169
+    ],
+    "bro_semantic_ids": [
+        677,
+        678,
+        679
+    ]
+}

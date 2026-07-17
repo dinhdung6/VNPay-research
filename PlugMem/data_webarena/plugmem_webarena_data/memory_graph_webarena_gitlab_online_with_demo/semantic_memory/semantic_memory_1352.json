@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/byteblaze/web_agent/-/blob/main/README.md.",
+    "tags": [
+        "[URL",
+        "GitLab",
+        "README",
+        "ByteBlaze",
+        "WebAgent"
+    ],
+    "time": "",
+    "episodic_ids": [
+        338
+    ],
+    "bro_semantic_ids": [
+        1353,
+        1354,
+        1355
+    ]
+}

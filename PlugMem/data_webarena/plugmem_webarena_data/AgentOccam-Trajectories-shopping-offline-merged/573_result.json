@@ -1,0 +1,9 @@
+{
+  "task_id": 573,
+  "objective": "I recently moved, my address is <ADDRESS>, <LOCATION>, update my information on OneStopShopping accordingly",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "SUCCESS"
+}

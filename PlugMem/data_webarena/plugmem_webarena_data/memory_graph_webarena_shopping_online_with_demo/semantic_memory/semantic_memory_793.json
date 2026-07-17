@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has navigated to page 3 of their order history on the website.",
+    "tags": [
+        "User",
+        "Navigation",
+        "Page",
+        "History",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        198
+    ],
+    "bro_semantic_ids": [
+        792,
+        794,
+        795
+    ]
+}

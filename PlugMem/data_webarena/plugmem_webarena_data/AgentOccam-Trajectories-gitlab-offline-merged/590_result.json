@@ -1,0 +1,9 @@
+{
+  "task_id": 590,
+  "objective": "Create a milestone for the upcoming event of product launch starting on 1/16/2023 and ending on 1/30/2023",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "FAIL"
+}

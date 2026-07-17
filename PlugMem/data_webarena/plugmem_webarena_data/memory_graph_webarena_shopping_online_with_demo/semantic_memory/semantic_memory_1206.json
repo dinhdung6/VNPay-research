@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The default sorting method for products is 'Position'.",
+    "tags": [
+        "SortBy",
+        "Position",
+        "Default",
+        "Method",
+        "Product"
+    ],
+    "time": "",
+    "episodic_ids": [
+        301
+    ],
+    "bro_semantic_ids": [
+        1204,
+        1205,
+        1207
+    ]
+}

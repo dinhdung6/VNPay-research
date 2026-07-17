@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has made changes to the LICENSE.txt file and is attempting to commit these changes.",
+    "tags": [
+        "Commit",
+        "Changes",
+        "LICENSE",
+        "master",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        413
+    ],
+    "bro_semantic_ids": [
+        1652,
+        1654,
+        1655
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 227,
+  "objective": "What is the price range for products from EYZUTAK?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

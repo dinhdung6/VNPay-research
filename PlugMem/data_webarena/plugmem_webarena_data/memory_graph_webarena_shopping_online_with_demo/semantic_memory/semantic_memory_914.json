@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The phone number associated with the default addresses is '<PHONE>'.",
+    "tags": [
+        "[Phone",
+        "Number",
+        "Contact",
+        "Default",
+        "Address"
+    ],
+    "time": "",
+    "episodic_ids": [
+        228
+    ],
+    "bro_semantic_ids": [
+        912,
+        913,
+        915
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the price range filter for items priced between $1,000.00 and $1,999.99.",
+    "tags": [
+        "Agent",
+        "Click",
+        "PriceRange",
+        "Filter",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        329
+    ],
+    "bro_semantic_ids": [
+        1316,
+        1317,
+        1318
+    ]
+}

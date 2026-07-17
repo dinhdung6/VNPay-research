@@ -1,0 +1,9 @@
+{
+  "task_id": 435,
+  "objective": "Add the product with the lowest per unit price from my open tabs to the shopping cart",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

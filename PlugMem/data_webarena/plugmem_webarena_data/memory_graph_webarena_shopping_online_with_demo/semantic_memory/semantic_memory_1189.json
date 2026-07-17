@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has multiple orders listed, including one with ID 000000180 placed on 3/11/23 with a total of $65.32, which is marked as complete.",
+    "tags": [
+        "order",
+        "ID",
+        "Date",
+        "Total",
+        "complete"
+    ],
+    "time": "",
+    "episodic_ids": [
+        297
+    ],
+    "bro_semantic_ids": [
+        1188,
+        1190,
+        1191
+    ]
+}

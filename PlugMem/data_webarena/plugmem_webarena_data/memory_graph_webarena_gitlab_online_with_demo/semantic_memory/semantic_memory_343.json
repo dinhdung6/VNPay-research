@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"2019-nCov\" is located at the URL http://localhost:8023/.",
+    "tags": [
+        "URL",
+        "Location",
+        "IP",
+        "port",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        85
+    ],
+    "bro_semantic_ids": [
+        340,
+        341,
+        342
+    ]
+}

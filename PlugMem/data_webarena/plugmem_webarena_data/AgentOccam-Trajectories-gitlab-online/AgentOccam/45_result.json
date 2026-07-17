@@ -1,0 +1,9 @@
+{
+  "task_id": 45,
+  "objective": "Check out the most recent open issues",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

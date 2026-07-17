@@ -1,0 +1,9 @@
+{
+  "task_id": 385,
+  "objective": "List the customer names who thinks EYZUTAK phone cases are of good looking",
+  "success": true,
+  "reward": 0.75,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

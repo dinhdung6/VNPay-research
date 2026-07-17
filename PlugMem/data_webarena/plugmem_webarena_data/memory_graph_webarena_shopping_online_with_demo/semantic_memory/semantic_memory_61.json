@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has 37 total orders, showing 10 per page.",
+    "tags": [
+        "[order",
+        "Total",
+        "user",
+        "Pagination",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        15
+    ],
+    "bro_semantic_ids": [
+        60,
+        62,
+        63
+    ]
+}

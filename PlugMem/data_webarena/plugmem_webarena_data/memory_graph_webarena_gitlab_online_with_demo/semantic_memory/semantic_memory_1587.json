@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"is\" menu item (ID: 6161) to refine the search filter for issues.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Filtering",
+        "Menu",
+        "Issues"
+    ],
+    "time": "",
+    "episodic_ids": [
+        396
+    ],
+    "bro_semantic_ids": [
+        1584,
+        1585,
+        1586
+    ]
+}

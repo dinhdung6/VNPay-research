@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 13 assigned issues and 8 merge requests in the project \"remove-board-movement-events-from-the-github-issue-timeline\".",
+    "tags": [
+        "Issues",
+        "MergeRequests",
+        "project",
+        "ByteBlaze",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        474
+    ],
+    "bro_semantic_ids": [
+        1896,
+        1897,
+        1898
+    ]
+}

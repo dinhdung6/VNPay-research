@@ -1,0 +1,9 @@
+{
+  "task_id": 106,
+  "objective": "Display the list of issues in the umano/AndroidSlidingUpPanel repository that have labels related to BUG",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

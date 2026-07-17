@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link 'Cases, Holsters & Sleeves (457 items)' under the 'Category' section.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Link",
+        "case",
+        "Categories"
+    ],
+    "time": "",
+    "episodic_ids": [
+        114
+    ],
+    "bro_semantic_ids": [
+        456,
+        457,
+        459
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The grand total for Order 000000190 is $398.27 including shipping and handling.",
+    "tags": [
+        "Total",
+        "GrandTotal",
+        "Shipping",
+        "Handling",
+        "Cost"
+    ],
+    "time": "",
+    "episodic_ids": [
+        195
+    ],
+    "bro_semantic_ids": [
+        780,
+        781,
+        782
+    ]
+}

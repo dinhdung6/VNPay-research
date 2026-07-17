@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search bar on the webpage is not required and has an ID of 1913.",
+    "tags": [
+        "Search",
+        "Bar",
+        "Webpage",
+        "Optional",
+        "ID"
+    ],
+    "time": "",
+    "episodic_ids": [
+        323
+    ],
+    "bro_semantic_ids": [
+        1292,
+        1293,
+        1295
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 425,
+  "objective": "Find the page of the longest bridge in the Western hemisphere on the map.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,12 @@
+{
+    "subgoal": "To systematically track and account for all food-related purchases made in March 2023.",
+    "procedural_memory": "To effectively track and account for specific expenditures, it is essential to adopt a methodical approach that includes precise navigation and thorough documentation. In this trajectory, the agent successfully advanced its goal by first identifying and selecting the correct order for review (clicking the \"View Order\" link for order #000000166). This action ensured access to the necessary details. Subsequently, the agent meticulously recorded the cost of the food item ($12.99) and the shipping fee ($5), ensuring comprehensive and accurate documentation of the purchase. This process demonstrates the importance of verifying each order individually and recording all relevant details to achieve accurate expense tracking.",
+    "trajectory_num": 3,
+    "time": "",
+    "return": "[7]",
+    "subgoal_id": 58,
+    "episodic_ids": [
+        237,
+        238
+    ]
+}

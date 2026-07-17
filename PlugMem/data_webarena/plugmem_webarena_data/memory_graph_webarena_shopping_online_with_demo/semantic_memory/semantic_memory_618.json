@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The page includes links to 'My Account', 'My Wish List', and 'Sign Out'.",
+    "tags": [
+        "[Links",
+        "Account",
+        "WishList",
+        "SignOut",
+        "Navigation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        154
+    ],
+    "bro_semantic_ids": [
+        616,
+        617,
+        619
+    ]
+}

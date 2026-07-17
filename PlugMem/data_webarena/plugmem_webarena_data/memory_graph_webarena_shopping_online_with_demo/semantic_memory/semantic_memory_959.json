@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product \"Pre-baked Gingerbread House Kit Value Pack\" is priced at $19.99 on the One Stop Market website.",
+    "tags": [
+        "Product",
+        "Price",
+        "Gingerbread",
+        "Kit",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        239
+    ],
+    "bro_semantic_ids": [
+        956,
+        957,
+        958
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Headphones (631 items)' link under the 'Category' section.",
+    "tags": [
+        "AgentAction",
+        "Click",
+        "Headphones",
+        "Categories",
+        "Navigation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        57
+    ],
+    "bro_semantic_ids": [
+        228,
+        229,
+        230
+    ]
+}

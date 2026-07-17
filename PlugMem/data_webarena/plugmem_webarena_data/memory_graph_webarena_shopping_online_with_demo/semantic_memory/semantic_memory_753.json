@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The default billing address listed is for <NAME> at <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "BillingAddress",
+        "EmmaLopez",
+        "SanMateo",
+        "California",
+        "UnitedStates"
+    ],
+    "time": "",
+    "episodic_ids": [
+        188
+    ],
+    "bro_semantic_ids": [
+        752,
+        754,
+        755
+    ]
+}

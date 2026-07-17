@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page displays 50 orders per page as selected by the user.",
+    "tags": [
+        "Page",
+        "Display",
+        "Orders",
+        "User",
+        "Selection"
+    ],
+    "time": "",
+    "episodic_ids": [
+        314
+    ],
+    "bro_semantic_ids": [
+        1256,
+        1258,
+        1259
+    ]
+}

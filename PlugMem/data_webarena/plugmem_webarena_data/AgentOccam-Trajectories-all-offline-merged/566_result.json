@@ -1,0 +1,9 @@
+{
+  "task_id": 566,
+  "objective": "create a repository named Do it myself that includes a README file with the links to the most active 8 DIY ideas on DIY subreddit?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 13,
+  "done": true,
+  "status": "FAIL"
+}

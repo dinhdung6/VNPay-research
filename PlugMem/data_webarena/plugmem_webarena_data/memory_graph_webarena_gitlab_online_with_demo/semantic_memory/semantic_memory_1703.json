@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent updated the title tag in the `index.html` file with the content `<title>Hello</title>`.",
+    "tags": [
+        "Agent",
+        "Update",
+        "TitleTag",
+        "IndexHtml",
+        "Content"
+    ],
+    "time": "",
+    "episodic_ids": [
+        425
+    ],
+    "bro_semantic_ids": [
+        1700,
+        1701,
+        1702
+    ]
+}

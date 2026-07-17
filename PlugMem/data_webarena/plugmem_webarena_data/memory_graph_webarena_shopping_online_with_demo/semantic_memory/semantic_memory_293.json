@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is browsing the 'Home & Kitchen' category which contains 17,241 items.",
+    "tags": [
+        "Browse",
+        "Categories",
+        "Items",
+        "Home",
+        "Kitchen"
+    ],
+    "time": "",
+    "episodic_ids": [
+        73
+    ],
+    "bro_semantic_ids": [
+        292,
+        294,
+        295
+    ]
+}

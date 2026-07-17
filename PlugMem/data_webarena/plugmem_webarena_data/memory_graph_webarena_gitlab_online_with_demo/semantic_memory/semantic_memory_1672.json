@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request titled \"Add verification functions\" was requested by Dave Greene to merge from branch 'github/fork/davepgreene/add-verification-function' into 'main'.",
+    "tags": [
+        "GitLab",
+        "MergeRequests",
+        "DaveGreene",
+        "Branch",
+        "main"
+    ],
+    "time": "",
+    "episodic_ids": [
+        418
+    ],
+    "bro_semantic_ids": [
+        1673,
+        1674,
+        1675
+    ]
+}

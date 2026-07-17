@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's name displayed on the account page is <NAME>.",
+    "tags": [
+        "User",
+        "Name",
+        "Account",
+        "Profile",
+        "Information"
+    ],
+    "time": "",
+    "episodic_ids": [
+        185
+    ],
+    "bro_semantic_ids": [
+        740,
+        742,
+        743
+    ]
+}

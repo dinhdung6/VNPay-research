@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project description textbox is optional and currently empty.",
+    "tags": [
+        "[description",
+        "TextBox",
+        "Optional",
+        "project",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        330
+    ],
+    "bro_semantic_ids": [
+        1320,
+        1322,
+        1323
+    ]
+}

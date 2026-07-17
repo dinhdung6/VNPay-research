@@ -1,0 +1,9 @@
+{
+  "task_id": 428,
+  "objective": "Find the page of the undergrad college of the person who developed the Nash equilibrium on the map.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's shopping cart contains five items: a Nintendo Switch car mount holder, women's glitter socks, a ceramic table lamp, a coat rack shelf, and a plus size bodysuit.",
+    "tags": [
+        "ShoppingCart",
+        "NintendoSwitch",
+        "Socks",
+        "TableLamp",
+        "CoatRack"
+    ],
+    "time": "",
+    "episodic_ids": [
+        128
+    ],
+    "bro_semantic_ids": [
+        512,
+        513,
+        515
+    ]
+}

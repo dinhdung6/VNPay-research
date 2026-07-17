@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is the 'Checkout' page with a URL pointing to a shipping address section.",
+    "tags": [
+        "Checkout",
+        "URL",
+        "Shipping",
+        "Address",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        349
+    ],
+    "bro_semantic_ids": [
+        1397,
+        1398,
+        1399
+    ]
+}

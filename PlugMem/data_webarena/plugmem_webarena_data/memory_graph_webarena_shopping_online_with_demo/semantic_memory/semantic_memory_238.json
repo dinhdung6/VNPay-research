@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple headphones listed, including Bluetooth Headphones, Jabra Evolve 40 UC Stereo Wired Headset, and Sony WH-1000XM4 Wireless Noise Canceling Over-Ear Headphones.",
+    "tags": [
+        "Headphones",
+        "Bluetooth",
+        "Jabra",
+        "Sony",
+        "Wireless"
+    ],
+    "time": "",
+    "episodic_ids": [
+        59
+    ],
+    "bro_semantic_ids": [
+        236,
+        237,
+        239
+    ]
+}

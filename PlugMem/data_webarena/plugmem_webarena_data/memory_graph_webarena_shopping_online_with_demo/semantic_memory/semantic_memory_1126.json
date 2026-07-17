@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the product \"Onlyeasy Over The Door Shoe Storage Organizer Hanging Shoe Rack Holder with 24 Large Fabric Pockets, 22.1'x 61.4', Herringbone Grey, MXRODSB1P\".",
+    "tags": [
+        "[click",
+        "Product",
+        "Shoes",
+        "Racks",
+        "organizer]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        281
+    ],
+    "bro_semantic_ids": [
+        1124,
+        1125,
+        1127
+    ]
+}

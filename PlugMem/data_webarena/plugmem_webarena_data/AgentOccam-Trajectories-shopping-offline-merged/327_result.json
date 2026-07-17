@@ -1,0 +1,9 @@
+{
+  "task_id": 327,
+  "objective": "Show me the \"iphone 12 phone case\" listings by name alphabetically.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 14,
+  "done": true,
+  "status": "FAIL"
+}

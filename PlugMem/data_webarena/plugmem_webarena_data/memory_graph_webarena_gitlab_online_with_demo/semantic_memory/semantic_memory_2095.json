@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request activity includes options like adding bold text, inserting quotes, and attaching files.",
+    "tags": [
+        "Activity",
+        "BoldText",
+        "Quotes",
+        "AttachFiles",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        523
+    ],
+    "bro_semantic_ids": [
+        2092,
+        2093,
+        2094
+    ]
+}

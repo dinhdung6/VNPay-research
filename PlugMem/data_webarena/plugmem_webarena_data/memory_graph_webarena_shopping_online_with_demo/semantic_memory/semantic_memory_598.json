@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Add to Wish List' button for the product 'HONGJ Hawaiian Beach Outfits Set for Mens'.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Button",
+        "Product",
+        "WishList"
+    ],
+    "time": "",
+    "episodic_ids": [
+        149
+    ],
+    "bro_semantic_ids": [
+        596,
+        597,
+        599
+    ]
+}

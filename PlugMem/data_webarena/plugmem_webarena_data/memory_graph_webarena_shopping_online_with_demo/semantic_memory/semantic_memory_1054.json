@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The webpage contains a search combobox that is not required to be filled.",
+    "tags": [
+        "Search",
+        "ComboBox",
+        "Optional",
+        "Input",
+        "Feature"
+    ],
+    "time": "",
+    "episodic_ids": [
+        263
+    ],
+    "bro_semantic_ids": [
+        1052,
+        1053,
+        1055
+    ]
+}

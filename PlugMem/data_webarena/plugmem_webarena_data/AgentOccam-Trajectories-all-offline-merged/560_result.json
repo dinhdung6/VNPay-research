@@ -1,0 +1,9 @@
+{
+  "task_id": 560,
+  "objective": "Create a repo named nolan_academy_awards with movies that won Academy Awards by Christopher Nolan in a README file",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 23,
+  "done": true,
+  "status": "FAIL"
+}

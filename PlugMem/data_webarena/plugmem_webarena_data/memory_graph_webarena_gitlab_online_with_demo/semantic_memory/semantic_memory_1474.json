@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent selected the \"help wanted\" label from the issue filter menu.",
+    "tags": [
+        "Agent",
+        "Label",
+        "Filtering",
+        "Menu",
+        "Selected"
+    ],
+    "time": "",
+    "episodic_ids": [
+        368
+    ],
+    "bro_semantic_ids": [
+        1472,
+        1473,
+        1475
+    ]
+}

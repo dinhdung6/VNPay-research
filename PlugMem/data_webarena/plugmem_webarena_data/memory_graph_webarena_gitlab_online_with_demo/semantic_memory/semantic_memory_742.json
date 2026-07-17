@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search query \"ghost\" returned 2 user results within the GitLab interface.",
+    "tags": [
+        "Query",
+        "Results",
+        "Users",
+        "Ghost",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        185
+    ],
+    "bro_semantic_ids": [
+        740,
+        741,
+        743
+    ]
+}

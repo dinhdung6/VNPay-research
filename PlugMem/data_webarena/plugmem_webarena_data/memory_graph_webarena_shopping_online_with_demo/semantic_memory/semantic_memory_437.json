@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently viewing products sorted by price in ascending order on the 'Home & Kitchen' page.",
+    "tags": [
+        "User",
+        "Product",
+        "Price",
+        "Ascending",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        109
+    ],
+    "bro_semantic_ids": [
+        436,
+        438,
+        439
+    ]
+}

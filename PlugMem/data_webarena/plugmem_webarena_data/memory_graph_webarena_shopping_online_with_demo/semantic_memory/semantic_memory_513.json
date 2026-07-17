@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has items totaling $373.27 before shipping and tax, with a total order amount of $398.27 including a flat rate shipping fee of $25.00.",
+    "tags": [
+        "ShoppingCart",
+        "OrderTotal",
+        "ShippingFee",
+        "FlatRate",
+        "TotalAmount"
+    ],
+    "time": "",
+    "episodic_ids": [
+        128
+    ],
+    "bro_semantic_ids": [
+        512,
+        514,
+        515
+    ]
+}

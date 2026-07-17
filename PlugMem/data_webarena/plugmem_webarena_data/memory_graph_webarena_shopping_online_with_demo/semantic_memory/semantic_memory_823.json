@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate through pages of their order history, with options to view pages 2, 3, and 4.",
+    "tags": [
+        "Navigation",
+        "Pages",
+        "History",
+        "User",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        205
+    ],
+    "bro_semantic_ids": [
+        820,
+        821,
+        822
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to click the \"Star\" button (ID: 11514) to mark the \"create-react-app\" project as a favorite.",
+    "tags": [
+        "[agent",
+        "Stars",
+        "Button",
+        "project",
+        "Favorite]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        439
+    ],
+    "bro_semantic_ids": [
+        1757,
+        1758,
+        1759
+    ]
+}

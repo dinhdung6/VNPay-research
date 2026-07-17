@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate to the next page of their order history by clicking on 'Page 2'.",
+    "tags": [
+        "Navigation",
+        "Page",
+        "History",
+        "Click",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        3
+    ],
+    "bro_semantic_ids": [
+        12,
+        13,
+        14
+    ]
+}

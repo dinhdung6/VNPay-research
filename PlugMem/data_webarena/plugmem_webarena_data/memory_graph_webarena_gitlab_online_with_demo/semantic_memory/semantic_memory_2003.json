@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Merge requests\" link shows there are 8 merge requests.",
+    "tags": [
+        "MergeRequests",
+        "count",
+        "link",
+        "Requests",
+        "Listing"
+    ],
+    "time": "",
+    "episodic_ids": [
+        500
+    ],
+    "bro_semantic_ids": [
+        2000,
+        2001,
+        2002
+    ]
+}

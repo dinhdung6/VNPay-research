@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to set the start date for the milestone as \"2044-03-15\".",
+    "tags": [
+        "StartDate",
+        "Agent",
+        "Attempt",
+        "Milestones",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        256
+    ],
+    "bro_semantic_ids": [
+        1024,
+        1025,
+        1026
+    ]
+}

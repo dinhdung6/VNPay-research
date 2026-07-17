@@ -1,0 +1,6 @@
+{
+    "subgoal": "The agent's goal is to gather specific metrics or insights about projects listed on the GitLab \"Projects Dashboard.\"",
+    "procedural_ids": [
+        42
+    ]
+}

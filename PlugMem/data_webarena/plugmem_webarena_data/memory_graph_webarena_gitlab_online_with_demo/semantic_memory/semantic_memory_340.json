@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is attempting to fork the project named \"2019-nCov\".",
+    "tags": [
+        "GitLab",
+        "fork",
+        "project",
+        "User",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        85
+    ],
+    "bro_semantic_ids": [
+        341,
+        342,
+        343
+    ]
+}

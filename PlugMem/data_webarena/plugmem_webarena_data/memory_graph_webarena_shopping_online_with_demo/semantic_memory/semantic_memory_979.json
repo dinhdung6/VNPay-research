@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can view and reorder previous orders from the 'My Orders' section.",
+    "tags": [
+        "Orders",
+        "View",
+        "Reorder",
+        "User",
+        "actions]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        244
+    ],
+    "bro_semantic_ids": [
+        976,
+        977,
+        978
+    ]
+}

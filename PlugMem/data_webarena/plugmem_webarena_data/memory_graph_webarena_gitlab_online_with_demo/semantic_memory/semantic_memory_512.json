@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is `http://localhost:8023/dashboard/issues?scope=all&state=all&assignee_id=None&search=404`.",
+    "tags": [
+        "[URL",
+        "GitLab",
+        "Dashboard",
+        "Issues",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        128
+    ],
+    "bro_semantic_ids": [
+        513,
+        514,
+        515
+    ]
+}

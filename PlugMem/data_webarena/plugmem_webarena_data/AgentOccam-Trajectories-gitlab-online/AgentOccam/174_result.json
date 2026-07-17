@@ -1,0 +1,9 @@
+{
+  "task_id": 174,
+  "objective": "Open my latest updated issue that has keyword \"feature\" in its title to check if it is closed",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

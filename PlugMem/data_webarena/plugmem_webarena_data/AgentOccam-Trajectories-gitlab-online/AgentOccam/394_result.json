@@ -1,0 +1,9 @@
+{
+  "task_id": 394,
+  "objective": "Fork 2019-nCov.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "SUCCESS"
+}

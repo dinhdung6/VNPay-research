@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Members' link was clicked by the agent to view the list of project members.",
+    "tags": [
+        "Click",
+        "members",
+        "link",
+        "Agent",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        314
+    ],
+    "bro_semantic_ids": [
+        1256,
+        1257,
+        1259
+    ]
+}

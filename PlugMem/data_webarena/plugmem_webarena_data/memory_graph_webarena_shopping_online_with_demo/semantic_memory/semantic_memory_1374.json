@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is http://localhost:7770/.",
+    "tags": [
+        "URL",
+        "Page",
+        "Location",
+        "AWS",
+        "server"
+    ],
+    "time": "",
+    "episodic_ids": [
+        343
+    ],
+    "bro_semantic_ids": [
+        1372,
+        1373,
+        1375
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Issues\" page of the A11Y Project on GitLab shows 570 closed issues.",
+    "tags": [
+        "GitLab",
+        "Issues",
+        "Closed",
+        "count",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        168
+    ],
+    "bro_semantic_ids": [
+        672,
+        674,
+        675
+    ]
+}

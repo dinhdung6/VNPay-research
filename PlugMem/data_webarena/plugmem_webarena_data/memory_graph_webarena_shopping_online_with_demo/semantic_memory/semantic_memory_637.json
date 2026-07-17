@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently browsing the 'Electronics' category on the website 'One Stop Market'.",
+    "tags": [
+        "User",
+        "Browse",
+        "Categories",
+        "Website",
+        "Electronics"
+    ],
+    "time": "",
+    "episodic_ids": [
+        159
+    ],
+    "bro_semantic_ids": [
+        636,
+        638,
+        639
+    ]
+}

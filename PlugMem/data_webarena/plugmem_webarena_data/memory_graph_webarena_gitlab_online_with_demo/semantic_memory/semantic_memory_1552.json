@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently on the GitLab search page with the search term 'design'.",
+    "tags": [
+        "GitLab",
+        "Search",
+        "Design",
+        "User",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        388
+    ],
+    "bro_semantic_ids": [
+        1553,
+        1554,
+        1555
+    ]
+}

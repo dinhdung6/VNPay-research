@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link labeled \"Umano: News Read To You / AndroidSlidingUpPanel\" (ID: 4689).",
+    "tags": [
+        "Agent",
+        "Click",
+        "link",
+        "Umano",
+        "AndroidSlidingUpPanel"
+    ],
+    "time": "",
+    "episodic_ids": [
+        436
+    ],
+    "bro_semantic_ids": [
+        1744,
+        1746,
+        1747
+    ]
+}

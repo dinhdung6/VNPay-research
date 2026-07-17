@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the link \"Erik Linder-Nor\u00e9n / PyTorch-GAN\" (ID: 33259).",
+    "tags": [
+        "Click",
+        "link",
+        "ErikLinderNor\u00e9n",
+        "PyTorchGAN",
+        "UserAction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        450
+    ],
+    "bro_semantic_ids": [
+        1800,
+        1802,
+        1803
+    ]
+}

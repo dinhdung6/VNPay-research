@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"Support for Llama and other Llama family models in metaseq\" into the \"Title (required)\" textbox.",
+    "tags": [
+        "Agent",
+        "Action",
+        "title",
+        "TextBox",
+        "Llama"
+    ],
+    "time": "",
+    "episodic_ids": [
+        286
+    ],
+    "bro_semantic_ids": [
+        1144,
+        1145,
+        1146
+    ]
+}

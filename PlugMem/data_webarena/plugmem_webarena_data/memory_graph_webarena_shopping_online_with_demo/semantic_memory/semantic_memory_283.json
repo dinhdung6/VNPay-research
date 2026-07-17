@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product \"Hedd phone One Headphone\" is priced at $1,899.00.",
+    "tags": [
+        "Product",
+        "Price",
+        "Headphones",
+        "Electronics",
+        "Hedd"
+    ],
+    "time": "",
+    "episodic_ids": [
+        70
+    ],
+    "bro_semantic_ids": [
+        280,
+        281,
+        282
+    ]
+}

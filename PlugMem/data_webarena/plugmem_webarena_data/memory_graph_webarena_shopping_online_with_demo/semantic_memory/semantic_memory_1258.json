@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user accessed the \"My Orders\" section of the website at the URL http://localhost:7770/sales/order/history/?limit=50.",
+    "tags": [
+        "Access",
+        "section",
+        "URL",
+        "User",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        314
+    ],
+    "bro_semantic_ids": [
+        1256,
+        1257,
+        1259
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Create merge request\" button with ID 11185.",
+    "tags": [
+        "Action",
+        "Button",
+        "Created",
+        "MergeRequests",
+        "Click"
+    ],
+    "time": "",
+    "episodic_ids": [
+        515
+    ],
+    "bro_semantic_ids": [
+        2060,
+        2061,
+        2063
+    ]
+}

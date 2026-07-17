@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on the 'Contact Us' page of One Stop Market.",
+    "tags": [
+        "Website",
+        "Page",
+        "Contact",
+        "Market",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        183
+    ],
+    "bro_semantic_ids": [
+        733,
+        734,
+        735
+    ]
+}

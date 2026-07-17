@@ -1,0 +1,9 @@
+{
+  "task_id": 277,
+  "objective": "Search for \"batteries for iphone 13\"",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 11,
+  "done": true,
+  "status": "FAIL"
+}

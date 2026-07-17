@@ -1,0 +1,9 @@
+{
+  "task_id": 322,
+  "objective": "How much refund I should expect from my order canlled in May 2023 if I cannot get the shipping fee refunded?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

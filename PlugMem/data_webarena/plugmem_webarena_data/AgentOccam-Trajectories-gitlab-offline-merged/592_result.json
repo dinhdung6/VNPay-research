@@ -1,0 +1,9 @@
+{
+  "task_id": 592,
+  "objective": "Create a milestone for the upcoming task of cleaning sensitive information starting on 2/16/2023 and ending on in 20 days",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 8,
+  "done": true,
+  "status": "FAIL"
+}

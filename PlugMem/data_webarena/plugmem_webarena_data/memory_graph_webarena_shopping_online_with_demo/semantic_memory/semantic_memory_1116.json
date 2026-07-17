@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is searching for \"shoe storage\" on the One Stop Market website.",
+    "tags": [
+        "Search",
+        "Shoes",
+        "Storage",
+        "Website",
+        "Market"
+    ],
+    "time": "",
+    "episodic_ids": [
+        279
+    ],
+    "bro_semantic_ids": [
+        1117,
+        1118,
+        1119
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shopping cart contains one item priced at $1,108.00.",
+    "tags": [
+        "ShoppingCart",
+        "Items",
+        "Price",
+        "Product",
+        "Cost"
+    ],
+    "time": "",
+    "episodic_ids": [
+        337
+    ],
+    "bro_semantic_ids": [
+        1348,
+        1350,
+        1351
+    ]
+}

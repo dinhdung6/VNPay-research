@@ -1,0 +1,9 @@
+{
+  "task_id": 788,
+  "objective": "Tell me the full name, gitlab account name, location and email address of the contributor who has the most commits to branch php52",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

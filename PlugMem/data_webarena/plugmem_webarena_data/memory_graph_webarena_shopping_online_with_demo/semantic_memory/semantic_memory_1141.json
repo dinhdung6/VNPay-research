@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple pending orders placed on May 2, 2023, with totals of $754.99, $2,004.99, and $1,004.99 respectively.",
+    "tags": [
+        "Orders",
+        "Pending",
+        "Date",
+        "Total",
+        "Multiple"
+    ],
+    "time": "",
+    "episodic_ids": [
+        285
+    ],
+    "bro_semantic_ids": [
+        1140,
+        1142,
+        1143
+    ]
+}

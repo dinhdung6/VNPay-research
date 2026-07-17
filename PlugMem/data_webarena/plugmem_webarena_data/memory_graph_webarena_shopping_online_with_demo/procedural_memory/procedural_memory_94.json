@@ -1,0 +1,11 @@
+{
+    "subgoal": "To select and add the highest-rated product within a specified price range to the cart.",
+    "procedural_memory": "When tasked with selecting a product based on specific criteria, such as price and rating, it is effective to first apply filters to narrow down the options to those that meet the constraints. Once the filtered results are available, prioritizing the highest-rated product ensures that the selection aligns with quality expectations. In this case, the agent successfully added the \"40''X138\\\" High Ceiling Chandelier Crystal Raindrop Chandeliers\" to the cart by identifying it as the highest-rated option within the budget and taking the decisive action of clicking the \"Add to Cart\" button. This approach demonstrates the importance of systematically filtering and evaluating options to make an optimal choice.",
+    "trajectory_num": 1,
+    "time": "",
+    "return": "[10]",
+    "subgoal_id": 77,
+    "episodic_ids": [
+        335
+    ]
+}

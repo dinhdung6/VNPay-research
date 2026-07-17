@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Contact Us\" link located at the bottom of the page.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Link",
+        "Contact",
+        "Footer"
+    ],
+    "time": "",
+    "episodic_ids": [
+        220
+    ],
+    "bro_semantic_ids": [
+        880,
+        881,
+        883
+    ]
+}

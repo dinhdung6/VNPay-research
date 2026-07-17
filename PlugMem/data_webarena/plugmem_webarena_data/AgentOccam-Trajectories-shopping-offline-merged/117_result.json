@@ -1,0 +1,9 @@
+{
+  "task_id": 117,
+  "objective": "What is the date when I made my first purchase on this site?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

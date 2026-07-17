@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is editing an address on the One Stop Market website.",
+    "tags": [
+        "User",
+        "Website",
+        "Editing",
+        "Address",
+        "Market"
+    ],
+    "time": "",
+    "episodic_ids": [
+        191
+    ],
+    "bro_semantic_ids": [
+        765,
+        766,
+        767
+    ]
+}

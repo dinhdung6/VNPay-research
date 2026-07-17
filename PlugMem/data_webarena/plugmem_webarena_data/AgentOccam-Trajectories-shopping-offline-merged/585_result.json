@@ -1,0 +1,9 @@
+{
+  "task_id": 585,
+  "objective": "Rate my recent purchase of floor lamp with 5 stars, using my nickname <NAME>?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 10,
+  "done": true,
+  "status": "FAIL"
+}

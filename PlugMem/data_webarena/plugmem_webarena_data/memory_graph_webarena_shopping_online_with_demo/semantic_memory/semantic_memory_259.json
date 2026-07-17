@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The page includes a combobox for sorting options, with 'Position' selected.",
+    "tags": [
+        "ComboBox",
+        "sorting",
+        "Position",
+        "Selection",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        64
+    ],
+    "bro_semantic_ids": [
+        256,
+        257,
+        258
+    ]
+}

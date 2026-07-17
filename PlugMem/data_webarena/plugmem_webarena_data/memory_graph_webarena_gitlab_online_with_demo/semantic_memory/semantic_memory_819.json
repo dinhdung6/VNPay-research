@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The \"Project Hooks\" section indicates there are no webhooks enabled.",
+    "tags": [
+        "ProjectHooks",
+        "Webhooks",
+        "Enabled",
+        "GitLab",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        204
+    ],
+    "bro_semantic_ids": [
+        816,
+        817,
+        818
+    ]
+}

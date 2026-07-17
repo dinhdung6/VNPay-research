@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shelf is suitable for various environments including commercial-grade construction, warewashing areas, and walk-in freezers or refrigerators.",
+    "tags": [
+        "Usage",
+        "Environment",
+        "Commercial",
+        "Warewashing",
+        "Refrigerator"
+    ],
+    "time": "",
+    "episodic_ids": [
+        80
+    ],
+    "bro_semantic_ids": [
+        320,
+        321,
+        323
+    ]
+}

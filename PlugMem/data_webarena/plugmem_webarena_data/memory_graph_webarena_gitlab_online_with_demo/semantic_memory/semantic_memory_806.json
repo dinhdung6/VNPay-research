@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can add various integrations such as Asana, Atlassian Bamboo, and Datadog to their GitLab project.",
+    "tags": [
+        "Integrations",
+        "Options",
+        "project",
+        "Tools",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        201
+    ],
+    "bro_semantic_ids": [
+        804,
+        805,
+        807
+    ]
+}

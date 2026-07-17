@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple products listed including Panda Cute Black White Animal Men's Boxer Briefs priced at $22.99.",
+    "tags": [
+        "[products",
+        "boxer",
+        "briefs",
+        "Price",
+        "Clothing"
+    ],
+    "time": "",
+    "episodic_ids": [
+        143
+    ],
+    "bro_semantic_ids": [
+        572,
+        573,
+        575
+    ]
+}

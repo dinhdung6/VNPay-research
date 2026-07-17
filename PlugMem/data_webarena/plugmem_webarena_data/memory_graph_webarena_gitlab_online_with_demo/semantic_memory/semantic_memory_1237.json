@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project creation form includes a required field for 'Project name'.",
+    "tags": [
+        "FormField",
+        "requirement",
+        "ProjectName",
+        "Input",
+        "Creation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        309
+    ],
+    "bro_semantic_ids": [
+        1236,
+        1238,
+        1239
+    ]
+}

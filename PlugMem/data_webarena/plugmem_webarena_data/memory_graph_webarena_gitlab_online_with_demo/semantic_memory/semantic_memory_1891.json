@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"remove-board-movement-events-from-the-github-issue-timeline\" allows inviting members with different roles such as Guest, Reporter, Developer, Maintainer, and Owner.",
+    "tags": [
+        "Role",
+        "Permissions",
+        "Invite",
+        "project",
+        "Options"
+    ],
+    "time": "",
+    "episodic_ids": [
+        472
+    ],
+    "bro_semantic_ids": [
+        1888,
+        1889,
+        1890
+    ]
+}

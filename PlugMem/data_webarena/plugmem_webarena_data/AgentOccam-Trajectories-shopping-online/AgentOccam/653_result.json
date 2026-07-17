@@ -1,0 +1,9 @@
+{
+  "task_id": 653,
+  "objective": "Fill the \"contact us\" form in the site for a refund on the phone screen protector I bought, stating that it broke after just three days of use. Also, ensure to include the order number #000000180 and the product SKU. Don't submit yet, I will check.",
+  "success": true,
+  "reward": 0.25,
+  "num_actions": 11,
+  "done": true,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent hovered over the \"Beauty & Personal Care\" menu item (ID: 1534).",
+    "tags": [
+        "Agent",
+        "Hover",
+        "Menu",
+        "Beauty",
+        "Care"
+    ],
+    "time": "",
+    "episodic_ids": [
+        273
+    ],
+    "bro_semantic_ids": [
+        1092,
+        1093,
+        1094
+    ]
+}

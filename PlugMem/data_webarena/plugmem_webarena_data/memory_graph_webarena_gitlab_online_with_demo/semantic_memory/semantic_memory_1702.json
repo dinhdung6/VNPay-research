@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The breadcrumb navigation shows the path from the root \"Byte Blaze\" to the current repository \"Hello\".",
+    "tags": [
+        "Breadcrumb",
+        "navigation]",
+        "ByteBlaze",
+        "repository",
+        "Hello"
+    ],
+    "time": "",
+    "episodic_ids": [
+        425
+    ],
+    "bro_semantic_ids": [
+        1700,
+        1701,
+        1703
+    ]
+}

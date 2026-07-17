@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search functionality is present but the \"Search\" button is disabled.",
+    "tags": [
+        "Search",
+        "Button",
+        "Disabled",
+        "Functionality",
+        "Feature"
+    ],
+    "time": "",
+    "episodic_ids": [
+        18
+    ],
+    "bro_semantic_ids": [
+        72,
+        73,
+        74
+    ]
+}

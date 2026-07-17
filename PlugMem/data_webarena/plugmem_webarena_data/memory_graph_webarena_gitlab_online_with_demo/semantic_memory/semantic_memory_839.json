@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project navigation includes links to various sections such as Issues, Merge requests, CI/CD, Security & Compliance, and more.",
+    "tags": [
+        "navigation]",
+        "Section",
+        "link",
+        "Issues",
+        "MergeRequests"
+    ],
+    "time": "",
+    "episodic_ids": [
+        209
+    ],
+    "bro_semantic_ids": [
+        836,
+        837,
+        838
+    ]
+}

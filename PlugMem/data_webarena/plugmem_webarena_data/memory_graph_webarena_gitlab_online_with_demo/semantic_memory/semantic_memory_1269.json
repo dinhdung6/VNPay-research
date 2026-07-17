@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently on the URL \"http://localhost:8023/byteblaze/project_site/-/project_members\".",
+    "tags": [
+        "URL",
+        "IPAddress",
+        "PortNumber",
+        "ByteBlaze",
+        "Project_site"
+    ],
+    "time": "",
+    "episodic_ids": [
+        317
+    ],
+    "bro_semantic_ids": [
+        1268,
+        1270,
+        1271
+    ]
+}

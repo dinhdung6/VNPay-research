@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the 'Advanced Search' link to refine the search criteria.",
+    "tags": [
+        "Agent",
+        "Click",
+        "AdvancedSearch",
+        "Refine",
+        "Criteria"
+    ],
+    "time": "",
+    "episodic_ids": [
+        145
+    ],
+    "bro_semantic_ids": [
+        580,
+        582,
+        583
+    ]
+}

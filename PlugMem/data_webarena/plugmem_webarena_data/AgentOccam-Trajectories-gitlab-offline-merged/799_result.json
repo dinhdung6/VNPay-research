@@ -1,0 +1,9 @@
+{
+  "task_id": 799,
+  "objective": "create a new group \"n-lab\" with members patou, egpast, westurner, jontutcher",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 25,
+  "done": true,
+  "status": "FAIL"
+}

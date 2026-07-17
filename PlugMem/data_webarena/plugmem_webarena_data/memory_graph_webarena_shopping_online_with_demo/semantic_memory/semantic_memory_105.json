@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The delivery location is set to Champaign 61821.",
+    "tags": [
+        "Location",
+        "Champaign",
+        "Delivery",
+        "Address",
+        "Update"
+    ],
+    "time": "",
+    "episodic_ids": [
+        26
+    ],
+    "bro_semantic_ids": [
+        104,
+        106,
+        107
+    ]
+}

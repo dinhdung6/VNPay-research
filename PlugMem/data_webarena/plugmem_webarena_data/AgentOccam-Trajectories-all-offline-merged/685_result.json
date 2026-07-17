@@ -1,0 +1,9 @@
+{
+  "task_id": 685,
+  "objective": "Promote byteblaze/dotfiles to subreddit aww with the description from the repo itself.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

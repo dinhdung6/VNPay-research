@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has navigated to a URL that includes parameters for an advanced search with specific criteria such as product name 'children dental care', price '78 USD'.",
+    "tags": [
+        "URL",
+        "Search",
+        "Criteria",
+        "Product",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        47
+    ],
+    "bro_semantic_ids": [
+        188,
+        190,
+        191
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent hovered over the 'Health & Household' menu item with ID 9431.",
+    "tags": [
+        "[AgentAction",
+        "Hover",
+        "HealthHousehold",
+        "MenuItem",
+        "ID"
+    ],
+    "time": "",
+    "episodic_ids": [
+        41
+    ],
+    "bro_semantic_ids": [
+        164,
+        165,
+        166
+    ]
+}

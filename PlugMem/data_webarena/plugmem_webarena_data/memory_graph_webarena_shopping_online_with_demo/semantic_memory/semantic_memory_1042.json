@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search results can be sorted by Product Name, Price, or Relevance, with Relevance being the default selection.",
+    "tags": [
+        "sorting",
+        "Options",
+        "Relevance",
+        "Product",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        260
+    ],
+    "bro_semantic_ids": [
+        1040,
+        1041,
+        1043
+    ]
+}

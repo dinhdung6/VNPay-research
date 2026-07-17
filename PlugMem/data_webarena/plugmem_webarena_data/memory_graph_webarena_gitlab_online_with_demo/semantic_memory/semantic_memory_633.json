@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 13 assigned issues and 8 merge requests listed in the project's overview.",
+    "tags": [
+        "Issues",
+        "MergeRequests",
+        "ProjectOverview",
+        "Assigned",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        158
+    ],
+    "bro_semantic_ids": [
+        632,
+        634,
+        635
+    ]
+}

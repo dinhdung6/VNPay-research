@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project 'Super_Awesome_Robot' has a project ID of 40.",
+    "tags": [
+        "project",
+        "ID",
+        "Super_Awesome_Robot",
+        "GitLab",
+        "Identifier"
+    ],
+    "time": "",
+    "episodic_ids": [
+        18
+    ],
+    "bro_semantic_ids": [
+        72,
+        74,
+        75
+    ]
+}

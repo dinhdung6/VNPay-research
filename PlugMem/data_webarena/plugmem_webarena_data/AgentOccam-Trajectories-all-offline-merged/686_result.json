@@ -1,0 +1,9 @@
+{
+  "task_id": 686,
+  "objective": "Promote auth0/angular-storage to subreddit technology with the description from the repo itself.",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 9,
+  "done": true,
+  "status": "SUCCESS"
+}

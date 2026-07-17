@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current webpage is titled \"Home & Kitchen\" and displays items 13-24 out of 3138 products.",
+    "tags": [
+        "Home",
+        "Kitchen",
+        "Product",
+        "Webpage",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        166
+    ],
+    "bro_semantic_ids": [
+        665,
+        666,
+        667
+    ]
+}

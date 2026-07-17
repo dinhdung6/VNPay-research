@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can view products in grid or list format.",
+    "tags": [
+        "View",
+        "grid",
+        "list]",
+        "format",
+        "Product"
+    ],
+    "time": "",
+    "episodic_ids": [
+        280
+    ],
+    "bro_semantic_ids": [
+        1120,
+        1121,
+        1122
+    ]
+}

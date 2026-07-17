@@ -1,0 +1,9 @@
+{
+  "task_id": 325,
+  "objective": "Show me the \"mouth night guard\" listings by descending price.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page displays projects under the 'Projects Explore GitLab' section.",
+    "tags": [
+        "GitLab",
+        "project",
+        "Dashboard",
+        "Search",
+        "Issues"
+    ],
+    "time": "",
+    "episodic_ids": [
+        453
+    ],
+    "bro_semantic_ids": [
+        1813,
+        1814,
+        1815
+    ]
+}

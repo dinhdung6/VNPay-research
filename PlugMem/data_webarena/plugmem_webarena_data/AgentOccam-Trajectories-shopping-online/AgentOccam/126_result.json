@@ -1,0 +1,9 @@
+{
+  "task_id": 126,
+  "objective": "What is the price range of Canon photo printer in the One Stop Market?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "SUCCESS"
+}

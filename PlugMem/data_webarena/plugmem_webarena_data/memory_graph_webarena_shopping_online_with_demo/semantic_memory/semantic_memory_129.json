@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 233 video games items available in total.",
+    "tags": [
+        "TotalItems",
+        "VideoGames",
+        "Items",
+        "Availability",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        32
+    ],
+    "bro_semantic_ids": [
+        128,
+        130,
+        131
+    ]
+}

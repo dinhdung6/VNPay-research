@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The price of the product is $12.99.",
+    "tags": [
+        "Price",
+        "Cost",
+        "Dollars",
+        "Product",
+        "VIVIKI"
+    ],
+    "time": "",
+    "episodic_ids": [
+        124
+    ],
+    "bro_semantic_ids": [
+        496,
+        497,
+        499
+    ]
+}

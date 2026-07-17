@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The due date for the issue \"add support for oh-my-zsh\" is set to July 18, 2033.",
+    "tags": [
+        "DueDate",
+        "Issues",
+        "Date",
+        "project",
+        "Timeline"
+    ],
+    "time": "",
+    "episodic_ids": [
+        488
+    ],
+    "bro_semantic_ids": [
+        1952,
+        1953,
+        1954
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "subgoal": "To locate and filter issues labeled as \"help wanted\" within a specific GitLab project repository.",
+    "procedural_memory": "To efficiently locate and filter issues labeled as \"help wanted\" in a GitLab project, the agent should follow a structured navigation process. First, identify and click on the relevant project link from the dashboard to access the project details page. Next, use the project navigation menu to access the \"Issues\" page, which provides a comprehensive list of all issues. Finally, interact with the label links (e.g., \"help wanted\") to filter the issues and display only those that match the desired criteria. This step-by-step approach ensures that the agent systematically narrows down the information, avoiding unnecessary detours and directly advancing toward the goal.",
+    "trajectory_num": 0,
+    "time": "",
+    "return": "[9]",
+    "subgoal_id": 2,
+    "episodic_ids": [
+        3,
+        4,
+        5
+    ]
+}

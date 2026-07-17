@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled '<NAME>' and is located at http://localhost:7770/customer/address/.",
+    "tags": [
+        "[page",
+        "Title",
+        "URL",
+        "AddressBook",
+        "Customer"
+    ],
+    "time": "",
+    "episodic_ids": [
+        228
+    ],
+    "bro_semantic_ids": [
+        913,
+        914,
+        915
+    ]
+}

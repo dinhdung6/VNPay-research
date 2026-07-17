@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 417 merge requests in the \"create-react-app\" project on GitLab.",
+    "tags": [
+        "MergeRequests",
+        "project",
+        "GitLab",
+        "CreateReactApp",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        440
+    ],
+    "bro_semantic_ids": [
+        1760,
+        1762,
+        1763
+    ]
+}

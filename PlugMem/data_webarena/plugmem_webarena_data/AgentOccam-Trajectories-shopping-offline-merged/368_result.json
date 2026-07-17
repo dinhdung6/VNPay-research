@@ -1,0 +1,9 @@
+{
+  "task_id": 368,
+  "objective": "find discounted items.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

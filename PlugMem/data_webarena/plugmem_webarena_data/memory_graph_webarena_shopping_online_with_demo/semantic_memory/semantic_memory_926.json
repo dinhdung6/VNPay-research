@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has 1 item in their cart on the One Stop Market website.",
+    "tags": [
+        "Cart",
+        "Items",
+        "User",
+        "Website",
+        "OneStopMarket"
+    ],
+    "time": "",
+    "episodic_ids": [
+        231
+    ],
+    "bro_semantic_ids": [
+        924,
+        925,
+        927
+    ]
+}

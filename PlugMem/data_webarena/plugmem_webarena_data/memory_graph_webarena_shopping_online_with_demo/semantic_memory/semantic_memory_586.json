@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search button (ID: 48425) on the main search area is disabled.",
+    "tags": [
+        "Button",
+        "Disabled",
+        "Search",
+        "Main",
+        "Area"
+    ],
+    "time": "",
+    "episodic_ids": [
+        146
+    ],
+    "bro_semantic_ids": [
+        584,
+        585,
+        587
+    ]
+}

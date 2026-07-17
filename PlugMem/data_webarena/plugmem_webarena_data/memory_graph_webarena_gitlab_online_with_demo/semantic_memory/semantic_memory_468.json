@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user typed \"Out of Office\" into the \"What's your status?\" textbox without submitting it.",
+    "tags": [
+        "GitLab",
+        "Status",
+        "User",
+        "TextBox",
+        "Input"
+    ],
+    "time": "",
+    "episodic_ids": [
+        117
+    ],
+    "bro_semantic_ids": [
+        469,
+        470,
+        471
+    ]
+}

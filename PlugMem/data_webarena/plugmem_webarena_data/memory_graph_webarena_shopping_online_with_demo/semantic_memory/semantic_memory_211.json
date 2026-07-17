@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The price range starts at 78 USD but does not have an upper limit.",
+    "tags": [
+        "[Price",
+        "Range",
+        "USD",
+        "Currency",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        52
+    ],
+    "bro_semantic_ids": [
+        208,
+        209,
+        210
+    ]
+}

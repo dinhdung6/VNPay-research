@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The issue \"add support for oh-my-zsh\" is located in the \"dotfiles\" project under the \"Byte Blaze\" repository on GitLab.",
+    "tags": [
+        "project",
+        "repository",
+        "Location",
+        "GitLab",
+        "Issues"
+    ],
+    "time": "",
+    "episodic_ids": [
+        492
+    ],
+    "bro_semantic_ids": [
+        1968,
+        1970,
+        1971
+    ]
+}

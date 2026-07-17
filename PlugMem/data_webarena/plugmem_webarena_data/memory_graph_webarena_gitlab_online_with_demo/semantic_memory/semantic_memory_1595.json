@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The most recent issue titled \"How much gpu memory needed for opt-175B fine-tuning?\" was created on February 6, 2023.",
+    "tags": [
+        "Issues",
+        "GPU",
+        "Memory",
+        "Fine-Tuning",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        398
+    ],
+    "bro_semantic_ids": [
+        1592,
+        1593,
+        1594
+    ]
+}

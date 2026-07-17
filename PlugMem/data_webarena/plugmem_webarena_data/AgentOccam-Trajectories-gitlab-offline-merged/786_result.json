@@ -1,0 +1,9 @@
+{
+  "task_id": 786,
+  "objective": "Tell me the number of commits of the contributor who has the most commits to branch main",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

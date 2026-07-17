@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current street address being edited is <ADDRESS>,
+    "tags": [
+        "Address",
+        "Street",
+        "SanMateo",
+        "Dr",
+        "Location"
+    ],
+    "time": "",
+    "episodic_ids": [
+        187
+    ],
+    "bro_semantic_ids": [
+        748,
+        749,
+        750
+    ]
+}

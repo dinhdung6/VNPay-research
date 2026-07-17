@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the 'Add to Cart' button for the product 'Klipsch R-12SW Subwoofer (Renewed)'.",
+    "tags": [
+        "Agent",
+        "AddToCart",
+        "Button",
+        "Klipsch",
+        "Subwoofer"
+    ],
+    "time": "",
+    "episodic_ids": [
+        161
+    ],
+    "bro_semantic_ids": [
+        644,
+        645,
+        647
+    ]
+}

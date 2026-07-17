@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has access to links for their account, wish list, and cart, indicating they are logged into the site.",
+    "tags": [
+        "Account",
+        "WishList",
+        "Cart",
+        "LoggedIn",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        302
+    ],
+    "bro_semantic_ids": [
+        1208,
+        1209,
+        1210
+    ]
+}

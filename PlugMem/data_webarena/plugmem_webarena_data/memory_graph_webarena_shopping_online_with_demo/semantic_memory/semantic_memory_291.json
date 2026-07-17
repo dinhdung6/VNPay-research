@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Home & Kitchen\" category tab (ID: 4693).",
+    "tags": [
+        "Agent",
+        "Click",
+        "Categories",
+        "Home",
+        "Kitchen"
+    ],
+    "time": "",
+    "episodic_ids": [
+        72
+    ],
+    "bro_semantic_ids": [
+        288,
+        289,
+        290
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The URL of the current page is 'http://localhost:8023/dashboard/issues?scope=all&state=opened&assignee_username=byteblaze&search=404'.",
+    "tags": [
+        "URL",
+        "Issues",
+        "GitLab",
+        "QueryString",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        125
+    ],
+    "bro_semantic_ids": [
+        500,
+        502,
+        503
+    ]
+}

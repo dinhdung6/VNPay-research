@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can navigate through pages using links for Page 2, Page 3, Page 4, and Next Page.",
+    "tags": [
+        "Navigation",
+        "Pages",
+        "Links",
+        "next",
+        "Previous"
+    ],
+    "time": "",
+    "episodic_ids": [
+        208
+    ],
+    "bro_semantic_ids": [
+        832,
+        833,
+        834
+    ]
+}

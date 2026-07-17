@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Nintendo Switch (51 item)\" category link.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Categories",
+        "NintendoSwitch",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        17
+    ],
+    "bro_semantic_ids": [
+        68,
+        70,
+        71
+    ]
+}

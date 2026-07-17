@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The target branch for the merge request is \"main\" from repository \"a11yproject/a11yproject.com\".",
+    "tags": [
+        "TargetBranch",
+        "main",
+        "repository",
+        "MergeRequests",
+        "Branch"
+    ],
+    "time": "",
+    "episodic_ids": [
+        511
+    ],
+    "bro_semantic_ids": [
+        2044,
+        2045,
+        2047
+    ]
+}

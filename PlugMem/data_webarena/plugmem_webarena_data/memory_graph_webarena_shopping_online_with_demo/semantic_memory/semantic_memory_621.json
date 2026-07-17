@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to input the price \"1000\" into the \"Price\" textbox (ID: 15383) and pressed Enter to initiate a search.",
+    "tags": [
+        "[agent",
+        "Price",
+        "TextBox",
+        "Search",
+        "enter]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        155
+    ],
+    "bro_semantic_ids": [
+        620,
+        622,
+        623
+    ]
+}

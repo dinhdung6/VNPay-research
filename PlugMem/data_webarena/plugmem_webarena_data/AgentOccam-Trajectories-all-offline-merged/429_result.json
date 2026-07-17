@@ -1,0 +1,9 @@
+{
+  "task_id": 429,
+  "objective": "Find the page of the colleges where The Chair was filmed in Pittsburgh on the map.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 10,
+  "done": true,
+  "status": "FAIL"
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 279,
+  "objective": "Provide me with the complete names of Bluetooth headphones from Sony, and also share the price range for the available models",
+  "success": true,
+  "reward": 0.35714285714285715,
+  "num_actions": 16,
+  "done": true,
+  "status": "SUCCESS"
+}

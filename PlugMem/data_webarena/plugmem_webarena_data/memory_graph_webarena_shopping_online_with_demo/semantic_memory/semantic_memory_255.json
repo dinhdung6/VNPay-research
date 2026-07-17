@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search combobox is present but the search button is disabled.",
+    "tags": [
+        "[search",
+        "ComboBox",
+        "Button",
+        "Disabled",
+        "Feature"
+    ],
+    "time": "",
+    "episodic_ids": [
+        63
+    ],
+    "bro_semantic_ids": [
+        252,
+        253,
+        254
+    ]
+}

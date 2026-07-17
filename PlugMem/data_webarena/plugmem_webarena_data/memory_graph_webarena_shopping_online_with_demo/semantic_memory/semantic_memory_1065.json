@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"200.00 and above (1 item)\" price filter link.",
+    "tags": [
+        "Agent",
+        "Click",
+        "PriceFilter",
+        "Link",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        266
+    ],
+    "bro_semantic_ids": [
+        1064,
+        1066,
+        1067
+    ]
+}

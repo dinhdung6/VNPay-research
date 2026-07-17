@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for \"shoe storage\" on the website.",
+    "tags": [
+        "Search",
+        "Shoes",
+        "Storage",
+        "query",
+        "user"
+    ],
+    "time": "",
+    "episodic_ids": [
+        278
+    ],
+    "bro_semantic_ids": [
+        1113,
+        1114,
+        1115
+    ]
+}

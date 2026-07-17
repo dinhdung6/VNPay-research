@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has hovered over the \"Health & Household\" menu item with ID 10585 on the 'Advanced Search' page.",
+    "tags": [
+        "User",
+        "Hover",
+        "Menu",
+        "Items",
+        "Health"
+    ],
+    "time": "",
+    "episodic_ids": [
+        42
+    ],
+    "bro_semantic_ids": [
+        168,
+        170,
+        171
+    ]
+}

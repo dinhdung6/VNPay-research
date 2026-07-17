@@ -1,0 +1,9 @@
+{
+  "task_id": 506,
+  "objective": "Buy the highest rated product from the meat substitute category within a budget between 100 and 200.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "SUCCESS"
+}

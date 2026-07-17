@@ -1,0 +1,9 @@
+{
+  "task_id": 278,
+  "objective": "Search for \"green tea bag for weight loss\"",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "SUCCESS"
+}

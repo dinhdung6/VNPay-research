@@ -1,0 +1,9 @@
+{
+  "task_id": 800,
+  "objective": "create a new group \"x-lab\" with members JonasVautherin, dilipchandima, dawiss1337, bmyun, DCMJY",
+  "success": true,
+  "reward": 0.8,
+  "num_actions": 25,
+  "done": true,
+  "status": "SUCCESS"
+}

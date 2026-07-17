@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The SKU number for the product is B08D9PDY5N.",
+    "tags": [
+        "SKU",
+        "Identification",
+        "ProductCode",
+        "Barcode",
+        "Number"
+    ],
+    "time": "",
+    "episodic_ids": [
+        77
+    ],
+    "bro_semantic_ids": [
+        308,
+        309,
+        311
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent hovered over the 'Health & Household' category in the tabbed menu.",
+    "tags": [
+        "Hover",
+        "Categories",
+        "Health",
+        "Household",
+        "Menu"
+    ],
+    "time": "",
+    "episodic_ids": [
+        48
+    ],
+    "bro_semantic_ids": [
+        192,
+        193,
+        194
+    ]
+}

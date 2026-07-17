@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Add to Cart\" button (ID: 14285) to add the product to the cart.",
+    "tags": [
+        "Action",
+        "Button",
+        "Cart",
+        "AddToCart",
+        "Interaction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        20
+    ],
+    "bro_semantic_ids": [
+        80,
+        81,
+        82
+    ]
+}

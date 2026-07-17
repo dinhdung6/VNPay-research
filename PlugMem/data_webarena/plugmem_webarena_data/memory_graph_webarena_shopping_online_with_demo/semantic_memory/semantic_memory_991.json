@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has a cart with 1 item.",
+    "tags": [
+        "Cart",
+        "Items",
+        "User",
+        "Shopping",
+        "Inventory"
+    ],
+    "time": "",
+    "episodic_ids": [
+        247
+    ],
+    "bro_semantic_ids": [
+        988,
+        989,
+        990
+    ]
+}

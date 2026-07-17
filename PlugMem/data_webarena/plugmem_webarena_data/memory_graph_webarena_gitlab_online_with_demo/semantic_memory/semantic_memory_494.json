@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/a11yproject/a11yproject.com.",
+    "tags": [
+        "URL",
+        "Current",
+        "IP",
+        "address",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        123
+    ],
+    "bro_semantic_ids": [
+        492,
+        493,
+        495
+    ]
+}

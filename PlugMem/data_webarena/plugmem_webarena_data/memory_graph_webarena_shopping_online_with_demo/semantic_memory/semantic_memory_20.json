@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page being viewed is page 3 of the \"My Orders\" list.",
+    "tags": [
+        "[page",
+        "Orders",
+        "View",
+        "Navigation",
+        "list]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        5
+    ],
+    "bro_semantic_ids": [
+        21,
+        22,
+        23
+    ]
+}

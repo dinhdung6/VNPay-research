@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/byteblaze/cloud-to-butt/-/edit/master/LICENSE.txt.",
+    "tags": [
+        "URL",
+        "IP",
+        "port",
+        "GitLab",
+        "LICENSE"
+    ],
+    "time": "",
+    "episodic_ids": [
+        413
+    ],
+    "bro_semantic_ids": [
+        1652,
+        1653,
+        1654
+    ]
+}

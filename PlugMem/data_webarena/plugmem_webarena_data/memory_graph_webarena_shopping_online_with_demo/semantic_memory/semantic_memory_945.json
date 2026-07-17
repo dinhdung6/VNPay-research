@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shipping address for the order is <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "Address",
+        "Location",
+        "Shipping",
+        "City",
+        "State"
+    ],
+    "time": "",
+    "episodic_ids": [
+        236
+    ],
+    "bro_semantic_ids": [
+        944,
+        946,
+        947
+    ]
+}

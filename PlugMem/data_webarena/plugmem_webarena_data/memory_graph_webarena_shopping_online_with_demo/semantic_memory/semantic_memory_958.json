@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 12 products listed on the current page of the One Stop Market website.",
+    "tags": [
+        "Product",
+        "Page",
+        "Website",
+        "Listing",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        239
+    ],
+    "bro_semantic_ids": [
+        956,
+        957,
+        959
+    ]
+}

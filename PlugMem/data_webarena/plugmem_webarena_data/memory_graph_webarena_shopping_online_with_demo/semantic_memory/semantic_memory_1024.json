@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to type \"Amazon Basics\" into the search field on the website.",
+    "tags": [
+        "User",
+        "Search",
+        "Website",
+        "Amazon",
+        "Input"
+    ],
+    "time": "",
+    "episodic_ids": [
+        256
+    ],
+    "bro_semantic_ids": [
+        1025,
+        1026,
+        1027
+    ]
+}

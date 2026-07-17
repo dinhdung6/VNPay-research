@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user searched for projects named \"Super_Awesome_Robot\" using the \"Filter by name\" search box on the GitLab dashboard.",
+    "tags": [
+        "GitLab",
+        "Search",
+        "project",
+        "User",
+        "Dashboard"
+    ],
+    "time": "",
+    "episodic_ids": [
+        13
+    ],
+    "bro_semantic_ids": [
+        53,
+        54,
+        55
+    ]
+}

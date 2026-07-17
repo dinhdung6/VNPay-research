@@ -1,0 +1,9 @@
+{
+  "task_id": 804,
+  "objective": "Assign the issue regarding flash alerts to myself and primer.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 26,
+  "done": true,
+  "status": "FAIL"
+}

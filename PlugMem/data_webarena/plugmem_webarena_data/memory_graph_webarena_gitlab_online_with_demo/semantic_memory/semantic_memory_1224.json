@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to click the \"New project\" link to initiate the creation of a new project from the \"Projects Dashboard\" page.",
+    "tags": [
+        "GitLab",
+        "project",
+        "User",
+        "Click",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        306
+    ],
+    "bro_semantic_ids": [
+        1225,
+        1226,
+        1227
+    ]
+}

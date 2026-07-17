@@ -1,0 +1,9 @@
+{
+  "task_id": 671,
+  "objective": "Gather the titles of Sony Computer Entertainment VR reviews with 2 stars and less rating from OneStopShop, and post them in the games subreddit under the title \"real user feedback on Sony Computer Entertainment VR\"",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 22,
+  "done": true,
+  "status": "FAIL"
+}

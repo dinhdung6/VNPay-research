@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Issues\" link (ID: 2848) in the project navigation sidebar.",
+    "tags": [
+        "[GitLab",
+        "Issues",
+        "navigation]",
+        "Sidebar",
+        "Click"
+    ],
+    "time": "",
+    "episodic_ids": [
+        482
+    ],
+    "bro_semantic_ids": [
+        1929,
+        1930,
+        1931
+    ]
+}

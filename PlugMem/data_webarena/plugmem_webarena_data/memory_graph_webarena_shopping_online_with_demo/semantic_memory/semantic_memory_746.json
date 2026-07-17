@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The default shipping address for the user <NAME> is the same as the billing address: <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "Address",
+        "User",
+        "Location",
+        "Shipping",
+        "California"
+    ],
+    "time": "",
+    "episodic_ids": [
+        186
+    ],
+    "bro_semantic_ids": [
+        744,
+        745,
+        747
+    ]
+}

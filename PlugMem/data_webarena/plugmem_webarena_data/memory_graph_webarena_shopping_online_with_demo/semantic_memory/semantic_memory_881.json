@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are a total of 38 orders listed under the 'My Orders' section.",
+    "tags": [
+        "Orders",
+        "Total",
+        "Listing",
+        "section",
+        "count"
+    ],
+    "time": "",
+    "episodic_ids": [
+        220
+    ],
+    "bro_semantic_ids": [
+        880,
+        882,
+        883
+    ]
+}

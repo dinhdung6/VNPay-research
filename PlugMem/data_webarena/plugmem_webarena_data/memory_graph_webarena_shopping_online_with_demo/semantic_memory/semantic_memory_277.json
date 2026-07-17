@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on the \"Electronics\" tab within the website.",
+    "tags": [
+        "Tab",
+        "Electronics",
+        "Website",
+        "User",
+        "Navigation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        69
+    ],
+    "bro_semantic_ids": [
+        276,
+        278,
+        279
+    ]
+}

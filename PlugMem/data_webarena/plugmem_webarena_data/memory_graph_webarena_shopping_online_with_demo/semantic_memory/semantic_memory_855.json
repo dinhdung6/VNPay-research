@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user requested a refund for a phone screen protector purchased from the site, stating it broke after three days of use.",
+    "tags": [
+        "Refund",
+        "Request",
+        "ScreenProtector",
+        "Broken",
+        "Days"
+    ],
+    "time": "",
+    "episodic_ids": [
+        213
+    ],
+    "bro_semantic_ids": [
+        852,
+        853,
+        854
+    ]
+}

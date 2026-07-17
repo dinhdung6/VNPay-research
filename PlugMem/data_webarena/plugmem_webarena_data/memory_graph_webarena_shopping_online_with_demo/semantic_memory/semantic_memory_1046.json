@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple categories available such as Beauty & Personal Care, Clothing, Electronics, and Groceries.",
+    "tags": [
+        "Categories",
+        "Beauty",
+        "Clothing",
+        "Electronics",
+        "Groceries"
+    ],
+    "time": "",
+    "episodic_ids": [
+        261
+    ],
+    "bro_semantic_ids": [
+        1044,
+        1045,
+        1047
+    ]
+}

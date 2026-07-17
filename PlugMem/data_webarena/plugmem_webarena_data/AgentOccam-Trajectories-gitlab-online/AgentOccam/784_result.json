@@ -1,0 +1,9 @@
+{
+  "task_id": 784,
+  "objective": "Tell me the email address of the contributor who has the most commits to branch main",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

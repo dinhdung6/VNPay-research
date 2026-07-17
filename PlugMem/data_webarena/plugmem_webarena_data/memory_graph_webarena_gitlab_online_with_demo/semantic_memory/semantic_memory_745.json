@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has a private profile as indicated by the text \"This user has a private profile\".",
+    "tags": [
+        "PrivateProfile",
+        "User",
+        "Text",
+        "Indication",
+        "Privacy"
+    ],
+    "time": "",
+    "episodic_ids": [
+        186
+    ],
+    "bro_semantic_ids": [
+        744,
+        746,
+        747
+    ]
+}

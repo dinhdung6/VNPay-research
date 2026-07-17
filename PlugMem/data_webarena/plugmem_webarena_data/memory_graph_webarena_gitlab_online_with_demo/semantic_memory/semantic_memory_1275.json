@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Invite\" button [13461] in the \"Invite members\" dialog to attempt inviting new members to the \"project_site\".",
+    "tags": [
+        "Invite",
+        "Button",
+        "Dialog]",
+        "Action",
+        "members"
+    ],
+    "time": "",
+    "episodic_ids": [
+        318
+    ],
+    "bro_semantic_ids": [
+        1272,
+        1273,
+        1274
+    ]
+}

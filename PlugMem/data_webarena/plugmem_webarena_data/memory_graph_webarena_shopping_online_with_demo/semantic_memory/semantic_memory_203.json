@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Advanced Search' page contains a combobox labeled 'Search' which is not required and a disabled 'Search' button.",
+    "tags": [
+        "ComboBox",
+        "Button",
+        "Disabled",
+        "Search",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        50
+    ],
+    "bro_semantic_ids": [
+        200,
+        201,
+        202
+    ]
+}

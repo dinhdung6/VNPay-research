@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The billing address matches the shipping address, also listed as <NAME> at <ADDRESS>, <LOCATION>, United States.",
+    "tags": [
+        "BillingAddress",
+        "Match",
+        "EmmaLopez",
+        "SanMateo",
+        "California"
+    ],
+    "time": "",
+    "episodic_ids": [
+        200
+    ],
+    "bro_semantic_ids": [
+        800,
+        801,
+        802
+    ]
+}

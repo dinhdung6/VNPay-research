@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can view and reorder orders from October 21, 2022, with order number 000000178.",
+    "tags": [
+        "[order",
+        "Date",
+        "View",
+        "Reorder",
+        "status]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        5
+    ],
+    "bro_semantic_ids": [
+        20,
+        22,
+        23
+    ]
+}

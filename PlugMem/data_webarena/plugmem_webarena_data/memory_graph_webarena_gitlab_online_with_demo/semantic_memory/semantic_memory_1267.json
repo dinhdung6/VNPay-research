@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to type \"primer\" into the \"Username or email address\" field in the \"Invite members\" dialog.",
+    "tags": [
+        "Agent",
+        "Invite",
+        "Username",
+        "email",
+        "Dialog]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        316
+    ],
+    "bro_semantic_ids": [
+        1264,
+        1265,
+        1266
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's role is selected as 'Software Developer'.",
+    "tags": [
+        "Role",
+        "SoftwareDeveloper",
+        "User",
+        "Selected",
+        "profile"
+    ],
+    "time": "",
+    "episodic_ids": [
+        350
+    ],
+    "bro_semantic_ids": [
+        1400,
+        1401,
+        1402
+    ]
+}

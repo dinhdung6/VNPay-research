@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The price of \"The Body Shop Camomile Makeup Removing Kit\" is $35.00.",
+    "tags": [
+        "Price",
+        "Product",
+        "Items",
+        "Cost",
+        "Dollars"
+    ],
+    "time": "",
+    "episodic_ids": [
+        317
+    ],
+    "bro_semantic_ids": [
+        1268,
+        1269,
+        1270
+    ]
+}

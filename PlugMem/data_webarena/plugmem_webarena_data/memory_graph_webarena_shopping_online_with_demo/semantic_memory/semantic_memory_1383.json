@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the product 'Atlantic Technology FS-7.0-GLB 7-channel Surround Bar (Gloss Black) (Discontinued by Manufacturer)'.",
+    "tags": [
+        "Click",
+        "Agent",
+        "Product",
+        "AtlanticTechnology",
+        "SurroundBar"
+    ],
+    "time": "",
+    "episodic_ids": [
+        345
+    ],
+    "bro_semantic_ids": [
+        1380,
+        1381,
+        1382
+    ]
+}

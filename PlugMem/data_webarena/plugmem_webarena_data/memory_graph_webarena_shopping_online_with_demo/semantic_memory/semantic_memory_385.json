@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has entered 'iphone 12 phone case' into the search field.",
+    "tags": [
+        "Search",
+        "query",
+        "Phone",
+        "case",
+        "iphone"
+    ],
+    "time": "",
+    "episodic_ids": [
+        96
+    ],
+    "bro_semantic_ids": [
+        384,
+        386,
+        387
+    ]
+}

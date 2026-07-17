@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search settings include fields for Product Name, SKU, Description, Short Description, Price, and Currency.",
+    "tags": [
+        "Settings",
+        "Fields",
+        "Product",
+        "Name",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        43
+    ],
+    "bro_semantic_ids": [
+        172,
+        173,
+        175
+    ]
+}

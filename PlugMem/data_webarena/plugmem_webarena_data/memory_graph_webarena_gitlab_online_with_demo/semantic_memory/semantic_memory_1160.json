@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Merge requests\" link (ID: 2301) in the project navigation to view details about the 10 merge requests associated with the \"a11yproject.com\" repository.",
+    "tags": [
+        "[click",
+        "link",
+        "Merge",
+        "Requests",
+        "repository"
+    ],
+    "time": "",
+    "episodic_ids": [
+        290
+    ],
+    "bro_semantic_ids": [
+        1161,
+        1162,
+        1163
+    ]
+}

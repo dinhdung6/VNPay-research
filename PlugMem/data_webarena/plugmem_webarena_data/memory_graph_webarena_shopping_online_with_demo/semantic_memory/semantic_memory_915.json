@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent attempted to click the \"<NAME> Address\" link.",
+    "tags": [
+        "[agent",
+        "Action",
+        "Click",
+        "Link",
+        "Shipping"
+    ],
+    "time": "",
+    "episodic_ids": [
+        228
+    ],
+    "bro_semantic_ids": [
+        912,
+        913,
+        914
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The title of the new issue being created is \"add support for oh-my-zsh\".",
+    "tags": [
+        "title",
+        "oh-my-zsh",
+        "Issues",
+        "Creation",
+        "Support"
+    ],
+    "time": "",
+    "episodic_ids": [
+        485
+    ],
+    "bro_semantic_ids": [
+        1940,
+        1941,
+        1943
+    ]
+}

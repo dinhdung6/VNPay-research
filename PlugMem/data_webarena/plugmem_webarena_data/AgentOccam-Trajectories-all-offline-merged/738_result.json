@@ -1,0 +1,9 @@
+{
+  "task_id": 738,
+  "objective": "Show me the way from Carnegie Mellon University to the home stadium of Philadelphia 76ers in the 70th",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 26,
+  "done": true,
+  "status": "FAIL"
+}

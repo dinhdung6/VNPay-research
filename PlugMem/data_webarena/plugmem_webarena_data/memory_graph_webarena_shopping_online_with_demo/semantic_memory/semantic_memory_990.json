@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has made multiple orders, with the latest order (Order #000000164) placed on 11/26/22.",
+    "tags": [
+        "Orders",
+        "Latest",
+        "Date",
+        "User",
+        "History"
+    ],
+    "time": "",
+    "episodic_ids": [
+        247
+    ],
+    "bro_semantic_ids": [
+        988,
+        989,
+        991
+    ]
+}

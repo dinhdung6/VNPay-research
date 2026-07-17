@@ -1,0 +1,6 @@
+{
+    "subgoal": "The agent's goal is to access account-related information, specifically pending order details, to complete a task.",
+    "procedural_ids": [
+        9
+    ]
+}

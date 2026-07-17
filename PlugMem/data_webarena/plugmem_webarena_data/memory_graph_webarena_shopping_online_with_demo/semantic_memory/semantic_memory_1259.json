@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to view the details of the canceled order with ID \"000000182\" by clicking the \"View Order\" link.",
+    "tags": [
+        "Attempt",
+        "Details",
+        "Canceled",
+        "order",
+        "Link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        314
+    ],
+    "bro_semantic_ids": [
+        1256,
+        1257,
+        1258
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The description of the new issue mentions implementing a dark mode feature for the solarized-prism-theme project.",
+    "tags": [
+        "Description",
+        "DarkMode",
+        "Feature",
+        "project",
+        "SolarizedPrismTheme"
+    ],
+    "time": "",
+    "episodic_ids": [
+        305
+    ],
+    "bro_semantic_ids": [
+        1220,
+        1221,
+        1222
+    ]
+}

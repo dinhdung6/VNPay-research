@@ -1,0 +1,9 @@
+{
+  "task_id": 282,
+  "objective": "List the full product names of slide slippers from Nike and tell me the price range of the available products",
+  "success": true,
+  "reward": 0.45454545454545453,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

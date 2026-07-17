@@ -1,0 +1,9 @@
+{
+  "task_id": 305,
+  "objective": "How many commits did Philip make in 2023/1?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "SUCCESS"
+}

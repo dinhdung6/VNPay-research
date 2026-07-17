@@ -1,0 +1,9 @@
+{
+  "task_id": 659,
+  "objective": "Create an issue in empathy-prompts repo with title \"Integrating LLMs for better prompts\". Assign the issue to Roshanjossey. Set due date to be the beginning of Q2 2033",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 9,
+  "done": true,
+  "status": "FAIL"
+}

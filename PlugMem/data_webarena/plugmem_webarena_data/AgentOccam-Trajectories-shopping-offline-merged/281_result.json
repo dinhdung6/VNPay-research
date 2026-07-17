@@ -1,0 +1,9 @@
+{
+  "task_id": 281,
+  "objective": "Please provide me with the complete product names of Oral B brush heads designed for children, along with their corresponding price range per brush",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 16,
+  "done": true,
+  "status": "SUCCESS"
+}

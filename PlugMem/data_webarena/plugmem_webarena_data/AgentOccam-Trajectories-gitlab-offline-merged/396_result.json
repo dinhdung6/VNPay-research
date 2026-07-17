@@ -1,0 +1,9 @@
+{
+  "task_id": 396,
+  "objective": "Fork ChatGPT.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 10,
+  "done": true,
+  "status": "FAIL"
+}

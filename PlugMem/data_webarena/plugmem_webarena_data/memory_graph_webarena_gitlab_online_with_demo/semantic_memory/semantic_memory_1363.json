@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The visibility level of the project 'web_agent' was attempted to be changed to 'Private'.",
+    "tags": [
+        "[Visibility",
+        "Private",
+        "WebAgent",
+        "ByteBlaze",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        340
+    ],
+    "bro_semantic_ids": [
+        1360,
+        1361,
+        1362
+    ]
+}

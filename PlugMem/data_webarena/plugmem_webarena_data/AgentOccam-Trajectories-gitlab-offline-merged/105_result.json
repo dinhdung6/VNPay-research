@@ -1,0 +1,9 @@
+{
+  "task_id": 105,
+  "objective": "Display the list of issues in the OpenAPITools/openapi-generator repository that have labels related to OpenAPI Generator CLI",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 15,
+  "done": true,
+  "status": "FAIL"
+}

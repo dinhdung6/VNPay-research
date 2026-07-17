@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent searched for a user named \"Justin\" in the 'Search users' textbox.",
+    "tags": [
+        "Search",
+        "User",
+        "Justin",
+        "TextBox",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        297
+    ],
+    "bro_semantic_ids": [
+        1188,
+        1189,
+        1191
+    ]
+}

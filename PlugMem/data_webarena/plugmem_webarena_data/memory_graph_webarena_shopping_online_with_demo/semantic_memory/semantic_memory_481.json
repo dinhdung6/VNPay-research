@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product is available in stock and has multiple color options including Black, Dark Green, Gray, Light Pink, Mint Green, and Purple.",
+    "tags": [
+        "Availability",
+        "Color",
+        "Options",
+        "Stock",
+        "Inventory"
+    ],
+    "time": "",
+    "episodic_ids": [
+        120
+    ],
+    "bro_semantic_ids": [
+        480,
+        482,
+        483
+    ]
+}

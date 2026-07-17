@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'One Stop Market' offers a variety of products including Beauty & Personal Care, Sports & Outdoors, Clothing, Shoes & Jewelry, Home & Kitchen, Office Products, Tools & Home Improvement, Health & Household, Patio, Lawn & Garden, Electronics, Cell Phones & Accessories, Video Games, Grocery & Gourmet Food.",
+    "tags": [
+        "Product",
+        "Categories",
+        "Market",
+        "Store",
+        "Inventory"
+    ],
+    "time": "",
+    "episodic_ids": [
+        16
+    ],
+    "bro_semantic_ids": [
+        64,
+        65,
+        67
+    ]
+}

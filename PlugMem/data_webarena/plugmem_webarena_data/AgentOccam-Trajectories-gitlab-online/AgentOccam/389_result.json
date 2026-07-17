@@ -1,0 +1,9 @@
+{
+  "task_id": 389,
+  "objective": "Post \"Thanks, working on reviews\" for the merge request related to octovisuals page in primer/design project",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "SUCCESS"
+}

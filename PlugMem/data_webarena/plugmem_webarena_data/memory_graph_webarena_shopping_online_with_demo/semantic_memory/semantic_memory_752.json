@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled '<NAME>' and is part of the RootWebArea.",
+    "tags": [
+        "AddressBook",
+        "PageTitle",
+        "RootWebArea",
+        "OneStopMarket",
+        "WebInterface"
+    ],
+    "time": "",
+    "episodic_ids": [
+        188
+    ],
+    "bro_semantic_ids": [
+        753,
+        754,
+        755
+    ]
+}

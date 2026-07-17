@@ -1,0 +1,9 @@
+{
+  "task_id": 144,
+  "objective": "How much I spent on food shopping during from mid Jan to the end Jan 2023",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 7,
+  "done": true,
+  "status": "SUCCESS"
+}

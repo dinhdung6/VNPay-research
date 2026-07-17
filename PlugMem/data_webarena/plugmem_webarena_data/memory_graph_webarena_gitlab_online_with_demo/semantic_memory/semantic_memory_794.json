@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"Usage Quotas\" link (ID: 7457) in the project settings navigation menu.",
+    "tags": [
+        "Agent",
+        "Click",
+        "UsageQuotas",
+        "link",
+        "navigation]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        198
+    ],
+    "bro_semantic_ids": [
+        792,
+        793,
+        795
+    ]
+}

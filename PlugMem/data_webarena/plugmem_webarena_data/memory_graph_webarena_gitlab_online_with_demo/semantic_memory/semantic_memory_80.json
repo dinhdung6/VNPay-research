@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for commits by typing \"Nic\" into the \"Search by message\" searchbox and pressing Enter.",
+    "tags": [
+        "[search",
+        "Commit",
+        "message",
+        "GitLab",
+        "user]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        20
+    ],
+    "bro_semantic_ids": [
+        81,
+        82,
+        83
+    ]
+}

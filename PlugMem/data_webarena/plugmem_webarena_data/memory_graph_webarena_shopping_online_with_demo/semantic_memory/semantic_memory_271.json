@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product 'Philips Audio Fidelio L2 Over-Ear Open-Air Headphone' is priced at $64.99.",
+    "tags": [
+        "Product",
+        "Price",
+        "Headphones",
+        "Philips",
+        "Electronics"
+    ],
+    "time": "",
+    "episodic_ids": [
+        67
+    ],
+    "bro_semantic_ids": [
+        268,
+        269,
+        270
+    ]
+}

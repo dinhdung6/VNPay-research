@@ -1,0 +1,11 @@
+task,task_id,model,type,logfile,done,reward,success,num_actions
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/265.json,265,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/265.json,True,0.0,0.0,10
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/424.json,424,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/424.json,True,0.0,0.0,15
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/554.json,554,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/554.json,True,0.0,0.0,9
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/557.json,557,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/557.json,True,0.8333333333333334,1.0,10
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/563.json,563,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/563.json,True,0.0,0.0,10
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/672.json,672,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/672.json,True,0.0,0.0,8
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/683.json,683,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/683.json,True,0.0,0.0,25
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/684.json,684,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/684.json,True,0.0,0.0,4
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/741.json,741,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/741.json,True,1.0,1.0,5
+/home/user/work/plugmem/PlugMem-exp/src/AgentOccam/config_files/tasks/759.json,759,Qwen2.5-7B-Instruct,AgentOccam,AgentOccam-all-online/759.json,True,0.0,0.0,25

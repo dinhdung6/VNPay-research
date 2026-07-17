@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The Merge Requests section shows 8 active merge requests for the Byte Blaze project.",
+    "tags": [
+        "MergeRequests",
+        "Active",
+        "count",
+        "project",
+        "ByteBlaze"
+    ],
+    "time": "",
+    "episodic_ids": [
+        311
+    ],
+    "bro_semantic_ids": [
+        1244,
+        1245,
+        1247
+    ]
+}

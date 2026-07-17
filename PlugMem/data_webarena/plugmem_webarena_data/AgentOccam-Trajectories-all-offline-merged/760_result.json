@@ -1,0 +1,9 @@
+{
+  "task_id": 760,
+  "objective": "Show me the route and driving time from Allentown, PA to the city where my E-commerce customer Amanda Kim lives",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

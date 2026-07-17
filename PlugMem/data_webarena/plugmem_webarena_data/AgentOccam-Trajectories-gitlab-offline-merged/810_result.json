@@ -1,0 +1,9 @@
+{
+  "task_id": 810,
+  "objective": "Assign the issue regarding flash alert in primer design guide repo to myself.",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 5,
+  "done": true,
+  "status": "SUCCESS"
+}

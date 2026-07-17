@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently on the GitLab Projects Dashboard page at URL http://localhost:8023/.",
+    "tags": [
+        "[GitLab",
+        "Dashboard",
+        "URL",
+        "project",
+        "page]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        141
+    ],
+    "bro_semantic_ids": [
+        565,
+        566,
+        567
+    ]
+}

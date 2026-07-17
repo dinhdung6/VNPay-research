@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Electronics' category link was clicked by the agent.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Electronics",
+        "Categories",
+        "Link"
+    ],
+    "time": "",
+    "episodic_ids": [
+        157
+    ],
+    "bro_semantic_ids": [
+        628,
+        629,
+        631
+    ]
+}

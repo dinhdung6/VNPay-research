@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The order date for Order 000000180 is March 11, 2023.",
+    "tags": [
+        "order",
+        "Date",
+        "Time",
+        "Purchase",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        236
+    ],
+    "bro_semantic_ids": [
+        944,
+        945,
+        947
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:7770/catalogsearch/advanced/.",
+    "tags": [
+        "[URL",
+        "IP",
+        "port]",
+        "CatalogSearch",
+        "Advanced"
+    ],
+    "time": "",
+    "episodic_ids": [
+        38
+    ],
+    "bro_semantic_ids": [
+        152,
+        153,
+        154
+    ]
+}

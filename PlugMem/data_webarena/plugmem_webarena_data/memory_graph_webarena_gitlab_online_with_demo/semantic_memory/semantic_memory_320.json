@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search query '2019-nCov' was performed on the GitLab platform.",
+    "tags": [
+        "GitLab",
+        "Search",
+        "Query",
+        "2019-nCov",
+        "Platform"
+    ],
+    "time": "",
+    "episodic_ids": [
+        80
+    ],
+    "bro_semantic_ids": [
+        321,
+        322,
+        323
+    ]
+}

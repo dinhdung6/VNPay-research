@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the \"General\" link within the \"Settings\" section.",
+    "tags": [
+        "Click",
+        "General",
+        "Settings",
+        "link",
+        "Agent"
+    ],
+    "time": "",
+    "episodic_ids": [
+        207
+    ],
+    "bro_semantic_ids": [
+        828,
+        829,
+        830
+    ]
+}

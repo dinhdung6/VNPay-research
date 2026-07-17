@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled \"Merge requests \u00b7 Dashboard \u00b7 GitLab\" and is located at URL `http://localhost:8023/dashboard/merge_requests?assignee_username=byteblaze`.",
+    "tags": [
+        "GitLab",
+        "URL",
+        "Dashboard",
+        "MergeRequests",
+        "ByteBlaze"
+    ],
+    "time": "",
+    "episodic_ids": [
+        417
+    ],
+    "bro_semantic_ids": [
+        1669,
+        1670,
+        1671
+    ]
+}

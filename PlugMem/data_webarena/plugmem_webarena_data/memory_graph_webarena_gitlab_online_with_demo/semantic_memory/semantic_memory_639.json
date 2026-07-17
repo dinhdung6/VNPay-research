@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the 'Members' link to view the list of members associated with the 'dotfiles' project.",
+    "tags": [
+        "members",
+        "navigation]",
+        "ByteBlaze",
+        "Dotfiles]",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        159
+    ],
+    "bro_semantic_ids": [
+        636,
+        637,
+        638
+    ]
+}

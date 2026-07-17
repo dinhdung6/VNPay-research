@@ -1,0 +1,9 @@
+{
+  "task_id": 355,
+  "objective": "List products from kids' bedding category by descending price",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

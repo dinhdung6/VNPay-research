@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled 'My Account' and is part of the 'One Stop Market' website.",
+    "tags": [
+        "Website",
+        "Title",
+        "Account",
+        "Market",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        10
+    ],
+    "bro_semantic_ids": [
+        41,
+        42,
+        43
+    ]
+}

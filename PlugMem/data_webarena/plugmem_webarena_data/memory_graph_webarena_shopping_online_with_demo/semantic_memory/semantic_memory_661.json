@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is browsing the 'Living Room Furniture' category under 'Home & Kitchen'.",
+    "tags": [
+        "Categories",
+        "Browse",
+        "Furniture",
+        "LivingRoom",
+        "Home"
+    ],
+    "time": "",
+    "episodic_ids": [
+        165
+    ],
+    "bro_semantic_ids": [
+        660,
+        662,
+        663
+    ]
+}

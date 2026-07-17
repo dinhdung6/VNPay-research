@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled 'Shopping Cart' and is located at URL http://localhost:7770/checkout/cart/.",
+    "tags": [
+        "[page",
+        "Title",
+        "URL",
+        "Shopping",
+        "Cart"
+    ],
+    "time": "",
+    "episodic_ids": [
+        319
+    ],
+    "bro_semantic_ids": [
+        1277,
+        1278,
+        1279
+    ]
+}

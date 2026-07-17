@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user navigated back to the previous page to revisit prior content or context.",
+    "tags": [
+        "navigation]",
+        "User",
+        "Page",
+        "Context",
+        "Back"
+    ],
+    "time": "",
+    "episodic_ids": [
+        443
+    ],
+    "bro_semantic_ids": [
+        1773,
+        1774,
+        1775
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Search' button (ID: 5985) was clicked by the agent to initiate a product search.",
+    "tags": [
+        "[Button",
+        "Search",
+        "Click",
+        "Action",
+        "Agent"
+    ],
+    "time": "",
+    "episodic_ids": [
+        39
+    ],
+    "bro_semantic_ids": [
+        156,
+        157,
+        158
+    ]
+}

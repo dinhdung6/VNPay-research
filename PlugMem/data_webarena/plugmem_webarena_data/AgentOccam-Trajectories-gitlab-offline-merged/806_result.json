@@ -1,0 +1,9 @@
+{
+  "task_id": 806,
+  "objective": "Submit a merge request for a11yproject.com/redesign branch to be merged into markdown-figure-block branch, assign myself as the reviewer",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 13,
+  "done": true,
+  "status": "SUCCESS"
+}

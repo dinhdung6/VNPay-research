@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Health & Household' category link (ID: 15283) from the menu.",
+    "tags": [
+        "[AgentAction",
+        "Click",
+        "CategoryLink",
+        "HealthHousehold",
+        "Menu"
+    ],
+    "time": "",
+    "episodic_ids": [
+        53
+    ],
+    "bro_semantic_ids": [
+        212,
+        213,
+        215
+    ]
+}

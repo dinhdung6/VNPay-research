@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current web page is titled 'Checkout' and is located at the URL http://localhost:7770/checkout/#payment.",
+    "tags": [
+        "Webpage",
+        "URL",
+        "Checkout",
+        "Amazon",
+        "EC2"
+    ],
+    "time": "",
+    "episodic_ids": [
+        350
+    ],
+    "bro_semantic_ids": [
+        1401,
+        1402,
+        1403
+    ]
+}

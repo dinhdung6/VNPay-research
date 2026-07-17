@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The most recent activity was a comment made by Byte Blaze on January 15, 2026, at 3:52 PM CST, asking Dave Greene to respond to a merge request.",
+    "tags": [
+        "Comment",
+        "MergeRequests",
+        "ByteBlaze",
+        "DaveGreene",
+        "Activity"
+    ],
+    "time": "",
+    "episodic_ids": [
+        223
+    ],
+    "bro_semantic_ids": [
+        892,
+        893,
+        895
+    ]
+}

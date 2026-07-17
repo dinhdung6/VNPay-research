@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is editing the LICENSE.txt file in the master branch of the cloud-to-butt project on GitLab.",
+    "tags": [
+        "GitLab",
+        "LICENSE",
+        "master",
+        "cloud-to-butt",
+        "ByteBlaze"
+    ],
+    "time": "",
+    "episodic_ids": [
+        413
+    ],
+    "bro_semantic_ids": [
+        1653,
+        1654,
+        1655
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current webpage is titled 'Advanced Search' and is located at the URL http://localhost:7770/catalogsearch/advanced/.",
+    "tags": [
+        "Webpage",
+        "URL",
+        "Title",
+        "Advanced",
+        "Search"
+    ],
+    "time": "",
+    "episodic_ids": [
+        37
+    ],
+    "bro_semantic_ids": [
+        149,
+        150,
+        151
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product is available in stock.",
+    "tags": [
+        "Availability",
+        "Stock",
+        "Inventory",
+        "Product",
+        "InStock"
+    ],
+    "time": "",
+    "episodic_ids": [
+        77
+    ],
+    "bro_semantic_ids": [
+        308,
+        310,
+        311
+    ]
+}

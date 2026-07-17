@@ -1,0 +1,9 @@
+{
+  "task_id": 96,
+  "objective": "Tell me the status of my latest order and when will it arrive",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 3,
+  "done": true,
+  "status": "FAIL"
+}

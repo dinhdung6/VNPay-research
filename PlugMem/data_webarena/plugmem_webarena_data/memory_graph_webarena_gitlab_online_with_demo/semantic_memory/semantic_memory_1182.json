@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Unassigned\" button under the \"Reviewer\" section.",
+    "tags": [
+        "Reviews",
+        "Unassigned",
+        "Button",
+        "Click",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        295
+    ],
+    "bro_semantic_ids": [
+        1180,
+        1181,
+        1183
+    ]
+}

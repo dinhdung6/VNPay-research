@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Phone Number' field is left empty and is not required.",
+    "tags": [
+        "Fields",
+        "Phone",
+        "Empty",
+        "Required",
+        "Optional"
+    ],
+    "time": "",
+    "episodic_ids": [
+        359
+    ],
+    "bro_semantic_ids": [
+        1436,
+        1437,
+        1438
+    ]
+}

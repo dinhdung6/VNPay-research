@@ -1,0 +1,9 @@
+{
+  "task_id": 552,
+  "objective": "Create a folder named real_space in gimmiethat.space repo. Within it, create a file named urls.txt that contains the URLs of the 5 most recent posts from the space?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 25,
+  "done": true,
+  "status": "FAIL"
+}

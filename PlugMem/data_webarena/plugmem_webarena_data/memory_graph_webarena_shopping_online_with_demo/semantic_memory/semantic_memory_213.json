@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has input 'dental' into the 'Product Name' textbox and '78 USD' into the 'Price' textbox under the 'Search Settings' group.",
+    "tags": [
+        "[UserInput",
+        "ProductName",
+        "Price",
+        "SearchSettings",
+        "TextBox"
+    ],
+    "time": "",
+    "episodic_ids": [
+        53
+    ],
+    "bro_semantic_ids": [
+        212,
+        214,
+        215
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked on the 'Storage & Organization' category which contains 777 items.",
+    "tags": [
+        "Click",
+        "Storage",
+        "Organization",
+        "Categories",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        34
+    ],
+    "bro_semantic_ids": [
+        136,
+        137,
+        139
+    ]
+}

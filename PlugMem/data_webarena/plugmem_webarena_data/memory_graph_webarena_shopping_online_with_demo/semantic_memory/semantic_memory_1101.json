@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Children's Dental Care' menu item under the 'Oral Care' category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Menu",
+        "Dental",
+        "Children"
+    ],
+    "time": "",
+    "episodic_ids": [
+        275
+    ],
+    "bro_semantic_ids": [
+        1100,
+        1102,
+        1103
+    ]
+}

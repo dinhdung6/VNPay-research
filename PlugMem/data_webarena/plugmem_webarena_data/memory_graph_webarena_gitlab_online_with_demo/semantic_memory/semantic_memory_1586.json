@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has accessed the issues page via the URL `http://localhost:8023/root/metaseq/-/issues/?search=OPT&sort=created_date&state=opened&first_page_size=20`.",
+    "tags": [
+        "URL",
+        "Access]",
+        "IssuesPage",
+        "Search",
+        "Sort"
+    ],
+    "time": "",
+    "episodic_ids": [
+        396
+    ],
+    "bro_semantic_ids": [
+        1584,
+        1585,
+        1587
+    ]
+}

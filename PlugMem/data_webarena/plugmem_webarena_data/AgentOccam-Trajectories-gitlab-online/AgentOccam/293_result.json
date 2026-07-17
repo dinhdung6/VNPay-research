@@ -1,0 +1,9 @@
+{
+  "task_id": 293,
+  "objective": "Show me the command to clone Super_Awesome_Robot with SSH.",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 7,
+  "done": true,
+  "status": "FAIL"
+}

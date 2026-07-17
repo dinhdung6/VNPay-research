@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product is available in stock and priced at $14.99.",
+    "tags": [
+        "Availability",
+        "Price",
+        "InStock",
+        "Cost",
+        "Currency"
+    ],
+    "time": "",
+    "episodic_ids": [
+        121
+    ],
+    "bro_semantic_ids": [
+        484,
+        485,
+        486
+    ]
+}

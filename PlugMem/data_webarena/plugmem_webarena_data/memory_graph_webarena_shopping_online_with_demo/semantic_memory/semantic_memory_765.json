@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's first name is <NAME> and last name is <NAME>.",
+    "tags": [
+        "User",
+        "FirstName",
+        "LastName",
+        "<NAME>",
+        "<NAME>"
+    ],
+    "time": "",
+    "episodic_ids": [
+        191
+    ],
+    "bro_semantic_ids": [
+        764,
+        766,
+        767
+    ]
+}

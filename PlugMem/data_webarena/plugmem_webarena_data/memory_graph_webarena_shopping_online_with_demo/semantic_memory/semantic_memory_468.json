@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user typed \"EYZUTAK phone cases\" into the search bar without submitting the query.",
+    "tags": [
+        "[search",
+        "user",
+        "Phone",
+        "case",
+        "EYZUTAK"
+    ],
+    "time": "",
+    "episodic_ids": [
+        117
+    ],
+    "bro_semantic_ids": [
+        469,
+        470,
+        471
+    ]
+}

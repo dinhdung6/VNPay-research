@@ -1,0 +1,9 @@
+{
+  "task_id": 124,
+  "objective": "What is the price range of wireless earphone in the One Stop Market?",
+  "success": true,
+  "reward": 0.5,
+  "num_actions": 3,
+  "done": true,
+  "status": "SUCCESS"
+}

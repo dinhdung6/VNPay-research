@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Users can request access to the project.",
+    "tags": [
+        "[access",
+        "Requests",
+        "Users",
+        "project",
+        "Settings"
+    ],
+    "time": "",
+    "episodic_ids": [
+        330
+    ],
+    "bro_semantic_ids": [
+        1320,
+        1321,
+        1322
+    ]
+}

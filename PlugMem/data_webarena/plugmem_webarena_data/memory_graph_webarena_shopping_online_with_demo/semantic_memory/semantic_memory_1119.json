@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is the \"Bathild Hall Tree with Shoe Storage\" priced at $438.52.",
+    "tags": [
+        "Product",
+        "Price",
+        "hall",
+        "tree",
+        "Storage"
+    ],
+    "time": "",
+    "episodic_ids": [
+        279
+    ],
+    "bro_semantic_ids": [
+        1116,
+        1117,
+        1118
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:7770/home-kitchen.html?cat=154&p=2.",
+    "tags": [
+        "URL",
+        "Current",
+        "Home",
+        "Kitchen",
+        "Parameters"
+    ],
+    "time": "",
+    "episodic_ids": [
+        166
+    ],
+    "bro_semantic_ids": [
+        664,
+        665,
+        666
+    ]
+}

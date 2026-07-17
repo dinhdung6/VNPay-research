@@ -1,0 +1,13 @@
+{
+    "subgoal": "To complete an online purchase by navigating through the checkout process.",
+    "procedural_memory": "To successfully complete an online purchase, it is essential to follow the sequential steps of the checkout process without deviation. Begin by transitioning from the shopping cart to the checkout page by clicking the \"Proceed to Checkout\" button. Once on the checkout page, ensure that all necessary information (e.g., shipping address and method) is pre-filled or selected, and then proceed to the next step by clicking the \"Next\" button. Finally, confirm the payment details and finalize the transaction by clicking the \"Place Order\" button. Each action should be taken in the context of the current step, ensuring that the interface is correctly interpreted and no steps are skipped. This structured approach ensures efficiency and minimizes errors, leading to a successful transaction.",
+    "trajectory_num": 4,
+    "time": "",
+    "return": "[10]",
+    "subgoal_id": 82,
+    "episodic_ids": [
+        348,
+        349,
+        350
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple categories available under the main menu including 'Electronics', 'Beauty & Personal Care', and 'Sports & Outdoors'.",
+    "tags": [
+        "Categories",
+        "Menu",
+        "Electronics",
+        "Beauty",
+        "Sports"
+    ],
+    "time": "",
+    "episodic_ids": [
+        341
+    ],
+    "bro_semantic_ids": [
+        1364,
+        1365,
+        1366
+    ]
+}

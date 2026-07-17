@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project 'web_agent' has a public access level, meaning it can be accessed without authentication.",
+    "tags": [
+        "AccessLevel",
+        "Public",
+        "authentication",
+        "project",
+        "Permissions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        329
+    ],
+    "bro_semantic_ids": [
+        1316,
+        1318,
+        1319
+    ]
+}

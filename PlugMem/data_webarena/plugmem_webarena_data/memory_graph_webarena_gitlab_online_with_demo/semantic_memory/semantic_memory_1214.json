@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent entered \"Implementation of dark mode\" as the title for a new issue.",
+    "tags": [
+        "title",
+        "DarkMode",
+        "NewIssue",
+        "AgentAction",
+        "Input"
+    ],
+    "time": "",
+    "episodic_ids": [
+        303
+    ],
+    "bro_semantic_ids": [
+        1212,
+        1213,
+        1215
+    ]
+}

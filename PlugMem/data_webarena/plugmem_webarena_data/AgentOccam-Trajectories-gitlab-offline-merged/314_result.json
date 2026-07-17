@@ -1,0 +1,9 @@
+{
+  "task_id": 314,
+  "objective": "List the name of the top 3 contributors to prime/design repo, ranked by the number of commits?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

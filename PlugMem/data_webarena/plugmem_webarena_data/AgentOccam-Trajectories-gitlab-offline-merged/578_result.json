@@ -1,0 +1,9 @@
+{
+  "task_id": 578,
+  "objective": "Add the following users to repo millennials-to-snake-people as reporter: ['yjlou', 'a11yproject']",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 26,
+  "done": true,
+  "status": "FAIL"
+}

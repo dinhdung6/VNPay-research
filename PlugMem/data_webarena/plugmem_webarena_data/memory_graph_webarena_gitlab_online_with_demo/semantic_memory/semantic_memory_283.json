@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request includes 5 changes and 5 commits.",
+    "tags": [
+        "Changes",
+        "Commit",
+        "MergeRequests",
+        "CodeReview",
+        "GitLab"
+    ],
+    "time": "",
+    "episodic_ids": [
+        70
+    ],
+    "bro_semantic_ids": [
+        280,
+        281,
+        282
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The Auto DevOps pipeline is enabled but requires a container registry to be enabled by an administrator.",
+    "tags": [
+        "[AutoDevOps",
+        "Pipeline",
+        "ContainerRegistry",
+        "Administrator",
+        "requirement"
+    ],
+    "time": "",
+    "episodic_ids": [
+        423
+    ],
+    "bro_semantic_ids": [
+        1692,
+        1693,
+        1694
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to type \"convexegg\" into the \"Username or email address\" textbox to invite a new member.",
+    "tags": [
+        "Invite",
+        "Username",
+        "email",
+        "TextBox",
+        "Convexegg"
+    ],
+    "time": "",
+    "episodic_ids": [
+        320
+    ],
+    "bro_semantic_ids": [
+        1280,
+        1282,
+        1283
+    ]
+}

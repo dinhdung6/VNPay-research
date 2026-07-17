@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"thoughtbot, inc. / administrate\" is described as \"A Rails engine that helps you put together a super-flexible admin dashboard.\"",
+    "tags": [
+        "project",
+        "Rails",
+        "Engine",
+        "Dashboard",
+        "Flexible"
+    ],
+    "time": "",
+    "episodic_ids": [
+        453
+    ],
+    "bro_semantic_ids": [
+        1812,
+        1813,
+        1815
+    ]
+}

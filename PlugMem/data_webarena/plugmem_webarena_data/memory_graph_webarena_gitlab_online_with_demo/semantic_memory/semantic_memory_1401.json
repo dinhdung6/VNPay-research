@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has input \"coding_friends\" into the 'Group name' textbox and attempted to create a new top-level group.",
+    "tags": [
+        "GroupName",
+        "Input",
+        "Creation",
+        "CodingFriends",
+        "Attempt"
+    ],
+    "time": "",
+    "episodic_ids": [
+        350
+    ],
+    "bro_semantic_ids": [
+        1400,
+        1402,
+        1403
+    ]
+}

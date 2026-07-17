@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page number is 2 out of 5 total pages.",
+    "tags": [
+        "PageNumbers",
+        "TotalPages",
+        "Pagination",
+        "CurrentPage",
+        "Pages"
+    ],
+    "time": "",
+    "episodic_ids": [
+        19
+    ],
+    "bro_semantic_ids": [
+        76,
+        77,
+        78
+    ]
+}

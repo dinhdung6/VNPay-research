@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to sort the search results by price.",
+    "tags": [
+        "Action",
+        "Price",
+        "sorting",
+        "User",
+        "Attempt"
+    ],
+    "time": "",
+    "episodic_ids": [
+        97
+    ],
+    "bro_semantic_ids": [
+        388,
+        389,
+        390
+    ]
+}

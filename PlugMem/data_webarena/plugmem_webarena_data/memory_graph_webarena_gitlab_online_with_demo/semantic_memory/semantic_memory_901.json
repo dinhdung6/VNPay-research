@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to type \"abisubramanya27\" into the \"Username or email address\" field to invite a new member.",
+    "tags": [
+        "Username",
+        "InviteMembers",
+        "TextBox",
+        "abisubramanya27",
+        "Action"
+    ],
+    "time": "",
+    "episodic_ids": [
+        225
+    ],
+    "bro_semantic_ids": [
+        900,
+        902,
+        903
+    ]
+}

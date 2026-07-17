@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"View Order\" link (ID: 12018) to view details of the completed order with ID 000000180 from 3/11/23.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Link",
+        "order",
+        "Details"
+    ],
+    "time": "",
+    "episodic_ids": [
+        218
+    ],
+    "bro_semantic_ids": [
+        872,
+        873,
+        875
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is on the 'New Group GitLab' page where they can create a new top-level group.",
+    "tags": [
+        "GitLab",
+        "Group",
+        "Creation",
+        "Page",
+        "Interface"
+    ],
+    "time": "",
+    "episodic_ids": [
+        350
+    ],
+    "bro_semantic_ids": [
+        1401,
+        1402,
+        1403
+    ]
+}

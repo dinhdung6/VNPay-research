@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent selected the user \"Abishek S abisubramanya27\" from the invite members menu in the project \"remove-board-movement-events-from-the-github-issue-timeline\".",
+    "tags": [
+        "User",
+        "Invite",
+        "Menu",
+        "Agent",
+        "Selected"
+    ],
+    "time": "",
+    "episodic_ids": [
+        472
+    ],
+    "bro_semantic_ids": [
+        1888,
+        1889,
+        1891
+    ]
+}

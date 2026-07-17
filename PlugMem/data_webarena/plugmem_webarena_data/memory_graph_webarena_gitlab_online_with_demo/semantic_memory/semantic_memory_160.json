@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is currently viewing the 'Files' section of the 'main' branch in the 'Primer / design' repository on GitLab.",
+    "tags": [
+        "[GitLab",
+        "repository",
+        "File",
+        "Branch",
+        "main"
+    ],
+    "time": "",
+    "episodic_ids": [
+        40
+    ],
+    "bro_semantic_ids": [
+        161,
+        162,
+        163
+    ]
+}

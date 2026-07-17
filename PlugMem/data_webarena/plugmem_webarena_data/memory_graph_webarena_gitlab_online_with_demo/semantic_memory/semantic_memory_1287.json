@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Another user \"Primer\" has been added as a developer with access granted just now.",
+    "tags": [
+        "User",
+        "Developer",
+        "AccessGranted",
+        "TimeStamp",
+        "Primer"
+    ],
+    "time": "",
+    "episodic_ids": [
+        321
+    ],
+    "bro_semantic_ids": [
+        1284,
+        1285,
+        1286
+    ]
+}

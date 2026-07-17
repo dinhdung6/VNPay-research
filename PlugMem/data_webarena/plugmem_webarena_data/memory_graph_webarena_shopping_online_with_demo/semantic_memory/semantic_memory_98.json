@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple products listed with prices ranging from $7.92 to $411.76.",
+    "tags": [
+        "Product",
+        "Prices",
+        "Range",
+        "Listing",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        24
+    ],
+    "bro_semantic_ids": [
+        96,
+        97,
+        99
+    ]
+}

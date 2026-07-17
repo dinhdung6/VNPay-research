@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple categories available including Beauty & Personal Care, Sports & Outdoors, Clothing, Shoes & Jewelry, Home & Kitchen, Office Products, Tools & Home Improvement, Health & Household, Patio, Lawn & Garden, Electronics, Cell Phones & Accessories, Video Games, and Grocery & Gourmet Food.",
+    "tags": [
+        "Categories",
+        "Beauty",
+        "Sports",
+        "Clothing",
+        "Home"
+    ],
+    "time": "",
+    "episodic_ids": [
+        208
+    ],
+    "bro_semantic_ids": [
+        832,
+        834,
+        835
+    ]
+}

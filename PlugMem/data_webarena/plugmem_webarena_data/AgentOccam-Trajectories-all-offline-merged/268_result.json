@@ -1,0 +1,9 @@
+{
+  "task_id": 268,
+  "objective": "What's the closest national park to Vinalhaven, ME? How long does it take to bike there?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 5,
+  "done": true,
+  "status": "FAIL"
+}

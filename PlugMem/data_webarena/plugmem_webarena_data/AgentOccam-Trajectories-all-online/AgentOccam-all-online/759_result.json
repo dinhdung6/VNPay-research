@@ -1,0 +1,9 @@
+{
+  "task_id": 759,
+  "objective": "Show me the route and driving time from the city where my E-commerce customer Sophia Young lives to New York City",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 25,
+  "done": true,
+  "status": "FAIL"
+}

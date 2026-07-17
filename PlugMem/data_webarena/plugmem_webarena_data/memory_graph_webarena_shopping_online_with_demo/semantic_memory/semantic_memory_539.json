@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is the \"HFHAPW Onesie Pajamas for Women\" priced at $0.88.",
+    "tags": [
+        "Product",
+        "Onesie",
+        "Pajamas",
+        "Women",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        134
+    ],
+    "bro_semantic_ids": [
+        536,
+        537,
+        538
+    ]
+}

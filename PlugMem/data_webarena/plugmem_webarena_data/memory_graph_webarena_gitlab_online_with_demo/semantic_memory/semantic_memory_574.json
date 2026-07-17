@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's email is <EMAIL>.",
+    "tags": [
+        "email",
+        "profile",
+        "Settings",
+        "GitLab",
+        "user]"
+    ],
+    "time": "",
+    "episodic_ids": [
+        143
+    ],
+    "bro_semantic_ids": [
+        572,
+        573,
+        575
+    ]
+}

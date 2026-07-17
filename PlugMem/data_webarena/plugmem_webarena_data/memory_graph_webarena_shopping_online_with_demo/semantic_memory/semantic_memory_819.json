@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product ordered is the Quoizel TF9404M Grove Park Tiffany Multi-Color Floor Lamp with SKU B00J8RZL7I.",
+    "tags": [
+        "Product",
+        "SKU",
+        "Lamp",
+        "Quoizel",
+        "order"
+    ],
+    "time": "",
+    "episodic_ids": [
+        204
+    ],
+    "bro_semantic_ids": [
+        816,
+        817,
+        818
+    ]
+}

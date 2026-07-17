@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's street address is <ADDRESS>,
+    "tags": [
+        "User",
+        "Address",
+        "Street",
+        "Location",
+        "Profile"
+    ],
+    "time": "",
+    "episodic_ids": [
+        192
+    ],
+    "bro_semantic_ids": [
+        768,
+        769,
+        770
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 313,
+  "objective": "Which number to call for the customer service?",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "SUCCESS"
+}

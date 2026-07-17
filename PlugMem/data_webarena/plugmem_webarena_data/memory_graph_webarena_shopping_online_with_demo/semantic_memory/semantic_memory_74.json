@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:7770/video-games.html?cat=71.",
+    "tags": [
+        "URL",
+        "VideoGames",
+        "Categories",
+        "Webpage",
+        "Address"
+    ],
+    "time": "",
+    "episodic_ids": [
+        18
+    ],
+    "bro_semantic_ids": [
+        72,
+        73,
+        75
+    ]
+}

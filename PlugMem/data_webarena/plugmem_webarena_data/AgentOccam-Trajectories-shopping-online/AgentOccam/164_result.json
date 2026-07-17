@@ -1,0 +1,9 @@
+{
+  "task_id": 164,
+  "objective": "What are the main criticisms of this product? Please extract the relevant sentences.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "SUCCESS"
+}

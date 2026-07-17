@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current page is titled 'Contact Us' and is located at the URL http://localhost:7770/contact/.",
+    "tags": [
+        "Page",
+        "URL",
+        "Title",
+        "Contact",
+        "Us"
+    ],
+    "time": "",
+    "episodic_ids": [
+        359
+    ],
+    "bro_semantic_ids": [
+        1437,
+        1438,
+        1439
+    ]
+}

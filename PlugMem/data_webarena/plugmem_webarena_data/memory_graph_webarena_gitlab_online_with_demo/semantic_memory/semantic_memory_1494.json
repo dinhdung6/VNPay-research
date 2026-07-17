@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The issue 'Bug Netlify function invocation fails' was created on February 16, 2023, at 10:28 AM CST.",
+    "tags": [
+        "bug",
+        "Netlify",
+        "functions",
+        "Invocation",
+        "Time"
+    ],
+    "time": "",
+    "episodic_ids": [
+        373
+    ],
+    "bro_semantic_ids": [
+        1492,
+        1493,
+        1495
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The description of the new issue asks about plans for integrating Llama and other Llama family models into the metaseq project.",
+    "tags": [
+        "Description",
+        "Integrations",
+        "Plans",
+        "Llama",
+        "metaseq"
+    ],
+    "time": "",
+    "episodic_ids": [
+        288
+    ],
+    "bro_semantic_ids": [
+        1152,
+        1153,
+        1154
+    ]
+}

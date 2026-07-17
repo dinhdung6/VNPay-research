@@ -1,0 +1,9 @@
+{
+  "task_id": 675,
+  "objective": "Gather the titles of HORI 3D Surround Gaming Neckset reviews with 2 stars and less rating from OneStopShop, and post them in the games subreddit under the title \"real user feedback on HORI 3D Surround Gaming Neckset\"",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 15,
+  "done": true,
+  "status": "FAIL"
+}

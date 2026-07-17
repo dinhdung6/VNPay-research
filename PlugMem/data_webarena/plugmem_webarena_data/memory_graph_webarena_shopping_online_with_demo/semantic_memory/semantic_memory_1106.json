@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent navigated to a filtered product page for children's dental care items priced between $0 and $78.",
+    "tags": [
+        "Navigation",
+        "Filter",
+        "PriceRange",
+        "Children",
+        "Dental"
+    ],
+    "time": "",
+    "episodic_ids": [
+        276
+    ],
+    "bro_semantic_ids": [
+        1104,
+        1105,
+        1107
+    ]
+}

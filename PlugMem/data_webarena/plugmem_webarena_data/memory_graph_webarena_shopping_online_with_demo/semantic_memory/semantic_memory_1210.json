@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are multiple options for viewing products, including grid view and list view, with grid view being the current display format.",
+    "tags": [
+        "grid",
+        "ListView",
+        "Display",
+        "Options",
+        "Current"
+    ],
+    "time": "",
+    "episodic_ids": [
+        302
+    ],
+    "bro_semantic_ids": [
+        1208,
+        1209,
+        1211
+    ]
+}

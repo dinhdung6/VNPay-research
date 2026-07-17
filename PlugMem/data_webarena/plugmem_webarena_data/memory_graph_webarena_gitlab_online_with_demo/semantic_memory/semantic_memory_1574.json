@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has typed \"OPT\" into the \"Search or filter results...\" textbox and pressed Enter.",
+    "tags": [
+        "Search",
+        "Filtering",
+        "TextBox",
+        "UserAction",
+        "OPT"
+    ],
+    "time": "",
+    "episodic_ids": [
+        393
+    ],
+    "bro_semantic_ids": [
+        1572,
+        1573,
+        1575
+    ]
+}

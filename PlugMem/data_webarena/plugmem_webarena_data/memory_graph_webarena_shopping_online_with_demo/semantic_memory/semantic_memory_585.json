@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent typed \"HONGJ Hawaiian Beach Outfits Set for Mens\" into the \"Product Name\" search field (ID: 48387).",
+    "tags": [
+        "Agent",
+        "ProductName",
+        "SearchField",
+        "Typing",
+        "HONGJ"
+    ],
+    "time": "",
+    "episodic_ids": [
+        146
+    ],
+    "bro_semantic_ids": [
+        584,
+        586,
+        587
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The search criteria included 'children dental care' with a price of 78.00 USD or greater.",
+    "tags": [
+        "Search",
+        "Criteria",
+        "Product",
+        "Price",
+        "Dental"
+    ],
+    "time": "",
+    "episodic_ids": [
+        40
+    ],
+    "bro_semantic_ids": [
+        160,
+        161,
+        163
+    ]
+}

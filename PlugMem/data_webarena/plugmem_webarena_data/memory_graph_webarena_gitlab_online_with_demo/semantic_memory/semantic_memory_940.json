@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/byteblaze/remove-board-movement-events-from-the-github-issue-timeline/-/settings/access_tokens.",
+    "tags": [
+        "URL",
+        "GitLab",
+        "Settings",
+        "AccessTokens",
+        "ByteBlaze"
+    ],
+    "time": "",
+    "episodic_ids": [
+        235
+    ],
+    "bro_semantic_ids": [
+        941,
+        942,
+        943
+    ]
+}

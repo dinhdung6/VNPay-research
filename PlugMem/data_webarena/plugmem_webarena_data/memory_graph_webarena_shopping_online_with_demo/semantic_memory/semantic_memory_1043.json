@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The first product listed is the \"Amazon Basics PlayStation 4 Controller Thumb Grips - 2-Pack, Orange\" with a rating of 72 and priced at $7.38.",
+    "tags": [
+        "Product",
+        "Rating",
+        "Price",
+        "PlayStation",
+        "Controllers"
+    ],
+    "time": "",
+    "episodic_ids": [
+        260
+    ],
+    "bro_semantic_ids": [
+        1040,
+        1041,
+        1042
+    ]
+}

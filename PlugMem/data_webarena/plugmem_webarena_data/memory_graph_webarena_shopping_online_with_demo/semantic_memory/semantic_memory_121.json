@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the link labeled 'PlayStation 4( 233 item )' with ID [4629].",
+    "tags": [
+        "Agent",
+        "Click",
+        "Link",
+        "PlayStation",
+        "Items"
+    ],
+    "time": "",
+    "episodic_ids": [
+        30
+    ],
+    "bro_semantic_ids": [
+        120,
+        122,
+        123
+    ]
+}

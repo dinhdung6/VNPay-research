@@ -1,0 +1,350 @@
+{
+  "total_tasks": 38,
+  "successful_tasks": 20,
+  "failed_tasks": 18,
+  "success_rate": 52.63157894736842,
+  "results": [
+    {
+      "task_id": 22,
+      "objective": "List out reviewers, if exist, who mention about under water photo",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 47,
+      "objective": "Today is 6/12/2023. Tell me how many fulfilled orders I have over the past month, and the total amount of money I spent.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 126,
+      "objective": "What is the price range of Canon photo printer in the One Stop Market?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 141,
+      "objective": "How much I spent on food-related shopping during March 2023",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 146,
+      "objective": "What is the size configuration of the picture frame I bought Sep 2022",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 8,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 160,
+      "objective": "I have a lot of Nintendo Switch game cards now, help me find the best storage option to fit all 6 cards",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 164,
+      "objective": "What are the main criticisms of this product? Please extract the relevant sentences.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 189,
+      "objective": "Tell me the total cost of my latest pending order?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 226,
+      "objective": "What is the price range for products from Amazon basic?",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 5,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 235,
+      "objective": "Get the order number of my most recent under delivery order ",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 238,
+      "objective": "I am doing a market survey for one stop market, show me the most expensive product from PS4 accessories category",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 5,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 264,
+      "objective": "I want to browse the products in the Cabinets, Racks & Shelves category",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 272,
+      "objective": "Show me products under $78 in \"children dental care\" category",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 274,
+      "objective": "Search for \"usb wifi\"",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 279,
+      "objective": "Provide me with the complete names of Bluetooth headphones from Sony, and also share the price range for the available models",
+      "success": true,
+      "reward": 0.35714285714285715,
+      "num_actions": 16,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 284,
+      "objective": "Show the least expensive shoe storage with a minimum storage capacity of 12 pairs.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 299,
+      "objective": "Show the most recent cancelled order",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 3,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 320,
+      "objective": "How much refund I should expect from my order canlled in Feb 2023, including shipping fee",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 328,
+      "objective": "Show me the \"iphone 12 phone case\" listings by price.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 333,
+      "objective": "How much did I spend on shopping at One Stop Market on November 2022? They gave me a 20% discount on the total amount for orders exceeding $200 in cash",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 5,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 334,
+      "objective": "Tell me when I last ordered my muffin cornbread mix?",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 355,
+      "objective": "List products from kids' bedding category by descending price",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 359,
+      "objective": "Show me the order date for order number 148.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 385,
+      "objective": "List the customer names who thinks EYZUTAK phone cases are of good looking",
+      "success": true,
+      "reward": 0.75,
+      "num_actions": 5,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 387,
+      "objective": "Who gave 4 or 5 stars for phone cases from EYZUTAK",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 5,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 434,
+      "objective": "Add the product with the lowest per unit price from my open tabs to the shopping cart",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 440,
+      "objective": "I previously ordered some a make up removal kit during summer 2022 and later cancelled. Can you reorder it for me?",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 467,
+      "objective": "Add HONGJ Hawaiian Beach Outfits Set for Mens, Summer Tropical Tree Printed Relaxed-fit Hawaii Shirts Shorts 2 Piece Suits to my wish list",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 507,
+      "objective": "Buy the highest rated product from the Ceiling light category within a budget above 1000.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 8,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 510,
+      "objective": "Buy the best rating product from \"Home Audio Speaker\" category with at least 5 reviews and the product is least expensive",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 513,
+      "objective": "Add a chair to my wish list.",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 9,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 518,
+      "objective": "Add this product to my wishlist",
+      "success": true,
+      "reward": 1.0,
+      "num_actions": 2,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 529,
+      "objective": "Draft a refund message via their \"contact us\" form for the bluetooth speaker I bought Feb 2023. It broke after three days of use. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "success": true,
+      "reward": 0.25,
+      "num_actions": 14,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 572,
+      "objective": "I recently moved, my address is <ADDRESS>, House #3, <LOCATION>, update my information on OneStopShopping accordingly",
+      "success": true,
+      "reward": 0.4444444444444444,
+      "num_actions": 10,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 587,
+      "objective": "Rate my recent purchase of PS3 Remote Controllers with 3 stars, using my nickname GamingEmma?",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 20,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 653,
+      "objective": "Fill the \"contact us\" form in the site for a refund on the phone screen protector I bought, stating that it broke after just three days of use. Also, ensure to include the order number #000000180 and the product SKU. Don't submit yet, I will check.",
+      "success": true,
+      "reward": 0.25,
+      "num_actions": 11,
+      "done": true,
+      "status": "SUCCESS"
+    },
+    {
+      "task_id": 689,
+      "objective": "Draft an email to the shop owner via their contact us function for a coupon as I am a loyal customer",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 4,
+      "done": true,
+      "status": "FAIL"
+    },
+    {
+      "task_id": 797,
+      "objective": "Change the delivery address for my most recent order to <ADDRESS>, Cambridge, MA.",
+      "success": false,
+      "reward": 0.0,
+      "num_actions": 6,
+      "done": true,
+      "status": "FAIL"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked on the 'Speakers' menu item under the 'Home Audio' category.",
+    "tags": [
+        "Agent",
+        "Click",
+        "Speakers",
+        "Menu",
+        "Categories"
+    ],
+    "time": "",
+    "episodic_ids": [
+        343
+    ],
+    "bro_semantic_ids": [
+        1372,
+        1374,
+        1375
+    ]
+}

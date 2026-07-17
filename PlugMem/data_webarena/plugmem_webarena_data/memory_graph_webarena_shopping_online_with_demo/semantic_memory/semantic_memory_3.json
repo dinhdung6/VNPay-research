@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current price of the Fujifilm FinePix Z200fd is $99.95.",
+    "tags": [
+        "Price",
+        "Cost",
+        "Camera",
+        "Fujifilm",
+        "Currency"
+    ],
+    "time": "",
+    "episodic_ids": [
+        0
+    ],
+    "bro_semantic_ids": [
+        0,
+        1,
+        2
+    ]
+}

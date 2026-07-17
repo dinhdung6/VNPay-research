@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The 'Projects' section lists several public projects including 'AndroidSlidingUpPanel', 'create-react-app', 'ffmpeg-python', and 'PHP_XLSXWriter', each with their respective descriptions and metrics.",
+    "tags": [
+        "project",
+        "Public",
+        "Description",
+        "Metrics",
+        "repository"
+    ],
+    "time": "",
+    "episodic_ids": [
+        175
+    ],
+    "bro_semantic_ids": [
+        700,
+        701,
+        702
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shipping cost for the order is a flat rate of $5.00.",
+    "tags": [
+        "Shipping",
+        "Cost",
+        "FlatRate",
+        "order",
+        "Fee"
+    ],
+    "time": "",
+    "episodic_ids": [
+        348
+    ],
+    "bro_semantic_ids": [
+        1392,
+        1393,
+        1395
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "subgoal": "The agent's goal is to locate a specific product and add it to their wish list.",
+    "procedural_memory": "When tasked with locating a specific item in a large product catalog, using category-specific filters (e.g., filtering by \"Men\" to narrow down clothing options) is an effective strategy to reduce the search space and focus on relevant results. This approach minimizes the time and effort required to find the desired item by eliminating irrelevant options early in the process.",
+    "trajectory_num": 1,
+    "time": "",
+    "return": "3",
+    "subgoal_id": 36,
+    "episodic_ids": [
+        134
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The wire shelf has a high weight capacity of 600 lbs.",
+    "tags": [
+        "Capacity",
+        "Weight",
+        "Shelves",
+        "Load",
+        "Durability"
+    ],
+    "time": "",
+    "episodic_ids": [
+        79
+    ],
+    "bro_semantic_ids": [
+        316,
+        318,
+        319
+    ]
+}

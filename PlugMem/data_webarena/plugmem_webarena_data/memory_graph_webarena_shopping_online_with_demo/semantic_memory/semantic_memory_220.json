@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user attempted to search for \"usb wifi\" on the website One Stop Market.",
+    "tags": [
+        "Search",
+        "usb",
+        "wifi",
+        "user",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        55
+    ],
+    "bro_semantic_ids": [
+        221,
+        222,
+        223
+    ]
+}

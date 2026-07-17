@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is viewing the 'LICENSE.txt' file within the 'cloud-to-butt' repository.",
+    "tags": [
+        "User",
+        "Viewing",
+        "File",
+        "repository",
+        "LICENSE"
+    ],
+    "time": "",
+    "episodic_ids": [
+        95
+    ],
+    "bro_semantic_ids": [
+        380,
+        382,
+        383
+    ]
+}

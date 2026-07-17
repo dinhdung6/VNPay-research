@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The website offers products such as a pre-baked gingerbread house kit, V8 energy drink, and Elmwood Inn Fine Teas.",
+    "tags": [
+        "[products",
+        "food",
+        "Beverage",
+        "tea",
+        "Bakery"
+    ],
+    "time": "",
+    "episodic_ids": [
+        6
+    ],
+    "bro_semantic_ids": [
+        24,
+        25,
+        26
+    ]
+}

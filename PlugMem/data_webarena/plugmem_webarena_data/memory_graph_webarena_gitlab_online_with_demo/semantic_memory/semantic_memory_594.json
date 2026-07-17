@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are options to create a new project by creating a blank project, creating from a template, or importing from another source.",
+    "tags": [
+        "Options",
+        "Created",
+        "Template",
+        "Import",
+        "project"
+    ],
+    "time": "",
+    "episodic_ids": [
+        148
+    ],
+    "bro_semantic_ids": [
+        592,
+        593,
+        595
+    ]
+}

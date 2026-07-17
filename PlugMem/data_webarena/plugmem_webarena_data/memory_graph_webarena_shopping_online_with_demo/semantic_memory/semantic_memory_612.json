@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current web page is titled 'Home & Kitchen' and is part of the RootWebArea 'Home & Kitchen'.",
+    "tags": [
+        "Webpage",
+        "Title",
+        "Area",
+        "Home",
+        "Kitchen"
+    ],
+    "time": "",
+    "episodic_ids": [
+        153
+    ],
+    "bro_semantic_ids": [
+        613,
+        614,
+        615
+    ]
+}

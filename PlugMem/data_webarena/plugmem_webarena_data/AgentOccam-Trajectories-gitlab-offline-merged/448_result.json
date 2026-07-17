@@ -1,0 +1,9 @@
+{
+  "task_id": 448,
+  "objective": "set the homepage URL on my GitLab profile to https://localhost",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "SUCCESS"
+}

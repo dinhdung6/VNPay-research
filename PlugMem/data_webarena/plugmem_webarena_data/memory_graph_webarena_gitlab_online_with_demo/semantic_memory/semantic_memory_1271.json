@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has selected the \"Developer\" role from the role dropdown in the \"Invite members\" dialog.",
+    "tags": [
+        "RoleSelection",
+        "Developer",
+        "InviteMembers",
+        "Dialog]",
+        "UserAction"
+    ],
+    "time": "",
+    "episodic_ids": [
+        317
+    ],
+    "bro_semantic_ids": [
+        1268,
+        1269,
+        1270
+    ]
+}

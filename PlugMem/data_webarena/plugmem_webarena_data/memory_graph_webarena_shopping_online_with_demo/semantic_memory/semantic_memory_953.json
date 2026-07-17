@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> placed an order on March 10, 2023.",
+    "tags": [
+        "order",
+        "Date",
+        "March",
+        "2022",
+        "<NAME>"
+    ],
+    "time": "",
+    "episodic_ids": [
+        238
+    ],
+    "bro_semantic_ids": [
+        952,
+        954,
+        955
+    ]
+}

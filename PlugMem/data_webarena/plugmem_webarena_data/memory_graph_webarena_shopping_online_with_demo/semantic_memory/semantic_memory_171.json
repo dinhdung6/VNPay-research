@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL includes parameters for a search with the product name 'children dental care', price from 78 USD, and no upper price limit.",
+    "tags": [
+        "URL",
+        "Parameters",
+        "Search",
+        "Product",
+        "Price"
+    ],
+    "time": "",
+    "episodic_ids": [
+        42
+    ],
+    "bro_semantic_ids": [
+        168,
+        169,
+        170
+    ]
+}

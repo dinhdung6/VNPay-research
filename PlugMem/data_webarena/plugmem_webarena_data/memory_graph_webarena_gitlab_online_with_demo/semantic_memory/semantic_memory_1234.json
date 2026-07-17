@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "There are 8 merge requests listed under the \"Merge requests\" link.",
+    "tags": [
+        "MergeRequests",
+        "count",
+        "link",
+        "GitLab",
+        "Requests"
+    ],
+    "time": "",
+    "episodic_ids": [
+        308
+    ],
+    "bro_semantic_ids": [
+        1232,
+        1233,
+        1235
+    ]
+}

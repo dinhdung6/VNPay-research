@@ -1,0 +1,11 @@
+{
+    "subgoal": "To successfully navigate the online shopping process, including reviewing the cart and preparing for checkout.",
+    "procedural_memory": "When navigating an online shopping process, it is crucial to confirm progress after completing subtasks, such as adding items to the cart. In this case, the agent clicked the \"shopping cart\" link immediately after adding an item, which allowed them to verify the cart's contents and prepare for the next step. This action ensured that the agent maintained clarity and control over the shopping process. For future tasks, always prioritize actions that provide confirmation or visibility into the current state of progress, especially when transitioning between subtasks like adding items and proceeding to checkout.",
+    "trajectory_num": 2,
+    "time": "",
+    "return": "[8]",
+    "subgoal_id": 73,
+    "episodic_ids": [
+        317
+    ]
+}

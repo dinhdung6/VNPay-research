@@ -1,0 +1,9 @@
+{
+  "task_id": 338,
+  "objective": "Tell me when I last ordered my toothpaste?",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

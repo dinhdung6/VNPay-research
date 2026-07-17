@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The shopping cart contains one item, \"The Body Shop Camomile Makeup Removing Kit,\" priced at $35.00.",
+    "tags": [
+        "[items",
+        "Price",
+        "Cart",
+        "Product",
+        "Quantity"
+    ],
+    "time": "",
+    "episodic_ids": [
+        319
+    ],
+    "bro_semantic_ids": [
+        1276,
+        1278,
+        1279
+    ]
+}

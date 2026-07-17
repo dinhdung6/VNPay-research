@@ -1,0 +1,9 @@
+{
+  "task_id": 801,
+  "objective": "create a new group \"crew\" with members ASWATFZLLC, patrickhlauke, westurner, linkmatrix",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 21,
+  "done": true,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The breadcrumb navigation shows the path from the root \"Byte Blaze\" to the current file \"index.html\" within the \"Repository\" section.",
+    "tags": [
+        "Breadcrumb",
+        "navigation]",
+        "Path",
+        "repository",
+        "File"
+    ],
+    "time": "",
+    "episodic_ids": [
+        426
+    ],
+    "bro_semantic_ids": [
+        1704,
+        1705,
+        1707
+    ]
+}

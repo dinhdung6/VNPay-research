@@ -1,0 +1,9 @@
+{
+  "task_id": 450,
+  "objective": "set the homepage URL on my GitLab profile to a11yproject.contributor.me",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 16,
+  "done": true,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The product 'Q Mixers Premium Ginger Ale' has a rating of 88 and costs $68.50.",
+    "tags": [
+        "Product",
+        "Rating",
+        "Price",
+        "GingerAle",
+        "Beverage"
+    ],
+    "time": "",
+    "episodic_ids": [
+        290
+    ],
+    "bro_semantic_ids": [
+        1160,
+        1161,
+        1162
+    ]
+}

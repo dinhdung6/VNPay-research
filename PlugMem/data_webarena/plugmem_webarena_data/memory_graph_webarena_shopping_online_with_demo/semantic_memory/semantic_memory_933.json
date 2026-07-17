@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has 18 items in her wish list.",
+    "tags": [
+        "WishList",
+        "Items",
+        "<NAME>",
+        "<NAME>",
+        "Quantity"
+    ],
+    "time": "",
+    "episodic_ids": [
+        233
+    ],
+    "bro_semantic_ids": [
+        932,
+        934,
+        935
+    ]
+}

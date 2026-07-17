@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "Abishek S has pushed a new branch named 'main' to the repository 'test-repo-1' on March 21, 2023.",
+    "tags": [
+        "Push",
+        "Branch",
+        "repository",
+        "Abishek",
+        "Date"
+    ],
+    "time": "",
+    "episodic_ids": [
+        194
+    ],
+    "bro_semantic_ids": [
+        776,
+        777,
+        778
+    ]
+}

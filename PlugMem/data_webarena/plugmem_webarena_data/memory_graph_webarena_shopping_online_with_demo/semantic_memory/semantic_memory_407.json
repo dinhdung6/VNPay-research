@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user can view their account information, address book, and stored payment methods from the current page.",
+    "tags": [
+        "Account",
+        "Information",
+        "Address",
+        "Payment",
+        "Method"
+    ],
+    "time": "",
+    "episodic_ids": [
+        101
+    ],
+    "bro_semantic_ids": [
+        404,
+        405,
+        406
+    ]
+}

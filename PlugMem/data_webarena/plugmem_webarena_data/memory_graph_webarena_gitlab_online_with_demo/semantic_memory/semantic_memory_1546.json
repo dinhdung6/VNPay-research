@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The To-Do List has 5 todos listed on the GitLab dashboard.",
+    "tags": [
+        "Todos",
+        "GitLab",
+        "Dashboard",
+        "list]",
+        "Tasks"
+    ],
+    "time": "",
+    "episodic_ids": [
+        386
+    ],
+    "bro_semantic_ids": [
+        1544,
+        1545,
+        1547
+    ]
+}

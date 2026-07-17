@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user has 4 todos listed under the To-Do List section.",
+    "tags": [
+        "Todos",
+        "User",
+        "list]",
+        "count",
+        "Dashboard"
+    ],
+    "time": "",
+    "episodic_ids": [
+        127
+    ],
+    "bro_semantic_ids": [
+        508,
+        509,
+        511
+    ]
+}

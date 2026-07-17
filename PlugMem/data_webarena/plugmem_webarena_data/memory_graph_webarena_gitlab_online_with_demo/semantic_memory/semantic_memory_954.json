@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The project \"remove-board-movement-events-from-the-github-issue-timeline\" has features like Issues, Repository, Merge requests, and Forks enabled.",
+    "tags": [
+        "Feature",
+        "Enabled",
+        "Issues",
+        "repository",
+        "MergeRequests"
+    ],
+    "time": "",
+    "episodic_ids": [
+        238
+    ],
+    "bro_semantic_ids": [
+        952,
+        953,
+        955
+    ]
+}

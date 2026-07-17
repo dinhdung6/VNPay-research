@@ -1,0 +1,9 @@
+{
+  "task_id": 789,
+  "objective": "Create an issue asking about do they have any plan on supporting Webagent in the next quater in huggingface dataset.",
+  "success": true,
+  "reward": 1.0,
+  "num_actions": 12,
+  "done": true,
+  "status": "SUCCESS"
+}

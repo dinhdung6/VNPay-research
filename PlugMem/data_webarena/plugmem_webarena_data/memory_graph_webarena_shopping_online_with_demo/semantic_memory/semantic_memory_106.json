@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The default search department is set to \"All Departments\".",
+    "tags": [
+        "Search",
+        "Department",
+        "AllDepartments",
+        "ComboBox",
+        "Selection"
+    ],
+    "time": "",
+    "episodic_ids": [
+        26
+    ],
+    "bro_semantic_ids": [
+        104,
+        105,
+        107
+    ]
+}

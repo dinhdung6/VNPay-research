@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user clicked the \"Most stars\" link (ID: 16332) to filter projects by popularity based on star count.",
+    "tags": [
+        "[GitLab",
+        "UserAction",
+        "link",
+        "Stars",
+        "Filtering"
+    ],
+    "time": "",
+    "episodic_ids": [
+        172
+    ],
+    "bro_semantic_ids": [
+        689,
+        690,
+        691
+    ]
+}

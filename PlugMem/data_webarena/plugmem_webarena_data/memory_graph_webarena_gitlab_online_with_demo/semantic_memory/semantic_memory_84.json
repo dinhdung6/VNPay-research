@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent searched for commits with the message \"April 2021 Nic\".",
+    "tags": [
+        "Search",
+        "Commit",
+        "message",
+        "April",
+        "Nic"
+    ],
+    "time": "",
+    "episodic_ids": [
+        21
+    ],
+    "bro_semantic_ids": [
+        85,
+        86,
+        87
+    ]
+}

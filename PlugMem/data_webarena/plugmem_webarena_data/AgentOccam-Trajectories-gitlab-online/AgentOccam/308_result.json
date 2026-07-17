@@ -1,0 +1,9 @@
+{
+  "task_id": 308,
+  "objective": "Tell me who has made the most contributions, in terms of number of commits, to the primer/design project",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 4,
+  "done": true,
+  "status": "FAIL"
+}

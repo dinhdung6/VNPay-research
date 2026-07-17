@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The Bluetooth speaker broke after just three days of use.",
+    "tags": [
+        "Product",
+        "Issue",
+        "Breakage",
+        "Usage",
+        "Time"
+    ],
+    "time": "",
+    "episodic_ids": [
+        173
+    ],
+    "bro_semantic_ids": [
+        692,
+        693,
+        694
+    ]
+}

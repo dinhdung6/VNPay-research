@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:7770/electronics.html?cat=210&p=6.",
+    "tags": [
+        "URL",
+        "Current",
+        "Electronics",
+        "Categories",
+        "Page"
+    ],
+    "time": "",
+    "episodic_ids": [
+        64
+    ],
+    "bro_semantic_ids": [
+        256,
+        257,
+        259
+    ]
+}

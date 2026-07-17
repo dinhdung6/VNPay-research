@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user is browsing products under the 'Storage & Organization' category within the 'Home & Kitchen' section.",
+    "tags": [
+        "Storage",
+        "Organization",
+        "Categories",
+        "Browse",
+        "User"
+    ],
+    "time": "",
+    "episodic_ids": [
+        74
+    ],
+    "bro_semantic_ids": [
+        296,
+        298,
+        299
+    ]
+}

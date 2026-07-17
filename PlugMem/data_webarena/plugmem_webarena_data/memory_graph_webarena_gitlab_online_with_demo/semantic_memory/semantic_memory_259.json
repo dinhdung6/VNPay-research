@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The merge request has 0 thumbs up and 0 thumbs down reactions.",
+    "tags": [
+        "Reactions",
+        "ThumbsUp",
+        "ThumbsDown",
+        "MergeRequests",
+        "Votes"
+    ],
+    "time": "",
+    "episodic_ids": [
+        64
+    ],
+    "bro_semantic_ids": [
+        256,
+        257,
+        258
+    ]
+}

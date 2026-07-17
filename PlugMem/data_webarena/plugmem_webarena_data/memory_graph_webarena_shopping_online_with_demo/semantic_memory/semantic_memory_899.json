@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user requested a coupon as a token of appreciation for being a loyal customer.",
+    "tags": [
+        "Request",
+        "Coupon",
+        "Loyalty",
+        "Customer",
+        "Appreciation"
+    ],
+    "time": "",
+    "episodic_ids": [
+        224
+    ],
+    "bro_semantic_ids": [
+        896,
+        897,
+        898
+    ]
+}

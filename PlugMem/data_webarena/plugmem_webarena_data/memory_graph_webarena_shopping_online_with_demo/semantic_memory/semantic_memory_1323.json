@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The agent clicked the \"Clear All\" link to remove all applied filters from the \"Home & Kitchen\" shopping page.",
+    "tags": [
+        "Agent",
+        "ClearAll",
+        "Filter",
+        "HomeKitchen",
+        "Shopping"
+    ],
+    "time": "",
+    "episodic_ids": [
+        330
+    ],
+    "bro_semantic_ids": [
+        1320,
+        1321,
+        1322
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "<NAME> has placed multiple orders with pending statuses on different dates including January 15, 2026, and May 2, 2023.",
+    "tags": [
+        "Orders",
+        "Pending",
+        "status]",
+        "Date",
+        "Transactions"
+    ],
+    "time": "",
+    "episodic_ids": [
+        179
+    ],
+    "bro_semantic_ids": [
+        716,
+        717,
+        718
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 339,
+  "objective": "List all opened issues that report bugs",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 2,
+  "done": true,
+  "status": "FAIL"
+}

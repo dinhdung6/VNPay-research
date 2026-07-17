@@ -1,0 +1,9 @@
+{
+  "task_id": 273,
+  "objective": "Show me products under $199 in \"furtiture with accent\" category",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 6,
+  "done": true,
+  "status": "FAIL"
+}

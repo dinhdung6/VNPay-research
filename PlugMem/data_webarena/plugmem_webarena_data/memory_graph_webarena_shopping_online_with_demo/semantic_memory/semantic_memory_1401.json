@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The user's name is <NAME>, and her billing and shipping addresses are the same, located at <ADDRESS>, California, 94010, United States.",
+    "tags": [
+        "User",
+        "Address",
+        "Billing",
+        "Shipping",
+        "California"
+    ],
+    "time": "",
+    "episodic_ids": [
+        350
+    ],
+    "bro_semantic_ids": [
+        1400,
+        1402,
+        1403
+    ]
+}

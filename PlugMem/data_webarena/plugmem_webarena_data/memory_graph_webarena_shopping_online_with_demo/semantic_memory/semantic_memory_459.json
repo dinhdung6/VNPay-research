@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is 'http://localhost:7770/cell-phones-accessories.html'.",
+    "tags": [
+        "URL",
+        "Current",
+        "Website",
+        "Address",
+        "Cellphones"
+    ],
+    "time": "",
+    "episodic_ids": [
+        114
+    ],
+    "bro_semantic_ids": [
+        456,
+        457,
+        458
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The order date for Order 000000190 is January 15, 2026.",
+    "tags": [
+        "Date",
+        "order",
+        "January",
+        "2026",
+        "Pending"
+    ],
+    "time": "",
+    "episodic_ids": [
+        195
+    ],
+    "bro_semantic_ids": [
+        780,
+        782,
+        783
+    ]
+}

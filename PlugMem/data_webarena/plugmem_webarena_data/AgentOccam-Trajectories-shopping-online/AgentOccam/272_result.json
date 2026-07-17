@@ -1,0 +1,9 @@
+{
+  "task_id": 272,
+  "objective": "Show me products under $78 in \"children dental care\" category",
+  "success": false,
+  "reward": 0.0,
+  "num_actions": 20,
+  "done": true,
+  "status": "FAIL"
+}

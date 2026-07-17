@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The issue titled \"Bug 404s, bad host, timeouts, bad urls for URLs linked from website\" was created on October 2, 2022.",
+    "tags": [
+        "bug",
+        "Issues",
+        "Created",
+        "Date",
+        "Website"
+    ],
+    "time": "",
+    "episodic_ids": [
+        430
+    ],
+    "bro_semantic_ids": [
+        1720,
+        1721,
+        1723
+    ]
+}

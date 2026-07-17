@@ -1,0 +1,19 @@
+{
+    "semantic_memory": "The current URL is http://localhost:8023/?name=Super_Awesome_Robot&sort=name_asc.",
+    "tags": [
+        "URL",
+        "Current",
+        "Super_Awesome_Robot",
+        "Sort",
+        "Name"
+    ],
+    "time": "",
+    "episodic_ids": [
+        14
+    ],
+    "bro_semantic_ids": [
+        56,
+        57,
+        58
+    ]
+}
