@@ -64,7 +64,7 @@ class Persona_Memory:
             response = ""
             while response == "":
                 try:
-                    response =  await self.client.chat.completions.create(model=self.llm_model, messages = preference_generate_message, temperature = 0.3)
+                    response =  await self.client.chat.completions.create(model=self.llm_model, messages = preference_generate_message, temperature = 0.3, response_format={"type":"json_object"})
                     persona_preference = json.loads(response.choices[0].message.content)
                     persona_preference_results.append(persona_preference)
                 except Exception as e:
@@ -90,7 +90,7 @@ class Persona_Memory:
             response = ""
             while response == "":
                 try:
-                    response =  await self.client.chat.completions.create(model=self.llm_model, messages = fact_generate_message, temperature = 0.1)
+                    response =  await self.client.chat.completions.create(model=self.llm_model, messages = fact_generate_message, temperature = 0.1, response_format={"type":"json_object"})
                     persona_attr = json.loads(response.choices[0].message.content)
                     persona_attr["original attributes"] = cluster
                     persona_attr_results.append(persona_attr)

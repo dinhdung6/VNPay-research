@@ -569,10 +569,12 @@ class MemoryChain:
         
         while(reorganized_profile==""):
             response = self.client.chat.completions.create(
-                model=self.model, 
-                messages=messages, 
-                temperature=0.7, 
-                max_tokens=2000)    
+                model=self.model,
+                messages=messages,
+                temperature=0.7,
+                max_tokens=2000,
+                response_format={"type": "json_object"},
+            )    
             reorganized_profile = json.loads(response.choices[0].message.content)
 
         print(reorganized_profile)

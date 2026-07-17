@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": "Evan",
+        "raw_message": "Hey Sam! Good to see you! Yeah, I just got back from a trip with my family in my new Prius.",
+        "message": "[1]: The user was happy to be reunited with Sam after returning from a vacation with his family in their new Prius.",
+        "topics": "family vacation",
+        "emotions": "Positive",
+        "reason": "Enjoy being with family.",
+        "index": 1,
+        "timestamp": "1:47 pm on 18 May, 2023",
+        "fact": "Just arrived back from a trip",
+        "attribue": [
+            "Sam happy to see his friend"
+        ]
+    },
+    {
+        "user_id": "Evan",
+        "raw_message": "My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out. (image description: a photo of a lake with rocks and mountains in the background)",
+        "message": "[3]: The user's old Prius broke down, they decided to get it repaired and sell it.",
+        "topics": "selling a car",
+        "emotions": "Neutral/Mixed",
+        "reason": "To get it repaired and sell it for financial reasons",
+        "index": 3,
+        "timestamp": "1:47 pm on 18 May, 2023",
+        "fact": "My old prius broke down",
+        "attribue": [
+            "User has a job or needs financial stability"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": "Deborah",
+        "raw_message": "Hey Jolene, nice to meet you! How's your week going? Anything fun happened?",
+        "message": "[0]: The user expresses positive interest in getting to know Jolene.",
+        "topics": "getting to know someone",
+        "emotions": "Positive",
+        "reason": "The person expresses positivity towards meeting Jolene.",
+        "index": 0,
+        "timestamp": "4:06 pm on 23 January, 2023",
+        "fact": "new acquaintance",
+        "attribue": [
+            "user friendly",
+            "value building relationships"
+        ]
+    },
+    {
+        "user_id": "Deborah",
+        "raw_message": "Congrats! Last week I visited a place that holds a lot of memories for me. It was my mother`s old house.",
+        "message": "[2]: The user visited their mother`s old house and is feeling nostalgic about it.",
+        "topics": "visiting the past",
+        "emotions": "Nostalgic",
+        "reason": "the visit brings back fond memories",
+        "index": 2,
+        "timestamp": "4:06 pm on 23 January, 2023",
+        "fact": "visited past place",
+        "attribue": [
+            "user has a significant attachment to the past",
+            "family background"
+        ]
+    }
+]

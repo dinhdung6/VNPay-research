@@ -1,0 +1,61 @@
+[
+    {
+        "user_id": "Audrey",
+        "raw_message": "Congrats on the new job! So I got these new collars and tags for my dogs - so cute!",
+        "message": "[2]: The user got cute new collars and tags for their dogs!",
+        "topics": "new dog collars",
+        "emotions": "Positive",
+        "reason": "The new collars and tags are cute.",
+        "index": 2,
+        "timestamp": "1:10 pm on 27 March, 2023",
+        "fact": "dog collars and tags",
+        "attribue": [
+            "user likes fashion for pets",
+            "user's pet is adorable"
+        ]
+    },
+    {
+        "user_id": "Audrey",
+        "raw_message": "Sure! See them with their new collars, cute right? (image description: a photography of two dogs are standing in the grass with their mouths open)",
+        "message": "[4]: The user expresses delight at seeing two cute dogs with their new collars.",
+        "topics": "dogs",
+        "emotions": "Positive",
+        "reason": "Their new collars look cute",
+        "index": 4,
+        "timestamp": "1:10 pm on 27 March, 2023",
+        "fact": "see the dogs' new collars",
+        "attribue": [
+            "enjoy photography",
+            "love animals"
+        ]
+    },
+    {
+        "user_id": "Audrey",
+        "raw_message": "I've had them for 3 years! Their names are Pepper, Precious and Panda. I can't live without my little ones!",
+        "message": "[6]: The user has been caring for their pets for 3 years and can't imagine living without them.",
+        "topics": "having pets",
+        "emotions": "Positive",
+        "reason": "The user has been having care of their little ones (pets) for 3 years and therefore the reason is that the user love them",
+        "index": 6,
+        "timestamp": "1:10 pm on 27 March, 2023",
+        "fact": "had pets for 3 years",
+        "attribue": [
+            "User value loyalty",
+            "Pets are very important to the user"
+        ]
+    },
+    {
+        "user_id": "Audrey",
+        "raw_message": "Absolutely! They're city dogs and we explore all the time. They love trying out new parks and trails. We go on adventures together very often.",
+        "message": "[8]: The user happily talks about their experiences with city dogs.",
+        "topics": "city dogs",
+        "emotions": "Positive",
+        "reason": "The user enjoys exploring with their city dog",
+        "index": 8,
+        "timestamp": "1:10 pm on 27 March, 2023",
+        "fact": "The user goes on adventures with their city dog",
+        "attribue": [
+            "User values spending time with their pet"
+        ]
+    }
+]

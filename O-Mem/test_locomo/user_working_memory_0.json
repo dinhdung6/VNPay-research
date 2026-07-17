@@ -1,0 +1,279 @@
+[
+  {
+    "attribue": [
+      "user friendly",
+      "user enthusiastic"
+    ],
+    "emotions": "Positive",
+    "fact": "Mel had a friend, or Mel said hello",
+    "index": 0,
+    "message": "[0]: The user catches up with an old friend.",
+    "raw_message": "Hey Mel! Good to see you! How have you been?",
+    "reason": "The user is expressing positive intentions towards catching up with Mel.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "catching up with friends",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user has LGBTQ-related issues",
+      "user felt connection with LGBTQ"
+    ],
+    "emotions": "Positive",
+    "fact": "attended LGBTQ support group yesterday",
+    "index": 2,
+    "message": "[2]: The user attended a LGBTQ support group and found it powerful.",
+    "raw_message": "I went to a LGBTQ support group yesterday and it was so powerful.",
+    "reason": "The user found the group \"so powerful\"",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "LGBTQ Support Group",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      " user appreciates LGBTQ+ support",
+      "user feels happy and thankful"
+    ],
+    "emotions": "Positive",
+    "fact": "read transgender stories",
+    "index": 4,
+    "message": "[4]: The user is celebrating transgender stories that inspired them.",
+    "raw_message": "The transgender stories were so inspiring! I was so happy and thankful for all the support. (image description: a photo of a dog walking past a wall with a painting of a woman)",
+    "reason": "The stories are inspiring",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "LGBTQ+",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user's low self-esteem"
+    ],
+    "emotions": "Positive",
+    "fact": "Join support groups",
+    "index": 6,
+    "message": "[6]: A support group helped the user feel accepted for who they are.",
+    "raw_message": "The support group has made me feel accepted and given me courage to embrace myself.",
+    "reason": "The support group provided a supportive environment that led to self-acceptance.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "self-acceptance",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user is motivated"
+    ],
+    "emotions": "Positive",
+    "fact": "the user gonng to continue edu",
+    "index": 8,
+    "message": "[8]: The user plans to continue their education and explore career options.",
+    "raw_message": "Gonna continue my edu and check out career options, which is pretty exciting!",
+    "reason": "The user finds the idea of continuing education and exploring career options exciting",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "continuing education",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user's interest in mental health"
+    ],
+    "emotions": "Positive",
+    "fact": "user is keen on counseling",
+    "index": 10,
+    "message": "[10]: The user expresses enthusiasm for a career in mental health.",
+    "raw_message": "I'm keen on counseling or working in mental health - I'd love to support those with similar issues.",
+    "reason": "The user wants to support others with similar issues.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "mental health job",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "Melanies feels good or like a happy person"
+    ],
+    "emotions": "Positive",
+    "fact": "the recipient Melanie like the comment",
+    "index": 12,
+    "message": "[12]: Melanie is thanking for the compliment.",
+    "raw_message": "Thanks, Melanie! That's really sweet. Is this your own painting?",
+    "reason": "Melanie appreciates the compliment",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "painting",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "has artistic talent"
+    ],
+    "emotions": "Positive (and admiring)",
+    "fact": "colors blend",
+    "index": 14,
+    "message": "[14]: ` painting art`: the artist thinks that painting is a great way of expression.",
+    "raw_message": "Wow, Melanie! The colors really blend nicely. Painting looks like a great outlet for expressing yourself.",
+    "reason": "blending colors nicely",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "painting art",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user is open minded"
+    ],
+    "emotions": "Positive",
+    "fact": "user supports the importance of self-expression in general,",
+    "index": 16,
+    "message": "[16]: The user agrees that relaxing and expressing oneself is key.",
+    "raw_message": "Totally agree, Mel. Relaxing and expressing ourselves is key. Well, I'm off to go do some research.",
+    "reason": "Art allows us to express our emotions freely.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "self expression",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user is supportive and proud of friend"
+    ],
+    "emotions": "Positive",
+    "fact": "taking part in the charity race",
+    "index": 19,
+    "message": "[19]: The user thinks the charity race is great and praises Mel's participation.",
+    "raw_message": "That charity race sounds great, Mel! Making a difference & raising awareness for mental health is super rewarding - I'm really proud of you for taking part!",
+    "reason": "Making a difference and raising awareness for mental health",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "charity race",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "The user express support for prioritizing self-care.",
+      "user agrees with Melanie",
+      "user seems supportive"
+    ],
+    "emotions": "Positive",
+    "fact": "you think Melanie's priority on self-care good",
+    "index": 21,
+    "message": "[21]: The user shows appreciation and agreement with Megan's focus on prioritization of self-care.",
+    "raw_message": "I totally agree, Melanie. Taking care of ourselves is so important - even if it's not always easy. Great that you're prioritizing self-care.",
+    "reason": "Taking care of oneself is very important.",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "self-care",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "Supportive person"
+    ],
+    "emotions": "Positive",
+    "fact": "friend doing an excellent job looking after themselves and their family.",
+    "index": 23,
+    "message": "[23]: Someone is supporting Mel in being take care of.",
+    "raw_message": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+    "reason": "Encouraged taking time for oneself is very important",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "being supportive to a friend",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user wants children to give a loving home",
+      "user believes in helping kids"
+    ],
+    "emotions": "Positive",
+    "fact": "been researching adoption agencies",
+    "index": 25,
+    "message": "[25]: The user is researching adoption agencies due to a desire for a family.",
+    "raw_message": "Researching adoption agencies \u2014 it's been a dream to have a family and give a loving home to kids who need it.",
+    "reason": "The desire for a family and giving a loving home to those who need it is driving the user's research",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "adoption",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "goal is to give kids a loving home",
+      "true to be grateful for all the support they've got from friends and mentors",
+      "feeling hopeful and optimistic"
+    ],
+    "emotions": "Positive",
+    "fact": "Looking into adoption agencies",
+    "index": 27,
+    "message": "[27]: The user shares their goal of giving kids a loving home and expresses gratitude for support, feeling hopeful about turning their dream into reality.",
+    "raw_message": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic. (image description: a photography of a sign for a new arrival and an information and domestic building)",
+    "reason": "to give kids a loving home",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "Adoption",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user cares about inclusivity ",
+      "User look for inclusivity"
+    ],
+    "emotions": "Positive",
+    "fact": "chooses charity because inclusiviity matter",
+    "index": 29,
+    "message": "[29]: The user chose a charity due to its support for LGBTQ+ adoption and inclusivity.",
+    "raw_message": "I chose them 'cause they help LGBTQ+ folks with adoption. Their inclusivity and support really spoke to me.",
+    "reason": "The charity supports LGBTQ+ adoption,",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "charity or aid organization",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user is willing to take on responsibility as a single parent"
+    ],
+    "emotions": "Positive",
+    "fact": "single-parent family needed",
+    "index": 31,
+    "message": "[31]: The user is excited about becoming a single parent to help kids who need support.",
+    "raw_message": "I'm thrilled to make a family for kids who need one. It'll be tough as a single parent, but I'm up for the challenge!",
+    "reason": "Helping or taking care of single parent families due to kids' needs",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "becoming a single parent",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user valuse the lives of children"
+    ],
+    "emotions": "Positive",
+    "fact": "Children's safety and well-being are top priority",
+    "index": 33,
+    "message": "[33]: The user thanks Melanie for her kind words and promises to provide a safe home for the kids.",
+    "raw_message": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+    "reason": "Your kindness will help secure their future",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "helping to care for children",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "user is a trans woman",
+      "user is open with their sexual orientation"
+    ],
+    "emotions": "Positive",
+    "fact": "School event last week",
+    "index": 35,
+    "message": "[35]: The user attended a school event and shared their transgender journey, receiving positive feedback.",
+    "raw_message": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago.",
+    "reason": "Encouraged students and got positive feedback",
+    "timestamp": "7:55 pm on 9 June, 2023",
+    "topics": "school event",
+    "user_id": "Caroline"
+  },
+  {
+    "attribue": [
+      "User is trans",
+      "Value inclusivity"
+    ],
+    "emotions": "Positive",
+    "fact": "The user gave a talk on gender identity, was inspired by audience response, felt empowerment after sharing experience",
+    "index": 37,
+    "message": "[37]: The user expresses gratitude for support and feels empowered after giving a talk on gender identity.",
+    "raw_message": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community.",
+    "reason": "Backng and encouragement from others make me feel empowered to share my experiences.",
+    "timestamp": "7:55 pm on 9 June, 2023",
+    "topics": "Gender Identity",
+    "user_id": "Caroline"
+  }
+]

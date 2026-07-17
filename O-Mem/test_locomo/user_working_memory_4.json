@@ -1,0 +1,288 @@
+[
+  {
+    "attribue": [
+      "John is enthusiastic"
+    ],
+    "emotions": "Positive",
+    "fact": "have discussed collaborative ideas",
+    "index": 1,
+    "message": "[1]: John has discussed collaboration for a Harry Potter fan project.",
+    "raw_message": "Hey John! Great to meet you. Been discussing collaborations for a Harry Potter fan project I am working on - super excited! Anything interesting happening for you?",
+    "reason": "Working collaboratively",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "collaboration discussion",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user happy when others succeed"
+    ],
+    "emotions": "Positive",
+    "fact": "new team sign",
+    "index": 3,
+    "message": "[3]: User congratulate another person on signing a new team.",
+    "raw_message": "Woohoo! Congrats on the new team. Which team did you sign with?",
+    "reason": "The user is congratulating the other person on their success",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "New Team",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "Friendly",
+      "Curious"
+    ],
+    "emotions": "Positive",
+    "fact": "Asking about another player's position",
+    "index": 5,
+    "message": "[5]: The user is asking about a fellow player's position on the team.",
+    "raw_message": "Cool! What position are you playing for the team? Any exciting games coming up?",
+    "reason": "Showing interest in learning about other players",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "sports",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "User in general"
+    ],
+    "emotions": "curious",
+    "fact": "user wonder about goal",
+    "index": 7,
+    "message": "[7]: The user asks about the other person's goals related to playing basketball.",
+    "raw_message": "Cool! Have any goals in mind? (image description: a photo of a basketball game in progress with the ball in the air)",
+    "reason": "the user wonder about goals plans",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "playing basketball",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "player is proffesional"
+    ],
+    "emotions": "Positive",
+    "fact": "player is preparing for the upcoming game",
+    "index": 9,
+    "message": "[9]: The user is checking in with the player to inquire about their challenges during pre-season training.",
+    "raw_message": "Sounds good! What challenges have you encountered during your pre-season training?",
+    "reason": "Check on the player's preparation for the upcoming game",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "training for a sport",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user showing sympathy towards user"
+    ],
+    "emotions": "Uncertain/Mixed",
+    "fact": "no fact mentioned in this message",
+    "index": 11,
+    "message": "[11]: The user seems uncertain about the new team.",
+    "raw_message": "That sounds rough. How are things going with the new team?",
+    "reason": "New situation, don't know how it is going with",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "new project or team",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "User is passionate about Harry Potter",
+      "User enjoy discussing ideas"
+    ],
+    "emotions": "Positive",
+    "fact": "The event is Harry Potter discussion",
+    "index": 13,
+    "message": "[13]: The user had a great time talking to their friend about Harry Potter.",
+    "raw_message": "It's been going well! Last week I talked to my friend who is a fan of Harry Potter and we're figuring out ideas, so it's been great to get lost in that magical world! (image description: a photo of a table with a bunch of books on it)",
+    "reason": "To get lost in the magical world",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "Harry Potter fandom",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "User enthusiastic about fans coming together"
+    ],
+    "emotions": "Positive",
+    "fact": "Discussion will have various topics like characters, spells and magical creatures",
+    "index": 15,
+    "message": "[15]: A Harry Potter fandom is discussing their shared love for the series.",
+    "raw_message": "Thanks! We'll be discussing various aspects of the Harry Potter universe, like characters, spells, and magical creatures. It's great to see fans coming together for this.",
+    "reason": "Fanscoming together is a positive experience",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "Harry Potter fandom",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user went there before",
+      " user is love Harry Potter"
+    ],
+    "emotions": "Positive",
+    "fact": "visit London",
+    "index": 17,
+    "message": "[17]: The user visits the Harry Potter themed places in London with positive feelings towards these experiences.",
+    "raw_message": "I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+    "reason": "Harry Potter was a great place.",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "Harry Potter Land/Guaranteed Places",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "the person is enthusiastic",
+      "the person enjoys visiting or experiencing something"
+    ],
+    "emotions": "Positive",
+    "fact": "add it to your list",
+    "index": 19,
+    "message": "[19]: The person encourages the user to add an experience to their list, mentioning that it's fun.",
+    "raw_message": "Definitely add it to your list! It's a really fun experience. Let me know if you need any tips for visiting. Bye!",
+    "reason": "It's a really fun experience. The person wants to share their positve experience with the user",
+    "timestamp": "7:48 pm on 21 May, 2023",
+    "topics": "experience",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user enjoys discussing books"
+    ],
+    "emotions": "Positive",
+    "fact": "Joined fantasy literature forum last night",
+    "index": 20,
+    "message": "[20]: The user joined a fantasy literature forum and had a great talk about their favorite books.",
+    "raw_message": "Last night I joined a fantasy literature forum and had a great talk about my fave books. It was so enriching!",
+    "reason": "The experience of discussing favorite books with others can be enriching",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "Fantasy Literature Forum",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user is excited and enthusiastic"
+    ],
+    "emotions": "Positive",
+    "fact": "the person has achieved something",
+    "index": 22,
+    "message": "[22]: User congratulates someone on their achievement",
+    "raw_message": "Wow, that's awesome! Congrats - you must be so stoked! Which brands are you looking to link up with?",
+    "reason": "Expressing excitement and happiness for the person's achievement",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "congratulation",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user values freedom",
+      "user enjoys options"
+    ],
+    "emotions": "Positive",
+    "fact": "the user can't wait to choose brands",
+    "index": 24,
+    "message": "[24]: The user is positive about choosing a brand to work with.",
+    "raw_message": "That's awesome! It's gotta be a rush having all these options. Can't wait to see which brands you choose to work with - gonna be great!",
+    "reason": "Excitement and anticipation for the upcoming selection process",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "Choosing a brand to work with",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user show enthusiasm",
+      "share own material"
+    ],
+    "emotions": "Positive",
+    "fact": "Share the book collection",
+    "index": 26,
+    "message": "[26]: The user is excited to share their book collection.",
+    "raw_message": "Yeah, John! Count on me for support. Can't wait to see what's up! This is my book collection so far. (image description: a photo of a book shelf with books and a picture on it)",
+    "reason": "The user is enthusiastic about supporting others and sharing their collection",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "Book Collection",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user is a fan of Harry Potter",
+      "user appreciates creative work"
+    ],
+    "emotions": "Positive",
+    "fact": "MinaLima created props for the Harry Potter films",
+    "index": 28,
+    "message": "[28]: The user shares their admiration for MinaLima's work on the Harry Potter prop-making.",
+    "raw_message": "Thanks! That picture is from MinaLima. They created all the props for the Harry Potter films, and I love their work. It's like having a piece of the wizarding world at home!",
+    "reason": "The user loves MinaLima's work on the Harry Potter properties",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "Harry Potter",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user likes escaping reality"
+    ],
+    "emotions": "Positive",
+    "fact": "The user has reminders",
+    "index": 30,
+    "message": "[30]: The user finds reminders helpful as an escape from reality.",
+    "raw_message": "Thanks! I have lots of reminders of it - kind of a way to escape reality.",
+    "reason": "reminders were a way to escape reality.",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "reminders",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user feels positive"
+    ],
+    "emotions": "Positive",
+    "fact": "reminders are helpful",
+    "index": 32,
+    "message": "[32]: The user feels a sense of positivity and connection with reminders and visiting bookstores.",
+    "raw_message": "Definitely, those reminders really help. And there's definitely a chance I'll be visiting more HP spots in the future. It feels like I'm stepping into the books!",
+    "reason": "Reminders bring good feelings",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "visiting bookstores",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user curious about what happened, no mention of their activities"
+    ],
+    "emotions": "Positive: Surprise and Enthusiasm",
+    "fact": "User show enthusiasm",
+    "index": 34,
+    "message": "[34]: The user responds positively to a surprise question.",
+    "raw_message": "Wow! That's awesome! Were you playing or watching?",
+    "reason": "The user ask with an excited tone",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "a surprise question",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [
+      "user value friendship",
+      "The user's tone suggests that they are enthusiastic and encouraging."
+    ],
+    "emotions": "Positive",
+    "fact": "the friend is playing at a high level",
+    "index": 36,
+    "message": "[36]: The user expresses admiration for their friend's photo.",
+    "raw_message": "Wow! You look so into it in that pic \u2013 it must be so awesome playing at that level! Keep rockin' it!",
+    "reason": "The user is excited and impressed by the picture of their friend playing at a high level.",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "supporting friend's photo",
+    "user_id": "Tim"
+  },
+  {
+    "attribue": [],
+    "emotions": "Positive",
+    "fact": "the user is encouraging others not to give up",
+    "index": 38,
+    "message": "[38]: The user encourages others to keep going and not give up on their dreams.",
+    "raw_message": "Yeah, keep going! Don't give up on your dreams. Talk to you later!",
+    "reason": "encouragement to persevere",
+    "timestamp": "5:08 pm on 15 June, 2023",
+    "topics": "general motivation",
+    "user_id": "Tim"
+  }
+]

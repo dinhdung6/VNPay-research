@@ -1,0 +1,292 @@
+[
+  {
+    "attribue": [
+      "user prioritizes their job responsibilities over personal life"
+    ],
+    "emotions": "Curious or Mixed towards personal life of Caroline",
+    "fact": "Busy with the kids and work",
+    "index": 1,
+    "message": "[1]: The user asks about Caroline's life while being busy, showing curiosity.",
+    "raw_message": "Hey Caroline! Good to see you! I'm swamped with the kids & work. What's up with you? Anything new?",
+    "reason": "The user is curious about what's new in Caroline's life despite being busy themselves.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "work-life balance",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "Caroline's personality: Enthusiastic and Confident"
+    ],
+    "emotions": "Enthuasistic",
+    "fact": "user talk about something awesome",
+    "index": 3,
+    "message": "[3]: The user asks Caroline to share inspiring stories.",
+    "raw_message": "Wow, that's cool, Caroline! What happened that was so awesome? Did you hear any inspiring stories?",
+    "reason": "The user want to hear what happened.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "share inspiring story",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user likes painting",
+      "user appreciates helpfulness"
+    ],
+    "emotions": "Positive",
+    "fact": "visited an art exhibition",
+    "index": 5,
+    "message": "[5]: The user loves art exhibition and found a helpful group.",
+    "raw_message": "Wow, love that painting! So cool you found such a helpful group. What's it done for you?",
+    "reason": "the artist and the facilitation of a helping community are well presented.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "art exhibition",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [],
+    "emotions": "Positive",
+    "fact": "The person has shown courage",
+    "index": 7,
+    "message": "[7]: The user is expressing encouragement and support for someone.",
+    "raw_message": "That's really cool. You've got guts. What now?",
+    "reason": "The writer is trying to boost the person's confidence",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "support for someone",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "User seems open-minded"
+    ],
+    "emotions": "positive",
+    "fact": "Wants to know about job options",
+    "index": 9,
+    "message": "[9]: The user is inquiring about job opportunities with a positive attitude.",
+    "raw_message": "Wow, Caroline! What kinda jobs are you thinkin' of? Anything that stands out?",
+    "reason": "Curious about job options",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "job search",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": {
+      "* employment status": "",
+      "*age": " unknown",
+      "*education level": "unknown",
+      "your job suggestion": "[Career counseling]"
+    },
+    "emotions": "Positive",
+    "fact": "the user suggest you become a counselor",
+    "index": 11,
+    "message": "[11]: The user thinks you'd be a great counselor because of your empathy and understanding.",
+    "raw_message": "You'd be a great counselor! Your empathy and understanding will really help the people you work with. By the way, take a look at this. (image description: a photo of a painting of a sunset over a lake)",
+    "reason": "The user thinks you'd be a great counselor because they like your empathy and understanding.",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "counseling career",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "artist owns artwork",
+      "author attaches value to the painting"
+    ],
+    "emotions": "Positive",
+    "fact": "Painted a lake sunrise last year",
+    "index": 13,
+    "message": "[13]: The user painted a lake sunrise and considers it special.",
+    "raw_message": "Yeah, I painted that lake sunrise last year! It's special to me.",
+    "reason": "The painting holds sentimental value for the author",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "painting of lake sunrise",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user value creativity",
+      "user likes relaxation"
+    ],
+    "emotions": "Positive",
+    "fact": "painting every day",
+    "index": 15,
+    "message": "[15]: The user appreciates painting as a fun and creative outlet.",
+    "raw_message": "Thanks, Caroline! Painting's a fun way to express my feelings and get creative. It's a great way to relax after a long day.",
+    "reason": "It is a way to relax",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "Painting",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user prioritize their health"
+    ],
+    "emotions": "Positive",
+    "fact": "going swimming",
+    "index": 17,
+    "message": "[17]: The user is taking care of themselves by prioritizing their health.",
+    "raw_message": "Yep, Caroline. Taking care of ourselves is vital. I'm off to go swimming with the kids. Talk to you soon!",
+    "reason": "The importance of self-care",
+    "timestamp": "1:56 pm on 8 May, 2023",
+    "topics": "self-care",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user experienced mentally healthy race"
+    ],
+    "emotions": "Positive",
+    "fact": "charity race last Saturday",
+    "index": 18,
+    "message": "[18]: The user had a lot of things happening to them since their last chat and participated in a charity race for mental health.",
+    "raw_message": "Hey Caroline, since we last chatted, I've had a lot of things happening to me. I ran a charity race for mental health last Saturday \u2013 it was really rewarding. Really made me think about taking care of our minds.",
+    "reason": "Taking care of one's minds after doing charity work for mental health.",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "mental health charity event",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user realize self care is important for family,"
+    ],
+    "emotions": "Positive",
+    "fact": "attend event",
+    "index": 20,
+    "message": "[20]: Self-care is really important for the user",
+    "raw_message": "Thanks, Caroline! The event was really thought-provoking. I'm starting to realize that self-care is really important. It's a journey for me, but when I look after myself, I'm able to better look after my family.",
+    "reason": "The event was thought-provoking and helps user realize the importance of self-care",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "self-care",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user is recharging with hobbies"
+    ],
+    "emotions": "Positive",
+    "fact": "spend me-time daily",
+    "index": 22,
+    "message": "[22]: The user shares that taking care of herself helps her stay present for her family.",
+    "raw_message": "Yeah, it's tough. So I'm carving out some me-time each day - running, reading, or playing my violin - which refreshes me and helps me stay present for my fam!",
+    "reason": "Spending alone time each day to recharge",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "Taking self-care",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "Parental attitude is patient and optimistic",
+      "Family values enjoyment"
+    ],
+    "emotions": "Positive",
+    "fact": "kids excited for summer",
+    "index": 24,
+    "message": "[24]: The parent expresses excitement and optimism about summer plans.",
+    "raw_message": "Thanks, Caroline. It's still a work in progress, but I'm doing my best. My kids are so excited about summer break! We're thinking about going camping next month. Any fun plans for the summer?",
+    "reason": "Excitement and enthusiasm towards summer break, especially campsng for their kids",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "summer plans",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user's sentiment: emotional, empathetic"
+    ],
+    "emotions": "Positive",
+    "fact": "Caroline is being praised for her kindness",
+    "index": 26,
+    "message": "[26]: The user praises Caroline for her kindess towards adopting kids in need.",
+    "raw_message": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+    "reason": "The value and kindness of adopting children in need",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "kindness",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "User values a good experience",
+      "user interested in agency"
+    ],
+    "emotions": "Positive",
+    "fact": "Agency selected",
+    "index": 28,
+    "message": "[28]: The user is positively evaluating an agency they have chosen.",
+    "raw_message": "Wow, that agency looks great! What made you pick it?",
+    "reason": "The user is impressed with the agency and wants to know what features contribute to their positive perception.",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "agency selection",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "user value family support"
+    ],
+    "emotions": "Positive",
+    "fact": "support from others",
+    "index": 30,
+    "message": "[30]: The user is excited about the adoption process due to the inclusivity and support.",
+    "raw_message": "That's great, Caroline! Loving the inclusivity and support. Anything you're excited for in the adoption process?",
+    "reason": "The user loves the inclusivity and support",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "adoption",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "Empathetic",
+      "Care-giver attitude"
+    ],
+    "emotions": "Positive",
+    "fact": "Creating a new family",
+    "index": 32,
+    "message": "[32]: The user is expressing admiration and support for someone's efforts to create a loving family.",
+    "raw_message": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+    "reason": "Helping others to create a loving family and seeing positive impact",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "Creating a Family and becoming a Mom",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "supportive partner",
+      "careing"
+    ],
+    "emotions": "Positive",
+    "fact": "The birthday of Caroline's baby",
+    "index": 34,
+    "message": "[34]: The author is supporting a loved one through an exciting new chapter.",
+    "raw_message": "No doubts, Caroline. You have such a caring heart - they'll get all the love and stability they need! Excited for this new chapter!",
+    "reason": "Caroline will receive love and stability",
+    "timestamp": "1:14 pm on 25 May, 2023",
+    "topics": "Supporting a loved one",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "author is supportive",
+      "author shows appreciation for Caroline's work"
+    ],
+    "emotions": "Positive",
+    "fact": "Caroline has made progress since her transition",
+    "index": 36,
+    "message": "[36]: The author expresses admiration and pride for Caroline's LGBTQ+ Awareness Event.",
+    "raw_message": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!",
+    "reason": "The author is proud of Caroline for spreading awareness and getting others involved in the LGBTQ community.",
+    "timestamp": "7:55 pm on 9 June, 2023",
+    "topics": "LGBTQ+ Awareness Event",
+    "user_id": "Melanie"
+  },
+  {
+    "attribue": [
+      "caroline is a strong advocate for inclusivity and acceptance",
+      "caroline has inspiring others"
+    ],
+    "emotions": "Positive",
+    "fact": "speaking up for trans community",
+    "index": 38,
+    "message": "[38]: Caroline's advocacy for inclusivity and acceptance is receiving positive feedback from the community.",
+    "raw_message": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!",
+    "reason": "You are positively affecting many people through your journey.",
+    "timestamp": "7:55 pm on 9 June, 2023",
+    "topics": "inspiring others",
+    "user_id": "Melanie"
+  }
+]

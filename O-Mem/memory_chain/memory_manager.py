@@ -63,9 +63,16 @@ class MemoryManager:
 
         while len(understanding)==0:
             try:
-                response = await self.llm_client.chat.completions.create(model=self.llm_model,messages=[{"role": "user", "content": UNDERSTAND_USER_EXPERIENCE_PROMPT.format(message=message)}])
+                response = await self.llm_client.chat.completions.create(model=self.llm_model,messages=[{"role": "user", "content": UNDERSTAND_USER_EXPERIENCE_PROMPT.format(message=message)}], response_format={"type": "json_object"})
 
-                understanding= json.loads(response.choices[0].message.content) 
+                content = response.choices[0].message.content
+
+                print("=" * 80)
+                print("LLM OUTPUT:")
+                print(repr(content))
+                print("=" * 80)
+
+                understanding = json.loads(content)
                 if len(understanding["tags"]["topic"])!=len(understanding["tags"]["attitude"]) or  len(understanding["tags"]["attitude"])!=len(understanding["tags"]["facts"]):
                     understanding_with_index = "["+str(index)+"]: "+ understanding["summary"]
                     topics = understanding["tags"]["topic"][0]
@@ -113,7 +120,7 @@ class MemoryManager:
         while len(understanding)==0:
             try:
                 # print("calling GPT")
-                response = await client.chat.completions.create(model=self.model,messages=[{"role": "user", "content": UNDERSTAND_USER_EXPERIENCE_PROMPT_v4.format(message=message)}])
+                response = await client.chat.completions.create(model=self.model,messages=[{"role": "user", "content": UNDERSTAND_USER_EXPERIENCE_PROMPT_v4.format(message=message)}], response_format={"type": "json_object"})
                 understanding= json.loads(response.choices[0].message.content) 
                 # print(understanding)
                 if len(understanding["tags"]["topic"])!=len(understanding["tags"]["attitude"]):
@@ -309,7 +316,7 @@ class MemoryManager:
         while len(router_decision)==0:
             try:
                 response = await client.chat.completions.create(model=self.llm_model,messages=self.create_messages_for_update_episodic_event_memory_concerning_new_message(episodic_event_memory=episodic_event_memory_profile,
-                message=message_with_understanding))
+                message=message_with_understanding), response_format={"type":"json_object"})
                 router_decision = json.loads(response.choices[0].message.content) 
             except:
                 import traceback
@@ -333,7 +340,7 @@ class MemoryManager:
         while len(router_decision)==0:
             try:
                 response = await client.chat.completions.create(model=self.llm_model,messages=self.create_messages_for_update_episodic_fact_memory_concerning_new_message(episodic_fact_memory=episodic_fact_memory_profile,
-                message=message_with_understanding))
+                message=message_with_understanding), response_format={"type":"json_object"})
                 router_decision = json.loads(response.choices[0].message.content) 
             except:
                 import traceback
@@ -357,7 +364,7 @@ class MemoryManager:
         while len(router_decision)==0:
             try:
                 response = await client.chat.completions.create(model=self.llm_model,messages=self.create_messages_for_update_episodic_attr_memory_concerning_new_message(episodic_attr_memory=episodic_attr_memory_profile,
-                message=message_with_understanding))
+                message=message_with_understanding), response_format={"type":"json_object"})
                 router_decision = json.loads(response.choices[0].message.content) 
                 action = router_decision["Action"]
                 target = router_decision["Target"]

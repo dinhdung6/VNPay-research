@@ -1,0 +1,48 @@
+[
+    {
+        "user_id": "Maria",
+        "raw_message": "Hey John! Long time no see! What's up?",
+        "message": "[0]: The user expresses a positive attitude towards catching up with John after a long time.",
+        "topics": "catching up after a long time",
+        "emotions": "Positive",
+        "reason": "The user is positive towards catching up and expressing friendly sentiment.",
+        "index": 0,
+        "timestamp": "11:01 am on 17 December, 2022",
+        "fact": "Hello to John",
+        "attribue": [
+            "user looks for connection"
+        ]
+    },
+    {
+        "user_id": "Maria",
+        "raw_message": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "message": "[2]: The user is sharing their experience with workout classes they've recently tried.",
+        "topics": "Workout Classes",
+        "emotions": "Positive",
+        "reason": "It is simply because of its awesome reviews",
+        "index": 2,
+        "timestamp": "11:01 am on 17 December, 2022",
+        "fact": "user has been volunteering at homeless shelter",
+        "attribue": {
+            "volunteering": true,
+            "homeless shelter": true,
+            "fitness motivation": true,
+            "fit and healthy person , positive on aerobatics ": false,
+            "stressed about doing exercise ": false
+        }
+    },
+    {
+        "user_id": "Maria",
+        "raw_message": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
+        "message": "[4]: Kickboxing is a popular activity for staying fit and reducing stress, according to John.",
+        "topics": "kickboxing",
+        "emotions": "Positive",
+        "reason": "It helps with staying in shape and de-stressing",
+        "index": 4,
+        "timestamp": "11:01 am on 17 December, 2022",
+        "fact": "stay in shape",
+        "attribue": [
+            "John's hobby"
+        ]
+    }
+]

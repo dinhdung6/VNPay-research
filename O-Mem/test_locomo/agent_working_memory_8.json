@@ -1,0 +1,273 @@
+[
+  {
+    "attribue": [
+      "User value friendships"
+    ],
+    "emotions": "Positive",
+    "fact": "See Evan",
+    "index": 0,
+    "message": "[0]: User is catching up with their friend Evan.",
+    "raw_message": "Hey Evan, good to see you! What's new since we last met? Anything cool happening?",
+    "reason": "Show interest in Evan's life and asking about his personal updates",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "catching up with friends",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user ask question, use 'wow' tone, see old car"
+    ],
+    "emotions": "Curious/Mocked",
+    "fact": "Change something in their car interior",
+    "index": 2,
+    "message": "[2]: The user is curious or mocked by asking about changes in their car interior.",
+    "raw_message": "Wow, not bad, what happened to the old one? Where'd you go, by the way? (image description: a photo of a person's feet on a car dashboard as the sun sets)",
+    "reason": "The user is curious/mocked about the changes in their surroundings",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "Car interior",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "none mentioned, possibly demographic feature like travel habits."
+    ],
+    "emotions": "Positive",
+    "fact": "user admire somone's trip",
+    "index": 4,
+    "message": "[4]: A user expresses admiration for someone else's experience to get information about their travels.",
+    "raw_message": "Wow! Looks amazing. When did you get to go there?",
+    "reason": "The user is expressing admiration and interest in someone's experience.",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "Travel/ Adventure",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user are nostalgic",
+      "user have a father"
+    ],
+    "emotions": "Positive/Negative Mixed",
+    "fact": "the user did hike before but haven",
+    "index": 6,
+    "message": "[6]: The user expresses mixed feelings about not having hiked in a while but appreciates its joy.",
+    "raw_message": "Wow, that's cool. I love hiking, but it's been ages since I've done it. I did this hike with my dad way back when I was ten. Going hiking together was great fun, and really special for us. (image description: a photography of a man and a child walking through a forest)",
+    "reason": "The nostalgia regarding going hiking with dad when the user was ten makes them feel positive and at the same time sad that they haven",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "hiking",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "positive outlook on life"
+    ],
+    "emotions": "_positive",
+    "fact": "recent hike",
+    "index": 8,
+    "message": "[8]: The hiker has a positive nostalgic attitude towards their recent hiking experience.",
+    "raw_message": "We hiked a good distance - quite a feat for me back then. It's definitely a great memory.",
+    "reason": "reflecting on past experiences and memories",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "hiking",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user like to create",
+      "user want to discover"
+    ],
+    "emotions": "Positive",
+    "fact": "painting is something the user try",
+    "index": 10,
+    "message": "[10]: User considers trying painting as a new hobby.",
+    "raw_message": "Nothing so far, but I was thinking about trying painting. Do you have any hobbies you love? (image description: a photo of a person holding a paint set in a store)",
+    "reason": "The user is curious about painting art.",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "art hobby",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user is eager to try an activity"
+    ],
+    "emotions": "/Positive/Positive",
+    "fact": "new activity that I haven't tried before",
+    "index": 12,
+    "message": "[12]: The user is eager to give a new activity a try.",
+    "raw_message": "Not yet, but I'm keen to give it a go. It looks like a nice way to chill and get creative.",
+    "reason": "I'm intrigued and interested",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "Trying a new activity",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "User is admitive of the subject's skill"
+    ],
+    "emotions": "Positive",
+    "fact": "Impressively done work",
+    "index": 14,
+    "message": "[14]: The user expresses admiration for someone's impressive watercolor painting.",
+    "raw_message": "Wow, that's impressive! How did you get into watercolor painting?",
+    "reason": "Appreciation and interest in learning about others' skills",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "watercolor painting",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user value artistic passion"
+    ],
+    "emotions": "Positive",
+    "fact": "Find a good painting style",
+    "index": 16,
+    "message": "[16]: The user hopes to find something as passionate as the speaker's watercolor painting.",
+    "raw_message": "Wow! I hope I can find something I'm as passionate about as you are with watercolor painting.",
+    "reason": "Want to be passionate about painting for user.",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "arts",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "User enjoys exploring and gaining experiences"
+    ],
+    "emotions": "Positive",
+    "fact": "user is looking forward to trying something new",
+    "index": 18,
+    "message": "[18]: The user is excited about trying new things, indicating a positive attitude.",
+    "raw_message": "Thanks, Evan! I'm excited to try new things, should be fun!",
+    "reason": "looking forward to trying something new",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "Trying New Things",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user is patient"
+    ],
+    "emotions": "Positive",
+    "fact": "keep update with the author",
+    "index": 20,
+    "message": "[20]: The user will keep the author posted.",
+    "raw_message": "Yeah, I'll keep you posted. See you soon!",
+    "reason": "The user is keeping the author updated on their progress",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "stay update",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "User is asking for information"
+    ],
+    "emotions": "inquiry: curious",
+    "fact": "Evan's location is Jasper",
+    "index": 23,
+    "message": "[23]: The user asks Evan about his road trip to Jasper.",
+    "raw_message": "Hey Evan, looks amazing! I've never been to Jasper, but it looks breathtaking. Tell me more about your road trip. Was it relaxing?",
+    "reason": "Learning more about Evan's experience",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "road trip",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "emotional state is sensitive"
+    ],
+    "emotions": "Positive",
+    "fact": "past week was hard",
+    "index": 25,
+    "message": "[25]: Importance of taking time for self and finding peace.",
+    "raw_message": "That sounds great, Evan! It's so important to take time for ourselves and find peace, especially after a hard week. Mine's been tough.",
+    "reason": "Taking care of oneself is important",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "finding self care",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user is concerned about health"
+    ],
+    "emotions": "Negative towards weight gain",
+    "fact": "had a check-up ",
+    "index": 27,
+    "message": "[27]: The user expressed negative emotions after discovering unwanted weight gain during their recent health check-up.",
+    "raw_message": "Thanks, Evan. Appreciate the offer, but had a check-up with my doctor a few days ago and, yikes, the weight wasn't great. It was pretty eye-opening.",
+    "reason": "Discover unexpected weight gain from recent health check.",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "health check-up",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user is eager to improve",
+      " Evan is grateful"
+    ],
+    "emotions": "Positive seeking advice or guidance",
+    "fact": "asked for tips",
+    "index": 29,
+    "message": "[29]: Evan asked for tips on breaking old habits.",
+    "raw_message": "Thanks, Evan. Breaking old habits isn't easy. Do you have any tips for starting the process?",
+    "reason": "Learn how to break old habit",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "breaking habits",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "unmotivated",
+      "want to destress"
+    ],
+    "emotions": "Positive",
+    "fact": "looking for a hobby",
+    "index": 31,
+    "message": "[31]: The user is looking for a new hobby to stay motivated and de-stress.",
+    "raw_message": "Thanks, Evan. Like you said, I've been looking for a hobby to stay motivated. I've been thinking about trying painting. Do you think it will help me de-stress?",
+    "reason": "stay motivated",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "get hobby",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user's past swimming experiene is bad",
+      "user's motivation are low"
+    ],
+    "emotions": "Positive",
+    "fact": "swimming encourtement",
+    "index": 33,
+    "message": "[33]: The user appreciates encouragement and will try swimming again.",
+    "raw_message": "Thanks, Evan! Appreciate the encouragement. I'll give it a go and let you know how it turns out.",
+    "reason": "The user appreciate's encouragment",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "going swimming again",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "user wants to relax"
+    ],
+    "emotions": "Positive",
+    "fact": "just gonna enjoy it",
+    "index": 35,
+    "message": "[35]: The user is positive about going back to play basketball and prioritizes enjoyment.",
+    "raw_message": "Cheers, Evan! I won't stress - just gonna enjoy it.",
+    "reason": "The user focuses on enjoying themselves",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "playing basketball",
+    "user_id": "Sam"
+  },
+  {
+    "attribue": [
+      "The conversation was polite and friendly. The person being addressed, 'Evan', is likely someone the speaker has a positive relationship with."
+    ],
+    "emotions": "Positive/Final",
+    "fact": "Meeting with Evan came to an end",
+    "index": 37,
+    "message": "[37]: The sender thanks Evan and says goodbye in a friendly manner.",
+    "raw_message": "Thanks, Evan! Will do. Bye for now.",
+    "reason": "End of a relationship or encounter",
+    "timestamp": "7:11 pm on 24 May, 2023",
+    "topics": "Farewell",
+    "user_id": "Sam"
+  }
+]

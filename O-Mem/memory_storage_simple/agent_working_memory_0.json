@@ -1,0 +1,75 @@
+[
+  {
+    "attribue": [
+      "user likes music",
+      "user asks about favorites"
+    ],
+    "emotions": "Positive",
+    "fact": "Coldplay has some amazing songs",
+    "index": 7,
+    "message": "[7]: The user expresses appreciation for Coldplay's music and inquires about others' favorite albums.",
+    "raw_message": "Coldplay has some amazing songs. Do you have a favorite album?",
+    "reason": "The user appreciates Coldplay's music",
+    "timestamp": "2024-01-01 10:07:00",
+    "topics": "music",
+    "user_id": "Bob"
+  },
+  {
+    "attribue": [
+      "user is a fan of music"
+    ],
+    "emotions": "Neutral",
+    "fact": "user enjoys live concerts",
+    "index": 9,
+    "message": "[9]: The message asks about the user's experience attending live concerts.",
+    "raw_message": "That's a classic! Do you also enjoy attending live concerts?",
+    "reason": "Comparing the user's enjoyment with others",
+    "timestamp": "2024-01-01 10:09:00",
+    "topics": "live concerts",
+    "user_id": "Bob"
+  },
+  {
+    "attribue": [
+      "user enjoys energetic experience"
+    ],
+    "emotions": "Positive",
+    "fact": "exciting experience",
+    "index": 11,
+    "message": "[11]: The user is positive about the energizing effects of live music.",
+    "raw_message": "That must have been incredible! Live music is always so energizing.",
+    "reason": "The excitement and energy from live music",
+    "timestamp": "2024-01-01 10:11:00",
+    "topics": "live music",
+    "user_id": "Bob"
+  },
+  {
+    "attribue": [
+      "user foodie",
+      "interested in people's hobby"
+    ],
+    "emotions": "Positive",
+    "fact": null,
+    "index": 13,
+    "message": "[13]: The user is expressing interest and enthusiasm for Italian cuisine.",
+    "raw_message": "Italian cuisine is delicious! What's your specialty dish?",
+    "reason": "The user likes Italian food",
+    "timestamp": "2024-01-01 10:13:00",
+    "topics": "food",
+    "user_id": "Bob"
+  },
+  {
+    "attribue": [
+      "family importance",
+      "user's attitude towards family"
+    ],
+    "emotions": "Positive",
+    "fact": "family cooking are alway special",
+    "index": 15,
+    "message": "[15]: The user expresses a positive sentiment towards cooking for their family.",
+    "raw_message": "That sounds delicious! Cooking for family is always special.",
+    "reason": "the meal is special when cooking with the loved ones.",
+    "timestamp": "2024-01-01 10:15:00",
+    "topics": "cooking with family",
+    "user_id": "Bob"
+  }
+]

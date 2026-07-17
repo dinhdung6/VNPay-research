@@ -1,0 +1,278 @@
+[
+  {
+    "attribue": [
+      "user value fun",
+      "user enjoy gaming"
+    ],
+    "emotions": "Positive",
+    "fact": "engaged in video game",
+    "index": 1,
+    "message": "[1]: Video games provide the user with joy, excitement, and motivation.",
+    "raw_message": "Hey John! Video games give me tons of joy and excitement, so they keep me motivated!",
+    "reason": "Provide enjoyment and motivation",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "video games",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user into gaming",
+      "user has a positive opinion on games"
+    ],
+    "emotions": "Positive",
+    "fact": "user is currently playing The Witcher 3",
+    "index": 3,
+    "message": "[3]: User discusses their positive sentiment towards The Witcher 3.",
+    "raw_message": "I'm totally into The Witcher 3 right now. The story and atmosphere are amazing. Have you tried it yet?",
+    "reason": "The story and atmosphere are amazing",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "The Witcher 3",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "User value learning"
+    ],
+    "emotions": "Positive",
+    "fact": "Learned programming in colleg",
+    "index": 5,
+    "message": "[5]: The user has a positive attitude towards learning programming.",
+    "raw_message": "Programming is an awesome skill. I tried it out one in college and now it`s all my life. Good luck in the class! Do you have any coding experience?",
+    "reason": "The user found it useful for their life after college",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "learning programming",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "User experienced with computer programming"
+    ],
+    "emotions": "Positive",
+    "fact": "Worked with Python and C++",
+    "index": 7,
+    "message": "[7]: The user shares experiences in computer programming.",
+    "raw_message": "I've worked with Python and C++. I've built a website and also created some game mods. Here is one example. (image description: a photo of a computer screen showing a video game scene)",
+    "reason": "The user has accomplished several tasks in their field of expertise",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Computer programming",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "inexperienced programmer",
+      "want career growth"
+    ],
+    "emotions": "Positive",
+    "fact": "haven't worked with other languages before",
+    "index": 9,
+    "message": "[9]: The user hopes to work in the future with other programming languages.",
+    "raw_message": "I haven\u2019t worked with any other programming languages, but I hope to work in the future.",
+    "reason": "The user is optimistic about their future career in programming",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Programming Languages",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user is open-minded"
+    ],
+    "emotions": "Positive",
+    "fact": "Create an application idea",
+    "index": 11,
+    "message": "[11]: The user expresses enthusiasm for creating an application for dogs.",
+    "raw_message": "It would be cool! For example, we could write some kind of application for dogs. By the way, my dogs. (image description: a photo of two dogs are tied to a fence with a leash)",
+    "reason": "The user thinks it would be cool to create an application for dogs.",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "application idea",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "Max and Daisy, max and Daisy are planning to build an app"
+    ],
+    "emotions": "Positive",
+    "fact": "max and daisy",
+    "index": 13,
+    "message": "[13]: Building an app for dog walking and pet care is a cool idea.",
+    "raw_message": "Max and Daisy. Will be actually cool to build an app for dog walking and pet care. The goal is to connect pet owners with reliable dog walkers and provide helpful information on pet care.",
+    "reason": "The idea of building an application that connects pet owners with reliable dog walkers",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "dog walking and pet care",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user appreciates user experience",
+      "customer cares about customization"
+    ],
+    "emotions": "Positive",
+    "fact": "John mentioned that the personal touch sets it apart.",
+    "index": 15,
+    "message": "[15]: The user is happy with a product that offers a personal touch and customization options for users.",
+    "raw_message": "Thanks, John! The personal touch really sets it apart. Users can add their pup's preferences/needs - just like they were customizing it for them. Making it unique for each owner and pup. (image description: a photo of a notepad with a handwritten note on it)",
+    "reason": "Personal touch is a pro for this product",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Journal or Notepad Product",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user enjoys writing down goals",
+      "user appreciates organization"
+    ],
+    "emotions": "Positive",
+    "fact": "check off each goal in the notebook",
+    "index": 17,
+    "message": "[17]: The user finds joy in setting and achieving their goals with a notebook.",
+    "raw_message": "Creating something and seeing it come to life gives me a great sense of accomplishment. It's an amazing feeling. I write down all my goals in a notebook. It's very satisfying to check off each one when it's done. (image description: a photo of a person holding a notebook with a list of things on it)",
+    "reason": "The feeling of accomplishment from creating and achieving goals",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Goal Setting",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user has a passion for art and creativity",
+      "long-held dream"
+    ],
+    "emotions": "Positive",
+    "fact": "childhood sketches of main character",
+    "index": 19,
+    "message": "[19]: The user is excited about working on a childhood project.",
+    "raw_message": "I'm working on something I've wanted to do since I was a kid. Even as a child, I made some sketches of the main character. Back then I was just drawing comics, but now I want to turn it into a computer game. It's a project that has me really excited. (image description: a photo of a drawing of a girl in a plane)",
+    "reason": "The desire to create something that started at a young age",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Creating and pursuing childhood dreams",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "User passionates about gaming",
+      "user enjoys storytelling"
+    ],
+    "emotions": "Positive",
+    "fact": "I enjoy creating own project",
+    "index": 21,
+    "message": "[21]: The user combines gaming and storytelling with excitement and positive feelings.",
+    "raw_message": "I'm always excited to combine my favorite passions: gaming and storytelling. It's great creating my own project and bringing my ideas to life, plus the challenge is really enjoyable!",
+    "reason": "Combining passions for creative enjoyment",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Gaming and Storytelling",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user appreciate collaboration",
+      "user value game development knowledge"
+    ],
+    "emotions": "Positive",
+    "fact": "John's knowledge of HTML was helpful",
+    "index": 23,
+    "message": "[23]: The user is excited about collaborating with John on a new project.",
+    "raw_message": "Thanks John! It's super exciting. I'll keep you updated on the progress. Perhaps, thanks to your knowledge of HTML, I'll invite you to help with some things in my game.",
+    "reason": "the knowledge of HTML is valuable",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "game development",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "User's love for bowling",
+      "User enjoys outdoor activities"
+    ],
+    "emotions": "Positive",
+    "fact": " Went bowling yesterday",
+    "index": 25,
+    "message": "[25]: The user looks forward to going bowling and loves the activity.",
+    "raw_message": "I'll be looking forward to it. By the way, yesterday I went bowling and got 2 strikes. I love bowling!",
+    "reason": "The user loves bowling",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "bowling",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user sentimental tone",
+      "user's interest in social interaction"
+    ],
+    "emotions": "Negative towards the idea of going out",
+    "fact": "The user expresses remorse or sadness about something related to playing with someone",
+    "index": 27,
+    "message": "[27]: The user expresses a negative sentiment about the possibility of going out to play together.",
+    "raw_message": "It's a pity, it would be nice to go play with you one day.",
+    "reason": "The user feel that it will not happen",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "playing together",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user overjoyed by game, user loses wallet"
+    ],
+    "emotions": "Negative",
+    "fact": "wallet stolen while playing slots",
+    "index": 29,
+    "message": "[29]: The user lost their wallet at a casino.",
+    "raw_message": "The last time I played at the slot machines, I was so engrossed in the game that I didn't notice my wallet being taken out of my pocket. Sad story.",
+    "reason": "Loss of personal property",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "casino",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "The user is flexible"
+    ],
+    "emotions": "Neutral/Mixed",
+    "fact": "the user asks if we can try something else",
+    "index": 31,
+    "message": "[31]: The user suggests trying something different.",
+    "raw_message": "Still, maybe we can try something different?",
+    "reason": "Open-mindedness towards change",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "Trying something new",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "user value realism"
+    ],
+    "emotions": "Positive",
+    "fact": "method trial",
+    "index": 33,
+    "message": "[33]: The user tried out a method that they found real life-like.",
+    "raw_message": "I tried it - it's crazy how real it feels! Have you given it a shot?",
+    "reason": "Found the method to be real-life-like.",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "method trial",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "User loves gaming"
+    ],
+    "emotions": "Positive",
+    "fact": "played VR game",
+    "index": 35,
+    "message": "[35]: The user enjoyed VR gaming and is excited to play again.",
+    "raw_message": "Yeah, VR gaming is awesome! Let`s do it next Saturday!",
+    "reason": "The user enjoyed playing VR games",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": "VR Gaming",
+    "user_id": "James"
+  },
+  {
+    "attribue": [
+      "User value fun, social interaction, and excitement"
+    ],
+    "emotions": "Positive",
+    "fact": "Created game avatar, joined new platform, enjoying gaming experience",
+    "index": 37,
+    "message": "[37]: The user is excited to share their recent online gaming experiences and feels part of a cool community.",
+    "raw_message": "Hey John, something awesome happened since we talked. I made a game avatar and joined a new platform. It's so fun exploring and chatting with other gamers - it's a whole new adventure every time! I feel like I'm part of a super cool online community.",
+    "reason": "Enjoying the thrill of gaming and socializing with other gamers.",
+    "timestamp": "9:26 pm on 20 March, 2022",
+    "topics": "online gaming",
+    "user_id": "James"
+  }
+]

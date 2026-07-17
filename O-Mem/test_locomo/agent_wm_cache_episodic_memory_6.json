@@ -1,0 +1,45 @@
+[
+    {
+        "user_id": "John",
+        "raw_message": "Hey! Glad to finally talk to you. I want to ask you, what motivates you?",
+        "message": "[0]: The user initiates a motivational discussion with the goal of gaining insight into what motivates others.",
+        "topics": "Motivational discussion",
+        "emotions": "Positive",
+        "reason": "Get motivation from others",
+        "index": 0,
+        "timestamp": "3:47 pm on 17 March, 2022",
+        "fact": "user glad to start conversation",
+        "attribue": [
+            "user enthusiastic about asking question"
+        ]
+    },
+    {
+        "user_id": "John",
+        "raw_message": "Cool, James! I'm a big video game fan too. They help me relax after a long day. What game are you currently enjoying the most?",
+        "message": "[2]: The user shares their love for video games and their positive experience of using them as a way to relax.",
+        "topics": "video game community",
+        "emotions": "Positive",
+        "reason": "Video games help with relaxation",
+        "index": 2,
+        "timestamp": "3:47 pm on 17 March, 2022",
+        "fact": "User is a big video game fan",
+        "attribue": [
+            "user enjoy socializing"
+        ]
+    },
+    {
+        "user_id": "John",
+        "raw_message": "Haven't played it yet, but I hear it's awesome. Gonna give it a go. BTW, just signed up for a programming class. Have you ever done any programming?",
+        "message": "[4]: The user is considering a new activity and wants to know about its awesomeness.",
+        "topics": "considering a new activity",
+        "emotions": "Positive",
+        "reason": "The person has heard the thing is cool",
+        "index": 4,
+        "timestamp": "3:47 pm on 17 March, 2022",
+        "fact": "Heard something is awesome",
+        "attribue": [
+            "person hasn't done anything yet",
+            "interested in a certain programming language"
+        ]
+    }
+]

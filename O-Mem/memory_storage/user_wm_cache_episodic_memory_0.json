@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": "Alice",
+        "raw_message": "Yes! I've been playing for 5 years. My favorite team is the Lakers.",
+        "message": "[2]: The user expresses their enthusiasm and loyalty to the Lakers.",
+        "topics": "favorite sports team",
+        "emotions": "Positive",
+        "reason": "user has experience and like their team for a long time.",
+        "index": 2,
+        "timestamp": "2024-01-01 10:02:00",
+        "fact": "The user have played basketball for 5 year",
+        "attribue": [
+            "User prefer LAkkers"
+        ]
+    }
+]

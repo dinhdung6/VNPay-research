@@ -1,0 +1,44 @@
+[
+    {
+        "user_id": "Gina",
+        "raw_message": "That's cool, Jon! What got you into this biz?",
+        "message": "[4]: Jon was asked about his business experience.",
+        "topics": "user's occupation business",
+        "emotions": "Positive",
+        "reason": "The user is positive about sharing his business experiences.",
+        "index": 4,
+        "timestamp": "4:04 pm on 20 January, 2023",
+        "fact": "User shares experience on this biz",
+        "attribue": [
+            "user enthusiastic"
+        ]
+    },
+    {
+        "user_id": "Gina",
+        "raw_message": "Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?",
+        "message": "[6]: The user prefers dance as a way to relieve stress.",
+        "topics": "dance as a stress reliever",
+        "emotions": "positive",
+        "reason": "dance is used to relieve stress",
+        "index": 6,
+        "timestamp": "4:04 pm on 20 January, 2023",
+        "fact": "stress relief through dance",
+        "attribue": [
+            "user prefer dance as a stress-relief activity"
+        ]
+    },
+    {
+        "user_id": "Gina",
+        "raw_message": "Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me.",
+        "message": "[8]: The user expresses their appreciation for contemporary dance.",
+        "topics": "Contemporary Dance",
+        "emotions": "Positive",
+        "reason": "Expressive and graceful qualities of Contemporary Dance appeal to User",
+        "index": 8,
+        "timestamp": "4:04 pm on 20 January, 2023",
+        "fact": "User appreciates Contemporary Dance",
+        "attribue": [
+            "User is creative"
+        ]
+    }
+]

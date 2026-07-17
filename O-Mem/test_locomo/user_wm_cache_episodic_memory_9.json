@@ -1,0 +1,46 @@
+[
+    {
+        "user_id": "Calvin",
+        "raw_message": "Hey Dave! Nice to meet you! How's it going since we talked?",
+        "message": "[0]: The user sends a greeting and inquires about the conversation that took place.",
+        "topics": "greeting",
+        "emotions": "Positive",
+        "reason": "Familiarity and friendly demeanor",
+        "index": 0,
+        "timestamp": "11:53 am on 23 March, 2023",
+        "fact": "we talked",
+        "attribue": [
+            "user's age: likely young adult",
+            " user's name: Dave"
+        ]
+    },
+    {
+        "user_id": "Calvin",
+        "raw_message": "That event sounds great! Something really exciting happened to me - I just had a big life change! Here's my new mansion - pretty cool huh? (image description: a photo of a building with a sign on the front of it)",
+        "message": "[2]: The user is excited about their recent big life change and new home.",
+        "topics": "New Mansion",
+        "emotions": "Positive",
+        "reason": "The user finds their new life change exciting and enjoys sharing the experience.",
+        "index": 2,
+        "timestamp": "11:53 am on 23 March, 2023",
+        "fact": "user just had big life change",
+        "attribue": [
+            "user value material possessions",
+            "user's personal achievement"
+        ]
+    },
+    {
+        "user_id": "Calvin",
+        "raw_message": "Never been there before. Fascinated by the traditions and can't wait to get a taste of the culture.",
+        "message": "[6]: The user is excited to visit the new place due to its traditions.",
+        "topics": "traveling to a new place",
+        "emotions": "Positive",
+        "reason": "traditions and culture attract their attention",
+        "index": 6,
+        "timestamp": "11:53 am on 23 March, 2023",
+        "fact": "the user is visiting a new destination",
+        "attribue": [
+            "user curious about foreign customs"
+        ]
+    }
+]

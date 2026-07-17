@@ -1,0 +1,293 @@
+[
+  {
+    "attribue": [
+      "user friendly",
+      "value building relationships"
+    ],
+    "emotions": "Positive",
+    "fact": "new acquaintance",
+    "index": 0,
+    "message": "[0]: The user expresses positive interest in getting to know Jolene.",
+    "raw_message": "Hey Jolene, nice to meet you! How's your week going? Anything fun happened?",
+    "reason": "The person expresses positivity towards meeting Jolene.",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "getting to know someone",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user has a significant attachment to the past",
+      "family background"
+    ],
+    "emotions": "Nostalgic",
+    "fact": "visited past place",
+    "index": 2,
+    "message": "[2]: The user visited their mother`s old house and is feeling nostalgic about it.",
+    "raw_message": "Congrats! Last week I visited a place that holds a lot of memories for me. It was my mother`s old house.",
+    "reason": "the visit brings back fond memories",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "visiting the past",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "User is grieving",
+      "User values the memory"
+    ],
+    "emotions": "Sadness",
+    "fact": "Friend passed away",
+    "index": 4,
+    "message": "[4]: This user shares a final photo with her friend before she passes away.",
+    "raw_message": "It was full of memories, she passed away a few years ago. This is our last photo together. (image description: a photo of a woman in a wheelchair hugging a woman in a wheelchair)",
+    "reason": "The photo serves as a reminder of their friendship and shared memories.",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "death of a friend",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user miss his mom"
+    ],
+    "emotions": "Negative",
+    "fact": "sit in the house which belong of their own family",
+    "index": 6,
+    "message": "[6]: The user comes to sit in another's mom house sometimes to cope with missing her",
+    "raw_message": "My mom's house had a special bench near the window. She loved to sit there every morning and take in the view. I come to sit here sometimes, it helps me stay connected to her.",
+    "reason": "Missing her mom",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "missing parent",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user is interested in jewelry",
+      "The user wants conversation"
+    ],
+    "emotions": "Positive",
+    "fact": "The person mention a pendant and interested in hearing from you.",
+    "index": 8,
+    "message": "[8]: User inquires about someone else's jewelry, indicating interest.",
+    "raw_message": "Yes, I also have a pendant that reminds me of my mother. And what is special for you about your jewelry?",
+    "reason": "I am interested to hear the user's favorite jewelry.",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": " Jewelry",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "The author is trying to encourage or inspire"
+    ],
+    "emotions": "Positive",
+    "fact": "A statement that should motivate users",
+    "index": 10,
+    "message": "[10]: A motivational message about gaining strength and energy.",
+    "raw_message": "It should really give you strength and energy!",
+    "reason": "To give the user strength and energy",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "fitness motivation",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "community-oriented, caring towards others"
+    ],
+    "emotions": "Positive",
+    "fact": "teach yoga",
+    "index": 12,
+    "message": "[12]: The user is passionate about teaching yoga and supporting their community.",
+    "raw_message": "One of my goals is to keep teaching yoga and supporting my community. I'm passionate about helping people find peace and joy through it.",
+    "reason": "Supporting the community and helping people find peace and joy",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "yoga teaching",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "emotional response to yoga",
+      "values peace"
+    ],
+    "emotions": "Positive",
+    "fact": "user's current state is passionate about yoga",
+    "index": 14,
+    "message": "[14]: Yoga helped the user find peace during a rough time.",
+    "raw_message": "Yoga helped me find peace during a rough time, and now I'm passionate about sharing that with others.",
+    "reason": "\"finding peace\" implies the user experience positive emotions.",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "Yoga",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "Short message"
+    ],
+    "emotions": "Positive",
+    "fact": "The user can't stay",
+    "index": 16,
+    "message": "[16]: User is leaving.",
+    "raw_message": "Gotta run, bye!",
+    "reason": "Just the user wanna leave or have an early departure.",
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "going away",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "the user is experiencing grief",
+      "the user is trying to cope with their emotions through spending time with family"
+    ],
+    "emotions": "Negative",
+    "fact": "The user's dad passed away two days ago",
+    "index": 18,
+    "message": "[18]: The user reports the death of their father, which has been difficult for them and their family.",
+    "raw_message": "Hey Jolene, sorry to tell you this but my dad passed away two days ago. It's been really tough on us all - his sudden death left us all kinda shell-shocked. I'm trying to channel my grief by spending more time with family and cherishing the memories. These moments remind me to live life fully. (image description: a photo of a woman hugging a woman who is sitting on a couch)",
+    "reason": "His sudden death left the user and their family 'shell-shocked'",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "death",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "The user has a strong sense of family values",
+      "The user finds solace in looking at memories of their parents' wedding"
+    ],
+    "emotions": "Positive",
+    "fact": "family album",
+    "index": 20,
+    "message": "[20]: Looking at the family album brings comfort to the user.",
+    "raw_message": "Even though it's hard, it's comforting to look back on the great memories. We looked at the family album. Photos give me peace during difficult times. This is my parents' wedding in 1993. (image description: a photo of a bride and groom posing for a picture)",
+    "reason": "Looking back on great memories brings comfort",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "Family Album",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "The user seeks closeness and approval from them."
+    ],
+    "emotions": "Positive",
+    "fact": "They want to emulate their parents' family values",
+    "index": 22,
+    "message": "[22]: The users aspire to create a similar idealized family environment.",
+    "raw_message": "My husband and I are trying to be as good a family as my parents were!",
+    "reason": "They hope their parents' values of being a good family will be adopted",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "family values",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user relationship is long term"
+    ],
+    "emotions": "Positive",
+    "fact": "Received a love letter yesterday",
+    "index": 24,
+    "message": "[24]: A user received a love letter, describing their happy relationship.",
+    "raw_message": "It is love, and openness that have kept us close all these years. Being there for each other has made us both happy. Look what letter I received yesterday! (image description: a photo of a note written to someone on a piece of paper)",
+    "reason": "Love and openness in Relationship",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "Relationship Letter",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user is a passionate fan of yoga",
+      "user had positive influence on group members"
+    ],
+    "emotions": "Positive",
+    "fact": "Group members expressed their gratitude to the user.",
+    "index": 26,
+    "message": "[26]: The user received appreciation from group members for their positive influence in regards to yoga.",
+    "raw_message": "The group members sent this to me! They thanked me for the positive influence I had on them. Those moments remind me why I'm so passionate about yoga.",
+    "reason": "The group members appreciation and thanks make me feel positively about yoga",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "yoga",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "Location: unknown",
+      "Description given"
+    ],
+    "emotions": "Neutral/Matter-of-Fact",
+    "fact": "Describe the home environment",
+    "index": 28,
+    "message": "[28]: The user describes one of their places where they do something.",
+    "raw_message": "This is one of the places where I do it. (image description: a photo of a living room with a television and a window)",
+    "reason": "Description of a typical home environment",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "Home",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user has nostalgia for childhood",
+      "the user is sentimental about his mother"
+    ],
+    "emotions": "Positive",
+    "fact": "going there occasionally",
+    "index": 30,
+    "message": "[30]: The user visits their old home to find peace and connection to happy memories.",
+    "raw_message": "That's my old home. I go there now and then for my mom, who passed away. Sitting in that spot by the window gives me peace.",
+    "reason": "Visit old home to pay tribute and recall happy memories.",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "old home",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user is sentimental, the other person may have been present"
+    ],
+    "emotions": "Positive",
+    "fact": "the window offers a place to sit",
+    "index": 32,
+    "message": "[32]: The user feels comfort and presence from sitting in a specific room.",
+    "raw_message": "Yeah, it's special. I can feel her presence when I sit there and it comforts me. (image description: a photo of a window seat in a room with a window)",
+    "reason": "Physical space may help user connect wiith the absent person",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "feeling comfort and presence",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user love to read"
+    ],
+    "emotions": "Positive",
+    "fact": "Jolene reads every night, Jolene's favorite place in the house are her home",
+    "index": 34,
+    "message": "[34]: A photo description shows the sky from an airplane window while Jolene was reading.",
+    "raw_message": "Yeah, Jolene. She'd sit there every night with a book and a smile, reading was one of her hobbies. It was one of her favorite places in the house.  (image description: a photo of a view of the sky from an airplane window)",
+    "reason": "reading is one of Jolene's favorite hobbies",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "reading",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "user might be adventurous",
+      "user has a passion for travel"
+    ],
+    "emotions": "Positive",
+    "fact": "Travel is an important part of the user's life",
+    "index": 36,
+    "message": "[36]: The user has a great passion for travel.",
+    "raw_message": "Travel was also her great passion!",
+    "reason": "Travel is a significant aspect of the user's life",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "travel",
+    "user_id": "Deborah"
+  },
+  {
+    "attribue": [
+      "User enjoys experiencing joy from pet owner relationships"
+    ],
+    "emotions": "Positive",
+    "fact": "Having a pet",
+    "index": 38,
+    "message": "[38]: Having a pet brightens up your life.",
+    "raw_message": "Having a pet totally brightens up your life. It's great that it brings you comfort. Do you have any fun moments with your pet that you'd like to share?",
+    "reason": "The joy and comfort a pet provides",
+    "timestamp": "9:49 am on 27 January, 2023",
+    "topics": "having a pet",
+    "user_id": "Deborah"
+  }
+]
