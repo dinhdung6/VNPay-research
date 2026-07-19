@@ -2,31 +2,44 @@
     {
         "user_id": "Deborah",
         "raw_message": "Hey Jolene, nice to meet you! How's your week going? Anything fun happened?",
-        "message": "[0]: The user expresses positive interest in getting to know Jolene.",
-        "topics": "getting to know someone",
-        "emotions": "Positive",
-        "reason": "The person expresses positivity towards meeting Jolene.",
+        "message": "[0]: The user is friendly and want to meet new people.",
+        "topics": "Meeting a new person",
+        "emotions": "positive",
+        "reason": "Make friends or connect with others",
         "index": 0,
         "timestamp": "4:06 pm on 23 January, 2023",
-        "fact": "new acquaintance",
+        "fact": "made contact with jolene",
         "attribue": [
-            "user friendly",
-            "value building relationships"
+            "user like meeting people new"
         ]
     },
     {
         "user_id": "Deborah",
         "raw_message": "Congrats! Last week I visited a place that holds a lot of memories for me. It was my mother`s old house.",
-        "message": "[2]: The user visited their mother`s old house and is feeling nostalgic about it.",
-        "topics": "visiting the past",
-        "emotions": "Nostalgic",
-        "reason": "the visit brings back fond memories",
+        "message": "[2]: Congratulations! The user visited a place with fond memories, which sparks nostalgia towards their mother`s old house.",
+        "topics": "visiting old family home",
+        "emotions": "Positive:Nostalgic Affectionate",
+        "reason": "the user has fond memories of the place",
         "index": 2,
         "timestamp": "4:06 pm on 23 January, 2023",
-        "fact": "visited past place",
+        "fact": "last week's visit to the old family home",
         "attribue": [
-            "user has a significant attachment to the past",
-            "family background"
+            "user has strong emotional connection to their childhood"
+        ]
+    },
+    {
+        "user_id": "Deborah",
+        "raw_message": "It was full of memories, she passed away a few years ago. This is our last photo together. (image description: a photo of a woman in a wheelchair hugging a woman in a wheelchair)",
+        "message": "[4]: The user is sharing a heartwarming memory of her late aunt.",
+        "topics": "celebrate memory",
+        "emotions": "Sad",
+        "reason": "Remembering her after her passing",
+        "index": 4,
+        "timestamp": "4:06 pm on 23 January, 2023",
+        "fact": "She passed away a few years ago",
+        "attribue": [
+            "user expresss sympathy/compassion towards the deceased",
+            "relation: sister/woman in wheelchair"
         ]
     }
 ]

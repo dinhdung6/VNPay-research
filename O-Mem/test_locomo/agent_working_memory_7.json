@@ -1,115 +1,114 @@
 [
   {
     "attribue": [
-      "Deb, the user is a recent university graduate and finished an undergraduate program"
+      "User is good at managing time and work"
     ],
-    "emotions": "Positive",
-    "fact": "Finished electrical engineering project last week",
+    "emotions": "Positive regarding new social situation",
+    "fact": "Completed electrical project last week.",
     "index": 1,
-    "message": "[1]: User happily shares the completion of their recently finished project",
+    "message": "[1]: Deb, I'm glad we met. I had a busy week finishing an electrical engineering project and it's now complete.",
     "raw_message": "Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?",
-    "reason": "Finished project successfully after a lot of work",
+    "reason": "The positive attitude towards the new meeting was alleviated after a productive week.",
     "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "Completed Electrical Engineering Project",
+    "topics": "completed electrical engineering project",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user may be emotional or attached to a particular memory"
+      "The user is seeking answer or insight"
     ],
-    "emotions": "Curious",
-    "fact": "The user is ask someone to explain why a memory is sentimental.",
+    "emotions": "Open-ended and inquiring",
+    "fact": null,
     "index": 3,
-    "message": "[3]: The user wants to know why something holds special memories for them.",
+    "message": "[3]: The user is asking about the significance of special memories.",
     "raw_message": "Why does it hold such special memories for you?",
-    "reason": "The user seeking information about the source of their emotional connection with the subject.",
+    "reason": null,
+    "timestamp": "4:06 pm on 23 January, 2023",
+    "topics": "special memories",
+    "user_id": "Jolene"
+  },
+  {
+    "attribue": [
+      "user is empathetic",
+      "user has experienced a personal loss"
+    ],
+    "emotions": "Sympathetic",
+    "fact": "Deb recently lost a loved one",
+    "index": 5,
+    "message": "[5]: The user expresses sympathy towards Deb's recent loss and shares a fond memory of their own mother, inviting Deb to do the same.",
+    "raw_message": "Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember? (image description: a photo of a room with a bench and a window)",
+    "reason": "Share sympathy towards Deb's loss",
     "timestamp": "4:06 pm on 23 January, 2023",
     "topics": "memories",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user express sympathy towards Deb.",
-      "User still holds memories of his own mother"
+      "user's mother",
+      "location of gifting (Paris, 2010)"
     ],
-    "emotions": "Sorrowful",
-    "fact": "Deb's mother passed away last year",
-    "index": 5,
-    "message": "[5]: The user expresses condolences to Deb about her mother's passing and shares a sentimental memory in his late mother's room.",
-    "raw_message": "Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember? (image description: a photo of a room with a bench and a window)",
-    "reason": "The user is expressing condolences to Deb's loss of her mother",
-    "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "grief",
-    "user_id": "Jolene"
-  },
-  {
-    "attribue": [
-      "user likes sentimental gifts",
-      "user has lost a family member"
-    ],
-    "emotions": "Sentimental",
-    "fact": "The user gave away a pendant  in Paris in year 2022",
+    "emotions": "Reflective and Nostalgic",
+    "fact": "the user remembers their mother gave them a pendant",
     "index": 7,
-    "message": "[7]: The user wants to remember his deceased mother by gifting a pendant.",
+    "message": "[7]: The user is staying connected with the help of a remembrance token from their mother.",
     "raw_message": "Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris. (image description: a photo of a heart shaped pendant with a bird on it)",
-    "reason": "To remember her by giving a gift, possibly for deceased person or to celebrate a special occasion",
+    "reason": "Staying connected is super important, and remembering her helps to stay connected",
     "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "gifting",
+    "topics": "remembrance token",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user value motivation",
-      "user appreciate encouragement"
+      "user values motiviation."
     ],
     "emotions": "Positive",
-    "fact": "has a symbolic object",
+    "fact": "the user has a special symbol",
     "index": 9,
-    "message": "[9]: The user has a motivational object that represents freedom and encourages them to pursue their goals.",
+    "message": "[9]: A special symbol holds symbolic significance and serves as a reminder for goal-setters.",
     "raw_message": "It has a special symbol on it that represents freedom for me. It's a nice reminder to go for my goals and not get held back.",
-    "reason": "The special symbol represent freedom of mind",
+    "reason": "The symbol reminds the user of freedom and motivation.",
     "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "motivational object",
+    "topics": "symbol",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "Author asks questions, possibly about personal development or aspirations"
+      "user want to know about person's life"
     ],
-    "emotions": "Neutral/Mixed",
-    "fact": "User inquires about goals",
+    "emotions": "Inquisitive",
+    "fact": "user ask about goals",
     "index": 11,
-    "message": "[11]: The user is seeking information about goals.",
+    "message": "[11]: The user asks about someone's personal goals.",
     "raw_message": "Do you have goals?",
-    "reason": "Maybe the author is seeking information about goals or wants to know if others have set goals",
+    "reason": "The user is inquirying about someone's personal development",
     "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "Goals",
+    "topics": "personal goals",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user is inquisitive"
+      "User unsure about the path"
     ],
-    "emotions": "Mixed",
-    "fact": "user ask about inspiration",
+    "emotions": "Neutral",
+    "fact": "user ask for inspiration",
     "index": 13,
-    "message": "[13]: User asks about what motivated them.",
+    "message": "[13]: The user asks what inspired them to take a certain path.",
     "raw_message": "What inspired you to go down this route?",
-    "reason": "The user wants motivation",
+    "reason": "The user is seeking inspiration or clarification",
     "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "motivation",
+    "topics": "path taken by someone",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "author is very positive and appreciate things."
+      "User expresss their positive emotion"
     ],
     "emotions": "Positive",
-    "fact": "Some inspiration found in life",
+    "fact": "",
     "index": 15,
-    "message": "[15]: The author expresses admiration for inspiration.",
+    "message": "[15]: The user expresses their inspiration, indicating a positive attitude towards it.",
     "raw_message": "It is truly inspiring!",
-    "reason": "The author appreciates the inspirational nature of something. Sometimes, the text may have some indirect clues about specific subject",
+    "reason": "The user finds the subject inspiring",
     "timestamp": "4:06 pm on 23 January, 2023",
     "topics": "Inspiration",
     "user_id": "Jolene"
@@ -117,150 +116,149 @@
   {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "next appointment is today,",
+    "fact": "look forward to the next chat",
     "index": 17,
-    "message": "[17]: The user is looking forward to their next chat.",
+    "message": "[17]: The user looks forward to the next conversation.",
     "raw_message": "Looking forward to the next chat!",
-    "reason": "The user looks forward to chatting again",
+    "reason": "Excitment or eagerness for the conversation",
     "timestamp": "4:06 pm on 23 January, 2023",
-    "topics": "next chat",
+    "topics": "Next Conversation",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "User feel sympathy towards the message"
+      "Author is concerned for the user's well-being"
     ],
     "emotions": "Sympathetic",
-    "fact": "Daborah's dad died",
+    "fact": "Losing a parent",
     "index": 19,
-    "message": "[19]:  Deabrhub is being sympathized by others.",
+    "message": "[19]: The author expresses sympathy towards the user who has lost their dad.",
     "raw_message": "Sorry to hear about your dad, Deborah. Losing a parent is tough - how's it going for you and your family?",
-    "reason": "Deborah has experience dealing with pain of losing loved one.",
+    "reason": "Supporting someone who has lost a parent",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "Saying goodbye",
+    "topics": "death of a parent",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "User admires physical attractiveness"
+      "The people are famous"
     ],
-    "emotions": "Mixed",
-    "fact": "A couple was described as beautiful",
+    "emotions": "Positive",
+    "fact": "They are celebrities",
     "index": 21,
-    "message": "[21]: The user describes a couple in a positive manner.",
+    "message": "[21]: This message is describing two celebrities as a beautiful couple.",
     "raw_message": "They were a beautiful couple!",
-    "reason": "The description implies admiration and appreciation for the couple",
+    "reason": "Describe them as a beautiful couple",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "beautiful couple",
+    "topics": "Celebrities news",
     "user_id": "Jolene"
   },
   {
     "attribue": [],
-    "emotions": "Open",
-    "fact": "the user wants to know what the other has value in the life partnership",
+    "emotions": "Neutral or Open-ended",
+    "fact": "The user is asking about the values of another person",
     "index": 23,
-    "message": "[23]: The user seeks to understand what values their partner holds in the relationship.",
+    "message": "[23]: The user is asking about the other person's values in a relationship",
     "raw_message": "What do you value in your relationship?",
-    "reason": "Seeking understanding and values of another person",
+    "reason": "The user is seeking to understand the other person's values in a relationship",
     "timestamp": "9:49 am on 27 January, 2023",
     "topics": "relationship",
     "user_id": "Jolene"
   },
   {
-    "attribue": [
-      "Recipient might be surprised, eager to learn about the sender"
-    ],
+    "attribue": [],
     "emotions": "Positive",
-    "fact": "read a letter that conveys touching words",
+    "fact": "found a letter",
     "index": 25,
-    "message": "[25]: The recipient is positively impressed by the letter and curious to know its author",
+    "message": "[25]: A user finds a letter with touching words, expressing curiosity about the sender's identity.",
     "raw_message": "What touching words! Who is this letter from?",
-    "reason": "The letter conveys a sense of sincerity and affection.",
+    "reason": "The recipient expresses appreciation (touching words)",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "letter",
+    "topics": "letter or card",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user curious"
+      "user's interest in yoga"
     ],
-    "emotions": "Mixed",
-    "fact": "",
+    "emotions": "Open/Inquisitive",
+    "fact": "Where does the user usually do yoga?",
     "index": 27,
-    "message": "[27]: User asks about common places where people do yoga.",
+    "message": "[27]: The user is asking where they most often do yoga.",
     "raw_message": "Where do you most often do yoga?",
-    "reason": "The user is questioning about people's yoga habits.",
+    "reason": "Curious about the user's yoga habits",
     "timestamp": "9:49 am on 27 January, 2023",
     "topics": "yoga practice",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user seek information"
+      "user doesn't show any preference or emotion"
     ],
-    "emotions": "Curious",
-    "fact": "user ask location",
+    "emotions": "Neutral or Unclear",
+    "fact": "querying a location",
     "index": 29,
-    "message": "[29]: The user asks where something or someone is.",
+    "message": "[29]: User is asking where it is.",
     "raw_message": "Where is it?",
-    "reason": "",
+    "reason": "The user seems to be seeking information about a location",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "Location query",
+    "topics": "Location",
     "user_id": "Jolene"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "The user might be romantic or idealistic towards finding deep connections."
+    ],
     "emotions": "Positive",
-    "fact": "a place",
+    "fact": "She might have had a feeling of being connected to whom she speaks with it ",
     "index": 31,
-    "message": "[31]: Having a place where one feels connected to someone is a positive experience.",
+    "message": "[31]: It should be great for her",
     "raw_message": "Must be great to have that place where you feel connected to her.",
-    "reason": "A place where one can feel connected to someone who will always be present.",
+    "reason": "Connection is key to a good experience. For the person, who feel connectetion on that platfomr",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "having a place",
+    "topics": "feeling connected with someone",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user ask questions about sentimental value"
+      "user wants to know"
     ],
-    "emotions": "Inquired",
-    "fact": "sentimental value",
+    "emotions": "Curious or Interested",
+    "fact": "bring back special memories",
     "index": 33,
-    "message": "[33]: The user is inquiring about the sentimental value of a place.",
+    "message": "[33]: The user asks if a certain spot holds sentimental value.",
     "raw_message": "Wow, it sounds like that spot holds a lot of sentimental value. Does it bring back any special memories?",
-    "reason": "The user asks if the location holds special memories",
+    "reason": "The user inquires about the sentimental value of a place.",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "nostalgic place",
+    "topics": " Sentimental Memories",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user curious about family"
+      "user's curiosity"
     ],
-    "emotions": "Inquisitive",
-    "fact": "query about Mother's hobbies",
+    "emotions": "Inquiring",
+    "fact": "the mother's hobbies",
     "index": 35,
-    "message": "[35]: The user is inquiring about their mother's hobbies.",
+    "message": "[35]: The user is asking about the mother's hobbies.",
     "raw_message": "What other hobbies did your mother have?",
-    "reason": "The user wants to know about their mother's hobbies",
+    "reason": "The user is seeking information about their mother's hobbies",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "Mother's Hobbies",
+    "topics": "hobbies of a family member",
     "user_id": "Jolene"
   },
   {
     "attribue": [
-      "user enjoys animal ownership",
-      "user finds peace in nature"
+      "user enjoy having reptile pets"
     ],
     "emotions": "Positive",
-    "fact": "own a snake",
+    "fact": "the user has a snake",
     "index": 37,
-    "message": "[37]: The user wants to share their snake, Susie, which brings them happiness and calmness.",
+    "message": "[37]: The user wants to show off their pet snake, which brings them happiness.",
     "raw_message": "I want to show you one of my snakes! They always calm me down and make me happy. This is Susie. (image description: a photo of a bed with a snake head sticking out of it)",
-    "reason": "Having snakes helps to reduce stress and increase happiness for the owner",
+    "reason": "Pet helps me relax",
     "timestamp": "9:49 am on 27 January, 2023",
-    "topics": "snake ownership",
+    "topics": "showing off pets",
     "user_id": "Jolene"
   }
 ]

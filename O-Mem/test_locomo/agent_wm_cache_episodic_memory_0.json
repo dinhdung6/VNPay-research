@@ -1,43 +1,16 @@
 [
     {
         "user_id": "Melanie",
-        "raw_message": "Wow, that's cool, Caroline! What happened that was so awesome? Did you hear any inspiring stories?",
-        "message": "[3]: The user asks Caroline to share inspiring stories.",
-        "topics": "share inspiring story",
-        "emotions": "Enthuasistic",
-        "reason": "The user want to hear what happened.",
-        "index": 3,
+        "raw_message": "Wow, Caroline! What kinda jobs are you thinkin' of? Anything that stands out?",
+        "message": "[9]: User is asking Caroline about her job preferences.",
+        "topics": "Job Searching",
+        "emotions": "curious",
+        "reason": "Showing interest in finding new jobs",
+        "index": 9,
         "timestamp": "1:56 pm on 8 May, 2023",
-        "fact": "user talk about something awesome",
+        "fact": "Caroline was asked about job preference",
         "attribue": [
-            "Caroline's personality: Enthusiastic and Confident"
+            "user is open to consider new jobs"
         ]
-    },
-    {
-        "user_id": "Melanie",
-        "raw_message": "Wow, love that painting! So cool you found such a helpful group. What's it done for you?",
-        "message": "[5]: The user loves art exhibition and found a helpful group.",
-        "topics": "art exhibition",
-        "emotions": "Positive",
-        "reason": "the artist and the facilitation of a helping community are well presented.",
-        "index": 5,
-        "timestamp": "1:56 pm on 8 May, 2023",
-        "fact": "visited an art exhibition",
-        "attribue": [
-            "user likes painting",
-            "user appreciates helpfulness"
-        ]
-    },
-    {
-        "user_id": "Melanie",
-        "raw_message": "That's really cool. You've got guts. What now?",
-        "message": "[7]: The user is expressing encouragement and support for someone.",
-        "topics": "support for someone",
-        "emotions": "Positive",
-        "reason": "The writer is trying to boost the person's confidence",
-        "index": 7,
-        "timestamp": "1:56 pm on 8 May, 2023",
-        "fact": "The person has shown courage",
-        "attribue": []
     }
 ]

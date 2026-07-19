@@ -1,113 +1,112 @@
 [
   {
     "attribue": [
-      "user greet Joanna"
+      "user value friendship"
     ],
-    "emotions": "positive-neutral: Mixed, not interested in specific activities",
-    "fact": "Joanna hasn't been seen for a long tim",
+    "emotions": "positive",
+    "fact": "Joanna is a friend of the user. The user haven't seen her for a long time.",
     "index": 0,
-    "message": "[0]: The user is catching up with Joanna and seems to be looking forward to it.",
+    "message": "[0]: The user are looking forward to catching up with Joanna.",
     "raw_message": "Hey Joanna! Long time no see! What's up? Anything fun going on?",
-    "reason": "Not specifying any particular thing",
+    "reason": "The friend wants to know what's new in the other person's life",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "Catch-up with Joanna",
+    "topics": "catching up with friends",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "user is young"
+      "user's feelings are Happy & Excited"
     ],
     "emotions": "Positive",
-    "fact": "win video game tournament last week",
+    "fact": "I won a video game tournament",
     "index": 2,
-    "message": "[2]: Joanna congratulates the user on winning a video game tournament.",
+    "message": "[2]: The user is excited after winning their first video game tournament.",
     "raw_message": "Hey Joanna! That's cool! I won my first video game tournament last week - so exciting!",
-    "reason": "The user wins an event because the video game tournaments is so exciting.",
+    "reason": "It was a positive experience for playing the games",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "winning a video game tournament",
+    "topics": "winning the video game tournament",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "User express thankfulness"
+      "user appreciation for gaming"
     ],
     "emotions": "Positive",
-    "fact": "video game",
+    "fact": "team shooter game",
     "index": 4,
-    "message": "[4]: The user expresses gratitude for a team shooter video game.",
+    "message": "[4]: The user appreciates team shooter game.",
     "raw_message": "Thanks! it's a team shooter game.",
-    "reason": "The user is grateful and appreciative of the experience.",
+    "reason": "",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "video game",
+    "topics": "video games",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "user enjoys gaming"
+      "Team player, enjoyed gaming experiences"
     ],
     "emotions": "Positive",
-    "fact": "played game",
+    "fact": "played a game of Counter-Strike: Global Offensive",
     "index": 6,
-    "message": "[6]: The user and their team had a great experience playing the game.",
+    "message": "[6]: The user enjoyed their game experience with their team.",
     "raw_message": "The game was called Counter-Strike: Global Offensive, and me and my team had a blast to the very end!",
-    "reason": "The game provided an enjoyable experience",
+    "reason": "Enjoyed playing with my team",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "gaming experience",
+    "topics": "game experience",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "User value the interaction"
+      "user may have multiple hobbies"
     ],
-    "emotions": "Positive",
-    "fact": "user ask if other person has hobby",
+    "emotions": "Neutral/Mixed",
+    "fact": "user is asking about hobby",
     "index": 8,
-    "message": "[8]: The user asks about someone's hobbies.",
+    "message": "[8]: The user asks about someone else's hobbies.",
     "raw_message": "It was! How about you? Do you have any hobbies you love?",
-    "reason": " ",
-    "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "Hobbies or interests",
-    "user_id": "Nate"
-  },
-  {
-    "attribue": [
-      "Enthusiastic about hobbies",
-      "Pensioner"
-    ],
-    "emotions": "Positive",
-    "fact": "Video Games",
-    "index": 10,
-    "message": "[10]: The user likes playing video games and watching movies as their main hobby.",
-    "raw_message": "Playing video games and watching movies are my main hobbies.",
-    "reason": "Enjoying gaming and viewing as pastimes",
+    "reason": "The user is inquiring about the other person's hobbies",
     "timestamp": "7:31 pm on 21 January, 2022",
     "topics": "Hobbies",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "Love action, sci-fi fan"
+      "Demographic information not mentioned"
     ],
-    "emotions": "Positive",
-    "fact": "Like action and sci-fi movies",
-    "index": 12,
-    "message": "[12]: The user loves action and sci-fi movies.",
-    "raw_message": "I love action and sci-fi movies, the effects are so cool! What about you, what's your favorite genre?",
-    "reason": "The effects in action and sci-fi movies are loved by the user.",
+    "emotions": "Neutral",
+    "fact": "Main hobbies: playing video games, watching movies",
+    "index": 10,
+    "message": "[10]: The user's main hobbies are playing video games and watching movies.",
+    "raw_message": "Playing video games and watching movies are my main hobbies.",
+    "reason": "None mentioned",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "Favorite movies genre",
+    "topics": "Hobbies",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "user is interested in cinema"
+      "user loves film genres"
     ],
     "emotions": "Positive",
-    "fact": "looking for a recommendation",
+    "fact": "watch action and sci-fi movies",
+    "index": 12,
+    "message": "[12]: The user expresses love for action and sci-fi movies.",
+    "raw_message": "I love action and sci-fi movies, the effects are so cool! What about you, what's your favorite genre?",
+    "reason": "love action and sci-fi movies",
+    "timestamp": "7:31 pm on 21 January, 2022",
+    "topics": "movies",
+    "user_id": "Nate"
+  },
+  {
+    "attribue": [
+      "user seeks feedback, likely movie enthusiast"
+    ],
+    "emotions": "Positive",
+    "fact": "user thinks movies are powerful",
     "index": 14,
-    "message": "[14]: The user is looking for a movie recommendation.",
+    "message": "[14]: The user mentions the power of movies.",
     "raw_message": "Wow, movies can be so powerful! Do you have any recommendations for me?",
-    "reason": "Find new movie recs",
+    "reason": "The user suggests that movies are emotionally impactful",
     "timestamp": "7:31 pm on 21 January, 2022",
     "topics": "movies",
     "user_id": "Nate"
@@ -115,155 +114,149 @@
   {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "love watching movies/clasisic movie",
+    "fact": "watching classic movies/movies sometime",
     "index": 16,
-    "message": "[16]: User expresses interest in watching a classic video clip.",
+    "message": "[16]: The user expresses excitement about watching classic movies.",
     "raw_message": "Oh cool! I might check that one out some time soon! I do love watching classics.",
-    "reason": "Love watching Classics.",
+    "reason": "Love for watching classic flicks",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "watching movies/video clus",
-    "user_id": "Nate"
-  },
-  {
-    "attribue": [
-      "user is interested",
-      "user admire others's view"
-    ],
-    "emotions": "Positive",
-    "fact": "user asking if other has seen the movie",
-    "index": 18,
-    "message": "[18]: The user expresses positive interest in a film analysis.",
-    "raw_message": "Sounds cool! Have you seen it a lot? sounds like you know the movie well!",
-    "reason": "The user seems to be discussing their knowledge of and enthusiasm for the subject with admiration.",
-    "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "movie",
-    "user_id": "Nate"
-  },
-  {
-    "attribue": [
-      "user appreciate recommendations",
-      "user seem enthusiastic"
-    ],
-    "emotions": "Positive",
-    "fact": "user express gratitude towards the recommender",
-    "index": 20,
-    "message": "[20]: The user expresses enthusiasm and gratitude towards a recommendation.",
-    "raw_message": "Cool! I'll definitely check it out. Thanks for the recommendation!",
-    "reason": "The user is grateful and eager to check out the recommended item",
-    "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "movie/book/recommendation",
-    "user_id": "Nate"
-  },
-  {
-    "attribue": [
-      "Recipient has a busy schedule at work."
-    ],
-    "emotions": "Positive",
-    "fact": "the two friends have not met for a while,",
-    "index": 23,
-    "message": "[23]: The speaker is excited and wants to catch up with their friend who they haven",
-    "raw_message": "Hi Joanna! Long time no see! What's been going on? You sound excited!",
-    "reason": "The speaker wants to know about the recipient's life after a long time",
-    "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "catching up with friend",
-    "user_id": "Nate"
-  },
-  {
-    "attribue": [
-      "User expresses enthusiasm"
-    ],
-    "emotions": "Positive",
-    "fact": "Happier upon hearing",
-    "index": 25,
-    "message": "[25]: The user expressed excitement and anticipation about something.",
-    "raw_message": "Wow, that sounds awesome! What's it about? Glad it's all down!",
-    "reason": "Excited reaction",
-    "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "It",
+    "topics": "movies/ films classics",
     "user_id": "Nate"
   },
   {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "project is finished",
+    "fact": "The user show excitement for the topic",
+    "index": 18,
+    "message": "[18]: The user thinks it sounds good but wants to know if the target has seen or knows its details.",
+    "raw_message": "Sounds cool! Have you seen it a lot? sounds like you know the movie well!",
+    "reason": "The user think it sound cool and is asking has you know well.",
+    "timestamp": "7:31 pm on 21 January, 2022",
+    "topics": "Has seen the movie",
+    "user_id": "Nate"
+  },
+  {
+    "attribue": [],
+    "emotions": "Positive",
+    "fact": "user will check and recmmend",
+    "index": 20,
+    "message": "[20]: The user expresses gratitude towards a music recommendation.",
+    "raw_message": "Cool! I'll definitely check it out. Thanks for the recommendation!",
+    "reason": "For the recomemdation",
+    "timestamp": "7:31 pm on 21 January, 2022",
+    "topics": "recommened",
+    "user_id": "Nate"
+  },
+  {
+    "attribue": [
+      "user value friendships"
+    ],
+    "emotions": "Positive",
+    "fact": "catching up with Joanna",
+    "index": 23,
+    "message": "[23]: The user is catching up with an old friend.",
+    "raw_message": "Hi Joanna! Long time no see! What's been going on? You sound excited!",
+    "reason": "The user wants to reconnect and show interest in the other person's life.",
+    "timestamp": "2:01 pm on 23 January, 2022",
+    "topics": "catching up with a friend",
+    "user_id": "Nate"
+  },
+  {
+    "attribue": [
+      "user is impatient,excited and satisfied with result"
+    ],
+    "emotions": "Positive",
+    "fact": "Glad it's all down,that sounds awesome!",
+    "index": 25,
+    "message": "[25]: The user is pleased and satisfied with the current state of affairs.",
+    "raw_message": "Wow, that sounds awesome! What's it about? Glad it's all down!",
+    "reason": "The user is excited and relieved that something is done or completed.",
+    "timestamp": "2:01 pm on 23 January, 2022",
+    "topics": "Good News",
+    "user_id": "Nate"
+  },
+  {
+    "attribue": [
+      "user appreciate completion but not planing anything now"
+    ],
+    "emotions": "Mixed: Positive towards the completion, but uncertain about the next steps",
+    "fact": "feelings after finishing the task",
     "index": 27,
-    "message": "[27]: The user is positive about the project completion.",
+    "message": "[27]: The user feels relieved after finishing a task.",
     "raw_message": "Wow, that's amazing! How do you feel now that it's finished? Do you have any new plans for it?",
-    "reason": "You like the completed project",
+    "reason": "The person feels relieved after completing their work",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "completion of a project",
+    "topics": "new completion",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "user seems joyous when giving congratulation"
+      "user happy to hear good news",
+      "Concert Enthusiast"
     ],
     "emotions": "Positive",
-    "fact": "user mention Joanna's name",
+    "fact": "Joanna had exciting time at the festival",
     "index": 29,
-    "message": "[29]: Joanna experiences something wild, but the user is overwhelmingly positive about it.",
+    "message": "[29]: The user congratulates Joanna on a wild concert experience.",
     "raw_message": "Congrats, Joanna! That sounds like a wild experience. Rock on and I hope they love it!",
-    "reason": "The user is happy for her and enjoys the music experience.",
+    "reason": "The user is supportive and enthusiastic about Joanna's concert experience",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "Joanna's Wild Experience",
+    "topics": "Joanna's Concert Experience",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "user likes to have pet with you"
+      "user value stress relief",
+      "user likes having pet"
     ],
     "emotions": "Positive",
-    "fact": "User like having pets",
+    "fact": "the user have some turtle,",
     "index": 31,
-    "message": "[31]: The user likes having pets around.",
+    "message": "[31]: The user appreciates the calming presence of turtles in their life.",
     "raw_message": "Yeah, for sure. Hoping for the best! I like having some of these little ones around to keep me calm when things are super important and I'm nervous. (image description: a photography of a turtle and a turtleling sitting on a rock)",
-    "reason": "Keep me calm",
+    "reason": "The turtles help keep me calm in stressful situations",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "having pets",
+    "topics": "having turtles as pets",
     "user_id": "Nate"
   },
   {
-    "attribue": [
-      "user value possessions in general"
-    ],
+    "attribue": [],
     "emotions": "Positive",
-    "fact": "possession lasted 3 years",
+    "fact": "Owner has dog for 3 years",
     "index": 33,
-    "message": "[33]: The user expresses happiness with their possessions after owning them for three years.",
+    "message": "[33]: The user owns dog for 3 years and is very happy with it.",
     "raw_message": "I've had them for 3 years now and they bring me tons of joy!",
-    "reason": "They provide constant joy to the user",
+    "reason": "Tons of joy from owning dog",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "possessions",
+    "topics": "dog",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "User prefers low-stress activities",
-      "user likes pets like turtles ",
-      "value stress relief"
+      "user recommend low-stress pets"
     ],
     "emotions": "Positive",
-    "fact": "recommend using turtles as therapy",
+    "fact": "the turtle has big personalities",
     "index": 35,
-    "message": "[35]: Jogging can help the user manage stress with the help of therapy animals.",
+    "message": "[35]: The user recommends having turtles as a stress relief measure.",
     "raw_message": "Thanks! The turtles might be small, but both sure have big personalities. I really reccomend having something like these little guys for times of stress.",
-    "reason": "The turtles can provide a soothing and calming environment for the user to manage stress.",
+    "reason": "A recommended use of the turtles",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "using turtles for therapy",
+    "topics": "turtles",
     "user_id": "Nate"
   },
   {
     "attribue": [
-      "user expands their social circle"
+      "user opens up to people"
     ],
     "emotions": "Positive",
-    "fact": "start hanging out",
+    "fact": "Meet new people outside the circle",
     "index": 37,
-    "message": "[37]: The user starts hanging out with new people at a tournament and finds them to be cool.",
+    "message": "[37]: The user met new people at the tennis tournament and had a positive experience.",
     "raw_message": "Yeah actually! I start to hang out with some people outside of my circle at the tournament. They're pretty cool!",
-    "reason": "They are cool, they make me hang out",
+    "reason": "Feeling connected with others during the tournament",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "hanging out at a tournament",
+    "topics": "social interaction",
     "user_id": "Nate"
   }
 ]

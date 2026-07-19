@@ -2,45 +2,45 @@
     {
         "user_id": "Calvin",
         "raw_message": "Hey Dave! Nice to meet you! How's it going since we talked?",
-        "message": "[0]: The user sends a greeting and inquires about the conversation that took place.",
-        "topics": "greeting",
+        "message": "[0]: The user expresses a positive attitude towards meeting and greets Dave, showing curiosity about his well-being.",
+        "topics": "Meet and Greet",
         "emotions": "Positive",
-        "reason": "Familiarity and friendly demeanor",
+        "reason": "To get to know each other better",
         "index": 0,
         "timestamp": "11:53 am on 23 March, 2023",
-        "fact": "we talked",
+        "fact": "Met Dave previously",
         "attribue": [
-            "user's age: likely young adult",
-            " user's name: Dave"
+            " user is friendly",
+            "user is interested in getting to know others"
         ]
     },
     {
         "user_id": "Calvin",
         "raw_message": "That event sounds great! Something really exciting happened to me - I just had a big life change! Here's my new mansion - pretty cool huh? (image description: a photo of a building with a sign on the front of it)",
-        "message": "[2]: The user is excited about their recent big life change and new home.",
-        "topics": "New Mansion",
+        "message": "[2]: The user's excitement about a recent life-changing event.",
+        "topics": "move into new hous",
         "emotions": "Positive",
-        "reason": "The user finds their new life change exciting and enjoys sharing the experience.",
+        "reason": "Something really exciting and big happened to me",
         "index": 2,
         "timestamp": "11:53 am on 23 March, 2023",
-        "fact": "user just had big life change",
+        "fact": "user just had a big life change",
         "attribue": [
-            "user value material possessions",
-            "user's personal achievement"
+            "user seems excited about their new home"
         ]
     },
     {
         "user_id": "Calvin",
-        "raw_message": "Never been there before. Fascinated by the traditions and can't wait to get a taste of the culture.",
-        "message": "[6]: The user is excited to visit the new place due to its traditions.",
-        "topics": "traveling to a new place",
+        "raw_message": "I'm so excited to learn about Japanese culture and get a chance to expand.",
+        "message": "[4]: The user expresses enthusiasm for learning Japanese culture and expanding their knowledge.",
+        "topics": "learning about Japanese culture",
         "emotions": "Positive",
-        "reason": "traditions and culture attract their attention",
-        "index": 6,
+        "reason": "The user is positive towards learning Japanese Culture",
+        "index": 4,
         "timestamp": "11:53 am on 23 March, 2023",
-        "fact": "the user is visiting a new destination",
+        "fact": "get a chance to expand",
         "attribue": [
-            "user curious about foreign customs"
+            "user excited",
+            "user looking forward"
         ]
     }
 ]

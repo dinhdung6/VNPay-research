@@ -1,16 +1,57 @@
 [
     {
         "user_id": "Tim",
-        "raw_message": "Hey John! Great to meet you. Been discussing collaborations for a Harry Potter fan project I am working on - super excited! Anything interesting happening for you?",
-        "message": "[1]: John has discussed collaboration for a Harry Potter fan project.",
-        "topics": "collaboration discussion",
+        "raw_message": "Woohoo! Congrats on the new team. Which team did you sign with?",
+        "message": "[3]: The user congratulates someone on their new sports team.",
+        "topics": "new basketball team",
         "emotions": "Positive",
-        "reason": "Working collaboratively",
-        "index": 1,
+        "reason": "Want to know which new team the person signed with",
+        "index": 3,
         "timestamp": "7:48 pm on 21 May, 2023",
-        "fact": "have discussed collaborative ideas",
+        "fact": "New basketball team created",
         "attribue": [
-            "John is enthusiastic"
+            "user celebratory tone"
         ]
+    },
+    {
+        "user_id": "Tim",
+        "raw_message": "Cool! What position are you playing for the team? Any exciting games coming up?",
+        "message": "[5]: A user asks about someone's position on a team and any upcoming exciting games.",
+        "topics": "ask about sports game",
+        "emotions": "Positive Curious",
+        "reason": "The user is asking about someone's sport career. The tone of the message suggests curiosity and positivity towards the topic",
+        "index": 5,
+        "timestamp": "7:48 pm on 21 May, 2023",
+        "fact": "the person plays sports",
+        "attribue": [
+            "user is a coach or interested in sports",
+            "the user is enthusiastic"
+        ]
+    },
+    {
+        "user_id": "Tim",
+        "raw_message": "Cool! Have any goals in mind? (image description: a photo of a basketball game in progress with the ball in the air)",
+        "message": "[7]: The user discusses basketbae plan in a positive tone",
+        "topics": "basketball plan",
+        "emotions": "Positive",
+        "reason": "The speaker seems enthusiastic about setting a goal.",
+        "index": 7,
+        "timestamp": "7:48 pm on 21 May, 2023",
+        "fact": "The speaker's enthusiasm regarding basketball plans",
+        "attribue": [
+            "user seem to want discuss basketball"
+        ]
+    },
+    {
+        "user_id": "Tim",
+        "raw_message": "Sounds good! What challenges have you encountered during your pre-season training?",
+        "message": "[9]: The user is curious about others' experiences with pre-season training.",
+        "topics": "pre-season training",
+        "emotions": "Curious",
+        "reason": "Wanted to know about others' challenges",
+        "index": 9,
+        "timestamp": "7:48 pm on 21 May, 2023",
+        "fact": "encountered challenges during pre-seassom training",
+        "attribue": []
     }
 ]

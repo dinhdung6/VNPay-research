@@ -1,290 +1,290 @@
 [
   {
     "attribue": [
-      "user looks for connection"
+      "User enjoys socializing, User values relationships"
     ],
-    "emotions": "Positive",
-    "fact": "Hello to John",
+    "emotions": "Positive and Informative",
+    "fact": "The user had not been in contact with John for a long time",
     "index": 0,
-    "message": "[0]: The user expresses a positive attitude towards catching up with John after a long time.",
+    "message": "[0]: The user reaches out to catch up with John after a long time.",
     "raw_message": "Hey John! Long time no see! What's up?",
-    "reason": "The user is positive towards catching up and expressing friendly sentiment.",
+    "reason": "The user is expressing excitement to reconnect with John.",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "catching up after a long time",
-    "user_id": "Maria"
-  },
-  {
-    "attribue": {
-      "fit and healthy person , positive on aerobatics ": false,
-      "fitness motivation": true,
-      "homeless shelter": true,
-      "stressed about doing exercise ": false,
-      "volunteering": true
-    },
-    "emotions": "Positive",
-    "fact": "user has been volunteering at homeless shelter",
-    "index": 2,
-    "message": "[2]: The user is sharing their experience with workout classes they've recently tried.",
-    "raw_message": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
-    "reason": "It is simply because of its awesome reviews",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "Workout Classes",
+    "topics": "catching up with John",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "John's hobby"
+      "user is motivated by personal growth",
+      "user volunteers"
     ],
     "emotions": "Positive",
-    "fact": "stay in shape",
+    "fact": "volunteer at homeless shelter",
+    "index": 2,
+    "message": "[2]: The user has been keeping fit and enjoyed starting aerial yoga, but also inquires about other workout classes.",
+    "raw_message": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+    "reason": "the benefits of volunteering and exercising",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "aerial yoga",
+    "user_id": "Maria"
+  },
+  {
+    "attribue": [
+      "user focus on relaxation and goal setting"
+    ],
+    "emotions": "Positive",
+    "fact": "goal for de-stressing",
     "index": 4,
-    "message": "[4]: Kickboxing is a popular activity for staying fit and reducing stress, according to John.",
+    "message": "[4]: John said that kickboxing is a great way for de-stressing.",
     "raw_message": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
-    "reason": "It helps with staying in shape and de-stressing",
+    "reason": "Kickboxing can be very relaxing, according to John.",
     "timestamp": "11:01 am on 17 December, 2022",
     "topics": "kickboxing",
     "user_id": "Maria"
   },
   {
-    "attribue": [
-      "The user is someone helping their colleague"
-    ],
+    "attribue": {
+      "sentiment": "enthusiastic and encouraging",
+      "user": "John"
+    },
     "emotions": "Positive",
-    "fact": "John need help,",
+    "fact": "",
     "index": 6,
-    "message": "[6]: The user expresses enthusiasm and offers to help John with his project.",
+    "message": "[6]: 'That's awesome!' expresses positive sentiments towards something, followed by asking for areas to discuss.",
     "raw_message": "Woohoo, John! That's awesome! Any specific areas you want to tackle?",
-    "reason": "Express encouragement and willingness to help",
+    "reason": "Expresss enthusiasm",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "help with project",
+    "topics": {
+      "event": "praise"
+    },
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user asks questions, shows interest"
+      "user curious about john's interest"
     ],
-    "emotions": "positive",
-    "fact": null,
+    "emotions": "Positive",
+    "fact": "discussing topic",
     "index": 8,
-    "message": "[8]: The user expressed positive interest and curiosity towards the topic, asking John what got him interested.",
+    "message": "[8]: The user is interested in knowing what sparked John's interest.",
     "raw_message": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?",
-    "reason": "The user want to know more about the topic",
+    "reason": "User want to know how John get intrested",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "interest in topics",
+    "topics": "Interest discussion",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user is curious",
-      "user expects positive change"
+      "Author is positive about the school",
+      "Author acknowledges the importance of funding"
     ],
     "emotions": "Positive",
-    "fact": "extra funding",
+    "fact": null,
     "index": 10,
-    "message": "[10]: Extra funding will help with building the school.",
+    "message": "[10]: The author is inquiring about the impact of extra funding on building the school.",
     "raw_message": "Looks good! How did the extra funding help with building the school?",
-    "reason": "It is good to learn about extra funding for construction.",
+    "reason": "The author is inquiring about the impact of extra funding on the project.",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "Extra Funding for School Construction",
+    "topics": "school construction",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user value education",
-      "John's involvement in the movement"
+      "John involved"
     ],
     "emotions": "Positive",
-    "fact": "involvement in politics",
+    "fact": "politicians role in improving school",
     "index": 12,
-    "message": "[12]: The user is positive about John's involvement in politics.",
+    "message": "[12]: The user expresses admiration and appreciation for John's involvement in politics.",
     "raw_message": "Wow John, it really made a difference for schools and students! It must have been great to be involved. What's your next move in politics?",
-    "reason": "It made a difference for schools and students",
+    "reason": "make a differance for schools and student",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "Politics",
+    "topics": "politicians career",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "User John wants to work with local leaders and organizations"
+      "user willing to follow up with John"
     ],
     "emotions": "Positive",
-    "fact": "John's campaign is ongoing",
+    "fact": "posting updates about the user's campaign",
     "index": 14,
-    "message": "[14]: The user is expressing support for a campaign and asking for updates.",
+    "message": "[14]: The sender is supportive of John's campaign and wants to stay updated on its progress.",
     "raw_message": "Sounds good, John. Let's get support and great ideas from local leaders and organizations. Keep me posted on how your campaign is going.",
-    "reason": "Getting great ideas and support for the campaign",
+    "reason": "support and ideas from local leaders and organizations",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "Campaign Support",
+    "topics": "campaing",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "volunteering experience",
-      "user's donation to charity"
+      "user donates old car regularly",
+      "user volunteers at homeless shelter regularly"
     ],
-    "emotions": "Positive",
-    "fact": "donated old car",
+    "emotions": "Enthusiastic",
+    "fact": "Donated an old car to a homeless shelter yesterday",
     "index": 16,
-    "message": "[16]: The user donates their old car to a homeless shelter where they volunteer.",
+    "message": "[16]: The message from John expresses enthusiasm and eagerness to hear about the campaign of the homeless shelter he volunteers at.",
     "raw_message": "Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
-    "reason": "volunteer in the homeless shelter",
+    "reason": "The user is eager to support the homeless shelter where they volunteer",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "donating car",
+    "topics": "donation",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "John appreciates networking"
+      "John is interested in gain more knowledge"
     ],
     "emotions": "Positive",
-    "fact": "the speaker talked about networking events",
+    "fact": "Had any intresting conversation or revelation so far",
     "index": 18,
-    "message": "[18]: John appreciate the value of networking in events",
+    "message": "[18]: Networking helped John to having interesting conversations.",
     "raw_message": "That's awesome, John! Networking is great for gaining new perspectives and insights. Have you had any interesting conversations or revelations so far?",
-    "reason": "Networking allows gaining new perspectives and insights.",
+    "reason": "Gain new perspetives and insight for networking.",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "networking events",
+    "topics": "networkinig",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "John is very willing to motivate others"
+      "John's enthusiasm for community service"
     ],
     "emotions": "Positive",
-    "fact": "John feeling motivated to improve education",
+    "fact": "Community being improved",
     "index": 20,
-    "message": "[20]: Inspiring John with motivation to improve community's education.",
+    "message": "[20]: John is positively impacted by hearing the news and feels motivated to make improvements.",
     "raw_message": "Wow, John! Hearing that can really make an impact and get us fired up to make a difference. It's great to hear that you're feeling motivated to make improvements to our community's education!",
-    "reason": "Motivating others to make a difference",
+    "reason": "John feels motivated to improve the community's education",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "motivation",
+    "topics": "Community",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "John the authority"
+      "user is nice person"
     ],
     "emotions": "Positive",
-    "fact": "impressed with you",
+    "fact": "impresed by someone's enthusiasm",
     "index": 22,
-    "message": "[22]: John is impressed with your enthusiasm and commitment.",
+    "message": "[22]: John expressed his admiration for the team's enthusiasm and commitment.",
     "raw_message": "Yeah, John. It's amazing how even minor tweaks to the system can make a big difference for lots of people. I'm really impressed with your enthusiasm and commitment to it!",
-    "reason": "enough tweak to make a big difference",
+    "reason": "Minor tweak can make a big difference for lots of people",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "your enthusiasm and commitment",
+    "topics": "Enthusiasm in the project",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user is an optimist",
-      "user have strong faith"
+      "speaker values emotional connection",
+      "speaker is optimistic about John's potential"
     ],
     "emotions": "Positive",
-    "fact": "believe in John's power",
+    "fact": "the speaker is supportive of John's actions.",
     "index": 24,
-    "message": "[24]: The user believes in John's ability to make a positive impact.",
+    "message": "[24]: Speaker provides emotional support to John.",
     "raw_message": "You got this, John! I believe in your power to make a positive difference. Your passion inspires me. Keep going - I'm here for you.",
-    "reason": "The user wants John to have the power to make a positive difference",
+    "reason": "The speaker believes John has the potential to make a positive impact and is offering encouragement and emotional support.",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "encouragement",
+    "topics": "emotional support",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "friend likes seeing family photos with his father's"
+      "John may have emotional struggles"
     ],
     "emotions": "Positive",
-    "fact": "views recent family photo",
+    "fact": "John's famile makes him look happy",
     "index": 26,
-    "message": "[26]: A friend shows great excitement when he sees his father's recent photo of his happy family.",
+    "message": "[26]: A picture of John's family brings happiness to himself",
     "raw_message": "Wow, John, that's a great pic! Your family looks so cheerful and loving. It's wonderful to have such a supportive and loving family.",
-    "reason": "The family looks cheerful and loving. The occasion must be something special.",
+    "reason": "The positive emotions conveyed by John's family's appearance",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "looking at family photo",
+    "topics": "family photo",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user appreciates family, has strong motivation"
+      "value the importance of family"
     ],
-    "emotions": "positive",
-    "fact": "family's love is grounding",
+    "emotions": "Positive",
+    "fact": "presence of supportive family",
     "index": 28,
-    "message": "[28]: Family's love and support provide strength and motivation for the user.",
+    "message": "[28]: The user emphasizes the positive impact of their family's love and support.",
     "raw_message": "Family's love really grounds us and gives us strength. Their support certainly boosts your motivation.",
-    "reason": "The value placed by family members on love can motivate individuals.",
+    "reason": "The presence of loving family is instrumental in boosting motivation",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "_family",
+    "topics": "family support",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "John appreciate playground"
+      "Demographic feature: Age, Interests"
     ],
-    "emotions": "Positive",
-    "fact": "looks like playground",
+    "emotions": "Positive towards the Playground",
+    "fact": "The speaker is asking about family activities at the playground",
     "index": 30,
-    "message": "[30]: The user is positive about the playground, indicating it meets his standards.",
+    "message": "[30]: The user's response to John's post expresses enthusiasm for a new place used by his family.",
     "raw_message": "Wow, John, that playground looks cool! What kind of stuff do you and your family do there?",
-    "reason": "Playground seems useful for John.",
+    "reason": "John seems to be enthusiastic about the playground, suggesting that it has a positive effect on him.",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "playground",
+    "topics": "Playing ground",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "values meaningful relationships"
+      "User value the importance of relationships",
+      "User likes spending time with friends"
     ],
     "emotions": "Positive",
-    "fact": "have many quality friendships",
+    "fact": "Their small family matters and their family time are quality",
     "index": 32,
-    "message": "[32]: The user values their friendships despite having a small family.",
+    "message": "[32]: Quality connections matter most to them.",
     "raw_message": "My fam's small, but I love spending time with the friends I have. We usually watch movies, hike, and have game nights at my place. Quality connections matter most to me.",
-    "reason": "Quality connections matters to me",
+    "reason": "The importance of relationships in their life",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "friendships",
+    "topics": "Making connections with family",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user values friendship"
+      "user is optimistic and grateful"
     ],
     "emotions": "Positive",
-    "fact": "John and the users friends bring joy to them",
+    "fact": "being part of something special",
     "index": 34,
-    "message": "[34]: They bring us joy, support, and a feeling of being part of something special with friends.",
+    "message": "[34]: A user expresses appreciation for the benefits of a support group.",
     "raw_message": "Definitely, John. They bring us joy, support, and a feeling of being part of something special. We should cherish every moment with them.",
-    "reason": "Friends provide emotional support and happiness",
+    "reason": "The value of Support Group in our life",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "friends",
+    "topics": "Support Group",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "user values family time"
+      "user has close relationship with John, user had awesome memories"
     ],
     "emotions": "Positive",
     "fact": "had a blast at dinner",
     "index": 36,
-    "message": "[36]: The user appreciates a family dinner as it creates awesome memories.",
+    "message": "[36]: The speaker expresses enthusiasm and happiness about a family dinner.",
     "raw_message": "Woah, that's a nice pic, John! You all obviously had a blast at dinner. Nothing beats getting together with loved ones for a good meal - it makes some awesome memories!",
-    "reason": "appreciating the quality time with loved ones",
+    "reason": "The speaker appreciates quality time with family and loved ones",
     "timestamp": "6:10 pm on 22 December, 2022",
     "topics": "family dinner",
     "user_id": "Maria"
   },
   {
     "attribue": [
-      "User enjoys social interaction"
+      "host or hostess"
     ],
     "emotions": "Positive",
-    "fact": "Sharing meals create stronger relationship",
+    "fact": " Shared meals make live enjoyable",
     "index": 38,
-    "message": "[38]: The user enjoys shared meal and thinks it builds a strong bond.",
+    "message": "[38]: Shared meals make life more enjoyable and meaningful.",
     "raw_message": "Yeah, John! It definitely builds a strong bond. Those shared meals really make life enjoyable and meaningful. What did you make? (image description: a photo of a table with pizzas and salads on it)",
-    "reason": "Shared meals could build strong bond",
+    "reason": "shared meals can create bonds and enjoyment",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "shared meal",
+    "topics": "Shared meals",
     "user_id": "Maria"
   }
 ]

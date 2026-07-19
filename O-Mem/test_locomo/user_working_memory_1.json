@@ -1,274 +1,274 @@
 [
   {
     "attribue": [
-      "user is career-driven and ambitious"
+      "Gina"
     ],
-    "emotions": "positive",
-    "fact": "Lost job",
+    "emotions": "Positive",
+    "fact": "lost job yesterday",
     "index": 1,
-    "message": "[1]: The user lost their job as a banker yesterday but is now taking the initiative to start their own business.",
+    "message": "[1]: Lost job, but planning to start a new business.",
     "raw_message": "Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business.",
-    "reason": "Starting his own business after losing job",
+    "reason": "Want to try new opportunity",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "losing job",
+    "topics": "starting own business",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user is passionate about dancing"
+      "user passionate about dancing"
     ],
     "emotions": "Positive",
-    "fact": "start dance studio",
+    "fact": "user starting a dance studio",
     "index": 3,
-    "message": "[3]: The user starts a dance studio to share their passion with others.",
+    "message": "[3]: The user is starting a dance studio due to their enthusiasm for dancing.",
     "raw_message": "Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others.",
-    "reason": "D",
+    "reason": "The user's passion for dancing and desire to share it with others",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "Starting a dance studio",
+    "topics": "starting a dance studio",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "The user is passionate about dancing",
-      "The user wants to be involved in dance teaching"
+      "user loves dancing",
+      "Dancing is a source of joy for user"
     ],
     "emotions": "Positive",
-    "fact": "Dancing has been an escape for a long time",
+    "fact": "Have been dancing since childhood",
     "index": 5,
-    "message": "[5]: The user wants to start a dance studio to teach others the joy of dancing.",
+    "message": "[5]: The user plans to open a dance studio to share their passion for dancing with others.",
     "raw_message": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me.",
-    "reason": "The author wants to share their passion for dance with others.",
+    "reason": "To share the joy of dancing with others",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "teaching dance",
+    "topics": "opening a dance studio",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user express positive affection towards dance",
-      "user value expression"
+      "user expresses enthusiasm for dance",
+      "user shows admiration towards Gina"
     ],
     "emotions": "Positive",
-    "fact": "the user loves all dancers",
+    "fact": "author prefers contemporary dance",
     "index": 7,
-    "message": "[7]: The user prefers contemporary dancing.",
+    "message": "[7]: The user shares their preference for contemporary dance.",
     "raw_message": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?",
-    "reason": "Gina's dance preference is unknown, but the user expresses their own preference for contemporary",
+    "reason": "The author loves contemporary dance for its expressiveness and power",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "dance preference",
+    "topics": "dance style preference",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user is excited"
+      "user likes the sound of fun classes",
+      "author excited about the option"
     ],
     "emotions": "Positive",
-    "fact": "proposed a new idea for fun activity",
+    "fact": "Consider dance \u04f0rass",
     "index": 9,
-    "message": "[9]: The user proposes a dance class as a fun activity.",
+    "message": "[9]: The user suggests going to a dance class for fun.",
     "raw_message": "Wow, great idea! Let's go to a dance class, it'll be so much fun!",
-    "reason": "It'll be so much fun!",
+    "reason": "The idea of going to a dance class is seen as an enjoyable activity.",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "dance class",
+    "topics": "going to a dance class",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user is enthusiastic",
-      "user wants an audience"
-    ],
-    "emotions": "positive",
-    "fact": "Meet at the studio next Friday",
-    "index": 11,
-    "message": "[11]: The user is excited to perform dance at the studio next Friday.",
-    "raw_message": "Yeah definitely! Wanna see my moves next Fri? Can't wait!",
-    "reason": "The user is excited to show off their moves",
-    "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "dance performance",
-    "user_id": "Jon"
-  },
-  {
-    "attribue": [
-      "user express enthusiasm"
+      "user eager for performance"
     ],
     "emotions": "Positive",
-    "fact": "the event will be great",
-    "index": 13,
-    "message": "[13]: The user is very excited about the upcoming event.",
-    "raw_message": "Wow, I'm excited too! This is gonna be great! (image description: a photography of a man in a suit is performing a dance)",
-    "reason": "I'm excited about the event",
+    "fact": "Next Friday",
+    "index": 11,
+    "message": "[11]: The user is excited to perform next Friday.",
+    "raw_message": "Yeah definitely! Wanna see my moves next Fri? Can't wait!",
+    "reason": "excited to perform",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "event",
+    "topics": "performing dance or other activity",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user is enthusiastic",
-      "user likes dance",
+      "author is enthusiastic , author like dance"
+    ],
+    "emotions": "Positive",
+    "fact": "the person attend a dance performance with an image of man in suit and performs a dance",
+    "index": 13,
+    "message": "[13]: The user excited about attending concert event",
+    "raw_message": "Wow, I'm excited too! This is gonna be great! (image description: a photography of a man in a suit is performing a dance)",
+    "reason": ".It will be great to watch the performance.",
+    "timestamp": "4:04 pm on 20 January, 2023",
+    "topics": "concert event",
+    "user_id": "Jon"
+  },
+  {
+    "attribue": [
+      "user love performing dance",
+      "user enthusiastic about sharing their dancing with others",
+      "user curious about gina's experience"
+    ],
+    "emotions": "Positive",
+    "fact": "Won first place",
+    "index": 15,
+    "message": "[15]: The user shares a photo from winning a local competition and expresses enthusiasm for spreading the excitement, while also inquiring about Gina's experience in similar events.",
+    "raw_message": "Woah, that pic's from when my dance crew took home first in a local comp last year. It was amazing up on that stage! I'm super keen to spread that intensity with other peeps. Gina, you ever been in any dance comps or shows?",
+    "reason": "to share the excitement of winning a local comp",
+    "timestamp": "4:04 pm on 20 January, 2023",
+    "topics": "dance",
+    "user_id": "Jon"
+  },
+  {
+    "attribue": [
       "user's excitement"
     ],
     "emotions": "Positive",
-    "fact": "local comp last year",
-    "index": 15,
-    "message": "[15]: The user shows enthusiasm for their dance crew winning a local competition.",
-    "raw_message": "Woah, that pic's from when my dance crew took home first in a local comp last year. It was amazing up on that stage! I'm super keen to spread that intensity with other peeps. Gina, you ever been in any dance comps or shows?",
-    "reason": "The user enjoyed the experience of winning a local comp and wants to share it",
-    "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "dance competition",
-    "user_id": "Jon"
-  },
-  {
-    "attribue": [
-      "user expresses excitement and happiness"
-    ],
-    "emotions": "Positive",
-    "fact": "First place win",
+    "fact": "The user won a competition",
     "index": 17,
-    "message": "[17]: The user is excited about winning first place in a dance competition.",
+    "message": "[17]: The user expresses their positive emotions after winning a competition.",
     "raw_message": "Wow! Winning first place is amazing! What dance were you doing?",
-    "reason": "Enjoying the winning experience",
+    "reason": "Winning first place was an achievement",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "winning in a competition",
+    "topics": "winning competition",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "love dancing",
-      "appreciates nature"
+      "User likes the view",
+      "User loves taking photos"
     ],
     "emotions": "Positive",
-    "fact": "author share an image description",
+    "fact": "Review image was posted",
     "index": 19,
-    "message": "[19]: Author shares their idea for an ideal dance studio with a positive tone.",
+    "message": "[19]: The user shares a photo of their ideal dance studio, expressing admiration for its location.",
     "raw_message": "Wow, that must've been great! Check my ideal dance studio by the water. (image description: a photography of a room with a view of the ocean and a few yoga mats)",
-    "reason": "The author is excited about their ideal dance studio",
+    "reason": "The reviewer is positive about the aesthetic appeal of the studio",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "ideal dance studio",
+    "topics": "dance studio",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user's optimism"
+      "searching by themselves"
     ],
-    "emotions": "Hopeful",
-    "fact": "the search of a place",
+    "emotions": "Positive",
+    "fact": "hope for finding something inspiring",
     "index": 21,
-    "message": "[21]: The user hopes to find a place like this that will inspire us.",
+    "message": "[21]: The user searches for a place that will inspire them.",
     "raw_message": "Hopefully, we will find a place like this that will inspire us!",
-    "reason": "The user is searching for a collective space",
+    "reason": "To find a new source of inspiration",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "place to work together",
+    "topics": "searching inspiration",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user has enthusiasm for rehearsing and dancing"
+      "User is creative",
+      "Users are enjoying performance"
     ],
     "emotions": "Positive",
-    "fact": "rehearse after work.",
+    "fact": "Rehearsed with small group after work",
     "index": 23,
-    "message": "[23]: The user excitedly talks about their dance rehearsal with a group of dancers.",
+    "message": "[23]: The user expresses excitement and joy about rehearsing for a dance performance.",
     "raw_message": "Thanks! I rehearsed with a small group of dancers after work. We do all kinds of dances, from contemporary to hip-hop. We've got some cool projects in the works. Finishing up choreography to perform at a nearby festival next month. Can't wait! (image description: a photo of a group of dancers in white dresses on a stage)",
-    "reason": "The excitement of working on new projects and performing at a festival.",
+    "reason": "Excited about performances, getting to enjoy and explore many different styles of dances",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "performing dance",
+    "topics": "rehearsing for dance performance",
     "user_id": "Jon"
   },
   {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "They are perform at Festival",
+    "fact": "performing at the festival",
     "index": 25,
-    "message": "[25]: The user is positive about the performers at the festival.",
+    "message": "[25]: The user is excited about the music performance at the festival.",
     "raw_message": "Yeah, they're the ones performing at the festival! They've been practicing hard and will definitely impress with their grace and skill.",
-    "reason": "They'll definitely impress with their grace and skill",
+    "reason": "Their practice and talent will make them impressive",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "music performance",
+    "topics": "Music performance",
     "user_id": "Jon"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "user is very excited, possibly young or optimistic person"
+    ],
     "emotions": "Positive",
-    "fact": "Join festival today",
+    "fact": "part of something",
     "index": 27,
-    "message": "[27]: The user expressed happiness about joining a festival.",
+    "message": "[27]: The user expresses positive feelings about being part of an event or team.",
     "raw_message": "Yeah, awesome! Glad to be part of it.",
-    "reason": "Being able to join is enjoyable.",
+    "reason": "It sounds like the user is very positive and enthusiastic about being part of something",
     "timestamp": "4:04 pm on 20 January, 2023",
-    "topics": "festival",
+    "topics": "Being part of an event or team",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "owner is proud",
-      "value their work"
+      "Owner is confident in her store"
     ],
     "emotions": "Positive",
-    "fact": "The store looks great",
+    "fact": "The owner's hard work",
     "index": 29,
-    "message": "[29]: The user is extremely positive about Gina's store.",
+    "message": "[29]: Gina's new storefront is impressive.",
     "raw_message": "Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display.",
-    "reason": "The user is congratulating the store owner for her efforts and admiring her success.",
+    "reason": "All hard work really paid off - Congrats!",
     "timestamp": "2:32 pm on 29 January, 2023",
-    "topics": "store",
+    "topics": "Gina's new storefront",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user is an dancer",
-      "user lookd to dance studio"
+      "Gina value aesthetics in finding a place for her dance studio"
     ],
     "emotions": "Positive",
-    "fact": "look for ideal spot in search of idealdance stuido",
+    "fact": "looking for ideal dance studio location",
     "index": 31,
-    "message": "[31]: The user is looking for the ideal spot for their dance studio and has been visually searching for it, even finding a great example in Paris.",
+    "message": "[31]: Gina is searching for an ideal space for her dance studio.",
     "raw_message": "Hey Gina! Thanks for asking. I'm on the hunt for the ideal spot for my dance studio and it's been quite a journey! I've been looking at different places and picturing how the space would look. I even found a place with great natural light! Oh, I've been to Paris yesterday! It was sooo cool. (image description: a photo of a bathroom with a blue floor and a pink wall)",
-    "reason": "Looking at different places with great natural light",
+    "reason": "Looking at different places to find the perfect space",
     "timestamp": "2:32 pm on 29 January, 2023",
-    "topics": "openning dance studio",
+    "topics": "Finding Ideal Dance Studio",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user value natural light & dancing safety",
-      "user's profession: dance instructor"
+      "user appreciate convenience",
+      "user look for natural light"
     ],
     "emotions": "Positive",
-    "fact": "downtown has natural light, good size & floor quality",
+    "fact": "downtown location",
     "index": 33,
-    "message": "[33]: The user likes downtown venue because it is easy to get to and has advantages such as natural light.",
+    "message": "[33]: The user likes the downtown space due to its convenient location and natural light.",
     "raw_message": "It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely.",
-    "reason": "Natural light and easy access are advantages of the downtown location.",
+    "reason": "Convenient, Natural light, Awesome",
     "timestamp": "2:32 pm on 29 January, 2023",
-    "topics": "downtown venue",
+    "topics": "favorite downtown",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "Author has strong professional or expert opinion",
-      "Author is looking forward to the product (prefering high quality flooring)"
+      "user values good flooring"
     ],
     "emotions": "Positive",
-    "fact": "Dance studios usually use Marley flooring",
+    "fact": "dance studios use Marley flooring",
     "index": 35,
-    "message": "[35]: Good flooring's crucial for dance studios as it provides a great experience.",
+    "message": "[35]: The user emphasizes the importance of good flooring, specifically highlighting Marley flooring's benefits for dance studios.",
     "raw_message": "Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean.",
-    "reason": "The quality of flooring is crucial for dance studios to provide a good experience for dancers.",
+    "reason": "Marley flooring is suitable for dance studies due to its grip and ease of cleaning",
     "timestamp": "2:32 pm on 29 January, 2023",
-    "topics": "Flooring",
+    "topics": "flooring",
     "user_id": "Jon"
   },
   {
     "attribue": [
-      "user is excited, but nervous"
+      "user is positive about completing a project"
     ],
     "emotions": "Positive",
-    "fact": "looking for the right place getting everything ready has been a mix of exciting and nerve-wracking",
+    "fact": "mix of exciting and nerve-wracking experiences",
     "index": 37,
-    "message": "[37]: The user is determined to make a project or job work despite feeling mixed emotions about it.",
+    "message": "[37]: The user expresses determination and excitement about completing their project, mentioning that it has been both exciting and nerve-wracking.",
     "raw_message": "Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!",
-    "reason": "determined to make it work",
+    "reason": "Exciting and nerve-wracking experience due to the anticipation of seeing the project completed",
     "timestamp": "2:32 pm on 29 January, 2023",
-    "topics": "job/project",
+    "topics": "project completion",
     "user_id": "Jon"
   }
 ]

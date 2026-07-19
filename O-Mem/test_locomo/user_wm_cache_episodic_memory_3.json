@@ -1,73 +1,30 @@
 [
     {
         "user_id": "Joanna",
-        "raw_message": "Hey Nate! Long time no see! I've been working on a project lately - it's been pretty cool. What about you - any fun projects or hobbies?",
-        "message": "[1]: The user expresses happiness and interest in catching up with Nate.",
-        "topics": "Catch-up",
-        "emotions": "Positive",
-        "reason": "The user is happy to reconnect and discuss their current activities.",
-        "index": 1,
-        "timestamp": "7:31 pm on 21 January, 2022",
-        "fact": "the user has a project",
-        "attribue": [
-            "user value connection",
-            "user enthusiastic about current projects"
-        ]
-    },
-    {
-        "user_id": "Joanna",
         "raw_message": "Wow Nate! Congrats on winning! Tell me more - what game was it?",
-        "message": "[3]: User is congratulating Nate for winning something",
-        "topics": "winning game",
+        "message": "[3]: The sender congratulates the winner.",
+        "topics": "winning a game",
         "emotions": "Positive",
-        "reason": "Win some competition or activity",
+        "reason": "Wanted to hear about the game Nate.",
         "index": 3,
         "timestamp": "7:31 pm on 21 January, 2022",
-        "fact": "Congratualted Nate on his win",
+        "fact": "congrats wins",
         "attribue": [
-            "Nate - person, Nate won a game"
+            "Nate's personality "
         ]
     },
     {
         "user_id": "Joanna",
         "raw_message": "Wow, great job! What was is called?",
-        "message": "[5]: The user expresses admiration and surprise at someone's achievement.",
-        "topics": "Award/Recognition",
+        "message": "[5]: The user received a compliment and asked about the nature of the award.",
+        "topics": "awards",
         "emotions": "Positive",
-        "reason": "The user is expressing admiration and surprise at someone's achievement",
+        "reason": "Great praise for an achievement",
         "index": 5,
         "timestamp": "7:31 pm on 21 January, 2022",
-        "fact": "Someone received an award or recognition",
+        "fact": "An award was given",
         "attribue": [
-            "User is enthusiastic and appreciative"
-        ]
-    },
-    {
-        "user_id": "Joanna",
-        "raw_message": "Cool, Nate! Sounds like a fun experience, even if I'm not into games.",
-        "message": "[7]: Nate seems to enjoy a video game, but isn't passionate about it.",
-        "topics": "video game experience",
-        "emotions": "Mixed",
-        "reason": "The user finds the experience fun regardless of their interest in video games.",
-        "index": 7,
-        "timestamp": "7:31 pm on 21 January, 2022",
-        "fact": "Nate sounds enthusiastic about video games",
-        "attribue": [
-            "user have different attitude towards video game"
-        ]
-    },
-    {
-        "user_id": "Joanna",
-        "raw_message": "Yeah! Besides writing, I also enjoy reading, watching movies, and exploring nature. Anything else you enjoy doing, Nate?",
-        "message": "[9]: The user shares their hobbies with curiosity.",
-        "topics": "Hobbies",
-        "emotions": "Positive",
-        "reason": "The person is eager to share their interests with others.",
-        "index": 9,
-        "timestamp": "7:31 pm on 21 January, 2022",
-        "fact": "person enjoy reading, watching movies, and exploring nature",
-        "attribue": [
-            "Demographically young adult person"
+            "the user is being complimented"
         ]
     }
 ]

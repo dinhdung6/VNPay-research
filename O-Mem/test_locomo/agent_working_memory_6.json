@@ -1,281 +1,288 @@
 [
   {
     "attribue": [
-      "user enthusiastic about asking question"
+      "User is eager for conversation"
     ],
     "emotions": "Positive",
-    "fact": "user glad to start conversation",
+    "fact": "Talk to someone now",
     "index": 0,
-    "message": "[0]: The user initiates a motivational discussion with the goal of gaining insight into what motivates others.",
+    "message": "[0]: The user expresses eagerness to discuss motivation.",
     "raw_message": "Hey! Glad to finally talk to you. I want to ask you, what motivates you?",
-    "reason": "Get motivation from others",
+    "reason": "The user wants to understand motivation",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "Motivational discussion",
+    "topics": "motivation",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user enjoy socializing"
+      "user enjoys relaxation"
     ],
     "emotions": "Positive",
-    "fact": "User is a big video game fan",
+    "fact": "play video games",
     "index": 2,
-    "message": "[2]: The user shares their love for video games and their positive experience of using them as a way to relax.",
+    "message": "[2]: The user shares enthusiasm for video games and finds them relaxing.",
     "raw_message": "Cool, James! I'm a big video game fan too. They help me relax after a long day. What game are you currently enjoying the most?",
-    "reason": "Video games help with relaxation",
+    "reason": "Video games help me relax",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "video game community",
+    "topics": "video gaming",
     "user_id": "John"
   },
   {
     "attribue": [
-      "person hasn't done anything yet",
-      "interested in a certain programming language"
+      "user enjoys try new game",
+      "new sign up programme class for learn"
     ],
     "emotions": "Positive",
-    "fact": "Heard something is awesome",
+    "fact": "gona give the videoge a go",
     "index": 4,
-    "message": "[4]: The user is considering a new activity and wants to know about its awesomeness.",
+    "message": "[4]: The user is going to try playing the game since it sounds really awesome and has recently signed up for a programming class.",
     "raw_message": "Haven't played it yet, but I hear it's awesome. Gonna give it a go. BTW, just signed up for a programming class. Have you ever done any programming?",
-    "reason": "The person has heard the thing is cool",
+    "reason": "the video game seems awesome",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "considering a new activity",
+    "topics": "Try playing video gamedes",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user want to be proficient in various programming languages"
+      "User wants to learn new things"
     ],
-    "emotions": "Neutral",
-    "fact": "the user learn HTML and CSS previously",
+    "emotions": "Neutral/Inquiring",
+    "fact": "user refreshed skills",
     "index": 6,
-    "message": "[6]: The user is reviewing their learning of some programming skills which they learned previously.",
+    "message": "[6]: The user refreshed their HTML and CSS skills after doing some coding a few years ago.",
     "raw_message": "I did a bit of coding in HTML and CSS a few years back. Thought I'd refresh those skills in this course. What languages do you like most and any projects you've done?",
-    "reason": "Refresh the skills learned a few years ago",
+    "reason": "Refreshing previous skills like HTML and CSS",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "Learning programming language",
+    "topics": "refreshing skills",
     "user_id": "John"
   },
   {
     "attribue": [
-      "User appreciation for graphical capabilities"
+      "user interested in programming"
     ],
-    "emotions": "positive",
-    "fact": "mod graphics",
+    "emotions": "Positive",
+    "fact": "seen graphic mod",
     "index": 8,
-    "message": "[8]: The user is impressed with the graphics of a video game mod.",
+    "message": "[8]: The user is positive about a graphic mod.",
     "raw_message": "That mod looks amazing! The graphics are awesome. What other programming languages have you worked with?",
-    "reason": "The graphics and mod of the video game",
+    "reason": "The graphic of the mod is awesome",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "video game mod",
+    "topics": "graphic mod",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user open-minded about future collaborations",
-      "interested in learning from others"
+      "none"
     ],
-    "emotions": "Positive regarding collaboration and idea",
-    "fact": "user suggested a business idea",
+    "emotions": "Open/Neutral",
+    "fact": "Mobile app development collaboration",
     "index": 10,
-    "message": "[10]: User proposes collaboration on mobile app development.",
+    "message": "[10]: The user suggests collaborating on mobile app development in the future.",
     "raw_message": "Maybe in the future we will develop mobile applications together? Do you like the idea?",
-    "reason": "The mention of collaboration suggests willingness to work with others",
+    "reason": "Considering a collaborative approach to develop mobile apps",
     "timestamp": "3:47 pm on 17 March, 2022",
     "topics": "collaboration on mobile app development",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user is enthusiastic",
-      "user is asking about other people's pets"
+      "User seems to be excited and friendly"
     ],
     "emotions": "Positive",
-    "fact": "user's pet is adorable",
+    "fact": "user showed interest in names of pets",
     "index": 12,
-    "message": "[12]: User is excited and happy about their pet, and wants to know more about other people's pets.",
+    "message": "[12]: The original message from a user showing enthusiasm for their pets.",
     "raw_message": "Aww, they're adorable! What are the names of your pets? And what are your plans for the app?",
-    "reason": "The user is excited and affectionate towards their pets",
+    "reason": "The user's enthusiasm about their pets",
     "timestamp": "3:47 pm on 17 March, 2022",
     "topics": "pets",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user ask for clarification on existing tech Apps"
+      "user is interested in entrepreneurship",
+      "user evaluates business"
     ],
-    "emotions": "Neutral/Inquisitive",
-    "fact": "the user ask about the features of other existing apps",
+    "emotions": "Positive",
+    "fact": "app will find buyers",
     "index": 14,
-    "message": "[14]: User inquires about the unique features of a new tech app.",
+    "message": "[14]: James responds positively about the app, expressing interest in its potential success.",
     "raw_message": "Sounds good, James! Bet that app would find a lot of buyers. What sets it apart from other existing apps?",
-    "reason": "The user seems to believe that the app will be successful.",
+    "reason": "The user believes the app will be successful and wants to know what makes it unique.",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "Tech App",
+    "topics": "business opportunity",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user loves their pet",
-      "user is motivated"
+      "user loves treats"
     ],
     "emotions": "Positive",
-    "fact": "You're working on a programming project",
+    "fact": "the programmer has animal friends",
     "index": 16,
-    "message": "[16]: The user is excited about working on a programming project and wants to add personal touches.",
+    "message": "[16]: The user's pup will enjoy a program with treats.",
     "raw_message": "That's a great idea! Your pup is gonna love it. Speaking of personal touches, what motivates you to work on your programming projects?",
-    "reason": "Your pup will love the project",
+    "reason": "The motivation for the user is to make their programs fun for them and other animals.",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "working on programming projects",
+    "topics": "programming project",
     "user_id": "John"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "user want to know how someone feel"
+    ],
     "emotions": "Positive",
-    "fact": "feeling accomplished",
+    "fact": "user ask about achievement of someone work",
     "index": 18,
-    "message": "[18]: The user acknowledges others' accomplishments, expressing pride in their own work progress.",
+    "message": "[18]: The user wants to know what you are working on that makes you feel accomplished.",
     "raw_message": "What are you working on that has you feeling so accomplished?",
-    "reason": "The user feels proud of their work progress.",
+    "reason": "The user is inquiring about the achievement of someone's work",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "work progress",
+    "topics": "Work Performance",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user's creative personality"
+      "user expresses admiration for James' initiative"
     ],
     "emotions": "Positive",
-    "fact": "create the own game",
+    "fact": "James is working on making his own game",
     "index": 20,
-    "message": "[20]: User is positive towards game development",
+    "message": "[20]: The user is enthusiastic about James' decision to work on his own game.",
     "raw_message": "Wow, James! That's amazing. What made you decide to work on it and create your own game?",
-    "reason": "Curiosity about creating a game",
+    "reason": "James wants to make his own game",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "Creating a Game",
+    "topics": "game development",
     "user_id": "John"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "user excited about new opportunity",
+      "user enjoys medical field"
+    ],
     "emotions": "Positive",
-    "fact": "the user finds making something new inspirational",
+    "fact": "person wants to see outcome from combining passions",
     "index": 22,
-    "message": "[22]: The user finds combining their passions to make a new project inspiring.",
+    "message": "[22]: The user is positive about a medical clinic or hospital experience.",
     "raw_message": "That sounds really fulfilling! Combining your passions to make something new must be so exciting. Can't wait to see the outcome. (image description: a photo of a medical chart with instructions for the procedure)",
-    "reason": "Creating something new can be inspiring and exciting",
+    "reason": "Combining passions and making something new can lead to fulfillment.",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "making something new",
+    "topics": "medical clinic or hospital",
     "user_id": "John"
   },
   {
     "attribue": [
-      "Professional",
-      "Empathetic"
+      "user's positive sentiment towards James"
     ],
     "emotions": "Positive",
-    "fact": "Express willingness to collaborate with James",
+    "fact": "He will be part of the project",
     "index": 24,
-    "message": "[24]: The user is positive about working with James.",
+    "message": "[24]: The user is excited to work with James.",
     "raw_message": "It will be great to work with you, James.",
-    "reason": "Looking forward to collaboration and good working relationship",
+    "reason": "James seemed like a good co-worker",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "Collaboration/Work Partnership",
+    "topics": "Collaboration or Partnership",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user has big fingers"
+      "user is slow in the game",
+      "user doesn't like bowling"
     ],
-    "emotions": "Negative",
-    "fact": "Run in the morning; Dislike bowling",
+    "emotions": "Negative/Sorry/Honest",
+    "fact": "has a problem with his hands/fingers ",
     "index": 26,
-    "message": "[26]: The user expresses mixed emotions towards participating in an activity, highlighting their struggles with a physical attribute.",
+    "message": "[26]: The user expresses sorrow about not being able to participate in a game due to physical limitations and also has reservations about participating in certain activities.",
     "raw_message": "I'm sure you're very good at this. Unfortunately, I can\u2019t share my love for him with you, my fingers are too big. Perhaps I should take up exercise, at least start going for a run in the morning. And I also don\u2019t like bowling itself, to be honest.",
-    "reason": "Fingers are too big; exercise to compensate",
+    "reason": "too big of fingers for bowling",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "exercise",
+    "topics": "physical disability/being slow in game",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user open minded towards activities beyond gambling"
+      "user open-mindedness"
     ],
-    "emotions": "positive",
-    "fact": "consider playing arcades",
+    "emotions": "Positive",
+    "fact": "waiting",
     "index": 28,
-    "message": "[28]: The user proposes alternative activities.",
+    "message": "[28]: The user offers an alternative activity while waiting.",
     "raw_message": "Well, I'm sure we can do something else. We can play slot machines and arcades, for example.",
-    "reason": "Asking for alternatives to gambling",
+    "reason": "An alternate option to wait",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "playing casinos",
+    "topics": "playing slot machines",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user may be sad or upset"
+      "user is polite",
+      "user empathize with others"
     ],
-    "emotions": "Positive",
-    "fact": "nearby",
+    "emotions": "Sympathetic or Supportive",
+    "fact": "The response indicates a willingness to help the other person",
     "index": 30,
-    "message": "[30]: The person offers to look after the speaker's pockets.",
+    "message": "[30]: The user offers support to someone who is going through a difficult time.",
     "raw_message": "I'm sorry to hear it. Well, I'll be nearby, I'll look after your pockets.",
-    "reason": "The person is showing their concern for others",
+    "reason": "Showing concern for the other person's well-being",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "Supportive act",
+    "topics": "being near someone",
     "user_id": "John"
   },
   {
     "attribue": [
-      "User curious about gaming tech"
+      "author enthusiastic",
+      "interested in social experiences"
     ],
     "emotions": "Positive",
-    "fact": "Heard about VR gaming",
+    "fact": "The author heard about VR gaming.",
     "index": 32,
-    "message": "[32]: The user expresses interest in trying out VR gaming.",
+    "message": "[32]: The author is expressing enthusiasm for trying out VR gaming with others.",
     "raw_message": "Heard about VR gaming? It's pretty immersive. We can try it together!",
-    "reason": "Want to experience and play with others",
+    "reason": "The author is expressing enthusiasm and interest in trying out VR gaming with others.",
     "timestamp": "3:47 pm on 17 March, 2022",
     "topics": "VR gaming",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user is eager for collaborative experience"
+      "user enjoy experiencing"
     ],
     "emotions": "Positive",
-    "fact": "try virtual reality experience a few times",
+    "fact": "try gaming VR expierence several times",
     "index": 34,
-    "message": "[34]: The user has tried virtual reality and wants to try it together with others.",
+    "message": "[34]: The user enjoyed trying out a gaming VR experience.",
     "raw_message": "Tried it a few times, it's insane how immersive that experience can be. Can't wait to try it together with you.",
-    "reason": "The user finds VR experience immersive and enjoyable.",
+    "reason": "The experiencs can be very immesive.",
     "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "virtual reality",
-    "user_id": "John"
-  },
-  {
-    "attribue": [],
-    "emotions": "Positive",
-    "fact": "James agreed",
-    "index": 36,
-    "message": "[36]: The user expresses their agreement.",
-    "raw_message": "Agreed, James!",
-    "reason": "James' agreement to something",
-    "timestamp": "3:47 pm on 17 March, 2022",
-    "topics": "agreement",
+    "topics": "gaming VR experience",
     "user_id": "John"
   },
   {
     "attribue": [
-      "James enjoy connect with thers"
+      "user is named James"
     ],
     "emotions": "Positive",
-    "fact": "connect with others,build community",
+    "fact": "confirmed agreement",
+    "index": 36,
+    "message": "[36]: James agrees with an unknown topic.",
+    "raw_message": "Agreed, James!",
+    "reason": "Confirming the agreement",
+    "timestamp": "3:47 pm on 17 March, 2022",
+    "topics": " agreement",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "James enthusiastic about the event"
+    ],
+    "emotions": "Positive",
+    "fact": "enjoying it",
     "index": 38,
-    "message": "[38]: James enjoys building and connecting with others in a community.",
+    "message": "[38]: The user James enjoys connecting with others at the community event.",
     "raw_message": "Hey James, awesome! Glad you're enjoying it and connecting with others. Building a community is really cool, especially when you meet people who enjoy the same things.",
     "reason": "Building a community is really cool",
     "timestamp": "9:26 pm on 20 March, 2022",
-    "topics": "enjoying communities",
+    "topics": "community building",
     "user_id": "John"
   }
 ]

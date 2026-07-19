@@ -2,44 +2,72 @@
     {
         "user_id": "John",
         "raw_message": "Hey! Glad to finally talk to you. I want to ask you, what motivates you?",
-        "message": "[0]: The user initiates a motivational discussion with the goal of gaining insight into what motivates others.",
-        "topics": "Motivational discussion",
+        "message": "[0]: The user expresses eagerness to discuss motivation.",
+        "topics": "motivation",
         "emotions": "Positive",
-        "reason": "Get motivation from others",
+        "reason": "The user wants to understand motivation",
         "index": 0,
         "timestamp": "3:47 pm on 17 March, 2022",
-        "fact": "user glad to start conversation",
+        "fact": "Talk to someone now",
         "attribue": [
-            "user enthusiastic about asking question"
+            "User is eager for conversation"
         ]
     },
     {
         "user_id": "John",
         "raw_message": "Cool, James! I'm a big video game fan too. They help me relax after a long day. What game are you currently enjoying the most?",
-        "message": "[2]: The user shares their love for video games and their positive experience of using them as a way to relax.",
-        "topics": "video game community",
+        "message": "[2]: The user shares enthusiasm for video games and finds them relaxing.",
+        "topics": "video gaming",
         "emotions": "Positive",
-        "reason": "Video games help with relaxation",
+        "reason": "Video games help me relax",
         "index": 2,
         "timestamp": "3:47 pm on 17 March, 2022",
-        "fact": "User is a big video game fan",
+        "fact": "play video games",
         "attribue": [
-            "user enjoy socializing"
+            "user enjoys relaxation"
         ]
     },
     {
         "user_id": "John",
         "raw_message": "Haven't played it yet, but I hear it's awesome. Gonna give it a go. BTW, just signed up for a programming class. Have you ever done any programming?",
-        "message": "[4]: The user is considering a new activity and wants to know about its awesomeness.",
-        "topics": "considering a new activity",
+        "message": "[4]: The user is going to try playing the game since it sounds really awesome and has recently signed up for a programming class.",
+        "topics": "Try playing video gamedes",
         "emotions": "Positive",
-        "reason": "The person has heard the thing is cool",
+        "reason": "the video game seems awesome",
         "index": 4,
         "timestamp": "3:47 pm on 17 March, 2022",
-        "fact": "Heard something is awesome",
+        "fact": "gona give the videoge a go",
         "attribue": [
-            "person hasn't done anything yet",
-            "interested in a certain programming language"
+            "user enjoys try new game",
+            "new sign up programme class for learn"
+        ]
+    },
+    {
+        "user_id": "John",
+        "raw_message": "I did a bit of coding in HTML and CSS a few years back. Thought I'd refresh those skills in this course. What languages do you like most and any projects you've done?",
+        "message": "[6]: The user refreshed their HTML and CSS skills after doing some coding a few years ago.",
+        "topics": "refreshing skills",
+        "emotions": "Neutral/Inquiring",
+        "reason": "Refreshing previous skills like HTML and CSS",
+        "index": 6,
+        "timestamp": "3:47 pm on 17 March, 2022",
+        "fact": "user refreshed skills",
+        "attribue": [
+            "User wants to learn new things"
+        ]
+    },
+    {
+        "user_id": "John",
+        "raw_message": "That mod looks amazing! The graphics are awesome. What other programming languages have you worked with?",
+        "message": "[8]: The user is positive about a graphic mod.",
+        "topics": "graphic mod",
+        "emotions": "Positive",
+        "reason": "The graphic of the mod is awesome",
+        "index": 8,
+        "timestamp": "3:47 pm on 17 March, 2022",
+        "fact": "seen graphic mod",
+        "attribue": [
+            "user interested in programming"
         ]
     }
 ]

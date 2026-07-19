@@ -1,130 +1,102 @@
 [
   {
     "attribue": [
-      "user is professional,"
+      "Previous job unknown",
+      "New job unknown",
+      "Age: unknown",
+      "Industry: unknown"
     ],
-    "emotions": "Mixed: Positive towards the personal life update but negative in response to Audrey's question",
-    "fact": "started a new job as Financial Analyst last week",
+    "emotions": "Negative/Mixed",
+    "fact": "new financial analyst",
     "index": 1,
-    "message": "[1]: The user updated them on their new job while also asking about one of their friend.",
+    "message": "[1]: The user started a new job as Financial Analyst, however the context is unclear.",
     "raw_message": "Hey Audrey! So, I started a new job as a Financial Analyst last week - it's been quite a change from my previous job. How about you? Anything interesting happening?",
-    "reason": "The user is curious and interested in Audrey's life.",
+    "reason": "The user had a change from previous job",
     "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "new job",
+    "topics": "Starting new job",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "user in a good mood"
+      "user likes pictures"
     ],
     "emotions": "Positive",
-    "fact": "user wants to seeing the video",
+    "fact": "See picture",
     "index": 3,
-    "message": "[3]: User asks for a picture of something they found cute.",
+    "message": "[3]: The user asks to see a picture they find cute.",
     "raw_message": "Thanks! That sounds cute. Can I see a picture?",
-    "reason": "The user is pleased with the content and wants to visually verify it.",
+    "reason": "The user seems interested in seeing the picture",
     "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "requesting video",
+    "topics": "Cute Picture",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "User show curiosity, user interested in adopting a pet"
+      "user asking others about their pets, curious to know more about animal"
     ],
-    "emotions": "Positive",
-    "fact": "inquire about a pet's name and its time with the owner",
+    "emotions": "Neutral or Sceptical",
+    "fact": "ask about puppy's name and length of time having pet dog",
     "index": 5,
-    "message": "[5]: The user is asking for information about a pet adoption.",
+    "message": "[5]: The user is inquiring about a puppy's names and length of ownership.",
     "raw_message": "Cute little guys! What are their names and how long have you had them?",
-    "reason": "Want to know about the pet's name and time with owner",
+    "reason": "asking for name and duration of ownership",
     "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "Pet adoption",
+    "topics": "puppy",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "author's openness to pet idea"
+      "user wants having fun"
     ],
-    "emotions": "curious",
-    "fact": "pet suitability",
+    "emotions": "Mixed",
+    "fact": "some people wants pets despite cities.",
     "index": 7,
-    "message": "[7]: The user expresses curiosity about getting a dog despite city living.",
+    "message": "[7]: The user enquires about having a dog with living in the city.",
     "raw_message": "That's awesome! Have you always wanted a dog, even with living in the city? Can they still go on adventures?",
-    "reason": "The author is curious about pet compatibility with urban lifestyle",
+    "reason": "Some people want pets despite living in cities because they can provide companionship and entertainment.",
     "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "dog ownership",
+    "topics": "having a pet",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "user feel inadequate with current lifestyle"
+      "Speaker values excitement"
     ],
-    "emotions": "Positive: Jealous",
-    "fact": "They make their life awesome, had fun outings",
+    "emotions": "Envious/Mixed: Envy and admiration towards their fun outings",
+    "fact": "They make life so awesome",
     "index": 9,
-    "message": "[9]: The user feels envious of others' exciting experiences and enjoys hearing about it.",
+    "message": "[9]: The user expresses envy of others' fun outings.",
     "raw_message": "Wow, sounds like they make life so awesome! Kinda jealous of all those fun outings with them.",
-    "reason": "Envy and admiration for others' exciting pastimes",
+    "reason": "Their fun outings seem appealing to the speaker",
     "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "others' lifestyle",
+    "topics": "fun outings",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "user loves animals, can't have a pet"
+      "user has a strong affection for animals",
+      "user does not have any pets at the moment"
     ],
-    "emotions": "Negative towards not having pets due to the speaker's positive sentiment about animals",
-    "fact": "no pets currently",
+    "emotions": "negative towards not having pets",
+    "fact": "user does not have a pet currently",
     "index": 11,
-    "message": "[11]: The user does not want to have pets right now",
+    "message": "[11]: The user does not have pets and still expresses love for animals.",
     "raw_message": "No, no pets right now. But I do love animals.",
-    "reason": "The speaker value their pet's life but cannot have one now",
+    "reason": "No, no pets right now",
     "timestamp": "1:10 pm on 27 March, 2023",
     "topics": "not having pets",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "user appreciates freedom"
+      "user appreciate nature"
     ],
     "emotions": "Positive",
-    "fact": "the user likes birds",
+    "fact": "The user has always been awed by birds",
     "index": 13,
-    "message": "[13]: The user has a strong positive appreciation for birds.",
+    "message": "[13]: The user is in awe of birds.",
     "raw_message": "I've always been awed by birds. Their power to soar and explore new spots is amazing.",
-    "reason": "They can fly, discover new places",
-    "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "birds",
-    "user_id": "Andrew"
-  },
-  {
-    "attribue": [
-      "user love eagles, user appreciates beauty"
-    ],
-    "emotions": "Positive",
-    "fact": "Eagles are mesmerizing",
-    "index": 15,
-    "message": "[15]: The user has admiration for eagles.",
-    "raw_message": "Eagles have always mesmerized me; they're so strong and graceful! (image description: a photo of two birds flying in the sky with a sun shining behind them)",
-    "reason": "Eagles are strong and gracious",
-    "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "birds",
-    "user_id": "Andrew"
-  },
-  {
-    "attribue": [
-      "user doesn",
-      true,
-      "haven",
-      true,
-      "have gone bird-watching"
-    ],
-    "emotions": "positive",
-    "fact": "spot birds while hiking",
-    "index": 17,
-    "message": "[17]: The user has not specifically gone bird-watching but still enjoys spotting birds while hiking.",
-    "raw_message": "Haven't specifically gone out for bird-watching, but I do spot them when I hike.",
-    "reason": "enjoy spotting birds",
+    "reason": "Birds are incredibly powerful and exploratory.",
     "timestamp": "1:10 pm on 27 March, 2023",
     "topics": "bird watching",
     "user_id": "Andrew"
@@ -132,136 +104,169 @@
   {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "hike at Fox Hollow trail",
-    "index": 19,
-    "message": "[19]: Fox Hollow is a great trail to hike on weekends.",
-    "raw_message": "Fox Hollow is a great trail to hike on weekends; the views are awesome!",
-    "reason": "The views are awesome",
+    "fact": "have an affinity for eagles",
+    "index": 15,
+    "message": "[15]: The user find eagles fascinating",
+    "raw_message": "Eagles have always mesmerized me; they're so strong and graceful! (image description: a photo of two birds flying in the sky with a sun shining behind them)",
+    "reason": "Eagles are considered as magnificent creatures with unique attractive features.",
     "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "hiking trail",
+    "topics": "birds",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "user like adventure"
-    ],
-    "emotions": "Positive",
-    "fact": "try hiking on vacation",
-    "index": 21,
-    "message": "[21]: The user enjoy hiking during their vacation.",
-    "raw_message": "No problem! Let me know how you like it. Have fun hiking!",
-    "reason": "People seem to have a lot of fun in the park.",
-    "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "hiking",
-    "user_id": "Andrew"
-  },
-  {
-    "attribue": [
-      "the user wants to leave a positive impression"
-    ],
-    "emotions": "Positive",
-    "fact": "Send farewell message",
-    "index": 23,
-    "message": "[23]: The user sends a farewell message.",
-    "raw_message": "Take care and have a good one! See ya!",
-    "reason": "The sender wishes the receiver well",
-    "timestamp": "1:10 pm on 27 March, 2023",
-    "topics": "parting",
-    "user_id": "Andrew"
-  },
-  {
-    "attribue": [
-      "user likes short conversations",
-      "the user has a pet animal named Pixie"
-    ],
-    "emotions": "Positive",
-    "fact": "Did you ever check out that hiking spot we talked about last time?",
-    "index": 25,
-    "message": "[25]: User inquires about a previously discussed hike using this opportunity to share enthusiasm.",
-    "raw_message": "That's awesome! Pixie is so cute! Did you ever check out that hiking spot we talked about last time?",
-    "reason": "The user finds hiking and Pixie cute",
-    "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "hiking",
-    "user_id": "Andrew"
-  },
-  {
-    "attribue": [
-      "User might be inexperienced in puppy care or handling"
+      "user valus seeing birds",
+      "the activity is hiking"
     ],
     "emotions": "Mixed",
-    "fact": "new puppy settled and is getting along with other pups,",
-    "index": 27,
-    "message": "[27]: The user reflects on the challenges of caring for a puppy and is relieved that it's adjusting well.",
-    "raw_message": "Yeah, I get it. A puppy really takes some work. Has she settled in okay? Is she getting along with the other pups?",
-    "reason": "Puppy requires work for a happy life",
-    "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "puppy care",
+    "fact": "haven't gone out for bird-watching",
+    "index": 17,
+    "message": "[17]: The user enjoys spotting birds during hikes, but hasn't explicitly gone bird watching.",
+    "raw_message": "Haven't specifically gone out for bird-watching, but I do spot them when I hike.",
+    "reason": "The user enjoys spotting birds during hikes. Inconvenience of not explicitly bird -watching.",
+    "timestamp": "1:10 pm on 27 March, 2023",
+    "topics": "bird watching",
+    "user_id": "Andrew"
+  },
+  {
+    "attribue": {
+      "user's location": " urban areas,"
+    },
+    "emotions": "Positive",
+    "fact": "the trails at Fox Hollow, weekend hikes",
+    "index": 19,
+    "message": "[19]: Fox Hollow is a great trail to hike on weekends with awesome views.",
+    "raw_message": "Fox Hollow is a great trail to hike on weekends; the views are awesome!",
+    "reason": "The views are amazing",
+    "timestamp": "1:10 pm on 27 March, 2023",
+    "topics": "Hiking trail",
+    "user_id": "Andrew"
+  },
+  {
+    "attribue": [
+      "speaking in a casual tone",
+      " speaker seem to be friendly"
+    ],
+    "emotions": "Positive",
+    "fact": "let me know how you like it",
+    "index": 21,
+    "message": "[21]: The user responds positively to another user's message and invites them to hike.",
+    "raw_message": "No problem! Let me know how you like it. Have fun hiking!",
+    "reason": "the speaker want the person to have good experience with hiking",
+    "timestamp": "1:10 pm on 27 March, 2023",
+    "topics": "hiking",
     "user_id": "Andrew"
   },
   {
     "attribue": [],
+    "emotions": "Positive",
+    "fact": "The person is sending goodbye message",
+    "index": 23,
+    "message": "[23]: The user wishes to take care of the recipient and have a good time before parting.",
+    "raw_message": "Take care and have a good one! See ya!",
+    "reason": "The person is wishing the recipient well in their future endeavors.",
+    "timestamp": "1:10 pm on 27 March, 2023",
+    "topics": "farewell",
+    "user_id": "Andrew"
+  },
+  {
+    "attribue": [
+      "user has a pet",
+      "user like to hike"
+    ],
+    "emotions": "Positive",
+    "fact": "We talked about that hiking spot last time",
+    "index": 25,
+    "message": "[25]: The user expresses admiration for Pixie and mentions a previously discussed hiking spot.",
+    "raw_message": "That's awesome! Pixie is so cute! Did you ever check out that hiking spot we talked about last time?",
+    "reason": [
+      "The user likes Pixie and the hiking spot"
+    ],
+    "timestamp": "2:42 pm on 2 April, 2023",
+    "topics": "hiking spot",
+    "user_id": "Andrew"
+  },
+  {
+    "attribue": [
+      "user cares for dog's happiness"
+    ],
     "emotions": "Curious",
-    "fact": "adjusting well to pepper",
+    "fact": "dog puppy",
+    "index": 27,
+    "message": "[27]: User wants to check on a new puppy's settling.",
+    "raw_message": "Yeah, I get it. A puppy really takes some work. Has she settled in okay? Is she getting along with the other pups?",
+    "reason": "Want to know if the puppy is getting along with others",
+    "timestamp": "2:42 pm on 2 April, 2023",
+    "topics": "Dog's settling",
+    "user_id": "Andrew"
+  },
+  {
+    "attribue": [
+      "user is excited"
+    ],
+    "emotions": "Positive",
+    "fact": "pet adopted",
     "index": 29,
-    "message": "[29]: The user is inquiring about Pepper's adjustment",
+    "message": "[29]: User expresses positive excitement about a recently adopted pet.",
     "raw_message": "That's awesome! Is Pepper adjusting well to her?",
-    "reason": "Adjustment of pepper",
+    "reason": "The word 'awesome' implies positive feelings towards the pet, likely the Peper",
     "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "pepper",
+    "topics": "Pet adoption",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "considering having a pet"
+      "user love dogs",
+      "user worried about finding dog-friendly place"
     ],
     "emotions": "Positive",
-    "fact": "user considering getting a Dog",
+    "fact": "user consider getting dog",
     "index": 31,
-    "message": "[31]: The user is considering getting a dog and wants tips on finding a dog-friendly place in the city.",
+    "message": "[31]: User considering getting a dog and needs tips on finding a dog-friendly place",
     "raw_message": "That's great to hear! I'm considering getting a dog too, but it can be challenging finding a dog-friendly place in the city. Do you have any tips on finding such a place?",
-    "reason": "Considering joining pet family",
+    "reason": "The user is thinking of having a pet",
     "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "getting pet",
+    "topics": "considering getting a dog",
     "user_id": "Andrew"
   },
   {
     "attribue": [
-      "author appreciate new information"
+      "user appreciate information"
     ],
     "emotions": "Positive",
-    "fact": "author will visit the websites",
+    "fact": "user will try new website",
     "index": 33,
-    "message": "[33]: Author expresses excitement and gratitude towards receiving website information.",
+    "message": "[33]: User plans to try out new websites after receiving useful feedback.",
     "raw_message": "Wow, that's so cool! I'll give those websites a try, thanks for the info!",
-    "reason": "The author is grateful for the information provided by the website",
+    "reason": "The user is grateful for the information",
     "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "websites",
-    "user_id": "Andrew"
-  },
-  {
-    "attribue": [
-      "user hopes for furry pet"
-    ],
-    "emotions": "Positive",
-    "fact": "fingers crossed",
-    "index": 35,
-    "message": "[35]: The user expresses hope and positivity concerning the adoption of a puppy.",
-    "raw_message": "Thanks! Fingers crossed for the apartment and that furry friend.",
-    "reason": "The user is hopeful to adopt a new furry friend.",
-    "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "Furry pet adoption",
+    "topics": "trying new websites",
     "user_id": "Andrew"
   },
   {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "user hopes to find something",
-    "index": 37,
-    "message": "[37]: The user hopes to find something soon.",
-    "raw_message": "Hope I find one soon. Can't wait!",
-    "reason": "The user is hopeful about finding something and eager to get it soon.",
+    "fact": "Apartment search",
+    "index": 35,
+    "message": "[35]: The user is positive about their apartment search.",
+    "raw_message": "Thanks! Fingers crossed for the apartment and that furry friend.",
+    "reason": "The user is optimistic about their housing situation.",
     "timestamp": "2:42 pm on 2 April, 2023",
-    "topics": "hope to find something",
+    "topics": "apartment search",
+    "user_id": "Andrew"
+  },
+  {
+    "attribue": [
+      "user excited, optimistic"
+    ],
+    "emotions": "Positive",
+    "fact": "the text does not specify time of waiting",
+    "index": 37,
+    "message": "[37]: The user expresses excitement and hope about finding something soon.",
+    "raw_message": "Hope I find one soon. Can't wait!",
+    "reason": "The user is hopeful and excited to find something",
+    "timestamp": "2:42 pm on 2 April, 2023",
+    "topics": "waiting for something",
     "user_id": "Andrew"
   }
 ]

@@ -1,295 +1,286 @@
 [
   {
     "attribue": [
-      "Sam happy to see his friend"
+      "user like new car"
     ],
     "emotions": "Positive",
-    "fact": "Just arrived back from a trip",
+    "fact": "got back from a trip ",
     "index": 1,
-    "message": "[1]: The user was happy to be reunited with Sam after returning from a vacation with his family in their new Prius.",
+    "message": "[1]: The user returns home and shares their positive experience about getting back from a family trip in their new Prius with Sam.",
     "raw_message": "Hey Sam! Good to see you! Yeah, I just got back from a trip with my family in my new Prius.",
-    "reason": "Enjoy being with family.",
+    "reason": "The excitement about the new car and seeing Sam brings positivity.",
     "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "Prius",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "User had a car that broke down"
+    ],
+    "emotions": "Neutral/Mixed",
+    "fact": "Old Prius broke down, went to Rockies to check out",
+    "index": 3,
+    "message": "[3]: The user's old car broke down and was repaired before being sold.",
+    "raw_message": "My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out. (image description: a photo of a lake with rocks and mountains in the background)",
+    "reason": "Had to get it repaired and sold it as we were not satisfied with it anymore",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "old car breaking down",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [],
+    "emotions": "Positive",
+    "fact": "hiked the trail last week",
+    "index": 5,
+    "message": "[5]: Group of people enjoyed hiking and appreciated the views.",
+    "raw_message": "We all hiked the trails last week - the views were amazing!",
+    "reason": "The views were amazing",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "hiking",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "child expresses affection towards adults"
+    ],
+    "emotions": "Positive",
+    "fact": "Child express curios about couple's activities like hiking",
+    "index": 7,
+    "message": "[7]: Aww, cute couple gets curious question from child.",
+    "raw_message": "Aww, that's cute. How far did you two hike?",
+    "reason": "The child is show emotion towards the relationship between a couple",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "child of couple",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [],
+    "emotions": "Positive",
+    "fact": "searching new hobby",
+    "index": 9,
+    "message": "[9]: The user is searching for hobbies.",
+    "raw_message": "What other hobbies have you found for yourself?",
+    "reason": "The user is looking to explore more interests.",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "hobbies searching",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "user seem open-minded to new experiences",
+      "Sam appear friendly"
+    ],
+    "emotions": "Positive",
+    "fact": "User had an interest in that idea",
+    "index": 11,
+    "message": "[11]: The user expresses enthusiasm for a project or concept.",
+    "raw_message": "Cool idea, Sam! I love it. Have you tried it before?",
+    "reason": "The user is enthusiastic and supportive towards the idea",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "project/concept",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "User values art"
+    ],
+    "emotions": "Positive",
+    "fact": "Started doing this activity",
+    "index": 13,
+    "message": "[13]: The user finds the activity a great stress-reliever and has been doing it for a few years.",
+    "raw_message": "Yep, it's a great stress-buster. I started doing this a few years back. (image description: a photo of a painting of a cactus in the desert)",
+    "reason": "It is a great way to relieve stress",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "Art",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "User values feedback",
+      "Friend plays an important role in introducing User to subject"
+    ],
+    "emotions": "Positive",
+    "fact": "got into a new hobby with friend's help",
+    "index": 15,
+    "message": "[15]: The user was introduced to a new hobby by their friend and became immediately engaged.",
+    "raw_message": "My friend got me into it and gave me some advice, and I was hooked right away!",
+    "reason": "The person's friend introduced me to the hobby and provided guidance.",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "hobby",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "Goal orientated",
+      "Continuous learning mentality",
+      "Not willing to give up on goals."
+    ],
+    "emotions": "Positive towards trying again",
+    "fact": "trying new things",
+    "index": 17,
+    "message": "[17]: The user wants others to keep trying until they find what sparks their excitement.",
+    "raw_message": "You'll find it, just keep trying new things until something sparks your excitement.",
+    "reason": "The reasoning that supports the user's positive attitude is due to not giving up but trying new things until there is a result.",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "following up on a goal",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "Sam is in good spirits"
+    ],
+    "emotions": "Positive",
+    "fact": "Sam talks positively about enjoying new hobbies",
+    "index": 19,
+    "message": "[19]: The sender of the message is catching up with Sam, who is reported to be happy when discussing his new hobbies.",
+    "raw_message": "No worries, Sam! Super pumped for you! Let's catch up soon and see how you're enjoying your new hobbies!",
+    "reason": "Sam seems happy when talking about the new hobbies",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "catching up with a person",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "author care about user's well-being",
+      "friendly tone"
+    ],
+    "emotions": "Positive",
+    "fact": "See Evan soon",
+    "index": 21,
+    "message": "[21]: Author encourages Evan to take it easy before seeing him.",
+    "raw_message": "Take it easy, Evan! Can't wait to see you. Have a good one!",
+    "reason": "The author is encouraging the user to relax and be ready for their reunion",
+    "timestamp": "1:47 pm on 18 May, 2023",
+    "topics": "reconnecting with friend",
+    "user_id": "Evan"
+  },
+  {
+    "attribue": [
+      "user enjoys quality time with their family"
+    ],
+    "emotions": "Positive",
+    "fact": "took a road trip to Jasper last weekend",
+    "index": 22,
+    "message": "[22]: The user takes their family on an amazing road trip to Jasper, having a wonderful experience.",
+    "raw_message": "Hey Sam, good to hear from you! Since we last talked, lots has been happening! Last weekend, I took my family on a road trip to Jasper. It was amazing! We drove through the Icefields Parkway and the glaciers and lakes were gorgeous. I got a shot of a glacier, check it out! (image description: a photo of a person holding a book in front of a lake)",
+    "reason": "Seeing natural scenery with family is memorable experience",
+    "timestamp": "7:11 pm on 24 May, 2023",
     "topics": "family vacation",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "User has a job or needs financial stability"
-    ],
-    "emotions": "Neutral/Mixed",
-    "fact": "My old prius broke down",
-    "index": 3,
-    "message": "[3]: The user's old Prius broke down, they decided to get it repaired and sell it.",
-    "raw_message": "My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out. (image description: a photo of a lake with rocks and mountains in the background)",
-    "reason": "To get it repaired and sell it for financial reasons",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "selling a car",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user enjoy outdoor activities"
+      "user appreciates peacefulness , user likes nature"
     ],
     "emotions": "Positive",
-    "fact": "hiked the trails last week",
-    "index": 5,
-    "message": "[5]: Hikers shared their enjoyable experience on the trails.",
-    "raw_message": "We all hiked the trails last week - the views were amazing!",
-    "reason": "The view of the trails were amazing",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "Hiking",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user is positive and gentle"
-    ],
-    "emotions": "Positive",
-    "fact": "hike together",
-    "index": 7,
-    "message": "[7]: User finds the cute moment of hiking with a friend.",
-    "raw_message": "Aww, that's cute. How far did you two hike?",
-    "reason": "Cuteness of the scene",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "hiking with a friend",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user asking about other people's interests"
-    ],
-    "emotions": "neutral/negative",
-    "fact": "no specific facts provided in this message",
-    "index": 9,
-    "message": "[9]: The user is asking about other hobbies.",
-    "raw_message": "What other hobbies have you found for yourself?",
-    "reason": "the user might not like certain hobbies",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "hobbies",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user is open-minded",
-      "expressing admiration towards idea"
-    ],
-    "emotions": "Positive",
-    "fact": "user's expression:",
-    "index": 11,
-    "message": "[11]: The user expresses enthusiasm and appreciation for a new idea.",
-    "raw_message": "Cool idea, Sam! I love it. Have you tried it before?",
-    "reason": "The user expresses enthusiasm and appreciation for the new idea",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "new idea",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [],
-    "emotions": "Positive",
-    "fact": "user has been doing this for a few years",
-    "index": 13,
-    "message": "[13]: The user recommends drawing as a great stress-reliever.",
-    "raw_message": "Yep, it's a great stress-buster. I started doing this a few years back. (image description: a photo of a painting of a cactus in the desert)",
-    "reason": "It is a great stress releiver",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "stress relief",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user is eager to explore new things",
-      "user values advice from friends"
-    ],
-    "emotions": "Positive",
-    "fact": "got into hobby with friend's help",
-    "index": 15,
-    "message": "[15]: The user was introduced to a hobby by their friend and became enthusiastic about it instantly.",
-    "raw_message": "My friend got me into it and gave me some advice, and I was hooked right away!",
-    "reason": "The influence of a friend's introduction, combined with guidance and encouragement,",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "Hobby",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user is a motivator"
-    ],
-    "emotions": "Positive",
-    "fact": "try new things",
-    "index": 17,
-    "message": "[17]: The user provides advice on personal development and motivation.",
-    "raw_message": "You'll find it, just keep trying new things until something sparks your excitement.",
-    "reason": "The user wants to encourage others by suggesting trying new things.",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "Personal Development",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      {
-        "feature": "relationship",
-        "value": "friend"
-      },
-      {
-        "feature": "age",
-        "value": " unknown"
-      },
-      {
-        "feature": "location",
-        "value": "unknown"
-      }
-    ],
-    "emotions": "Positive",
-    "fact": "catch up",
-    "index": 19,
-    "message": "[19]: The user is providing a positive follow-up to Sam.",
-    "raw_message": "No worries, Sam! Super pumped for you! Let's catch up soon and see how you're enjoying your new hobbies!",
-    "reason": "To inquire about Sam's enjoyment of new hobbies",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "follow-up",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user is social, Evan is probably an acquaintance"
-    ],
-    "emotions": "Positive",
-    "fact": "friend going to visit",
-    "index": 21,
-    "message": "[21]: Evan receives a message from someone they can't wait to see.",
-    "raw_message": "Take it easy, Evan! Can't wait to see you. Have a good one!",
-    "reason": "looking forward to meet up",
-    "timestamp": "1:47 pm on 18 May, 2023",
-    "topics": "Visiting/ Meeting with friend",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "family members are enjoying the vacay"
-    ],
-    "emotions": "Positive",
-    "fact": "The location was Jasper, The road trip took place last weekend",
-    "index": 22,
-    "message": "[22]: A family member is excited to share updates about a recent road trip to Jasper and shows their positive emotions towards it.",
-    "raw_message": "Hey Sam, good to hear from you! Since we last talked, lots has been happening! Last weekend, I took my family on a road trip to Jasper. It was amazing! We drove through the Icefields Parkway and the glaciers and lakes were gorgeous. I got a shot of a glacier, check it out! (image description: a photo of a person holding a book in front of a lake)",
-    "reason": "The family had an amazing time and enjoyed their vacation",
-    "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "family road trip",
-    "user_id": "Evan"
-  },
-  {
-    "attribue": [
-      "user values nature",
-      "user likes secluded cabins"
-    ],
-    "emotions": "Positive",
-    "fact": "Last weekend's cabin stay",
+    "fact": "Attend a retreat",
     "index": 24,
-    "message": "[24]: The user had a positive experience at the cabin retreat.",
+    "message": "[24]: The message is from Sam, thanking for asking and expressing their positive experience at a recent retreat.",
     "raw_message": "Hey Sam, thanks for asking! It was great - fresh air, peacefulness and a cozy cabin surrounded by mountains and forests made it feel like a real retreat.",
-    "reason": "The reviewer enjoys the natural environment and sense of seclusion.",
+    "reason": "The description of the peaceful environment led to an overall positive experience.",
     "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "cabin retreat",
+    "topics": "retreat",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "user offering supportive tone"
+      "User name is Sam"
     ],
-    "emotions": "Sympathetic",
-    "fact": "Sam seems to be going through a tough time",
+    "emotions": "Positive and supportive",
+    "fact": "Sympathetic tone, offer of help",
     "index": 26,
-    "message": "[26]: User is expressing concern and empathy towards Sam's situation.",
+    "message": "[26]: Someone offers sympathetic support towards a user.",
     "raw_message": "Sorry to hear that, Sam. Is there anything I can do to help?",
-    "reason": "showing support or sympathy towards somebody",
+    "reason": "Offered sympathy and assistance to the user.",
     "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "concern for someone's well-being",
+    "topics": "sympathy or support towards a user's situation",
     "user_id": "Evan"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "person is caring",
+      "person values health,"
+    ],
     "emotions": "Positive",
-    "fact": "confronting one's health challenges",
+    "fact": "ask about his experiences",
     "index": 28,
-    "message": "[28]: Someone is offering support to help user make positive changes for a healthier lifestyle.",
+    "message": "[28]: The speaker expressed concern for someone's health challenges and offered support for a healthier lifestyle.",
     "raw_message": "That must have been a challenging experience, Sam. It's tough when we have to confront our own health challenges. Remember, it's never too late to make positive changes for a healthier lifestyle. Is there anything I can do to support you in this journey?",
-    "reason": "Make positive changes for a healthier lifestyle",
+    "reason": "The person is concerned about the health challenges faced by Sam and wants to offer him positive changes for a healthier lifestyle.",
     "timestamp": "7:11 pm on 24 May, 2023",
     "topics": "health challenges",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "user appreciates self care",
-      "author values motivation"
+      "You value health",
+      "User is enthusiastic about fitness"
     ],
     "emotions": "Positive",
-    "fact": "Author has a go-to fitness routine",
+    "fact": "Finding a fitness routine that you enjoy",
     "index": 30,
-    "message": "[30]: The user's go-to fitness routine brings them happiness and healthier living.",
+    "message": "[30]: Fitness routine worked for user because they found something they enjoyed.",
     "raw_message": "Yeah, what worked for me was finding a fitness routine I really enjoy. It's my go-to, I love the feeling of being healthy and strong. Making it fun and finding little ways to make smarter choices in my diet really added up. Don't forget, you got this!",
-    "reason": "Finding a fitness routine I really enjoy made it more enjoyable",
+    "reason": "The feeling of enjoying a healthy life, making fitness enjoyable",
     "timestamp": "7:11 pm on 24 May, 2023",
     "topics": "fitness routine",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "has multiple creativity outlets",
-      "values relaxation and mental health"
+      "user experience with art ",
+      "user value the freedom of art"
     ],
-    "emotions": "Positive towards Painting",
-    "fact": "The person uses painting for stress relief",
+    "emotions": "Positive towards painting, Neutral about its effectiveness for weight loss",
+    "fact": "The user recommend painting as a way to relieve stress",
     "index": 32,
-    "message": "[32]: Painting helps the person relieve stress and find peace.",
+    "message": "[32]: The user suggests painting as a way to relieve stress, but notes it won't help with weight loss.",
     "raw_message": "Of course, Sam! Painting is a great way to relieve stress and be creative. It gives you the freedom to explore colors and textures and express feelings. I've been doing it for a few years now and it helps me find peace. But unfortunately it won't help you with your weight problem, besides painting I recommend exercising!",
-    "reason": "Relieving stress and being creative",
+    "reason": "Painting helps relieve stress and be creative",
     "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "Creative activity",
+    "topics": "relieving stress through art",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "User value Sam's support",
-      "Sam has prior knowledge about the upcoming event"
+      "speaker's supportive nature"
     ],
     "emotions": "Positive",
-    "fact": "performance coming soon",
+    "fact": "Sam has a task, and the speaker is giving advice",
     "index": 34,
-    "message": "[34]: Sam is positive towards the upcoming performance and wants the user to have fun.",
+    "message": "[34]: The speaker gives Sam advice to not put too much pressure on himself.",
     "raw_message": "Awesome, Sam! Have fun with it and don't put too much pressure on yourself. Can't wait to hear how it's going!",
-    "reason": "The respondent is positive towards the upcoming performance due to reassurance from Sam.",
+    "reason": "Don't put too much pressure on yourself.",
     "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "upcoming event performance",
+    "topics": "Pressure off",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "Sam is the focus of the message"
+      " Sam's role: Mentor, Speaker"
     ],
-    "emotions": "Positive",
-    "fact": "Sam's name",
+    "emotions": "Positive towards the event: Having fun with something",
+    "fact": "Keeping the sender updated",
     "index": 36,
-    "message": "[36]: The recipient encourages Sam to have fun.",
+    "message": "[36]: Sam received a message of encouragement and support for his event.",
     "raw_message": "Alright Sam, have fun with it! Keep me updated!",
-    "reason": "To support Sam and encourage him to have a good time",
+    "reason": "The author is positive towards Sam having fun",
     "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "encouragement",
+    "topics": "having a event",
     "user_id": "Evan"
   },
   {
     "attribue": [
-      "user value the relationship"
+      "User considerate towards Sam"
     ],
     "emotions": "Positive",
-    "fact": "The sender will meet with the recipient in the future,",
+    "fact": "send message",
     "index": 38,
-    "message": "[38]: The user looks forward to catching up with Sam later.",
+    "message": "[38]: The user sends a positive message to catch up with Sam.",
     "raw_message": "Take care, Sam! I'll catch up with you later.",
-    "reason": "'will catch up' imply the intention for future interactions and meetups.",
+    "reason": "Wishing well-being for the other person",
     "timestamp": "7:11 pm on 24 May, 2023",
-    "topics": "staycation",
+    "topics": "Catch-up",
     "user_id": "Evan"
   }
 ]

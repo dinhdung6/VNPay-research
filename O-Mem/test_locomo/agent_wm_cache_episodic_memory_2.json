@@ -1,48 +1,62 @@
 [
     {
         "user_id": "Maria",
-        "raw_message": "Hey John! Long time no see! What's up?",
-        "message": "[0]: The user expresses a positive attitude towards catching up with John after a long time.",
-        "topics": "catching up after a long time",
+        "raw_message": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "message": "[2]: The user has been keeping fit and enjoyed starting aerial yoga, but also inquires about other workout classes.",
+        "topics": "aerial yoga",
         "emotions": "Positive",
-        "reason": "The user is positive towards catching up and expressing friendly sentiment.",
-        "index": 0,
+        "reason": "the benefits of volunteering and exercising",
+        "index": 2,
         "timestamp": "11:01 am on 17 December, 2022",
-        "fact": "Hello to John",
+        "fact": "volunteer at homeless shelter",
         "attribue": [
-            "user looks for connection"
+            "user is motivated by personal growth",
+            "user volunteers"
         ]
     },
     {
         "user_id": "Maria",
-        "raw_message": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
-        "message": "[2]: The user is sharing their experience with workout classes they've recently tried.",
-        "topics": "Workout Classes",
+        "raw_message": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
+        "message": "[4]: John said that kickboxing is a great way for de-stressing.",
+        "topics": "kickboxing",
         "emotions": "Positive",
-        "reason": "It is simply because of its awesome reviews",
-        "index": 2,
+        "reason": "Kickboxing can be very relaxing, according to John.",
+        "index": 4,
         "timestamp": "11:01 am on 17 December, 2022",
-        "fact": "user has been volunteering at homeless shelter",
+        "fact": "goal for de-stressing",
+        "attribue": [
+            "user focus on relaxation and goal setting"
+        ]
+    },
+    {
+        "user_id": "Maria",
+        "raw_message": "Woohoo, John! That's awesome! Any specific areas you want to tackle?",
+        "message": "[6]: 'That's awesome!' expresses positive sentiments towards something, followed by asking for areas to discuss.",
+        "topics": {
+            "event": "praise"
+        },
+        "emotions": "Positive",
+        "reason": "Expresss enthusiasm",
+        "index": 6,
+        "timestamp": "11:01 am on 17 December, 2022",
+        "fact": "",
         "attribue": {
-            "volunteering": true,
-            "homeless shelter": true,
-            "fitness motivation": true,
-            "fit and healthy person , positive on aerobatics ": false,
-            "stressed about doing exercise ": false
+            "user": "John",
+            "sentiment": "enthusiastic and encouraging"
         }
     },
     {
         "user_id": "Maria",
-        "raw_message": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
-        "message": "[4]: Kickboxing is a popular activity for staying fit and reducing stress, according to John.",
-        "topics": "kickboxing",
+        "raw_message": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?",
+        "message": "[8]: The user is interested in knowing what sparked John's interest.",
+        "topics": "Interest discussion",
         "emotions": "Positive",
-        "reason": "It helps with staying in shape and de-stressing",
-        "index": 4,
+        "reason": "User want to know how John get intrested",
+        "index": 8,
         "timestamp": "11:01 am on 17 December, 2022",
-        "fact": "stay in shape",
+        "fact": "discussing topic",
         "attribue": [
-            "John's hobby"
+            "user curious about john's interest"
         ]
     }
 ]

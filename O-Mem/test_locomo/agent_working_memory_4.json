@@ -1,272 +1,275 @@
 [
   {
     "attribue": [
-      "user in new city,"
+      "user is social.",
+      "user is outgoing."
     ],
     "emotions": "Positive",
-    "fact": "Meeting someone named TIM",
+    "fact": "user introduce him self.",
     "index": 0,
-    "message": "[0]: A user introduces themselves and asks about the recipient's life.",
+    "message": "[0]: A casual message from the user, trying to initiate a conversation with Tim.",
     "raw_message": "Hey Tim, nice to meet you! What's up? Anything new happening?",
-    "reason": "The user is making an effort to be friendly and make conversation.",
+    "reason": "The user is open and friendly towards getting to know someone new",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "Introduction",
+    "topics": "geting to know someone new",
     "user_id": "John"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "user enthusiasm for the upcoming season"
+    ],
     "emotions": "Positive",
-    "fact": "signed a new job",
+    "fact": "new team signed",
     "index": 2,
-    "message": "[2]: The user is excited about signing with a new team.",
+    "message": "[2]: The user just signed with a new team and is excited for the upcoming season.",
     "raw_message": "That's great! I just signed with a new team - excited for the season!",
-    "reason": "Signing a new contract excites and motivates the person.",
+    "reason": "The user is positive about signing with the new team and looking forward to the upcoming season",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "New Job/Contract",
+    "topics": "signed with a new sports team",
     "user_id": "John"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "user is a fan of the team"
+    ],
     "emotions": "Positive",
-    "fact": " Minnesota Wolves are an NBA team",
+    "fact": "play with Minnesota Wolves",
     "index": 4,
-    "message": "[4]: User excited to play with the Minnesota Wolves.",
+    "message": "[4]: User excited about playing for the Minnesota Wolves.",
     "raw_message": "The Minnesota Wolves! I can't wait to play with them!",
-    "reason": "Excitement towards playing for the team",
+    "reason": "They want to play with the team",
     "timestamp": "7:48 pm on 21 May, 2023",
     "topics": "Minnesota Wolves",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user excited"
+      "User is a team member",
+      "User is excited and enthusiastic about playing basketball"
     ],
     "emotions": "Positive",
-    "fact": "Team playing in Season Opener",
+    "fact": "The user is a shooting guard",
     "index": 6,
-    "message": "[6]: {\"text\": \"I\u2019m a shooting guard for the team and our season opener is next week - so excited! (image description: a photo of a bunch of basketball jerseys laying on a bed)\", \"tags\": {\"topic\": [\"basketball\", \u2019season opener\u2019], \"attitude\": [\\",
+    "message": "[6]: The user is a team player excited for the upcoming game.",
     "raw_message": "I'm a shooting guard for the team and our season opener is next week - so excited! (image description: a photo of a bunch of basketball jerseys laying on a bed)",
-    "reason": "Excitement about the upcoming season opener",
+    "reason": "Excited for the upcoming game",
     "timestamp": "7:48 pm on 21 May, 2023",
     "topics": "basketball",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user's motivation to practice basketball"
+      "user determined",
+      "user focused"
     ],
-    "emotions": "Positive, Confident",
-    "fact": "Been practicing hard",
+    "emotions": "Positive",
+    "fact": "improve shooting percentage",
     "index": 8,
-    "message": "[8]: The user aims to improve their shooting percentage with hard work.",
+    "message": "[8]: The user aims to improve their shooting percentage through intense practice.",
     "raw_message": "Yeah, my goal is to improve my shooting percentage. Been practicing hard and gonna make it happen. (image description: a photo of two men standing next to a basketball machine)",
-    "reason": "My goal is to improve my shooting percentage",
+    "reason": "The user wants to improve their shooting percentage through practice.",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "improving shooting percentage",
+    "topics": "sports training",
     "user_id": "John"
   },
   {
     "attribue": [
-      "Athlete adapts to team"
+      "player struggle to fit with teammates"
     ],
-    "emotions": "Neutral",
-    "fact": "pre-season",
+    "emotions": "Negative",
+    "fact": "team soccer",
     "index": 10,
-    "message": "[10]: Fitting into a new sports team was a challenging experience during pre-season.",
+    "message": "[10]: The player struggles to adapt to the new team's style of play during preseason.",
     "raw_message": "Fitting into the new team's style of play was a challenge during pre-season.",
-    "reason": "The challenge in adjusting to the new team's style of play.",
+    "reason": "the new team's style of play is a challenge",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "Transitioning to a New Sports Team",
+    "topics": "team soccer",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user appreciate friendly team"
+      "user seems to be optimistic",
+      "user seems happy with the team's progress"
     ],
     "emotions": "Positive",
-    "fact": "The user having fun, The fan project coming along",
+    "fact": "Team had nice progress, the user had fun",
     "index": 12,
-    "message": "[12]: The user is sharing their positive experience with their fan project.",
+    "message": "[12]: The user is having a positive experience with their team.",
     "raw_message": "Things are going well! The team has been really nice and I'm having fun. How's your fan project coming along? (image description: a photo of a bench in a locker with several lockers behind it)",
-    "reason": "The team has been really nice and have provided a supportive environment for the user.",
+    "reason": "The team has been really nice and the user is having fun.",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "fan project",
+    "topics": "team progress",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user loves talking to other people about sneakers",
-      "user is enthusiastic about collaborations"
+      "The speaker seems to value appreciation.",
+      "user is passionate about sneakers."
     ],
-    "emotions": "Positive, enthusiastic",
-    "fact": "Talking to others about his sneaker collection",
+    "emotions": "Positive",
+    "fact": "the fan project.",
     "index": 14,
-    "message": "[14]: The user shows enthusiasm for the topic of sneaker collections and is interested in connecting with others who share their passion.",
+    "message": "[14]: The speaker expresses positivity and appreciation towards passions related to a fan project, specifically sneaker collections.",
     "raw_message": "That's great! Loving it when people are passionate about their work. What kind of collaborations are you involved in for the fan project? I love talking to people about my sneaker collection. (image description: a photo of a circle of shoes on the floor in a room)",
-    "reason": "Enthusiastic for collaborations with like-minded individuals about their shared interest in sneakers.",
+    "reason": "The speaker appreciates passion and enthusiasm regarding work.",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "sneaker collection",
+    "topics": "Fan Project",
     "user_id": "John"
   },
   {
-    "attribue": [
-      "user's imagination"
-    ],
-    "emotions": "Positive",
-    "fact": "Book Store",
+    "attribue": [],
+    "emotions": "Curious",
+    "fact": "have you been to any related places",
     "index": 16,
-    "message": "[16]: The user asks if you have been to any bookstores and reacts enthusiastically.",
+    "message": "[16]: The user asks if someone has visited a related location.",
     "raw_message": "Wow! Have you been to any places related to it? (image description: a photo of a bookcase filled with books and toys)",
-    "reason": "The user is curious about the places associated with a bookcase.",
+    "reason": "The user is curious about the places in the image.",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "Bookstore",
+    "topics": "a place or location",
     "user_id": "John"
   },
   {
     "attribue": [
-      "The user have a fun attitude"
+      "User excited about travel"
     ],
     "emotions": "Positive",
-    "fact": "Go to Places",
+    "fact": "places are goint be on list",
     "index": 18,
-    "message": "[18]: Definitely going to those places.",
+    "message": "[18]: The user has future plans to visit those places.",
     "raw_message": "No, but it sounds fun! Going to those places is definitely on my to-do list.",
-    "reason": "The user consider it fun and therefore add to their To-Do List",
+    "reason": "Sounds fun and goes into future plans",
     "timestamp": "7:48 pm on 21 May, 2023",
-    "topics": "Travel",
+    "topics": "future plans",
     "user_id": "John"
   },
   {
     "attribue": [
-      "User passionate about books",
-      "User looking for career opportnuiteis"
+      "User enthusiastic about sharing passions and pursuing new opportunities",
+      "Value hard work and rewards"
     ],
     "emotions": "Positive",
-    "fact": "user had blast talking about books",
+    "fact": "Recently had a blast talking books with fellow book lovers",
     "index": 21,
-    "message": "[21]: The user had a great time discussing books and is excited about potential new opportunities.",
+    "message": "[21]: The user is excited to explore endorsement opportunities and connect with others who share their passion for books.",
     "raw_message": "Wow, great to hear that you had a blast talking books! It's cool to connect with others who share your passion. On a different note, exciting things are happening--I'm exploring endorsement opportunities. Thinking about the possibilities pumps me up. It would be amazing to work with brands and do something special. It's so rewarding to have my hard work pay off like this.",
-    "reason": "Connecting with others over shared passion, Exploring new career opportunities, Possibilities pump user up",
+    "reason": "Connect with others who share passion",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "book discussing",
+    "topics": "Book Club Discussion",
     "user_id": "John"
   },
   {
     "attribue": [
-      "Enthusiastic about career possibilities",
-      "Valuing personal interests and values"
+      "user expresses enthusiasm for exploring career/mentorship opportunities",
+      "User identifies self as open to collaboration"
     ],
-    "emotions": "Positive, Open-minded",
-    "fact": "Considering sports brands like Nike and Under Armour",
+    "emotions": "Positive",
+    "fact": "Considering sports brands",
     "index": 23,
-    "message": "[23]: The user is excited about a new journey considering sports brands.",
+    "message": "[23]: The user is excited about the possibility of collaborating with sports brands on their journey.",
     "raw_message": "Thanks! I'm really excited about this new journey! I'm currently considering sports brands like Nike and Under Armour. It would be great to collaborate with brands that are related to sports. However, I'm also open to exploring other brands that align with my values and interests. There are so many options out there, and I can't wait to see where this takes me!",
-    "reason": "Collaboration with sports-related brands or finding alignment with personal values and interests",
+    "reason": "Open to collaborate with sports related brands",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "career opportunity",
+    "topics": "Career/Mentorship Opportunities",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user enthusiastic about brand choices",
-      "user values other's support"
+      "the user is very happy and excited about their new career journey"
     ],
     "emotions": "Positive",
-    "fact": "Brand choices will be updated",
+    "fact": "start looking for new jojb",
     "index": 25,
-    "message": "[25]: The user expresses gratitude and enthusiasm for their upcoming brand choice journey.",
+    "message": "[25]: The user will keep the interviewer updated on their choices.",
     "raw_message": "Thanks! Exciting times ahead! I'll keep you updated on which brands I choose. Can't wait to see where this journey leads me. Thanks for your support.",
-    "reason": "Exciting times ahead",
+    "reason": "choosing between good bransd",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "brand choice",
+    "topics": "job search",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user like books"
+      "user likes the design"
     ],
     "emotions": "Positive",
-    "fact": "the user said that the bookshelf & picture are nice",
+    "fact": "person appreciate the bookshelf",
     "index": 27,
-    "message": "[27]: The user likes a bookshelf with an interesting picture.",
+    "message": "[27]: A person is positive about a new bookshelf with interesting design.",
     "raw_message": "Wow, nice bookshelf! That picture is really interesting. What's up with it?",
-    "reason": "Like the bookshelf",
+    "reason": "The design are very nice",
     "timestamp": "5:08 pm on 15 June, 2023",
     "topics": "bookshelf",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user has high motivation level",
-      "positive on achieving goals"
+      "user's personality is positive",
+      "user enjoys having fun"
     ],
     "emotions": "Positive",
-    "fact": "Enthusiasm",
+    "fact": "The user appreciates your enthusiasm.",
     "index": 29,
-    "message": "[29]: The user holds a positive attitude towards having a goal.",
+    "message": "[29]: The user expresses admiration and enthusiasm towards someone.",
     "raw_message": "Wow, having that is so cool! Your enthusiasm for it is awesome. You really go for it!",
-    "reason": "Having a goal can be very motivating",
+    "reason": "The user finds the topic enthusiastic and enjoyable.",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "goal setting",
+    "topics": "Your Enthusiasm",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user value relaxation ",
-      "the user ask if reminder helps daily grind"
+      "user likes relaxation",
+      "user wants relief"
     ],
-    "emotions": "Neutral",
-    "fact": "user's questions about reminders and visitings place related with daily grind",
+    "emotions": "Mixed",
+    "fact": "reminders help escape the daily grind",
     "index": 31,
-    "message": "[31]: The user asks if reminders help to escape the daily grind and visit places related to it.",
+    "message": "[31]: User is interested in reminders helping them relax.",
     "raw_message": "Do those reminders help you escape the daily grind? Any chance you'll visit more places related to that world soon?",
-    "reason": "The user asks if reminder can help to escapre the daily",
+    "reason": "Reminders are a way for people to relieve stress",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "Daily Grind",
+    "topics": "life reminders",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user enjoy playing basketball",
-      "user's current mood: positive"
+      "user value fun"
     ],
     "emotions": "Positive",
-    "fact": "recent game",
+    "fact": "the user enjoy playing basketball",
     "index": 33,
-    "message": "[33]: The user expresses excitement and appreciation for their new experience.",
+    "message": "[33]: The user is enthusiastic and excited about playing basketball.",
     "raw_message": "That sounds awesome! So cool that you get to immerse yourself in that world. So glad you found something that brings you so much joy. Keep diving in and enjoying it! Here's a pic from a recent game. (image description: a photo of a basketball game being played in a gym)",
-    "reason": "The user is glad they found something that brings them so much joy.",
+    "reason": "The user is happy about playing basketball and immersing in that world",
     "timestamp": "5:08 pm on 15 June, 2023",
     "topics": "basketball",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user is enthusiastic about gaming"
+      "user do what they love"
     ],
     "emotions": "Positive",
-    "fact": "just played a game",
+    "fact": "being in the game",
     "index": 35,
-    "message": "[35]: The user shares their excitement about playing a recent game.",
+    "message": "[35]: The user had an awesome experience after playing a game.",
     "raw_message": "Thanks! That was from a game I just played. I was in it! It was awesome being out there, doing what I love. Such an awesome feeling.",
-    "reason": "The excitement and thrill of playing a game they enjoy",
+    "reason": "doing what I love",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "Playing sports",
+    "topics": "Playing Game",
     "user_id": "John"
   },
   {
     "attribue": [
-      "enthusiastic",
-      "dedicated"
+      "user is very driven"
     ],
     "emotions": "Positive",
-    "fact": "gives their all every time",
+    "fact": "being given support",
     "index": 37,
-    "message": "[37]: The user appreciates your support while giving it their all in basketball.",
+    "message": "[37]: The user appreciates the support when playing basketball,",
     "raw_message": "Thanks! It's a blast. Giving it my all every time I'm on the court. Really appreciate your support!",
-    "reason": "The user appreciates support and gives their best effort",
+    "reason": "the support from others",
     "timestamp": "5:08 pm on 15 June, 2023",
-    "topics": "sports",
+    "topics": "basketball",
     "user_id": "John"
   }
 ]

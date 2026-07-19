@@ -1,291 +1,291 @@
 [
   {
     "attribue": [
-      "user's age: likely young adult",
-      " user's name: Dave"
+      " user is friendly",
+      "user is interested in getting to know others"
     ],
     "emotions": "Positive",
-    "fact": "we talked",
+    "fact": "Met Dave previously",
     "index": 0,
-    "message": "[0]: The user sends a greeting and inquires about the conversation that took place.",
+    "message": "[0]: The user expresses a positive attitude towards meeting and greets Dave, showing curiosity about his well-being.",
     "raw_message": "Hey Dave! Nice to meet you! How's it going since we talked?",
-    "reason": "Familiarity and friendly demeanor",
+    "reason": "To get to know each other better",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "greeting",
+    "topics": "Meet and Greet",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user value material possessions",
-      "user's personal achievement"
+      "user seems excited about their new home"
     ],
     "emotions": "Positive",
-    "fact": "user just had big life change",
+    "fact": "user just had a big life change",
     "index": 2,
-    "message": "[2]: The user is excited about their recent big life change and new home.",
+    "message": "[2]: The user's excitement about a recent life-changing event.",
     "raw_message": "That event sounds great! Something really exciting happened to me - I just had a big life change! Here's my new mansion - pretty cool huh? (image description: a photo of a building with a sign on the front of it)",
-    "reason": "The user finds their new life change exciting and enjoys sharing the experience.",
+    "reason": "Something really exciting and big happened to me",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "New Mansion",
+    "topics": "move into new hous",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user value education"
+      "user excited",
+      "user looking forward"
     ],
     "emotions": "Positive",
-    "fact": "Learn Japanese Culture",
+    "fact": "get a chance to expand",
     "index": 4,
-    "message": "[4]: The user is excited to learn about Japanese culture.",
+    "message": "[4]: The user expresses enthusiasm for learning Japanese culture and expanding their knowledge.",
     "raw_message": "I'm so excited to learn about Japanese culture and get a chance to expand.",
-    "reason": "The user is excited to learn and expand knowledge on Japanese culture.",
+    "reason": "The user is positive towards learning Japanese Culture",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "Japanese Culture",
+    "topics": "learning about Japanese culture",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user curious about foreign customs"
+      "user curious about different cultures"
     ],
     "emotions": "Positive",
-    "fact": "the user is visiting a new destination",
+    "fact": "never visited the place before",
     "index": 6,
-    "message": "[6]: The user is excited to visit the new place due to its traditions.",
+    "message": "[6]: The user is eager to experience a new culture after never visiting the destination before.",
     "raw_message": "Never been there before. Fascinated by the traditions and can't wait to get a taste of the culture.",
-    "reason": "traditions and culture attract their attention",
+    "reason": "Fascination with local traditions",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "traveling to a new place",
+    "topics": "traveling to a new destination",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "nice place",
-      "user staying for a month"
+      "user value comfort in travel"
     ],
     "emotions": "Positive",
-    "fact": "Next month",
+    "fact": "the user go on a trip",
     "index": 8,
-    "message": "[8]: The user will visit and stay in a nice place.",
+    "message": "[8]: User is excited to have a comfortable stay.",
     "raw_message": "I'm heading there next month. I'll be staying in such a nice place while I'm there.\n\n (image description: a photo of a living room with a couch, table, and television)",
-    "reason": "Stay in such nice place",
+    "reason": "The user feels positive when thinking about staying in a nice place.",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "Traveling",
+    "topics": "trip",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user's health"
+      "user expresses thankfulness",
+      "use mentioned someone agent"
     ],
     "emotions": "Positive",
-    "fact": "personal traniner found this gym",
+    "fact": "a person was helped by his agent",
     "index": 10,
-    "message": "[10]: My agent finds a good place for the user.",
+    "message": "[10]: The user is extremely thankful and excited about a new place found by their agent.",
     "raw_message": "Wow, my agent found me this awesome place, so thankful!",
-    "reason": "The personal trainer could make good recommendation",
+    "reason": "The person is grateful for being helped by their agent",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "a new gym",
+    "topics": "move to a new home",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "enjoy experience living in city, enjoy new food"
+      "user wants try out local cuisines"
     ],
-    "emotions": "Positive",
-    "fact": "Planning to explore city and collaboration of musicians",
+    "emotions": "positive",
+    "fact": "Want to explore a new city",
     "index": 12,
-    "message": "[12]: The user plans to explore the city for its cuisine and music scene.",
+    "message": "[12]: The user is planning to travel and explore a new city.",
     "raw_message": "I'm planning to explore the city, try out different local cuisines, and perhaps collaborate with musicians in the area.",
-    "reason": "To try out different local cuisines & Collaborate with Musicians",
+    "reason": "Collaboration and experiencing music in the area",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "city exploration",
+    "topics": "travel",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user is excited"
+      "Excitement for new experiences"
     ],
     "emotions": "Positive",
-    "fact": "trip to japan, and then another trip after that",
+    "fact": "upcoming trip to Japan and Boston",
     "index": 14,
-    "message": "[14]: The user is looking forward to two upcoming trips.",
+    "message": "[14]: The user is excited about their upcoming travel plans.",
     "raw_message": "I'm gonna be in Japan for a few months then off to Boston! I can't wait!",
-    "reason": "The upcoming trip is something the user looks forward to",
+    "reason": "Looking forward to exploring Japan and visiting Boston",
     "timestamp": "11:53 am on 23 March, 2023",
     "topics": "traveling",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user never been on that park",
-      "User will go back to check out"
+      "user have never been to that park",
+      "user likes relax",
+      "user has not visted any park yet"
     ],
-    "emotions": "Positive",
-    "fact": "Check the park in future",
+    "emotions": "Neutral/Mixed:Positive",
+    "fact": "Im probaby check the place out when im back",
     "index": 16,
-    "message": "[16]: The user is excited about visiting the chill park when they return.",
+    "message": "[16]: The user is open to visiting a park they've never been to.",
     "raw_message": "No, I've never been in that park. Looks like a chill spot. I'll definitely check it out when I'm back. Appreciate the tip!",
     "reason": "Looks like a chill spot",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "chill park",
+    "topics": "park visit",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user is grateful , author want to say thank you"
+      "user appreciates Dave help"
     ],
     "emotions": "Positive",
-    "fact": "author mentions the possibility of needing further assistance",
+    "fact": "Dave's helper",
     "index": 18,
-    "message": "[18]: The user expresses their gratitude and willingness to ask for help from Dave.",
+    "message": "[18]: The user expresses gratitude to Dave for his assistance.",
     "raw_message": "Thanks, Dave! If I need any help, I'll be sure to let you know. Stay safe!",
-    "reason": "The author appreciates Dave's support and would like to ask for help when needed",
+    "reason": "Dave is being helpful.",
     "timestamp": "11:53 am on 23 March, 2023",
-    "topics": "help needed",
+    "topics": "gratitude message",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "Dave is very excited",
-      "The user likes luxuary cars"
+      "user happy with car purchase",
+      "enthusiasm when talking about the car"
     ],
     "emotions": "Positive",
-    "fact": "I just got a new luxury car",
+    "fact": "I just got a new car",
     "index": 19,
-    "message": "[19]: The user is extremely happy about buying their first luxury car.",
+    "message": "[19]: The user is very excited to have bought a new luxury car, which was their long-held dream.",
     "raw_message": "Hey Dave, been a few days, so I wanted to let you in on some cool news.  I just got a new car and it's amazing! Finally owning a luxury car was a dream come true and I'm so stoked.",
-    "reason": "I am so stoked after buying the new car",
+    "reason": "Finally owning a luxury car was a dream come true",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "buying new car",
+    "topics": "buying a new car",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user enjoys driving",
-      ""
+      "user is enthusiastic about cars"
     ],
     "emotions": "Positive",
-    "fact": "the user's car is described as 'super smooth' and 'real powerful'",
+    "fact": "enjoying the car's performance",
     "index": 21,
-    "message": "[21]: The user expresses high praise for their car, describing it as 'amazing', 'smooth', and 'powerful'.",
+    "message": "[21]: The user enjoys their car and is thrilled with its performance.",
     "raw_message": "Nice car! It's an amazing ride - super smooth and real powerful. Like a rockstar behind the wheel! Thanks, man!",
-    "reason": "The user appreciates the car's performance and power",
+    "reason": "Enjoyment of the driving experience",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "car review",
+    "topics": "car ownership",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "User enjoys the thrill of driving",
-      "User has put in hard work"
+      "user value luxury",
+      "user enjoys adrenaline rush"
     ],
     "emotions": "Positive",
-    "fact": "Got a new sports car yesterday",
+    "fact": "buy sports car",
     "index": 23,
-    "message": "[23]: The user is thrilled and proud to own a new sports car after putting in hard work.",
+    "message": "[23]: The user is excited and proud of his new possession.",
     "raw_message": "Woohoo! I finally got myself this beauty. Here's a pic from yesterday when I took it for a ride. Can't believe I'm actually driving it. Definitely what I deserve after all this hard work. Every time I step in, it's like an adrenaline rush! (image description: a photo of a red sports car parked on the side of the road)",
-    "reason": "Hard work paid off, got what I deserved",
+    "reason": "After a lot of hard work, the user feels that he deserved to buy a sports car.",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "owning a sports car",
+    "topics": "purchasing/cars",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user feels happy and successful"
+      "user have a positive attitude"
     ],
     "emotions": "Positive",
-    "fact": "Hard work",
+    "fact": "user feel great about his/her success",
     "index": 25,
-    "message": "[25]: The user is feeling very positive after hard work pays off.",
+    "message": "[25]: The user is feeling happy and successful with their job.",
     "raw_message": "Woah, I'm on cloud nine! Hard work pays off. What's up with you, Dave?",
-    "reason": "Hard work pay off",
+    "reason": "The user is successful and happy with their job.",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "user's success",
+    "topics": "job success",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user has fun"
+      "User likes music"
     ],
-    "emotions": "Positive",
-    "fact": "an event sounds good",
+    "emotions": "Mixed",
+    "fact": "The user asking about favorite movie",
     "index": 27,
-    "message": "[27]: The user had a good time at an unspecified event and is asking another person which one they liked most.",
+    "message": "[27]: The user is asking for a recommendation.",
     "raw_message": "Wow, sounds like a blast! Which one was your favorite?",
-    "reason": "The user is enthusiastic about the event",
+    "reason": "The user is inquiring which one of the movies to consider as their favorite",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "favorable comments about events or activities",
+    "topics": "Favorite movie",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user is a fan of rock music"
+      "user like music",
+      "user young age"
     ],
     "emotions": "Positive",
-    "fact": "the user mentioned the band name 'Aerosmith'",
+    "fact": "user say 'cool'",
     "index": 29,
-    "message": "[29]: The user is expressing enthusiasm and admiration for Aerosmith.",
+    "message": "[29]: User expresses enthusiasm for Aerosmith.",
     "raw_message": "Cool! Lovin' Aerosmith.",
-    "reason": "The user expresses enthusiasm and admiration for Aerosmith.",
+    "reason": "The user is enthusiastic about Aerosmith",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "Aerosmith",
+    "topics": "music",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "fan of rock music"
+      "user enjoy social interaction"
     ],
     "emotions": "Positive",
-    "fact": "Attended rock concert",
+    "fact": "Dave meet friends who sings favoritely",
     "index": 31,
-    "message": "[31]: Dave had a great time at a Rock concert",
+    "message": "[31]: The user had met his friends sing live and likely had a positive experience.",
     "raw_message": "Cool, Dave! Seeing your favorite singers live must have been wild! Did you get a chance to hang out with them after the show?",
-    "reason": "Enthusiasm towards favorite singer",
+    "reason": "Meeting someone favorite singer is highly enjoyable",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "Rock concert",
+    "topics": "Meeting favorite singers",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user is a fan of artistic performances"
+      "User: Music Lover"
     ],
     "emotions": "Positive",
-    "fact": "always chasing dreams of seeing favorite artist perform",
+    "fact": "went back home",
     "index": 33,
-    "message": "[33]: The user shares joy and excitement about attending a live concert of their favorite artist.",
+    "message": "[33]: The user attended a concert of their favorite band.",
     "raw_message": "Yeah, it's always a dream to see your favorites doing their thing! So glad you got to experience that.",
-    "reason": "The artist's performance allows the user to experience their dream come true",
+    "reason": "The joy of music and the excitement of seeing favorite band live.",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "Favorite Artist",
+    "topics": "favorite band",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user is enthusiastic",
-      "user values music career"
+      "user enjoy driving",
+      "user value collaboration"
     ],
     "emotions": "Positive",
-    "fact": "bought a new car",
+    "fact": "got a new ride",
     "index": 35,
-    "message": "[35]: The user is proud of their collaborative work on new songs.",
+    "message": "[35]: The user is positive about their music collaboration and shares they are excited about it.",
     "raw_message": "Got a new ride and wrote some new tunes - had a few studio sessions last week and I'm excited to collaborate. Can't wait to share it with everyone!",
-    "reason": "I am excited about my new music and collaborating with others",
+    "reason": "Excitement about collaborating",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "music career",
+    "topics": "music collaboration",
     "user_id": "Calvin"
   },
   {
     "attribue": [
-      "user is supportive",
-      "user want to reassure others"
+      "user is confident"
     ],
     "emotions": "Positive",
-    "fact": "previous events",
+    "fact": "The author is reassuring the other person",
     "index": 37,
-    "message": "[37]: The user provides an update on a previous event, reassuring others that it will go well.",
+    "message": "[37]: Author provides reassurance to someone",
     "raw_message": "Yeah, no worries! I'll definitely let you know how it goes. Cheers!",
-    "reason": "The user is reassuring others that everything will be okay.",
+    "reason": "I reassure the other person that everything will be alright.",
     "timestamp": "4:45 pm on 26 March, 2023",
-    "topics": "update on previous event",
+    "topics": "Support or encouragement",
     "user_id": "Calvin"
   }
 ]

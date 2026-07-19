@@ -1,273 +1,271 @@
 [
   {
     "attribue": [
-      "user has family",
-      "user happy to see others"
+      "user is friendly, The user has a hobby of going for vacations"
     ],
-    "emotions": "Positive",
-    "fact": "return from road trip last year",
+    "emotions": "Positive towards Maria and the conversation, Mixed towards the news about family vacation",
+    "fact": "Family road trip yesterday",
     "index": 1,
-    "message": "[1]: The user had a fun family road trip.",
+    "message": "[1]: The user asks about Maria and shares their positive experience on the family vacation.",
     "raw_message": "Hey Maria! Good to see you. Just got back from a family road trip yesterday, it was fun! Anything exciting happening for you?",
-    "reason": "The user mentioned the event as 'fun' and expressed enthusiasm",
+    "reason": "The good atmosphere of the message indicates the user's positive attitude towards their encounter with Maria",
     "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "family road trip",
+    "topics": "family vacation",
     "user_id": "John"
   },
   {
     "attribue": [
-      "User value the energy"
+      "user engages in kickboxing"
     ],
     "emotions": "Positive",
-    "fact": "Do Kickboxing",
+    "fact": "Kickboxing is giving me so much energey",
     "index": 3,
-    "message": "[3]: The user enjoy engaging in kickboxing and it brings them a lot of energy.",
+    "message": "[3]: User engaging kickboxing gives positive results",
     "raw_message": "Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
-    "reason": "Kickboxing gives me a lot of energy",
+    "reason": "Kickboxing has given him the extra energy he needs",
     "timestamp": "11:01 am on 17 December, 2022",
     "topics": "kickboxing",
     "user_id": "John"
   },
   {
+    "attribue": [
+      "user value community,"
+    ],
+    "emotions": "Positive",
+    "fact": "user want to get into local politics",
+    "index": 5,
+    "message": "[5]: User expresses interest in local politics for the sake of helping the community.",
+    "raw_message": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place.",
+    "reason": "The user wants to help the community with their passion for politics.",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "getting involved in local politics",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "community driven",
+      "user value education"
+    ],
+    "emotions": "Positive",
+    "fact": "My passion is to improve",
+    "index": 7,
+    "message": "[7]: The user expressed their passion for improving community education and infrastructure.",
+    "raw_message": "I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+    "reason": "The importance of community improvement",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "Improving Community Education",
+    "user_id": "John"
+  },
+  {
+    "attribue": {
+      "user's experience of growing up affected by neighborhood issues": "Homegrown experience"
+    },
+    "emotions": "Concerned",
+    "fact": "lack of education,crumbling infrastructure",
+    "index": 9,
+    "message": "[9]: The author shares their personal story of how lack of education and crumbling infrastructure in his neighborhood affected him and expresses the importance of funding schools and infrastructure.",
+    "raw_message": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding. (image description: a photo of a group of men working on a building)",
+    "reason": "The user sees lack of education and infrastructure as a major issue in his neighborhood",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "Neighborhood Development",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "The university is taking good care of its students"
+    ],
+    "emotions": "Positive",
+    "fact": "enabling much needed repairs and renovations",
+    "index": 11,
+    "message": "[11]: The university's renovation made the learning environment safer and more modern for students.",
+    "raw_message": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+    "reason": "it is safe and more modern to study",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "university renovation",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "user wants to be proactive",
+      "user wants success"
+    ],
+    "emotions": "Positive towards the next move",
+    "fact": "Plan to chat with local leaders and organizations",
+    "index": 13,
+    "message": "[13]: The user plans to take initiative by chatting with local leaders and organizations.",
+    "raw_message": "I'm gonna chat with local leaders and organizations, get support and gather ideas for my next move.",
+    "reason": "Gathering support and ideas from local leaders and organizations for the next move",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "taking initiative",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "user expresses appreciativene",
+      "user is positive about the agreement"
+    ],
+    "emotions": "Positive",
+    "fact": "The user accepts the agreement with no specification",
+    "index": 15,
+    "message": "[15]: The user confirms and thanks for the agreement.",
+    "raw_message": "Got it! Thanks, Maria. I definitely will.",
+    "reason": "Expressing agreement and gratitude towards Maria's help",
+    "timestamp": "11:01 am on 17 December, 2022",
+    "topics": "Agreement",
+    "user_id": "John"
+  },
+  {
     "attribue": [],
     "emotions": "Positive",
-    "fact": "hope to get into local politics",
-    "index": 5,
-    "message": "[5]: The user hopes to get into local politics.",
-    "raw_message": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place.",
-    "reason": "The user loves helping the community",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "local politics",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "community-focused individual",
-      "passionate about improvement"
-    ],
-    "emotions": "Positive",
-    "fact": "community",
-    "index": 7,
-    "message": "[7]: The user is passionate about improving education and infrastructure in the community.",
-    "raw_message": "I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
-    "reason": "Improving education and infrastructure",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "EducationImprovementCommunity",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "user has past experience with poor infrastructure"
-    ],
-    "emotions": "Positive",
-    "fact": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood",
-    "index": 9,
-    "message": "[9]: The user wants to fund schools and infrastructure properly to prevent future generations from suffering.",
-    "raw_message": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding. (image description: a photo of a group of men working on a building)",
-    "reason": "The need to fund schools and infrastructure properly in order to prevent future generations from suffering the negative consequences of lack of education and crumbling infrastructure.",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "Infrastructure Funding",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "The school has made improvements"
-    ],
-    "emotions": "Positive",
-    "fact": "enabled needed repairs and renovations",
-    "index": 11,
-    "message": "[11]: The school renovated its facilities, making it a better place for students.",
-    "raw_message": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
-    "reason": "made the learning environment safer and more modern",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "school renovation",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "user is proactive",
-      "user may have a community-based project"
-    ],
-    "emotions": "Positive",
-    "fact": "chat with local leaders",
-    "index": 13,
-    "message": "[13]: The user plans to chat with local leaders and organizations for potential support.",
-    "raw_message": "I'm gonna chat with local leaders and organizations, get support and gather ideas for my next move.",
-    "reason": "To get support and gather ideas",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "planning a new venture",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "user is thankful for help"
-    ],
-    "emotions": "Positive",
-    "fact": "user got confirmation from Maria",
-    "index": 15,
-    "message": "[15]: The user expresses gratitude and confirms their understanding after receiving help from Maria.",
-    "raw_message": "Got it! Thanks, Maria. I definitely will.",
-    "reason": "Maria's assistance confirmed the user's understanding",
-    "timestamp": "11:01 am on 17 December, 2022",
-    "topics": "Confirmation of understanding",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "user is sociable, uses networking for input"
-    ],
-    "emotions": "Positive",
-    "fact": "Networking",
+    "fact": "Networked with people recently",
     "index": 17,
-    "message": "[17]: Maria has had an interesting experience with networking.",
+    "message": "[17]: A user has been networking with people to get their input and feedback.",
     "raw_message": "Hi Maria! It's been an interesting ride so far. I've been networking with some people to get their input.",
-    "reason": "Get their input from other people",
+    "reason": "Seeking feedback and guidance from others",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "networking",
+    "topics": "Networking or Professional Development",
     "user_id": "John"
   },
   {
     "attribue": [
-      "Enthusiastic learner",
-      "Mentorship interest"
+      "user enthusiastic about education"
     ],
     "emotions": "Positive",
-    "fact": "Just had a conversation about education",
+    "fact": "Met someone who shared some amazing stories",
     "index": 19,
-    "message": "[19]: The user is inspired to improve education after hearing stories.",
+    "message": "[19]: The user's enthusiasm for education was sparked after talking to someone who shared inspiring stories.",
     "raw_message": "I just talked to someone who shared some amazing stories. It really fired up my passion to make education better in our area.",
-    "reason": "Inspired by hearing others' stories",
+    "reason": "The person's stories inspired the user's passion to improve education",
+    "timestamp": "6:10 pm on 22 December, 2022",
+    "topics": "passion for education improvement",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "User emphasizes the importance of investing in education"
+    ],
+    "emotions": "Positive",
+    "fact": "Importance of education and investment in future generations' development",
+    "index": 21,
+    "message": "[21]: The user highlights the significance of investing in our future generations for their success.",
+    "raw_message": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity.",
+    "reason": "Investing is key to future generations' success",
     "timestamp": "6:10 pm on 22 December, 2022",
     "topics": "Education",
     "user_id": "John"
   },
   {
     "attribue": [
-      "Age: likely a teacher or adult in the education sector"
+      "user appreciates encouragement",
+      "Maria's encouragement was crucial"
     ],
     "emotions": "Positive",
-    "fact": "Gives tools for success",
-    "index": 21,
-    "message": "[21]: Maria agrees that investing in future generations is key to their success.",
-    "raw_message": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity.",
-    "reason": "Investing in our future generations is key to providing them with necessary tools for success.",
-    "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "Education Investment",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "user appreciates motivation",
-      "user wants to make a difference in the community"
-    ],
-    "emotions": "Positive",
-    "fact": "encouragement is valuable",
+    "fact": "encouragement from Maria",
     "index": 23,
-    "message": "[23]: Your words mean everything to the user, who appreciates your encouragement and its potential impact on the community.",
+    "message": "[23]: Maria's encouragement means a lot to the user, who believes it can make a real difference in their community.",
     "raw_message": "Thanks, Maria. Your encouragement means a lot to me. It's true that with effort and support, we can make a real difference in our community.",
-    "reason": "The value of community support and encouragement to create positive change",
+    "reason": "The positive impact of encouragement on community development",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "Encouragement",
+    "topics": "community development",
     "user_id": "John"
   },
   {
     "attribue": [
-      "user value family support",
-      "user is motivated and determined"
+      "user is grateful and determined",
+      "user's family is loved"
     ],
     "emotions": "Positive",
-    "fact": "The user received help from Maria.",
+    "fact": "receive help from someone else",
     "index": 25,
-    "message": "[25]: The user expresses gratitude towards Maria for her motivational help.",
+    "message": "[25]: The user expresses gratitude towards Maria for her motivating help.",
     "raw_message": "Thanks a lot, Maria. Your help is really motivating and makes me more determined. Here's a pic of my family - they're the reason why I never give up. Their love gives me strength. (image description: a photography of a family having a picnic in the park)",
-    "reason": "The user's motivation and determination are strengthened by their family's love and support",
+    "reason": "Family love and motivation from Maria",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "family support",
+    "topics": "inspiration",
     "user_id": "John"
   },
   {
     "attribue": [
-      "Maria is passionate about making a positive impact"
+      "user struggle with burnout",
+      "user value personal growth"
     ],
     "emotions": "Positive",
-    "fact": "remind Maria of passion",
+    "fact": "The user has experienced burnout before",
     "index": 27,
-    "message": "[27]: Maria thanks others for help with staying centered and feeling her passion for positive impact.",
+    "message": "[27]: Self-help books helped the user regain their passion for making a positive impact.",
     "raw_message": "Thanks, Maria. They really help me stay centered. They remind me why I'm so passionate about making a positive impact.",
-    "reason": "Helping to stay centered,",
+    "reason": "The books help me regain passion and motivation after a burnout",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "mentoring",
+    "topics": "self-help books",
     "user_id": "John"
   },
   {
     "attribue": [
-      "the message is from someone appreciative of their family"
+      "User value family,"
+    ],
+    "emotions": "Positive",
+    "fact": "User has a supportive family",
+    "index": 29,
+    "message": "[29]: The message expresses gratitude for family support.",
+    "raw_message": "Yeah, they are my rock in tough times and always cheer me on. I'm really thankful for their love. Family time means a lot to me. (image description: a photography of a family enjoying a ride on a swing)",
+    "reason": "Family means a lot to the user. The user feels grateful for family",
+    "timestamp": "6:10 pm on 22 December, 2022",
+    "topics": "family",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "family values fun"
+    ],
+    "emotions": "Positive",
+    "fact": "enjoy climbing sliding & playing games",
+    "index": 31,
+    "message": "[31]: We enjoy sharing our family bond with others through various activities.",
+    "raw_message": "Thanks, Maria! We love climbing, sliding, and playing games. It's an awesome way to connect and have a blast. What do you enjoy doing with your family?",
+    "reason": "we love it",
+    "timestamp": "6:10 pm on 22 December, 2022",
+    "topics": "family bonding activities",
+    "user_id": "John"
+  },
+  {
+    "attribue": [],
+    "emotions": "Positive",
+    "fact": "spend time with family",
+    "index": 33,
+    "message": "[33]: The user expresses a positive attitude towards spending time with loved ones",
+    "raw_message": "Sounds nice, Maria! Spending time with loved ones is important.",
+    "reason": "",
+    "timestamp": "6:10 pm on 22 December, 2022",
+    "topics": "family",
+    "user_id": "John"
+  },
+  {
+    "attribue": [
+      "User valus meaningfullity",
+      "User valus being with the family"
     ],
     "emotions": "positive",
-    "fact": "their love matters",
-    "index": 29,
-    "message": "[29]: The speaker values family bonding during tough times.",
-    "raw_message": "Yeah, they are my rock in tough times and always cheer me on. I'm really thankful for their love. Family time means a lot to me. (image description: a photography of a family enjoying a ride on a swing)",
-    "reason": "Family matters alot",
+    "fact": "spend time together",
+    "index": 35,
+    "message": "[35]: The user emphasizes the importance of making memories with family.",
+    "raw_message": "Yeah Maria, making memories with family is priceless! Life is so much more meaningful when we spend time together. Here's a pic of us at dinner. (image description: a photo of a group of people standing around a kitchen table)",
+    "reason": "Making memories with family makes life more meaningful",
     "timestamp": "6:10 pm on 22 December, 2022",
     "topics": "family bonding",
     "user_id": "John"
   },
   {
     "attribue": [
-      "author is excited about their family"
+      "User values quality time with loved ones"
     ],
     "emotions": "Positive",
-    "fact": "the author's family enjoys climbing, sliding, and playing games",
-    "index": 31,
-    "message": "[31]: The author describes the joy of family activities.",
-    "raw_message": "Thanks, Maria! We love climbing, sliding, and playing games. It's an awesome way to connect and have a blast. What do you enjoy doing with your family?",
-    "reason": "We enjoy doing family acitivitys as it allows connection and blath.",
-    "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "family activities",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      " User mentioned spentgng time with Maria,"
-    ],
-    "emotions": "Positive",
-    "fact": "spendng time with lovied ones",
-    "index": 33,
-    "message": "[33]: Maria's response expresses her positive attitude towards spending time with family.",
-    "raw_message": "Sounds nice, Maria! Spending time with loved ones is important.",
-    "reason": "Time with loved ones being imporntant",
-    "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "Spending time with family",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "user value quality family time",
-      "meaning of life is found in family bonding"
-    ],
-    "emotions": "Positive",
-    "fact": "Having dinner with family",
-    "index": 35,
-    "message": "[35]: The user values spending time with their family.",
-    "raw_message": "Yeah Maria, making memories with family is priceless! Life is so much more meaningful when we spend time together. Here's a pic of us at dinner. (image description: a photo of a group of people standing around a kitchen table)",
-    "reason": "Making memories and spending time together brings true meaning to life",
-    "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "spending quality time with family",
-    "user_id": "John"
-  },
-  {
-    "attribue": [
-      "User enjoys spending time with Family"
-    ],
-    "emotions": "Positive",
-    "fact": "Meal times are always fun",
+    "fact": "family gathers for meal",
     "index": 37,
-    "message": "[37]: The user finds meal times enjoyable because it allows them to bond with their family over good food.",
+    "message": "[37]: Meal times bring the user's family closer together through shared experiences.",
     "raw_message": "Thanks, Maria! Meal times are always fun. Good food, laughs, and chats help us stay close.",
-    "reason": "Good food helps social eatin and makes family feel happy.",
+    "reason": "The enjoyment of meals brings family closer together",
     "timestamp": "6:10 pm on 22 December, 2022",
-    "topics": "Social eating",
+    "topics": "family dinner",
     "user_id": "John"
   }
 ]

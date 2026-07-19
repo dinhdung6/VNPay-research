@@ -1,282 +1,285 @@
 [
   {
-    "attribue": [],
+    "attribue": [
+      "user enjoy socializing"
+    ],
     "emotions": "Positive",
-    "fact": "Nate's friend is waiting for an update",
+    "fact": "catch up with Nate",
     "index": 1,
-    "message": "[1]: The user is catching up with a friend and inquiring about their activities.",
+    "message": "[1]: The user is catching up with Nate and sharing their recent project progress.",
     "raw_message": "Hey Nate! Long time no see! I've been working on a project lately - it's been pretty cool. What about you - any fun projects or hobbies?",
-    "reason": "Looking forward to hearing from Nate",
+    "reason": "Sharing personal experiences and showing interest in Nate's life",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "catching up with friend",
+    "topics": "catching up with friends",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "Nate wins the game"
+      "Nate's personality "
     ],
     "emotions": "Positive",
-    "fact": "winning a game",
+    "fact": "congrats wins",
     "index": 3,
-    "message": "[3]: Someone congratulated someone else on their winning game.",
+    "message": "[3]: The sender congratulates the winner.",
     "raw_message": "Wow Nate! Congrats on winning! Tell me more - what game was it?",
-    "reason": "Cheering Nate on his win",
+    "reason": "Wanted to hear about the game Nate.",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "cheering up other person",
+    "topics": "winning a game",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "the writer seems enthusiastic"
+      "the user is being complimented"
     ],
     "emotions": "Positive",
-    "fact": "The writer gives praise",
+    "fact": "An award was given",
     "index": 5,
-    "message": "[5]: The user asks about a recent achievement.",
+    "message": "[5]: The user received a compliment and asked about the nature of the award.",
     "raw_message": "Wow, great job! What was is called?",
-    "reason": "The writer wants to compliment the recipient for their achievement",
+    "reason": "Great praise for an achievement",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "achievement",
+    "topics": "awards",
     "user_id": "Joanna"
   },
   {
-    "attribue": [
-      "user's enthusiasm indicates enjoyment",
-      "non-gamers can have a blast"
-    ],
-    "emotions": "Positive",
-    "fact": "Nate had positive gaming experience",
+    "attribue": [],
+    "emotions": "Neutral/Mixed",
+    "fact": "Nate have a fun expierence",
     "index": 7,
-    "message": "[7]: The user enjoys Nate's gaming experience even though they're not into it.",
+    "message": "[7]: The user had a fun gaming experience, but is not invested in it.",
     "raw_message": "Cool, Nate! Sounds like a fun experience, even if I'm not into games.",
-    "reason": "Nate had fun despite not being into games",
+    "reason": "Not into gaming",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "video game experience",
+    "topics": "gaming experience",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user enjoy reading, watching movies and exploring"
+      "user is enthusiastic",
+      "user is friendly",
+      "user values social interaction"
     ],
-    "emotions": "Positive",
-    "fact": "reading",
+    "emotions": "Positive and Open-minded",
+    "fact": "user enjoys writing",
     "index": 9,
-    "message": "[9]: The user enjoys various hobbies.",
+    "message": "[9]: The user shares their hobbies and is open to discussing others.",
     "raw_message": "Yeah! Besides writing, I also enjoy reading, watching movies, and exploring nature. Anything else you enjoy doing, Nate?",
-    "reason": "Exploring activities bring the user joy",
+    "reason": "The user enjoys a variety of activities and is sharing with others.",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "hobbies",
+    "topics": "enjoying hobbies",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user is enthusiastic and interested in conversation"
+      "User enjoy movies ,like Nathan"
     ],
     "emotions": "Positive",
-    "fact": "no specific facts mentioned",
+    "fact": "Nathan and friend have simiarl Interests",
     "index": 11,
-    "message": "[11]: The user expresses enthusiasm about shared interests with Nate.",
+    "message": "[11]: The user and friend discuss their shared interest in Movies",
     "raw_message": "Cool, Nate! So we both have similar interests. What type of movies do you like best?",
-    "reason": "Shared interest in movies",
+    "reason": "We share similar interests",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "movies",
+    "topics": "Movies",
     "user_id": "Joanna"
   },
   {
-    "attribue": [],
+    "attribue": [
+      "User has a soft spot for emotional stories"
+    ],
     "emotions": "Positive",
-    "fact": "user likes watching romcoms",
+    "fact": "Enjoy dramas and romcoms",
     "index": 13,
-    "message": "[13]: The user has a strong affection for drama and romantic comedy films.",
+    "message": "[13]: The user prefers TV shows and movies with emotional content.",
     "raw_message": "I'm all about dramas and romcoms. I love getting immersed in the feelings and plots.",
-    "reason": "The user loves getting immersed in the feeling and plot of dramas.",
+    "reason": "Love for feelings and plots",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "dramas",
+    "topics": "TV Shows/Movies",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user like romantic movies.",
-      "user love emotions."
+      "likes to watch romantic dramas"
     ],
     "emotions": "Positive",
-    "fact": "The movie is about memory and relationships.",
+    "fact": "has watched romantics",
     "index": 15,
-    "message": "[15]: The user is very positive about seeing this romantic comedy.",
+    "message": "[15]: The user expresses their positivity towards a romantic drama.",
     "raw_message": "Yeah, totally! Have you seen this romantic drama that's all about memory and relationships? It's such a good one. (image description: a photo of a poster of a man and a woman sitting on a bench)",
-    "reason": "The user is enthusiastic about the movie.",
+    "reason": "The user enjoys watching romantic dramas.",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "Romantic Drama",
+    "topics": "romantic drama",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user enjoys buying physical copies"
+      "user enjoys watching movies",
+      "user has strong affection for the film"
     ],
     "emotions": "Positive",
-    "fact": "watched the movie 3 years ago",
+    "fact": "Watched the movie 3 years ago",
     "index": 17,
-    "message": "[17]: The user had a positive experience with the movie they watched 3 years ago, to the extent that they bought a physical copy.",
+    "message": "[17]: The user liked the movie enough to buy a physical copy.",
     "raw_message": "Yep, that movie is awesome. I first watched it around 3 years ago. I even went out and got a physical copy! (image description: a photo of a dvd on a table with a blurry background)",
-    "reason": "The user enjoyed the movie and owns it personally.",
+    "reason": "The user's emotional reaction to the movie is positive as they mention it being 'awesome'.",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "watching movies",
+    "topics": "the movie",
     "user_id": "Joanna"
   },
   {
-    "attribue": [],
-    "emotions": "Positive",
-    "fact": "User say it's one of their favorites",
+    "attribue": [
+      "the author a fan."
+    ],
+    "emotions": "positive",
+    "fact": "This is a favorite",
     "index": 19,
-    "message": "[19]: ",
+    "message": "[19]: The user mentioned it's one of their favorites and likes the idea and acting.",
     "raw_message": "A few times. It's one of my favorites! I really like the idea and the acting.",
-    "reason": "The user likes the idea and acting in a movie",
+    "reason": "Favorite part is great",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "movie",
+    "topics": "Favorite Movie/Book or TV Show",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "author is friendly",
-      "user is Nate"
+      "author have no problem"
     ],
     "emotions": "Positive",
-    "fact": "the author made something",
+    "fact": "check out something, invite Nate",
     "index": 21,
-    "message": "[21]: Author shares something and asks for the user's opinion.",
+    "message": "[21]: Author responds positively, asking if user likes it.",
     "raw_message": "No problem, Nate! Let me know if you like it!",
-    "reason": "The author is sharing something and asking for feedback or opinion from the user",
+    "reason": "The author is making a joke about not having any problems and inviting Nate to check out the new thing.",
     "timestamp": "7:31 pm on 21 January, 2022",
-    "topics": "Something to share or ask for opinions",
+    "topics": "something",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user excited to know Nate"
+      "User likes having exciting experiences",
+      "User is having an interesting day"
     ],
-    "emotions": "Positive or Mixed",
-    "fact": "The facts are unknown as no specific details about the events are shared",
+    "emotions": "Mixed",
+    "fact": "Recent experiences for the user",
     "index": 22,
-    "message": "[22]: The user shares that crazy things happened to them.",
+    "message": "[22]: The user shares a brief, unusual event that has happened recently.",
     "raw_message": "Hey Nate! Haven't talked in a few days. Crazy things happened to me!",
-    "reason": "The user seems to be experiencing something positive and want to share it with Nate, the tone is not fully understood",
+    "reason": "The recent experience seemed surreal.",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "Life events",
+    "topics": "unusual events",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "User is a screenwriter experienced in working on scripts for long periods",
-      "User feels relieved and triumphant with finishing the screenplay"
+      "user experiences relief after completing a big project"
     ],
     "emotions": "Positive",
-    "fact": "Finished first full screenplay",
+    "fact": "printed the screenplay last Friday",
     "index": 24,
-    "message": "[24]: The user finished their first full screenplay and printed it.",
+    "message": "[24]: The user finished writing and printed their first full screenplay.",
     "raw_message": "Woo! I finally finished my first full screenplay and printed it last Friday. I've been working on for a while, such a relief to have it all done! (image description: a photography of a book with a page of text on it)",
-    "reason": "The sense of accomplishment and relief after completing the screenplay",
+    "reason": " Relief after completing a long-term project",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "screenwriting",
+    "topics": "writing a screenplay",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user like mix drama and romance"
+      "user enjoy genres: drama and romnce"
     ],
-    "emotions": "Mixed towards TV show or movie genre: Neutral/Positive towards genres",
-    "fact": "",
+    "emotions": "Mixed",
+    "fact": "the message contain the genre tag: drama and romace",
     "index": 26,
-    "message": "[26]: The user is ambivalent towards a mixed genre of TV show or movie but has a neutral to positive attitude towards it.",
+    "message": "[26]: Nate recommends a mix of drama and romance!",
     "raw_message": "Thanks, Nate! It's a mix of drama and romance!",
-    "reason": "The user seems to enjoy TV shows/movies as a combination of genres.",
+    "reason": "The user mentions that it is both drama and romance.",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "TV show or movie genre",
+    "topics": "drama/romance",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user feel relieved because completed"
+      "user has strong emotions",
+      "User has submitted to film festival"
     ],
-    "emotions": "Positive, cautiously Optimistic",
-    "fact": "completed the project",
+    "emotions": "Mixed",
+    "fact": "finish film project",
     "index": 28,
-    "message": "[28]: The user is feeling a mix of emotions after completing their project, but feels positive about the prospect of submitting it and receiving feedback from others.",
+    "message": "[28]: The user is feeling a mix of emotions after finishing a movie project.",
     "raw_message": "Woohoo, Nate! I'm feeling a rollercoaster of emotions - relief, excitement, some anxiety - over finishing this project. Now I'm gonna submit it to some film festivals and (hopefully) get producers and directors to check it out. Here's hoping!",
-    "reason": "The excitement and relief of finishing the project outweighed any anxiety",
+    "reason": "The feelings of relief, excitement, anxiety all contribute the mixed emotions.",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "finishing a project",
+    "topics": "finishing a movie",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user is enthusiastic and optimistic, but also uncertain"
+      "user's emotional state: mixed"
     ],
-    "emotions": "Mixed: Emotion towards outcome",
-    "fact": "mixed emotions, Nate's feedback may bring positive consequences",
+    "emotions": "Mixed Emotions",
+    "fact": "positive feedback",
     "index": 30,
-    "message": "[30]: The user expresses a mix of emotions towards the outcome they are hoping for.",
+    "message": "[30]: The user is feeling mixed emotions but hopes for positive feedback and new opportunities.",
     "raw_message": "Thanks Nate! A mix of emotions for sure. Hopefully, it leads to positive feedback and new opportunities.",
-    "reason": "The user expresses uncertainty about the potential benefits of the experience.",
+    "reason": "A mix of emotions for sure.",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "Positive Feedback or New Opportunities",
+    "topics": "Positive Feedback",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user seem curious",
-      "user seems casual in tone"
+      "User ask about user's items"
     ],
-    "emotions": "inquiry or uncertain interest",
-    "fact": "the user wants to know when they get something",
+    "emotions": "Curious or Inquiring",
+    "fact": "Someone owns Items",
     "index": 32,
-    "message": "[32]: The user asks how long someone has something.",
+    "message": "[32]: The user asks how long you've had something.",
     "raw_message": "Awww! How long have you had them?",
-    "reason": "The person is inquisitive about how long they have had something?",
+    "reason": "Want to know how long someone has something",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "the item(s) someone has",
+    "topics": "Things",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user likes cute things"
+      "user shows affection"
     ],
     "emotions": "Positive",
-    "fact": "The user is commenting on an animal",
+    "fact": "see animal",
     "index": 34,
-    "message": "[34]: The user comments that the animal looks cute.",
+    "message": "[34]: The user seems to be admiring the subject.",
     "raw_message": "They sure lookl like they do! Adorable!",
-    "reason": "The user finds the animal cute and adorable.",
+    "reason": "The user is expressing admiration for the animals' appearance",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "Cute animals",
+    "topics": "Animals",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user is open to having pets",
-      "user\u2019s response is neutral"
+      "user consider responsible pet ownership"
     ],
-    "emotions": "Open-minded towards getting pets",
-    "fact": "Thinking about getting pets",
+    "emotions": "Positive",
+    "fact": "Thinking about getting pet",
     "index": 36,
-    "message": "[36]: The user is open-minded towards getting pets and might consider having one soon.",
+    "message": "[36]: The user is considering getting pets and wants to take the responsibility seriously.",
     "raw_message": "Good idea, Nate! I'll think about it and maybe get pets of my own soon if I can find any I'm not allergic to. Have you been up to anything recently?",
-    "reason": "Will think about it and potentially consider getting pets due to personal interest",
+    "reason": "Wanting to get pets due to good advice",
     "timestamp": "2:01 pm on 23 January, 2022",
     "topics": "getting pets",
     "user_id": "Joanna"
   },
   {
     "attribue": [
-      "user is neutral towards this topic"
+      "user interested in relationships"
     ],
-    "emotions": "Intrigued",
-    "fact": "Relationship with friends seems suspicious due to the competitive nature of their interaction.",
+    "emotions": "Mixed",
+    "fact": "The user uses rhetorical question to show interest in the situation",
     "index": 38,
-    "message": "[38]: The user asks if there's an unusual relationship between people with competing interests.",
+    "message": "[38]: The user expresses curiosity about the nature of a person's relationship.",
     "raw_message": "Oh? That sounds sweet! Is it a weird relationship with them being competitors and all?",
-    "reason": "She's asking about a strange friendship dynamic",
+    "reason": "The user is curious about the nature of the relationship but seems open to the idea.",
     "timestamp": "2:01 pm on 23 January, 2022",
-    "topics": "relationship between friends",
+    "topics": "relationships",
     "user_id": "Joanna"
   }
 ]

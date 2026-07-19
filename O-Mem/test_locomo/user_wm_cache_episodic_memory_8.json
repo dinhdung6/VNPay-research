@@ -2,29 +2,67 @@
     {
         "user_id": "Evan",
         "raw_message": "Hey Sam! Good to see you! Yeah, I just got back from a trip with my family in my new Prius.",
-        "message": "[1]: The user was happy to be reunited with Sam after returning from a vacation with his family in their new Prius.",
-        "topics": "family vacation",
+        "message": "[1]: The user returns home and shares their positive experience about getting back from a family trip in their new Prius with Sam.",
+        "topics": "Prius",
         "emotions": "Positive",
-        "reason": "Enjoy being with family.",
+        "reason": "The excitement about the new car and seeing Sam brings positivity.",
         "index": 1,
         "timestamp": "1:47 pm on 18 May, 2023",
-        "fact": "Just arrived back from a trip",
+        "fact": "got back from a trip ",
         "attribue": [
-            "Sam happy to see his friend"
+            "user like new car"
         ]
     },
     {
         "user_id": "Evan",
         "raw_message": "My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out. (image description: a photo of a lake with rocks and mountains in the background)",
-        "message": "[3]: The user's old Prius broke down, they decided to get it repaired and sell it.",
-        "topics": "selling a car",
+        "message": "[3]: The user's old car broke down and was repaired before being sold.",
+        "topics": "old car breaking down",
         "emotions": "Neutral/Mixed",
-        "reason": "To get it repaired and sell it for financial reasons",
+        "reason": "Had to get it repaired and sold it as we were not satisfied with it anymore",
         "index": 3,
         "timestamp": "1:47 pm on 18 May, 2023",
-        "fact": "My old prius broke down",
+        "fact": "Old Prius broke down, went to Rockies to check out",
         "attribue": [
-            "User has a job or needs financial stability"
+            "User had a car that broke down"
         ]
+    },
+    {
+        "user_id": "Evan",
+        "raw_message": "We all hiked the trails last week - the views were amazing!",
+        "message": "[5]: Group of people enjoyed hiking and appreciated the views.",
+        "topics": "hiking",
+        "emotions": "Positive",
+        "reason": "The views were amazing",
+        "index": 5,
+        "timestamp": "1:47 pm on 18 May, 2023",
+        "fact": "hiked the trail last week",
+        "attribue": []
+    },
+    {
+        "user_id": "Evan",
+        "raw_message": "Aww, that's cute. How far did you two hike?",
+        "message": "[7]: Aww, cute couple gets curious question from child.",
+        "topics": "child of couple",
+        "emotions": "Positive",
+        "reason": "The child is show emotion towards the relationship between a couple",
+        "index": 7,
+        "timestamp": "1:47 pm on 18 May, 2023",
+        "fact": "Child express curios about couple's activities like hiking",
+        "attribue": [
+            "child expresses affection towards adults"
+        ]
+    },
+    {
+        "user_id": "Evan",
+        "raw_message": "What other hobbies have you found for yourself?",
+        "message": "[9]: The user is searching for hobbies.",
+        "topics": "hobbies searching",
+        "emotions": "Positive",
+        "reason": "The user is looking to explore more interests.",
+        "index": 9,
+        "timestamp": "1:47 pm on 18 May, 2023",
+        "fact": "searching new hobby",
+        "attribue": []
     }
 ]
